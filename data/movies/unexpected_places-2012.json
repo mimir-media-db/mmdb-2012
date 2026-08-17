@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unexpected_places_2012",
+  "title": "Unexpected Places",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12130276",
+    "imdb": "tt2244886",
+    "tmdb": 279912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

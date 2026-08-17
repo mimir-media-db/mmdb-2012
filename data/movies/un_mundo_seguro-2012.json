@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_mundo_seguro_2012",
+  "title": "Un mundo seguro",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155599",
+    "imdb": "tt2158861",
+    "tmdb": 1092305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

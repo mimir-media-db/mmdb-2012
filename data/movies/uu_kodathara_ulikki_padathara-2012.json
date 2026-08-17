@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uu_kodathara_ulikki_padathara_2012",
+  "title": "Uu Kodathara? Ulikki Padathara?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7903521",
+    "imdb": "tt2401225",
+    "tmdb": 250649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
