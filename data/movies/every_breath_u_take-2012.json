@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_every_breath_u_take_2012",
+  "title": "Every Breath U Take",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5417446",
+    "imdb": "tt2349675",
+    "tmdb": 119054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

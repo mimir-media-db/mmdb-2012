@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_dia_que_cambio_la_historia_2012",
+  "title": "El día que cambió la historia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824805",
+    "imdb": "tt1871265",
+    "tmdb": 1096378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 108
+}

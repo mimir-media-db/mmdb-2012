@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_love_2012",
+  "title": "The End of Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7732098",
+    "imdb": "tt1827578",
+    "tmdb": 84191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

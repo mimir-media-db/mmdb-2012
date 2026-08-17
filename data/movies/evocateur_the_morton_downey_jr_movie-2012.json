@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evocateur_the_morton_downey_jr_movie_2012",
+  "title": "Évocateur: The Morton Downey Jr. Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8078545",
+    "imdb": "tt1822381",
+    "tmdb": 185444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

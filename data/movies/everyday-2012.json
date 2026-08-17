@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everyday_2012",
+  "title": "Everyday",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3456439",
+    "imdb": "tt1037223",
+    "tmdb": 127363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 106
+}

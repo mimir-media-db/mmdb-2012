@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eldorado_2012",
+  "title": "Eldorado",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5354086",
+    "imdb": "tt1514043",
+    "tmdb": 93030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

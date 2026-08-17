@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eye_of_the_hurricane_2012",
+  "title": "Eye of the Hurricane",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4504062",
+    "imdb": "tt1647665",
+    "tmdb": 149600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

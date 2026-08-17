@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_tibet_2012",
+  "title": "Escape from Tibet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3057864",
+    "imdb": "tt1793915",
+    "tmdb": 206223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

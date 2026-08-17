@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_mal_del_sauce_2012",
+  "title": "El mal del sauce",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5825626",
+    "imdb": "tt1757740",
+    "tmdb": 307659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

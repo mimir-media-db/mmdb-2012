@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_fuera_de_juego_2012",
+  "title": "En fuera de juego",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5832045",
+    "imdb": "tt1760958",
+    "tmdb": 109690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

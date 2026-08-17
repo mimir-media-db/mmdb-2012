@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eastalgia_2012",
+  "title": "Eastalgia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4204308",
+    "imdb": "tt2152829",
+    "tmdb": 284014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

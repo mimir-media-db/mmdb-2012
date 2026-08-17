@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elfman_2012",
+  "title": "Elf-Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5359847",
+    "imdb": "tt2281215",
+    "tmdb": 143569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

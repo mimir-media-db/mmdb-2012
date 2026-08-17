@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_santos_vs_la_tetona_mendoza_2012",
+  "title": "El Santos vs. La Tetona Mendoza",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5352120",
+    "imdb": "tt2243275",
+    "tmdb": 192591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
