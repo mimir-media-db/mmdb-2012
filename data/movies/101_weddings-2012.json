@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_101_weddings_2012",
+  "title": "101 Weddings",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4546338",
+    "imdb": "tt2545176",
+    "tmdb": 181256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-23"
+}

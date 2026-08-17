@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_dogs_of_christmas_great_puppy_rescue_2012",
+  "title": "12 Dogs of Christmas: Great Puppy Rescue",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124426446",
+    "imdb": "tt2325491",
+    "tmdb": 135675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 102
+}

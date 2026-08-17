@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_17_girls_2012",
+  "title": "17 Girls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q200091",
+    "imdb": "tt1860152",
+    "tmdb": 87368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-14",
+  "runtime_minutes": 87
+}

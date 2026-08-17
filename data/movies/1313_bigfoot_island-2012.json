@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1313_bigfoot_island_2012",
+  "title": "1313: Bigfoot Island",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18086300",
+    "imdb": "tt2083123",
+    "tmdb": 91319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 76
+}

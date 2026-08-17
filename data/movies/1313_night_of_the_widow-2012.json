@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1313_night_of_the_widow_2012",
+  "title": "1313: Night of the Widow",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20000928",
+    "imdb": "tt2271135",
+    "tmdb": 120772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-01"
+}
