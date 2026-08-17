@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iyanla_fix_my_life",
+  "title": "Iyanla: Fix My Life",
+  "start_year": 2012,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q6101246",
+    "imdb": "tt2346273",
+    "tmdb": 57161
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 56
+}

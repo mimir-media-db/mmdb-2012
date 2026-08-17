@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_do_i_do",
+  "title": "I Do, I Do",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492323",
+    "imdb": "tt2492484",
+    "tmdb": 45073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_restauratore",
+  "title": "Il restauratore",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3795519",
+    "imdb": "tt1719840",
+    "tmdb": 101785
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

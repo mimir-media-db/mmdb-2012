@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_infames",
+  "title": "Infames",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q257941",
+    "imdb": "tt2224448",
+    "tmdb": 89707
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 130
+}

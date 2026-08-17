@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_isabel",
+  "title": "Isabel",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2715144",
+    "imdb": "tt2011533",
+    "tmdb": 42276
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

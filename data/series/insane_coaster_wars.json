@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_insane_coaster_wars",
+  "title": "Insane Coaster Wars",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6037063",
+    "imdb": "tt2373465",
+    "tmdb": 53195
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ibilib",
+  "title": "iBilib",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5968535",
+    "imdb": "tt3283882"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 306
+}
