@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulgaria_2012",
+  "title": "Vulgaria",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4016634",
+    "imdb": "tt2266938",
+    "tmdb": 123797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

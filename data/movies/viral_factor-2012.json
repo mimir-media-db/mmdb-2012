@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viral_factor_2012",
+  "title": "The Viral Factor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q931239",
+    "imdb": "tt2063011",
+    "tmdb": 83706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 122
+}
