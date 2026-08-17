@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fashion",
+  "title": "Fashion!",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3067061",
+    "imdb": "tt2456208",
+    "tmdb": 211768
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

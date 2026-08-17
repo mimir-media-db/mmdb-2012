@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_five_fingers",
+  "title": "Five Fingers",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1030361",
+    "imdb": "tt2242048",
+    "tmdb": 44804
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

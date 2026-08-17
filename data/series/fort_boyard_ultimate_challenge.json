@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fort_boyard_ultimate_challenge",
+  "title": "Fort Boyard: Ultimate Challenge",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5470839",
+    "imdb": "tt2329533",
+    "tmdb": 41856
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

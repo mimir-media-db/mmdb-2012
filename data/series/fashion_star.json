@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fashion_star",
+  "title": "Fashion Star",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2756655",
+    "imdb": "tt1883661",
+    "tmdb": 40685
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

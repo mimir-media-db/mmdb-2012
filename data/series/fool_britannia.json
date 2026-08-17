@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fool_britannia",
+  "title": "Fool Britannia",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5465606",
+    "imdb": "tt2359788",
+    "tmdb": 44112
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

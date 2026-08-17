@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fearless_heart",
+  "title": "Fearless Heart",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q280923",
+    "imdb": "tt2227061",
+    "tmdb": 33987
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 206
+}

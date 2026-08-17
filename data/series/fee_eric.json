@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fee_eric",
+  "title": "Fée Éric",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3092260",
+    "imdb": "tt5377390",
+    "tmdb": 298397
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 67
+}

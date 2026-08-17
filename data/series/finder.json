@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_finder",
+  "title": "The Finder",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1198068",
+    "imdb": "tt1943524",
+    "tmdb": 39360
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

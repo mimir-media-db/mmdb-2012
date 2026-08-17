@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fast_n_loud",
+  "title": "Fast N' Loud",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q5436973",
+    "imdb": "tt2346169",
+    "tmdb": 46874
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 81
+}
