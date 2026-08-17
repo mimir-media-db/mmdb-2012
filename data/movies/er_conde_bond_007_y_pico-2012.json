@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_er_conde_bond_007_y_pico_2012",
+  "title": "Er Conde Bond 007 y Pico",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5835167",
+    "imdb": "tt2604350",
+    "tmdb": 483595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-17",
+  "runtime_minutes": 90
+}

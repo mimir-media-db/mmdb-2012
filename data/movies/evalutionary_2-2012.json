@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evalutionary_2_2012",
+  "title": "Evalutionary 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139762203",
+    "imdb": "tt2278945",
+    "tmdb": 562645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-06",
+  "runtime_minutes": 165
+}

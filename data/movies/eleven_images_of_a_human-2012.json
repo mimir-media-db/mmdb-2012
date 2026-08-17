@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eleven_images_of_a_human_2012",
+  "title": "Eleven Images of a Human",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107623382",
+    "imdb": "tt1712537",
+    "tmdb": 1216528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

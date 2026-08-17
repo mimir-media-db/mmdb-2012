@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_esimesac_2012",
+  "title": "Ésimésac",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16685820",
+    "imdb": "tt2458582",
+    "tmdb": 177081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-10"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_emile_de_1_a_5_2012",
+  "title": "Emile de 1 à 5",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872561"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 5
+}

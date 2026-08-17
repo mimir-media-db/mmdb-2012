@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_emiti_bi_prema_hue_2012",
+  "title": "Emiti Bi Prema Hue",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15723755",
+    "imdb": "tt2241155"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

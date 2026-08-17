@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eight_ranger_2012",
+  "title": "Eight Ranger",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5349008",
+    "imdb": "tt2292965",
+    "tmdb": 305724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-28"
+}

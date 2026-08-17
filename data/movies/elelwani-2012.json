@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elelwani_2012",
+  "title": "Elelwani",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18208134",
+    "imdb": "tt2204644",
+    "tmdb": 160311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-19",
+  "runtime_minutes": 103
+}

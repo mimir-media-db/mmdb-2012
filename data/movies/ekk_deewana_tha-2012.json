@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ekk_deewana_tha_2012",
+  "title": "Ekk Deewana Tha",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q285118",
+    "imdb": "tt2126282",
+    "tmdb": 91310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 136
+}

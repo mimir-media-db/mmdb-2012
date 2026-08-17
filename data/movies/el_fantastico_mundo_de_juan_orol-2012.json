@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_fantastico_mundo_de_juan_orol_2012",
+  "title": "El fantástico mundo de Juan Orol",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28503495",
+    "imdb": "tt2122443",
+    "tmdb": 208355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

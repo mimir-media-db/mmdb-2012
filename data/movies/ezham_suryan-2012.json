@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ezham_suryan_2012",
+  "title": "Ezham Suryan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5423265",
+    "imdb": "tt34928780",
+    "tmdb": 214204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-25"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_escort_2012",
+  "title": "Escort",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16634989",
+    "imdb": "tt2241978"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

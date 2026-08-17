@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exchange_2012",
+  "title": "The Exchange",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7732751",
+    "imdb": "tt1441368",
+    "tmdb": 99393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-30",
+  "runtime_minutes": 94
+}
