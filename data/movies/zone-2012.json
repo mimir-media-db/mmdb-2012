@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zone_2012",
+  "title": "Zone",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112194785",
+    "imdb": "tt2627842",
+    "tmdb": 417012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-29",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zigzag_kid_2012",
+  "title": "The Zigzag Kid",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2347813",
+    "imdb": "tt1441083",
+    "tmdb": 128142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-03",
+  "runtime_minutes": 95
+}
