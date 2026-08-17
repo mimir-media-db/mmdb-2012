@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_13",
+  "title": "Hotel 13",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q71897",
+    "imdb": "tt2369684",
+    "tmdb": 49948
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 176
+}

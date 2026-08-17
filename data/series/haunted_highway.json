@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_highway",
+  "title": "Haunted Highway",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5682653",
+    "imdb": "tt2210264",
+    "tmdb": 44674
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

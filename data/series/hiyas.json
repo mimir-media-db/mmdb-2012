@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hiyas",
+  "title": "Hiyas",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5872921",
+    "imdb": "tt2169608",
+    "tmdb": 37695
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

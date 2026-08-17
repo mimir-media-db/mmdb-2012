@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_helsingin_herra",
+  "title": "Helsingin herra",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q11862140",
+    "imdb": "tt2105419",
+    "tmdb": 57419
+  },
+  "last_updated": "2026-08-17"
+}

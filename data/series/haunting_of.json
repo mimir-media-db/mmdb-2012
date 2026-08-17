@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haunting_of",
+  "title": "The Haunting Of",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15036148",
+    "imdb": "tt2458684",
+    "tmdb": 62900
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 67
+}

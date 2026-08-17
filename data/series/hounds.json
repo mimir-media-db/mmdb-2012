@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hounds",
+  "title": "Hounds",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q17051522",
+    "imdb": "tt2401127",
+    "tmdb": 55052
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

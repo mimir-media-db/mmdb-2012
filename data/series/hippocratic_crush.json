@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hippocratic_crush",
+  "title": "The Hippocratic Crush",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7739734",
+    "imdb": "tt9877814",
+    "tmdb": 39608
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

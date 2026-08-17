@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hunderby",
+  "title": "Hunderby",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3699055",
+    "imdb": "tt2375858",
+    "tmdb": 47806
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

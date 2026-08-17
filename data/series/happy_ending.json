@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_ending",
+  "title": "Happy Ending",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q10850890",
+    "imdb": "tt7095052",
+    "tmdb": 98104
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heiter_bis_todlich_hauptstadtrevier",
+  "title": "Heiter bis tödlich - Hauptstadtrevier",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15814987",
+    "imdb": "tt2442308",
+    "tmdb": 55602
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

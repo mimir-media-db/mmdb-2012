@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hestons_fantastical_food",
+  "title": "Heston's Fantastical Food",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5746517",
+    "imdb": "tt2525622",
+    "tmdb": 59301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

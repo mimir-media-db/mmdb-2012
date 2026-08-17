@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ha_ha_hairies",
+  "title": "Ha Ha Hairies",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2031857",
+    "imdb": "tt2084357"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

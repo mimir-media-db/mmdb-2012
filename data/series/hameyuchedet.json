@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hameyuchedet",
+  "title": "HaMeyuchedet",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q12406713",
+    "imdb": "tt2896724",
+    "tmdb": 52001
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
