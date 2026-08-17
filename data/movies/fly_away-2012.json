@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_away_2012",
+  "title": "Fly Away",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q865992",
+    "imdb": "tt1907628",
+    "tmdb": 130233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

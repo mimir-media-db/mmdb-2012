@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friday_2012",
+  "title": "Friday",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5503477",
+    "imdb": "tt2344824",
+    "tmdb": 132622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 117
+}

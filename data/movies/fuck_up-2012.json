@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuck_up_2012",
+  "title": "Fuck Up",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11970471",
+    "imdb": "tt2201063",
+    "tmdb": 85711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

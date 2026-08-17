@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flat_for_three_2012",
+  "title": "A Flat for Three",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q924227",
+    "imdb": "tt1846985",
+    "tmdb": 93855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 119
+}

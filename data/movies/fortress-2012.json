@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fortress_2012",
+  "title": "Fortress",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2876662",
+    "imdb": "tt1558575",
+    "tmdb": 79935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

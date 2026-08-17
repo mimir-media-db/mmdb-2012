@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatso_2012",
+  "title": "Fatso!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5437957",
+    "imdb": "tt1286766",
+    "tmdb": 112318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

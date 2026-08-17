@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_face2face_2012",
+  "title": "Face2Face",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q217225",
+    "imdb": "tt2562286",
+    "tmdb": 194118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

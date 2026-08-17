@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fujimi_orchestra_2012",
+  "title": "Fujimi Orchestra",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2699416",
+    "imdb": "tt2132332",
+    "tmdb": 256812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

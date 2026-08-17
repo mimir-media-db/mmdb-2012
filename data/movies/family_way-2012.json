@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_way_2012",
+  "title": "Family Way",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2103467",
+    "imdb": "tt2226285",
+    "tmdb": 144595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 132
+}

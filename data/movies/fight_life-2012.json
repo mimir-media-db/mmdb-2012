@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_life_2012",
+  "title": "Fight Life",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5447747",
+    "imdb": "tt1461391",
+    "tmdb": 268182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
