@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tibetan_dog_2012",
+  "title": "The Tibetan Dog",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3007729",
+    "imdb": "tt2411128",
+    "tmdb": 80079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-07",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tropical_manila_2012",
+  "title": "Tropical Manila",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445520",
+    "imdb": "tt1299551",
+    "tmdb": 134014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_my_land_hebron_2012",
+  "title": "This is my Land... Hebron",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118189015",
+    "imdb": "tt1887919",
+    "tmdb": 871714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_how_i_roll_2012",
+  "title": "This Is How I Roll",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24463310",
+    "imdb": "tt2091996"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_california_2012",
+  "title": "This Ain’t California",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2421448",
+    "imdb": "tt2113090",
+    "tmdb": 91030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-16",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_means_war_2012",
+  "title": "This Means War",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1049480",
+    "imdb": "tt1596350",
+    "tmdb": 59962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-14",
+  "runtime_minutes": 97
+}

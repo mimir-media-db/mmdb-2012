@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_talking_architect_2012",
+  "title": "Talking Architect",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16875820",
+    "imdb": "tt2087872",
+    "tmdb": 133240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-08"
+}

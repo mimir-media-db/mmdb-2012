@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_love_2012",
+  "title": "True Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15681683",
+    "imdb": "tt1927172",
+    "tmdb": 187263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 102
+}

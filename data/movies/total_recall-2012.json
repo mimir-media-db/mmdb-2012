@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_total_recall_2012",
+  "title": "Total Recall",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q634810",
+    "imdb": "tt1386703",
+    "tmdb": 64635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-03",
+  "runtime_minutes": 118
+}

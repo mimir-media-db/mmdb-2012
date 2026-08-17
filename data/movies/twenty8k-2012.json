@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twenty8k_2012",
+  "title": "Twenty8k",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7857770",
+    "imdb": "tt1833885",
+    "tmdb": 130975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-10",
+  "runtime_minutes": 106
+}

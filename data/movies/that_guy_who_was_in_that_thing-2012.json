@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_that_guy_who_was_in_that_thing_2012",
+  "title": "That Guy... Who Was in That Thing",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7711198",
+    "imdb": "tt2402200",
+    "tmdb": 140873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11"
+}

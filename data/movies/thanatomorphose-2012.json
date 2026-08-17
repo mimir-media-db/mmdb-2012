@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thanatomorphose_2012",
+  "title": "Thanatomorphose",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17147163",
+    "imdb": "tt2385074",
+    "tmdb": 144204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

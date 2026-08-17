@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_totalmente_inocentes_2012",
+  "title": "Totalmente Inocentes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10383844",
+    "imdb": "tt2066141",
+    "tmdb": 129707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 90
+}

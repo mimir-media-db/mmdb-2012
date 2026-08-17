@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turin_horse_2012",
+  "title": "The Turin Horse",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1336326",
+    "imdb": "tt1316540",
+    "tmdb": 81401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 146
+}

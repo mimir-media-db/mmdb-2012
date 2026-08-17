@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tall_girls_2012",
+  "title": "Tall Girls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89279274",
+    "imdb": "tt2279301",
+    "tmdb": 312857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-22"
+}

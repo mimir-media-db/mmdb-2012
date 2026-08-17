@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_kill_a_beaver_2012",
+  "title": "To Kill a Beaver",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14759230",
+    "imdb": "tt2084997",
+    "tmdb": 177828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-03",
+  "runtime_minutes": 98
+}

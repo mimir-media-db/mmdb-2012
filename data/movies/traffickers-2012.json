@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_traffickers_2012",
+  "title": "The Traffickers",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492025",
+    "imdb": "tt2308860",
+    "tmdb": 133603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-30",
+  "runtime_minutes": 111
+}

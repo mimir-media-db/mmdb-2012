@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tears_in_the_antarctic_2012",
+  "title": "TEARS IN THE ANTARCTIC",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739543",
+    "imdb": "tt7566244",
+    "tmdb": 262189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-08"
+}

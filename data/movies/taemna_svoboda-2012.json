@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taemna_svoboda_2012",
+  "title": "Taemna svoboda",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574090",
+    "imdb": "tt10217266",
+    "tmdb": 914167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-19"
+}

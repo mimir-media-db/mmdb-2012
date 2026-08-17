@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tutiya_dil_2012",
+  "title": "Tutiya Dil",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114705416",
+    "imdb": "tt2224541"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

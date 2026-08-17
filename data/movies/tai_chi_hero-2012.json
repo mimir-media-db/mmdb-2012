@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tai_chi_hero_2012",
+  "title": "Tai Chi Hero",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7675744",
+    "imdb": "tt2296404",
+    "tmdb": 149085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25",
+  "runtime_minutes": 100
+}

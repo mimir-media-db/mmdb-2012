@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_toutes_les_nuits_2012",
+  "title": "Toutes les nuits",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074396",
+    "imdb": "tt2185400"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

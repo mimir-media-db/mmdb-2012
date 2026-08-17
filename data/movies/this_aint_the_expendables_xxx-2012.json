@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_the_expendables_xxx_2012",
+  "title": "This Ain't the Expendables XXX",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15850704",
+    "imdb": "tt2584880",
+    "tmdb": 206907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

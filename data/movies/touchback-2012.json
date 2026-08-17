@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touchback_2012",
+  "title": "Touchback",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7828673",
+    "imdb": "tt1628055",
+    "tmdb": 75074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-13",
+  "runtime_minutes": 120
+}

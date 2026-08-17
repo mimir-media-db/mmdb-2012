@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talenttyven_2012",
+  "title": "Talenttyven",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494688",
+    "imdb": "tt2262189",
+    "tmdb": 168386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 90
+}

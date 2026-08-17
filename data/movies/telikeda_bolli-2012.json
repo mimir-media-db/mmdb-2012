@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_telikeda_bolli_2012",
+  "title": "Telikeda Bolli",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18388483"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

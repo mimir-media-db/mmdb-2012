@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taped_2012",
+  "title": "Taped",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1960477",
+    "imdb": "tt1735900",
+    "tmdb": 87548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-23",
+  "runtime_minutes": 81
+}

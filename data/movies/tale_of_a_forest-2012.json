@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_a_forest_2012",
+  "title": "Tale of a Forest",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11882314",
+    "imdb": "tt2066922",
+    "tmdb": 159203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-28",
+  "runtime_minutes": 75
+}

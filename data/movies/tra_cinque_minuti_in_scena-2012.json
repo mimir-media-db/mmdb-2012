@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tra_cinque_minuti_in_scena_2012",
+  "title": "Tra cinque minuti in scena",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479288",
+    "imdb": "tt2243242",
+    "tmdb": 435986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

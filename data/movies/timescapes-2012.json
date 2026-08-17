@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_timescapes_2012",
+  "title": "TimeScapes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118760597",
+    "imdb": "tt2297031",
+    "tmdb": 112162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-17"
+}
