@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_devils_ride",
+  "title": "The Devils Ride",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16991745",
+    "imdb": "tt2390003",
+    "tmdb": 72419
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

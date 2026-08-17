@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doomsday_preppers",
+  "title": "Doomsday Preppers",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4988506",
+    "imdb": "tt2069270",
+    "tmdb": 45757
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 54
+}

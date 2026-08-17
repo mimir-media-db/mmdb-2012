@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_daddy_good_deeds",
+  "title": "Daddy Good Deeds",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5208016",
+    "tmdb": 43326
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

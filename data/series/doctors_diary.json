@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doctors_diary",
+  "title": "Doctor's Diary",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q23900019",
+    "imdb": "tt3334214",
+    "tmdb": 139146
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 48
+}

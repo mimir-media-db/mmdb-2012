@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_danger_5",
+  "title": "Danger 5",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5215988",
+    "imdb": "tt1807165",
+    "tmdb": 43199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_garmischcops",
+  "title": "Die Garmisch-Cops",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16318863",
+    "imdb": "tt2198974",
+    "tmdb": 55515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

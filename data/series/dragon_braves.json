@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dragon_braves",
+  "title": "Dragon Braves",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11235997",
+    "tmdb": 122183
+  },
+  "last_updated": "2026-08-17"
+}

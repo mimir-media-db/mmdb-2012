@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dangerous_flights",
+  "title": "Dangerous Flights",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15637946",
+    "imdb": "tt2348928",
+    "tmdb": 64171
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_drama_go_go_go",
+  "title": "Drama Go Go Go",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5305734",
+    "imdb": "tt5327870",
+    "tmdb": 80890
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

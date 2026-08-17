@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_do_not_worry_for_me",
+  "title": "Do not worry for me",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15299082",
+    "imdb": "tt6407102",
+    "tmdb": 78068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 55
+}

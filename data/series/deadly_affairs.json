@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_deadly_affairs",
+  "title": "Deadly Affairs",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15036065",
+    "imdb": "tt2509804",
+    "tmdb": 47044
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

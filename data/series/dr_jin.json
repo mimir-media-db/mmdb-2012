@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_jin",
+  "title": "Dr. Jin",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q491634",
+    "imdb": "tt2426396",
+    "tmdb": 45940
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

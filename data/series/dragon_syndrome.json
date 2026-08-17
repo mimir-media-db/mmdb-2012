@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dragon_syndrome",
+  "title": "The Dragon Syndrome",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4420143",
+    "imdb": "tt4008272",
+    "tmdb": 65483
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dara_o_briains_science_club",
+  "title": "Dara Ó Briain's Science Club",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5222002",
+    "imdb": "tt2510712",
+    "tmdb": 59763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

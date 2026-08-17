@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dauinger",
+  "title": "Dauinger",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q31079973",
+    "imdb": "tt2099872",
+    "tmdb": 304283
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

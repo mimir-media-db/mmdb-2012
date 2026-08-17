@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_destino_sao_paulo",
+  "title": "Destino: São Paulo",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16960093",
+    "imdb": "tt2568724",
+    "tmdb": 58631
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

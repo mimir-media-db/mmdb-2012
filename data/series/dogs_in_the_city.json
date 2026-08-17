@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dogs_in_the_city",
+  "title": "Dogs in the City",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5288450"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}
