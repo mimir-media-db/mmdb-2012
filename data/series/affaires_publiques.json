@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_affaires_publiques",
+  "title": "Affaires publiques",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65323190"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_klara",
+  "title": "Alles Klara",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1601374",
+    "imdb": "tt2327933",
+    "tmdb": 55363
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}

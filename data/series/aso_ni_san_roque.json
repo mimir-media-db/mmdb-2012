@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_aso_ni_san_roque",
+  "title": "Aso ni San Roque",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4807475",
+    "imdb": "tt2946528",
+    "tmdb": 222468
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

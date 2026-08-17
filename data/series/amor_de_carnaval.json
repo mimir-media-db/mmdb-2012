@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_de_carnaval",
+  "title": "Amor de Carnaval",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5673012",
+    "imdb": "tt2513314",
+    "tmdb": 106849
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

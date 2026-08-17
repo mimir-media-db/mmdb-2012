@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_are_you_there_chelsea",
+  "title": "Are You There, Chelsea?",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q977043",
+    "imdb": "tt1826989",
+    "tmdb": 42067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

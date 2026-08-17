@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_acayip_hikayeler",
+  "title": "Acayip Hikayeler",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6102583",
+    "imdb": "tt2239964",
+    "tmdb": 43577
+  },
+  "last_updated": "2026-08-17"
+}

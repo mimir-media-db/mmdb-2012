@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amores_verdaderos",
+  "title": "Amores verdaderos",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1442325",
+    "imdb": "tt2320524",
+    "tmdb": 46901
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 181
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_aklassen",
+  "title": "A-klassen",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12300011",
+    "imdb": "tt2328935",
+    "tmdb": 72859
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

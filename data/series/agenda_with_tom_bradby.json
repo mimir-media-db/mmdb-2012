@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_agenda_with_tom_bradby",
+  "title": "The Agenda with Tom Bradby",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7712888",
+    "imdb": "tt2153640",
+    "tmdb": 44574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_abbys_ultimate_dance_competition",
+  "title": "Abby's Ultimate Dance Competition",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4664435",
+    "imdb": "tt2322264",
+    "tmdb": 95841
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

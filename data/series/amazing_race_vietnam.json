@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_race_vietnam",
+  "title": "The Amazing Race Vietnam",
+  "start_year": 2012,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17061546",
+    "imdb": "tt2387914",
+    "tmdb": 196901
+  },
+  "last_updated": "2026-08-17"
+}
