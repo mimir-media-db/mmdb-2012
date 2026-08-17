@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_empire",
+  "title": "Empire",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5374009",
+    "imdb": "tt1996620",
+    "tmdb": 61010
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

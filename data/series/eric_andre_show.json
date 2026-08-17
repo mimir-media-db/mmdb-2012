@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eric_andre_show",
+  "title": "The Eric Andre Show",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7732373",
+    "imdb": "tt2244495",
+    "tmdb": 56590
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

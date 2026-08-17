@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_late",
+  "title": "El late",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5825521",
+    "imdb": "tt2498788"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eternal_law",
+  "title": "Eternal Law",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5402655",
+    "imdb": "tt1837855",
+    "tmdb": 43198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

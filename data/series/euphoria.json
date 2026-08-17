@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_euphoria",
+  "title": "Euphoria",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12403564",
+    "imdb": "tt2896496",
+    "tmdb": 90417
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
