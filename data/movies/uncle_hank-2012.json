@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_hank_2012",
+  "title": "Uncle Hank",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1899446",
+    "imdb": "tt2083286",
+    "tmdb": 142928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-07",
+  "runtime_minutes": 92
+}

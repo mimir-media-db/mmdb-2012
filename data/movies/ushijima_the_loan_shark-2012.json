@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ushijima_the_loan_shark_2012",
+  "title": "Ushijima the Loan Shark",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17224792",
+    "imdb": "tt2013299",
+    "tmdb": 293202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 131
+}

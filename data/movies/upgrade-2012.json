@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_upgrade_2012",
+  "title": "Upgrade",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549863",
+    "imdb": "tt1521090",
+    "tmdb": 49850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-24",
+  "runtime_minutes": 105
+}

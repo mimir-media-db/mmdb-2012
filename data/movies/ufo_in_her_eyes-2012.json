@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ufo_in_her_eyes_2012",
+  "title": "UFO in Her Eyes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4001911",
+    "imdb": "tt1632728",
+    "tmdb": 101958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-26",
+  "runtime_minutes": 110
+}
