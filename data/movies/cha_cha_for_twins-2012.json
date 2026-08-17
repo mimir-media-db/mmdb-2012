@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cha_cha_for_twins_2012",
+  "title": "Cha Cha for Twins",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3183380",
+    "imdb": "tt1534000",
+    "tmdb": 137392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

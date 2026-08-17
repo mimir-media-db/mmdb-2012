@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_eyes_2012",
+  "title": "Crazy Eyes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5183151",
+    "imdb": "tt1663631",
+    "tmdb": 93091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

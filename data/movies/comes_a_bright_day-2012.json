@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comes_a_bright_day_2012",
+  "title": "Comes a Bright Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5151551",
+    "imdb": "tt1900854",
+    "tmdb": 116723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

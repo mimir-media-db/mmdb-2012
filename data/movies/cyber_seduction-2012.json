@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cyber_seduction_2012",
+  "title": "Cyber Seduction",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3013515",
+    "imdb": "tt1887712",
+    "tmdb": 140853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

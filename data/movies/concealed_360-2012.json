@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_concealed_360_2012",
+  "title": "Concealed 360",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5158277",
+    "imdb": "tt18966866"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

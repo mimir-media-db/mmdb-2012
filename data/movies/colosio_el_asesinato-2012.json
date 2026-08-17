@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colosio_el_asesinato_2012",
+  "title": "Colosio: El asesinato",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5778001",
+    "imdb": "tt2398143",
+    "tmdb": 151708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 102
+}

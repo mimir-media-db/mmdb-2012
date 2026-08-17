@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comedown_2012",
+  "title": "Comedown",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q390759",
+    "imdb": "tt1376168",
+    "tmdb": 121597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

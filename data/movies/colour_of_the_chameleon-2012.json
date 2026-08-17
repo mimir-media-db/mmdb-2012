@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colour_of_the_chameleon_2012",
+  "title": "The Colour of the Chameleon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12298819",
+    "imdb": "tt2311822",
+    "tmdb": 127881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

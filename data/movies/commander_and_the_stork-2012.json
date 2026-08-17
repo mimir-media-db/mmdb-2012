@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_commander_and_the_stork_2012",
+  "title": "The Commander and the Stork",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3793524",
+    "imdb": "tt1904929",
+    "tmdb": 139504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 108
+}

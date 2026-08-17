@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cocktail_2012",
+  "title": "Cocktail",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3627717",
+    "imdb": "tt2168910",
+    "tmdb": 118051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 146
+}

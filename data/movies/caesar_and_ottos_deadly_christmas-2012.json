@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caesar_and_ottos_deadly_christmas_2012",
+  "title": "Caesar and Otto's Deadly Christmas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5017014",
+    "imdb": "tt1681372",
+    "tmdb": 130942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

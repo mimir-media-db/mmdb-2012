@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cronaca_di_un_assurdo_normale_2012",
+  "title": "Cronaca di un assurdo normale",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3698428",
+    "imdb": "tt2930718",
+    "tmdb": 616091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

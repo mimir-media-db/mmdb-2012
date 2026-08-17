@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_company_2012",
+  "title": "Cinema Company",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5120712",
+    "imdb": "tt2507728",
+    "tmdb": 137701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

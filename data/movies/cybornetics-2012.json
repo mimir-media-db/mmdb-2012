@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cybornetics_2012",
+  "title": "Cybornetics",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5197898",
+    "imdb": "tt1974241",
+    "tmdb": 288809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

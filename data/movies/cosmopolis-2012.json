@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cosmopolis_2012",
+  "title": "Cosmopolis",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q737055",
+    "imdb": "tt1480656",
+    "tmdb": 49014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 109
+}

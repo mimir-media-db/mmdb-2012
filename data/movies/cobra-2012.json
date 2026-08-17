@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cobra_2012",
+  "title": "Cobra",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5138961",
+    "imdb": "tt2181865",
+    "tmdb": 137404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

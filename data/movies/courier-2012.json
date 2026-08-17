@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_courier_2012",
+  "title": "The Courier",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2855864",
+    "imdb": "tt0995845",
+    "tmdb": 97512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

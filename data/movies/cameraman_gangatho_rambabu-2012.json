@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cameraman_gangatho_rambabu_2012",
+  "title": "Cameraman Gangatho Rambabu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5026025",
+    "imdb": "tt2327239",
+    "tmdb": 138667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_char_the_nomans_island_2012",
+  "title": "Char... The No-Man's Island",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5073591",
+    "imdb": "tt2355478",
+    "tmdb": 171965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

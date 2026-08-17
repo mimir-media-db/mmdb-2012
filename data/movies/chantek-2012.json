@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chantek_2012",
+  "title": "Chantek",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12684990",
+    "imdb": "tt2203761",
+    "tmdb": 93004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
