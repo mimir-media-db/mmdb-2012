@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dbelle_epoque_2012",
+  "title": "D'Belle Epoque",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13102241",
+    "imdb": "tt2319815",
+    "tmdb": 1072458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

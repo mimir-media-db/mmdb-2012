@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dinner_party_2012",
+  "title": "Dinner Party",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15916214",
+    "imdb": "tt2248789",
+    "tmdb": 119625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

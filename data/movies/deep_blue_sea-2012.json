@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_blue_sea_2012",
+  "title": "The Deep Blue Sea",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1635863",
+    "imdb": "tt1700844",
+    "tmdb": 51994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 98
+}

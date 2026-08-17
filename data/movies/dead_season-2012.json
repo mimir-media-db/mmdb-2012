@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_season_2012",
+  "title": "Dead Season",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082169",
+    "imdb": "tt1650042",
+    "tmdb": 114789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

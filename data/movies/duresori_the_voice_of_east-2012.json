@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_duresori_the_voice_of_east_2012",
+  "title": "DURESORI : The Voice of East",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20945627",
+    "imdb": "tt1866143",
+    "tmdb": 260249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-10"
+}

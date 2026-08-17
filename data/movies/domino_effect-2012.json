@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domino_effect_2012",
+  "title": "The Domino Effect",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4489023",
+    "imdb": "tt1418380",
+    "tmdb": 139166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-01",
+  "runtime_minutes": 100
+}

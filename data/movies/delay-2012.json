@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delay_2012",
+  "title": "The Delay",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7729646",
+    "imdb": "tt1666318",
+    "tmdb": 133491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-10",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_tourist_2012",
+  "title": "Dark Tourist",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17513091",
+    "imdb": "tt1719068",
+    "tmdb": 204882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

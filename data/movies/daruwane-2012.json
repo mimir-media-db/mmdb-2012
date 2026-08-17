@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daruwane_2012",
+  "title": "Daruwane",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830533",
+    "imdb": "tt7875608",
+    "tmdb": 704593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-26"
+}

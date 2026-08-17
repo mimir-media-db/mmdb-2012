@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_falcon_2012",
+  "title": "Day of the Falcon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2054155",
+    "imdb": "tt1701210",
+    "tmdb": 77221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-09",
+  "runtime_minutes": 130
+}

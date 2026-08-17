@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_music_now_2012",
+  "title": "Dance Music Now",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10466508",
+    "imdb": "tt2138054",
+    "tmdb": 656541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-28"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_du_contrat_social_2012",
+  "title": "Du contrat social",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872521"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 7
+}

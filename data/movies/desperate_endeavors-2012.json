@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desperate_endeavors_2012",
+  "title": "Desperate Endeavors",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5264933",
+    "imdb": "tt1756474",
+    "tmdb": 132387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07"
+}

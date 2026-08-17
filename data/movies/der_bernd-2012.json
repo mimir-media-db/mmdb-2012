@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_bernd_2012",
+  "title": "Der Bernd",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2674919",
+    "imdb": "tt2286908",
+    "tmdb": 448143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-04",
+  "runtime_minutes": 90
+}

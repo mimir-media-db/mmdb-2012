@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_by_china_2012",
+  "title": "Death by China",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536820",
+    "imdb": "tt2304583",
+    "tmdb": 127929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_groeten_van_mike_2012",
+  "title": "De groeten van Mike!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2096409",
+    "imdb": "tt2403851",
+    "tmdb": 149099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-12",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_defiant_requiem_2012",
+  "title": "Defiant Requiem",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896744",
+    "imdb": "tt2401005",
+    "tmdb": 119736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dictator_2012",
+  "title": "The Dictator",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q464964",
+    "imdb": "tt1645170",
+    "tmdb": 76493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-16",
+  "runtime_minutes": 83
+}

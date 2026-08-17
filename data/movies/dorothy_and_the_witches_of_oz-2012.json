@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dorothy_and_the_witches_of_oz_2012",
+  "title": "Dorothy and the Witches of Oz",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2761044",
+    "imdb": "tt2342071",
+    "tmdb": 456375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-17",
+  "runtime_minutes": 101
+}

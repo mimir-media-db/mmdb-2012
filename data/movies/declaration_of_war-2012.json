@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_declaration_of_war_2012",
+  "title": "Declaration of War",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1033136",
+    "imdb": "tt1931470",
+    "tmdb": 73562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-05",
+  "runtime_minutes": 100
+}

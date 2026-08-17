@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_ausbildung_2012",
+  "title": "Die Ausbildung",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20190394",
+    "imdb": "tt1832937",
+    "tmdb": 213262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 89
+}

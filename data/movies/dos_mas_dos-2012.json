@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dos_mas_dos_2012",
+  "title": "Dos más dos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2511602",
+    "imdb": "tt2248944",
+    "tmdb": 134096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-16",
+  "runtime_minutes": 103
+}

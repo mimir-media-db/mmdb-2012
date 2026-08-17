@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dallas_xxx_a_parody_2012",
+  "title": "Dallas XXX – A Parody",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16318818",
+    "imdb": "tt2153470",
+    "tmdb": 703968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-01",
+  "runtime_minutes": 130
+}
