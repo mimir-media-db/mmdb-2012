@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_311_a_sense_of_home_films_2012",
+  "title": "3.11 A Sense of Home Films",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17176884",
+    "imdb": "tt1939641",
+    "tmdb": 398149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-14"
+}

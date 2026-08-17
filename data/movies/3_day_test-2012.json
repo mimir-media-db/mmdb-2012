@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_day_test_2012",
+  "title": "3 Day Test",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18349153",
+    "imdb": "tt2184095",
+    "tmdb": 160647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}
