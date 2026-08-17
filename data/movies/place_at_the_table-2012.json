@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_place_at_the_table_2012",
+  "title": "A Place at the Table",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658861",
+    "imdb": "tt1736049",
+    "tmdb": 84198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

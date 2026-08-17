@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pauline_detective_2012",
+  "title": "Pauline détective",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3372773",
+    "imdb": "tt2246909",
+    "tmdb": 137370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

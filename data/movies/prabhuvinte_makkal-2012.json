@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prabhuvinte_makkal_2012",
+  "title": "Prabhuvinte Makkal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26659",
+    "imdb": "tt8791998",
+    "tmdb": 193868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

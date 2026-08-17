@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pagate_fratelli_2012",
+  "title": "Pagate Fratelli",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8987765",
+    "imdb": "tt2477894",
+    "tmdb": 326439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

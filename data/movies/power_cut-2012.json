@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_power_cut_2012",
+  "title": "Power Cut",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7236298",
+    "imdb": "tt3732304",
+    "tmdb": 139583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

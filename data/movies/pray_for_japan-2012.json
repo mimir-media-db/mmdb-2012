@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pray_for_japan_2012",
+  "title": "Pray for Japan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7238961",
+    "imdb": "tt2066041",
+    "tmdb": 94319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

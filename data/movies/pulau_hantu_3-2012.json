@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulau_hantu_3_2012",
+  "title": "Pulau Hantu 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12506760",
+    "imdb": "tt2156366",
+    "tmdb": 425626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 79
+}

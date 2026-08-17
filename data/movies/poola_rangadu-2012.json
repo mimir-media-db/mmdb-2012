@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poola_rangadu_2012",
+  "title": "Poola Rangadu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7228593",
+    "imdb": "tt2112231",
+    "tmdb": 91833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

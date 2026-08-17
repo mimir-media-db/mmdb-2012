@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_primeiro_dia_de_um_ano_qualquer_2012",
+  "title": "Primeiro Dia de um Ano Qualquer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10353872",
+    "imdb": "tt3026224",
+    "tmdb": 240077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

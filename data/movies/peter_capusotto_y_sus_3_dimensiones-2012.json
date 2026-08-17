@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_capusotto_y_sus_3_dimensiones_2012",
+  "title": "Peter Capusotto y sus 3 Dimensiones",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6073361",
+    "imdb": "tt2215401",
+    "tmdb": 143999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

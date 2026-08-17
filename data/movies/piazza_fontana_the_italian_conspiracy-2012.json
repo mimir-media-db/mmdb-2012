@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piazza_fontana_the_italian_conspiracy_2012",
+  "title": "Piazza Fontana: The Italian Conspiracy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q172419",
+    "imdb": "tt1565068",
+    "tmdb": 98120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 129
+}
