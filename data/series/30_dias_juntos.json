@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_30_dias_juntos",
+  "title": "30 días juntos",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q10843400",
+    "imdb": "tt4801364",
+    "tmdb": 101071
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
