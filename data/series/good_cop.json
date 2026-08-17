@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_cop",
+  "title": "Good Cop",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5582479",
+    "imdb": "tt2256491",
+    "tmdb": 58283
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_time",
+  "title": "Golden Time",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5356245",
+    "imdb": "tt2474948",
+    "tmdb": 44399
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 23
+}

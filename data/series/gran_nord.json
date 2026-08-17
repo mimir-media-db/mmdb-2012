@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gran_nord",
+  "title": "Gran Nord",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q11924601",
+    "imdb": "tt2133573",
+    "tmdb": 62575
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

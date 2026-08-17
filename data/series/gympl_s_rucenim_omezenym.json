@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gympl_s_rucenim_omezenym",
+  "title": "Gympl s (r)učením omezeným",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12018680",
+    "imdb": "tt2385320",
+    "tmdb": 51395
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 64
+}

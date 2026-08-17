@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_george_clarkes_amazing_spaces",
+  "title": "George Clarke's Amazing Spaces",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18163445",
+    "imdb": "tt3321546",
+    "tmdb": 55549
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

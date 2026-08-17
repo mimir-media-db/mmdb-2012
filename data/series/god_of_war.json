@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_god_of_war",
+  "title": "God of War",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q13263462",
+    "imdb": "tt3253638",
+    "tmdb": 46573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 56
+}

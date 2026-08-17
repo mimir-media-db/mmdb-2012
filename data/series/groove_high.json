@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_groove_high",
+  "title": "Groove High",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5610313",
+    "imdb": "tt1575847",
+    "tmdb": 65000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

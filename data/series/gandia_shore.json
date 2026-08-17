@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gandia_shore",
+  "title": "Gandía Shore",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q29886",
+    "imdb": "tt2456962",
+    "tmdb": 46903
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

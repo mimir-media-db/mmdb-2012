@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gabriela",
+  "title": "Gabriela",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5515934",
+    "imdb": "tt2249420",
+    "tmdb": 46162
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 55
+}

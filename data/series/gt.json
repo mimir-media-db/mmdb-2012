@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gt",
+  "title": "G&T",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18730643",
+    "imdb": "tt3620802",
+    "tmdb": 241520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

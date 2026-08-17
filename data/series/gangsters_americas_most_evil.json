@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gangsters_americas_most_evil",
+  "title": "Gangsters: America's Most Evil",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16993945",
+    "imdb": "tt2432640",
+    "tmdb": 52103
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}
