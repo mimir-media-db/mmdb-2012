@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_of_korea",
+  "title": "The Voice of Korea",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12598428",
+    "imdb": "tt8227696",
+    "tmdb": 103959
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

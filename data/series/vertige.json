@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vertige",
+  "title": "Vertige",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q60852980",
+    "imdb": "tt2287307",
+    "tmdb": 87258
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

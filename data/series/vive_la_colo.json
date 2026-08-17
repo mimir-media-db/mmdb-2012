@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vive_la_colo",
+  "title": "Vive la colo!",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3561471",
+    "imdb": "tt2339291",
+    "tmdb": 72247
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

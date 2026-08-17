@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vain_elamaa",
+  "title": "Vain elämää",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1397398",
+    "imdb": "tt2456000",
+    "tmdb": 46340
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 32
+}

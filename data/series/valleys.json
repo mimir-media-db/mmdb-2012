@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_valleys",
+  "title": "The Valleys",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7771970",
+    "imdb": "tt2745774",
+    "tmdb": 48588
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}
