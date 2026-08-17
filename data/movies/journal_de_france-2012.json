@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journal_de_france_2012",
+  "title": "Journal de France",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3186838",
+    "imdb": "tt2399523",
+    "tmdb": 126326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeena_hai_toh_thok_daal_2012",
+  "title": "Jeena Hai Toh Thok Daal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6172875",
+    "imdb": "tt2294685",
+    "tmdb": 312608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

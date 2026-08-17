@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jewelpet_the_movie_sweets_dance_princess_2012",
+  "title": "Jewelpet the Movie: Sweets Dance Princess",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2076987",
+    "imdb": "tt3811332",
+    "tmdb": 118404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 63
+}

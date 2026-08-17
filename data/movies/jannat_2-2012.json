@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jannat_2_2012",
+  "title": "Jannat 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3627591",
+    "imdb": "tt2319889",
+    "tmdb": 85053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

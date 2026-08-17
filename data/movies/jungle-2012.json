@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jungle_2012",
+  "title": "The Jungle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2585870",
+    "imdb": "tt2261719",
+    "tmdb": 148347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

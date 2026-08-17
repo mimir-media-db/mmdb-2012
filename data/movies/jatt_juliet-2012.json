@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jatt_juliet_2012",
+  "title": "Jatt & Juliet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6164693",
+    "imdb": "tt2196254",
+    "tmdb": 124380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 140
+}
