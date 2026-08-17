@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_negeri_5_menara_2012",
+  "title": "Negeri 5 Menara",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12500254",
+    "imdb": "tt2190357",
+    "tmdb": 395865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naughty_professor_2012",
+  "title": "Naughty Professor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6981152",
+    "imdb": "tt10332462",
+    "tmdb": 134309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

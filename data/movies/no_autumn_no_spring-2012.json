@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_autumn_no_spring_2012",
+  "title": "No Autumn, No Spring",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6128965",
+    "imdb": "tt1849856",
+    "tmdb": 170502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_in_tel_aviv_2012",
+  "title": "Not in Tel Aviv",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7049136",
+    "imdb": "tt2176378",
+    "tmdb": 141459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

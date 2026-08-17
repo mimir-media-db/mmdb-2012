@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_non_me_lo_dire_2012",
+  "title": "Non me lo dire",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3878069",
+    "imdb": "tt2323619",
+    "tmdb": 186636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

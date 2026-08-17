@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neethaane_en_ponvasantham_2012",
+  "title": "Neethaane En Ponvasantham",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473364",
+    "imdb": "tt2342227",
+    "tmdb": 116647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

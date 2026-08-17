@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nitro_circus_the_movie_2012",
+  "title": "Nitro Circus: The Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7041433",
+    "imdb": "tt1815852",
+    "tmdb": 110112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

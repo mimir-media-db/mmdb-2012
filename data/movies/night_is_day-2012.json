@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_is_day_2012",
+  "title": "Night Is Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033331",
+    "imdb": "tt1629444",
+    "tmdb": 589213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

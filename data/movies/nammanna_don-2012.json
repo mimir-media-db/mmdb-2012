@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nammanna_don_2012",
+  "title": "Nammanna Don",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6961954",
+    "imdb": "tt30146751"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

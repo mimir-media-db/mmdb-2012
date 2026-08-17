@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_calls_2012",
+  "title": "Nature Calls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6980889",
+    "imdb": "tt1493157",
+    "tmdb": 135708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 79
+}
