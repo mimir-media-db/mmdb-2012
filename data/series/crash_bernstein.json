@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crash_bernstein",
+  "title": "Crash & Bernstein",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3279778",
+    "imdb": "tt2273734",
+    "tmdb": 46697
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

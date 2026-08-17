@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cielo_de_angelina",
+  "title": "Cielo de Angelina",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q13564896",
+    "imdb": "tt2594362",
+    "tmdb": 222433
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 55
+}

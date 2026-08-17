@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tar_2012",
+  "title": "Tar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4172554",
+    "imdb": "tt2133333",
+    "tmdb": 199647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 72
+}

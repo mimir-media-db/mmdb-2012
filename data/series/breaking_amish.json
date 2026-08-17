@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_amish",
+  "title": "Breaking Amish",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16853893",
+    "imdb": "tt2386354",
+    "tmdb": 45754
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 39
+}

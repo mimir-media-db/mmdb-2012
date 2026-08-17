@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eddie_the_sleepwalking_cannibal_2012",
+  "title": "Eddie: The Sleepwalking Cannibal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3047233",
+    "imdb": "tt1480658",
+    "tmdb": 100275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

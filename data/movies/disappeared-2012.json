@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disappeared_2012",
+  "title": "The Disappeared",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7730291",
+    "imdb": "tt2054817",
+    "tmdb": 131951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

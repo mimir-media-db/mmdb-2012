@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_project_runway_all_stars",
+  "title": "Project Runway All Stars",
+  "start_year": 2012,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q24521646",
+    "imdb": "tt2076610",
+    "tmdb": 42763
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 80
+}

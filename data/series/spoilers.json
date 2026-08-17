@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spoilers",
+  "title": "Spoilers",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7578830",
+    "imdb": "tt2404125",
+    "tmdb": 43953
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

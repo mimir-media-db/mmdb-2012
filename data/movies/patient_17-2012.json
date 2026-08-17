@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_patient_17_2012",
+  "title": "Patient 17",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7144959",
+    "imdb": "tt1307067",
+    "tmdb": 343751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

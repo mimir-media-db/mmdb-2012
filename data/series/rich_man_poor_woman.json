@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rich_man_poor_woman",
+  "title": "Rich Man, Poor Woman",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q626515",
+    "imdb": "tt2404115",
+    "tmdb": 45938
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_phone_genie",
+  "title": "My Phone Genie",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6946276",
+    "imdb": "tt2204867",
+    "tmdb": 44532
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slightly_single_in_la_2012",
+  "title": "Slightly Single in L.A.",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3281730",
+    "imdb": "tt1227931",
+    "tmdb": 147367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

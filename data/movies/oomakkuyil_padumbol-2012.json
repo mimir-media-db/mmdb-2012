@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oomakkuyil_padumbol_2012",
+  "title": "Oomakkuyil Padumbol",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7095337",
+    "tmdb": 456556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

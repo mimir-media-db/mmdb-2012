@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glow_of_heavens_2012",
+  "title": "The Glow of Heavens",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12407212",
+    "imdb": "tt2931934",
+    "tmdb": 699188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

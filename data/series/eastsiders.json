@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eastsiders",
+  "title": "EastSiders",
+  "start_year": 2012,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5330957",
+    "imdb": "tt2558816",
+    "tmdb": 67202
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

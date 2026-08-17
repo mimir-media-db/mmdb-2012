@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arakshaka_2012",
+  "title": "Arakshaka",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4783859",
+    "imdb": "tt2275521",
+    "tmdb": 627420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

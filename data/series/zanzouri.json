@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zanzouri",
+  "title": "Zanzouri",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q8066318",
+    "imdb": "tt12849848",
+    "tmdb": 55386
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

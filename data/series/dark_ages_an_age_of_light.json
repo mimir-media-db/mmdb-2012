@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_ages_an_age_of_light",
+  "title": "The Dark Ages: An Age of Light",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7728914",
+    "imdb": "tt2576046",
+    "tmdb": 110812
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

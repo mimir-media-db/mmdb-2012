@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_ghost_street_the_return_of_richard_speck_2012",
+  "title": "100 Ghost Street: The Return of Richard Speck",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11839011",
+    "imdb": "tt2297108",
+    "tmdb": 122326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

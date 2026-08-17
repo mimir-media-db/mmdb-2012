@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_best_holidays_2012",
+  "title": "My Best Holidays",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3344317",
+    "imdb": "tt2153905",
+    "tmdb": 93847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

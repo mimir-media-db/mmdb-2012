@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shiva_manasulo_shruti_2012",
+  "title": "Shiva Manasulo Shruti",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7499243",
+    "imdb": "tt3118194",
+    "tmdb": 420507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

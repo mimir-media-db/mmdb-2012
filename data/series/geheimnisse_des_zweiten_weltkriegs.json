@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_geheimnisse_des_zweiten_weltkriegs",
+  "title": "Geheimnisse des Zweiten Weltkriegs",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51451088",
+    "imdb": "tt3032920"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

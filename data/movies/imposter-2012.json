@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imposter_2012",
+  "title": "The Imposter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2912561",
+    "imdb": "tt1966604",
+    "tmdb": 84287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 99
+}

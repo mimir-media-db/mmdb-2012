@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scene_onnu_nammude_veedu_2012",
+  "title": "Scene Onnu Nammude Veedu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q217221",
+    "imdb": "tt2779896",
+    "tmdb": 214520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

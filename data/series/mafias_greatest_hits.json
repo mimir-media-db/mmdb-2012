@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mafias_greatest_hits",
+  "title": "Mafia's Greatest Hits",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18220892",
+    "imdb": "tt3311486",
+    "tmdb": 61500
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

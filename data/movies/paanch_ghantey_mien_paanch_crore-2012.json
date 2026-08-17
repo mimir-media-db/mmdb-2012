@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paanch_ghantey_mien_paanch_crore_2012",
+  "title": "Paanch Ghantey Mien Paanch Crore",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121438",
+    "imdb": "tt1563732",
+    "tmdb": 310702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

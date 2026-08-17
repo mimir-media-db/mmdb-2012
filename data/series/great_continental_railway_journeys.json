@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_continental_railway_journeys",
+  "title": "Great Continental Railway Journeys",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5598995",
+    "imdb": "tt2498076",
+    "tmdb": 59634
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 23
+}

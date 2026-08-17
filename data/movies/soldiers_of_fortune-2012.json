@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soldiers_of_fortune_2012",
+  "title": "Soldiers of Fortune",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4427671",
+    "imdb": "tt1678051",
+    "tmdb": 112304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

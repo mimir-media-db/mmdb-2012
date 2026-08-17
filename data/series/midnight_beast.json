@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_beast",
+  "title": "The Midnight Beast",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16997780",
+    "imdb": "tt2186373",
+    "tmdb": 64935
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

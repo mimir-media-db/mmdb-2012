@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_decoding_deepak_2012",
+  "title": "Decoding Deepak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5249544",
+    "imdb": "tt2321249",
+    "tmdb": 134409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

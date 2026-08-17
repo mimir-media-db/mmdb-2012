@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edmond_was_a_donkey_2012",
+  "title": "Edmond Was a Donkey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3048035",
+    "imdb": "tt2159990",
+    "tmdb": 159430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 14
+}

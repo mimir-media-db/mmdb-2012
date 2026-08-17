@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1210_2012",
+  "title": "1210",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4028571",
+    "imdb": "tt2372461",
+    "tmdb": 266841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 73
+}

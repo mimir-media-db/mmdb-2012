@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hip_hop_squares",
+  "title": "Hip Hop Squares",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5767936",
+    "imdb": "tt2394427",
+    "tmdb": 44790
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 41
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_soil_2012",
+  "title": "Sons of Soil",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6008550",
+    "imdb": "tt2262343",
+    "tmdb": 345816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

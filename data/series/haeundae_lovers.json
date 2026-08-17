@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_haeundae_lovers",
+  "title": "Haeundae Lovers",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q497970",
+    "imdb": "tt3467302",
+    "tmdb": 44439
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shipping_wars",
+  "title": "Shipping Wars",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7498073",
+    "imdb": "tt2128103",
+    "tmdb": 50592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 93
+}

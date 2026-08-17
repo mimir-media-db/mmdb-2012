@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ammavin_kaipesi_2012",
+  "title": "Ammavin Kaipesi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25482",
+    "imdb": "tt2597394",
+    "tmdb": 146874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bujang_terlajak_2012",
+  "title": "Bujang Terlajak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12477434",
+    "imdb": "tt2203757",
+    "tmdb": 250925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

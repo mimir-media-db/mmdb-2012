@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_cq",
+  "title": "La CQ",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5962602",
+    "imdb": "tt2766118",
+    "tmdb": 107171
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 100
+}

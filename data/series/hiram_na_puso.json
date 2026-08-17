@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hiram_na_puso",
+  "title": "Hiram na Puso",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5769352",
+    "imdb": "tt2151274",
+    "tmdb": 44859
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 88
+}

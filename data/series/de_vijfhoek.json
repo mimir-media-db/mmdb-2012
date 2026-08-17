@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_vijfhoek",
+  "title": "De Vijfhoek",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2295648",
+    "imdb": "tt2334268",
+    "tmdb": 92837
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

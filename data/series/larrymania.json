@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_larrymania",
+  "title": "Larrymania",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q42220464",
+    "imdb": "tt4139590",
+    "tmdb": 74877
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sullivan_son",
+  "title": "Sullivan & Son",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3503494",
+    "imdb": "tt2073664",
+    "tmdb": 43087
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

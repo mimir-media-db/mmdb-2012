@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonderful_radio_2012",
+  "title": "Wonderful Radio",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8031841",
+    "imdb": "tt2187203",
+    "tmdb": 94555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 120
+}

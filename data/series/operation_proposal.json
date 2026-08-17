@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_operation_proposal",
+  "title": "Operation Proposal",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q491935",
+    "imdb": "tt3211128",
+    "tmdb": 63220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

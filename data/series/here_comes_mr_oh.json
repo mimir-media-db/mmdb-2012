@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_here_comes_mr_oh",
+  "title": "Here Comes Mr. Oh",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q27100",
+    "imdb": "tt5618336",
+    "tmdb": 55777
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 129
+}

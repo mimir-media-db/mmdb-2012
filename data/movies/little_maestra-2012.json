@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_maestra_2012",
+  "title": "Little Maestra",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11348237",
+    "imdb": "tt2288093",
+    "tmdb": 417472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

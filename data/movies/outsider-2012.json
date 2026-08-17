@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outsider_2012",
+  "title": "Outsider",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7113000",
+    "imdb": "tt2282670",
+    "tmdb": 119110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

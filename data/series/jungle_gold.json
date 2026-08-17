@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jungle_gold",
+  "title": "Jungle Gold",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6312836",
+    "imdb": "tt2460420",
+    "tmdb": 59507
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

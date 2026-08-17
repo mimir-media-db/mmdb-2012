@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marshal_of_finland_2012",
+  "title": "The Marshal of Finland",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4283249",
+    "imdb": "tt2190421",
+    "tmdb": 135547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

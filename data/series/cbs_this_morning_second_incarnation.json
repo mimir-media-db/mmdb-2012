@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cbs_this_morning_second_incarnation",
+  "title": "CBS This Morning (second incarnation)",
+  "start_year": 2012,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q134261283",
+    "imdb": "tt2163227"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2521
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_28_hotel_rooms_2012",
+  "title": "28 Hotel Rooms",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4632723",
+    "imdb": "tt2124074",
+    "tmdb": 84166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

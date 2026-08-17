@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lascars",
+  "title": "lascars",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3218267",
+    "imdb": "tt1952594",
+    "tmdb": 60692
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

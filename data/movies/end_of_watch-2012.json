@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_watch_2012",
+  "title": "End of Watch",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q497262",
+    "imdb": "tt1855199",
+    "tmdb": 77016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 109
+}

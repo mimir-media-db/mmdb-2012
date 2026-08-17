@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hidden_singer",
+  "title": "Hidden Singer",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12626257",
+    "imdb": "tt6953932",
+    "tmdb": 72993
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

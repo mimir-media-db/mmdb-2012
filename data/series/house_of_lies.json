@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_lies",
+  "title": "House of Lies",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1549157",
+    "imdb": "tt1797404",
+    "tmdb": 39702
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 58
+}

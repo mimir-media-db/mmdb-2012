@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fenomenos",
+  "title": "Fenómenos",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3574038",
+    "imdb": "tt2218952",
+    "tmdb": 62736
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

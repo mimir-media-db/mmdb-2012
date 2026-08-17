@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhalil_sodhappuvadhu_yeppadi_2012",
+  "title": "Kadhalil Sodhappuvadhu Yeppadi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473373",
+    "imdb": "tt2238837",
+    "tmdb": 101793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

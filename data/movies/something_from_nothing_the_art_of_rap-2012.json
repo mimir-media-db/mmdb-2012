@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_from_nothing_the_art_of_rap_2012",
+  "title": "Something from Nothing: The Art of Rap",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3985698",
+    "imdb": "tt2062996",
+    "tmdb": 84342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

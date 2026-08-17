@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_se_amar_mon_kereche_2012",
+  "title": "Se Amar Mon Kereche",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7439757",
+    "imdb": "tt14230452"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

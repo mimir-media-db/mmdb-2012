@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_million_dollar_listing_new_york",
+  "title": "Million Dollar Listing New York",
+  "start_year": 2012,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q6859759",
+    "imdb": "tt1879599",
+    "tmdb": 44100
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 87
+}

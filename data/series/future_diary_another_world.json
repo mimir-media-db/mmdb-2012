@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_future_diary_another_world",
+  "title": "Future Diary: Another World",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4392645",
+    "imdb": "tt2277545",
+    "tmdb": 45840
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bapi_bari_jaa_2012",
+  "title": "Bapi Bari Jaa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4857546",
+    "imdb": "tt2595394",
+    "tmdb": 256387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

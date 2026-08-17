@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_lovely_2012",
+  "title": "Miss Lovely",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3316541",
+    "imdb": "tt1629715",
+    "tmdb": 126318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 113
+}

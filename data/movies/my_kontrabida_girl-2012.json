@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_kontrabida_girl_2012",
+  "title": "My Kontrabida Girl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945785",
+    "imdb": "tt2292817",
+    "tmdb": 221087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

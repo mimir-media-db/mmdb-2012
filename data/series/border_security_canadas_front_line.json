@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_border_security_canadas_front_line",
+  "title": "Border Security: Canada's Front Line",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15104450",
+    "imdb": "tt2518480",
+    "tmdb": 59275
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddies_2012",
+  "title": "Buddies",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4984290",
+    "imdb": "tt1179259",
+    "tmdb": 167983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

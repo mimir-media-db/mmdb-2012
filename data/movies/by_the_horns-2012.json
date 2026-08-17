@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_by_the_horns_2012",
+  "title": "By the Horns",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12151329",
+    "imdb": "tt1841787",
+    "tmdb": 147670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

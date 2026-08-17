@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_of_armenia",
+  "title": "The Voice of Armenia",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q10853549",
+    "imdb": "tt6547060"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

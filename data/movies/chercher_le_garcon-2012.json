@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chercher_le_garcon_2012",
+  "title": "Chercher le garçon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2962713",
+    "imdb": "tt2368679",
+    "tmdb": 138859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

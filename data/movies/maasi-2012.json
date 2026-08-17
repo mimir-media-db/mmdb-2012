@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maasi_2012",
+  "title": "Maasi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6721234",
+    "imdb": "tt13364592",
+    "tmdb": 146925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

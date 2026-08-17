@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italian_consul_2012",
+  "title": "The Italian Consul",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3793579",
+    "imdb": "tt1630636",
+    "tmdb": 249431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

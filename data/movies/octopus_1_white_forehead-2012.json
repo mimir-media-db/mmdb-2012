@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_octopus_1_white_forehead_2012",
+  "title": "Octopus 1: White forehead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5928348",
+    "imdb": "tt2671420",
+    "tmdb": 403344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

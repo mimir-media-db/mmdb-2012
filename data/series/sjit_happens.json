@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sjit_happens",
+  "title": "Sjit Happens",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16324441",
+    "imdb": "tt2382978",
+    "tmdb": 51000
+  },
+  "last_updated": "2026-08-17"
+}

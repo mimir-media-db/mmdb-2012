@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eppadi_manasukkul_vanthai_2012",
+  "title": "Eppadi Manasukkul Vanthai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5383836",
+    "imdb": "tt2350746",
+    "tmdb": 168242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_fox_soccer_news",
+  "title": "Fox Soccer News",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5476926"
+  },
+  "last_updated": "2026-08-17"
+}

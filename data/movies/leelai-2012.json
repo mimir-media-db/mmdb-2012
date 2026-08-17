@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leelai_2012",
+  "title": "Leelai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6516272",
+    "imdb": "tt1296162",
+    "tmdb": 115270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

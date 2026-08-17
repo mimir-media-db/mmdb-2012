@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vojna_akademija",
+  "title": "Vojna akademija",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16081925",
+    "imdb": "tt1880898",
+    "tmdb": 70548
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

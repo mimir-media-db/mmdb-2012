@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_transporter_the_series",
+  "title": "Transporter: The Series",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q445816",
+    "imdb": "tt1885102",
+    "tmdb": 39497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

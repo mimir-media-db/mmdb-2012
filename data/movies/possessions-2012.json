@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_possessions_2012",
+  "title": "Possessions",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3399694",
+    "imdb": "tt1798229",
+    "tmdb": 93851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

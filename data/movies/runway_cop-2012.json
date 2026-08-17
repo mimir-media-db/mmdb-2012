@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_runway_cop_2012",
+  "title": "Runway Cop",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492000",
+    "imdb": "tt2182095",
+    "tmdb": 124874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

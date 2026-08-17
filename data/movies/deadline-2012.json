@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadline_2012",
+  "title": "Deadline",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245581",
+    "imdb": "tt1430811",
+    "tmdb": 91316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

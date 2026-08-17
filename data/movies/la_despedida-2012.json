@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_despedida_2012",
+  "title": "La despedida",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966477",
+    "imdb": "tt2180447",
+    "tmdb": 760819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

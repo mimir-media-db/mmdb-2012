@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shannen_says",
+  "title": "Shannen Says",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q26207567",
+    "imdb": "tt2192609",
+    "tmdb": 325698
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

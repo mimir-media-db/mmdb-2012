@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iholla",
+  "title": "Iholla",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11864367",
+    "imdb": "tt2654500",
+    "tmdb": 284902
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 112
+}

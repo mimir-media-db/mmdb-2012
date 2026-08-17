@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_work_matters",
+  "title": "Work Matters",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q1179826",
+    "imdb": "tt2257665",
+    "tmdb": 62849
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 152
+}

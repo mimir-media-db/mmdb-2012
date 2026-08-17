@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_action_dad",
+  "title": "Action Dad",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5656936",
+    "imdb": "tt2149382",
+    "tmdb": 65775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_picassos_gang_2012",
+  "title": "Picasso's Gang",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6461048",
+    "imdb": "tt2102355",
+    "tmdb": 141037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

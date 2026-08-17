@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tokyo_airport_air_traffic_controller",
+  "title": "Tokyo Airport: Air Traffic Controller",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q889341",
+    "imdb": "tt2371434",
+    "tmdb": 45888
+  },
+  "last_updated": "2026-08-17"
+}

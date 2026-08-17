@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_side_by_side_2012",
+  "title": "Side by Side",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1840670",
+    "imdb": "tt2014338",
+    "tmdb": 110354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 99
+}

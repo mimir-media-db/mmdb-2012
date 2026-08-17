@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_repente_la_pelicula_2012",
+  "title": "De Repente, la Película",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5800651",
+    "imdb": "tt1858742",
+    "tmdb": 774734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tierra_de_sangre_2012",
+  "title": "Tierra de Sangre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214131",
+    "imdb": "tt2060517",
+    "tmdb": 417529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

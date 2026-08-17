@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_death_and_the_meaning_of_life",
+  "title": "Sex, Death and the Meaning of Life",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1299388",
+    "imdb": "tt2615506",
+    "tmdb": 58384
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

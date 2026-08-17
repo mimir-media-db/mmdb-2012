@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_formato_ridotto_2012",
+  "title": "Formato ridotto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3748143",
+    "imdb": "tt2265878",
+    "tmdb": 202758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yoohoo_friends",
+  "title": "YooHoo & Friends",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q27431270",
+    "imdb": "tt2419116",
+    "tmdb": 155729
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

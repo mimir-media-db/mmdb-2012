@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stars_earn_stripes",
+  "title": "Stars Earn Stripes",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3497220",
+    "imdb": "tt2223794",
+    "tmdb": 65062
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

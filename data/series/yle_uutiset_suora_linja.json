@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_yle_uutiset_suora_linja",
+  "title": "Yle Uutiset Suora linja",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q11902780"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brille",
+  "title": "Brille",
+  "start_year": 2012,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q11962279",
+    "imdb": "tt2150202",
+    "tmdb": 74573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 138
+}

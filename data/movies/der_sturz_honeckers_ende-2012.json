@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_sturz_honeckers_ende_2012",
+  "title": "Der Sturz - Honeckers Ende",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197224",
+    "imdb": "tt2342059",
+    "tmdb": 111338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

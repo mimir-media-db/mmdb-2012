@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_house_2012",
+  "title": "God's House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5575713",
+    "imdb": "tt1620754",
+    "tmdb": 265807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

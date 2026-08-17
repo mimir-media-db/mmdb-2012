@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puppet_master_x_axis_rising_2012",
+  "title": "Puppet Master X: Axis Rising",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135428",
+    "imdb": "tt2301900",
+    "tmdb": 139659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

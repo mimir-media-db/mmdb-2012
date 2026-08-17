@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_in_the_chamber_2012",
+  "title": "One in the Chamber",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4469876",
+    "imdb": "tt1881024",
+    "tmdb": 122924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

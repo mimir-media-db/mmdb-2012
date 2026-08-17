@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_virgen_de_copacabana_2012",
+  "title": "Virgen de Copacabana",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6163376",
+    "imdb": "tt4340566"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

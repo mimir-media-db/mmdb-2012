@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_eesti_tippmodell",
+  "title": "Eesti tippmodell",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3720128",
+    "tmdb": 44923
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

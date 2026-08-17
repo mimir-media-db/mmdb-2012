@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doctorx",
+  "title": "Doctor-X",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4391062",
+    "imdb": "tt2349912",
+    "tmdb": 46052
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

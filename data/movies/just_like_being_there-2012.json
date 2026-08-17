@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_like_being_there_2012",
+  "title": "Just like Being There",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6316677",
+    "imdb": "tt2039360",
+    "tmdb": 94885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

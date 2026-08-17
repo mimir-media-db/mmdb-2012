@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_martin_lewis_money_show",
+  "title": "The Martin Lewis Money Show",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16997394",
+    "imdb": "tt3678758",
+    "tmdb": 55497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

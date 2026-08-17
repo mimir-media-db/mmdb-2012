@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ben_and_kate",
+  "title": "Ben and Kate",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q498663",
+    "imdb": "tt2177491",
+    "tmdb": 43275
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

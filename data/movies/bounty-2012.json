@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bounty_2012",
+  "title": "The Bounty",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8421664",
+    "imdb": "tt2168166",
+    "tmdb": 118865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

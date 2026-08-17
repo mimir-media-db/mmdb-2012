@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_total_drama_revenge_of_the_island",
+  "title": "Total Drama Revenge of the Island",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q939387",
+    "imdb": "tt2733534",
+    "tmdb": 33507
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

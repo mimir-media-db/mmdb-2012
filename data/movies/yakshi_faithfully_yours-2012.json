@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yakshi_faithfully_yours_2012",
+  "title": "Yakshi – Faithfully Yours",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8047205",
+    "imdb": "tt2448852",
+    "tmdb": 194218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_qviva_the_chosen",
+  "title": "Q'Viva! The Chosen",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3281703",
+    "imdb": "tt1912136",
+    "tmdb": 45304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

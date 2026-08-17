@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bank_job",
+  "title": "The Bank Job",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7715552",
+    "imdb": "tt2513534",
+    "tmdb": 47358
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 16
+}

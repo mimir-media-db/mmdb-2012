@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noobz_2012",
+  "title": "Noobz",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126638",
+    "imdb": "tt1884369",
+    "tmdb": 120802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

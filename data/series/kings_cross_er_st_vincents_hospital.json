@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kings_cross_er_st_vincents_hospital",
+  "title": "Kings Cross ER: St Vincent's Hospital",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6412899"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

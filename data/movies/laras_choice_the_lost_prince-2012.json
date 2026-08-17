@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laras_choice_the_lost_prince_2012",
+  "title": "Lara's Choice: The Lost Prince",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12958111",
+    "imdb": "tt2236630",
+    "tmdb": 260385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

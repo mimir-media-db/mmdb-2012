@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_la_tourmente_2012",
+  "title": "Dans la tourmente",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015448",
+    "imdb": "tt1814672",
+    "tmdb": 112377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 107
+}

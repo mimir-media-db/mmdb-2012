@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_faith",
+  "title": "Faith",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q128811",
+    "imdb": "tt2373094",
+    "tmdb": 44821
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

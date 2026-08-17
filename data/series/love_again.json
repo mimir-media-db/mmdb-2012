@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_again",
+  "title": "Love Again",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q492233",
+    "imdb": "tt6413514",
+    "tmdb": 98079
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

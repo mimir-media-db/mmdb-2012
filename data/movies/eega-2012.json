@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eega_2012",
+  "title": "Eega",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234794",
+    "imdb": "tt2258337",
+    "tmdb": 148265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 134
+}

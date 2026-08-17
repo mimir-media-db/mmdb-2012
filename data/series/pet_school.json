@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pet_school",
+  "title": "Pet School",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7171553",
+    "imdb": "tt2653788",
+    "tmdb": 59545
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

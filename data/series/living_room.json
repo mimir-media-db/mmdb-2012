@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_living_room",
+  "title": "The Living Room",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3988057",
+    "imdb": "tt3514356",
+    "tmdb": 44117
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

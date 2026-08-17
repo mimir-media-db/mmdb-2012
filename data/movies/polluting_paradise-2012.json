@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polluting_paradise_2012",
+  "title": "Polluting Paradise",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1606942",
+    "imdb": "tt1205487",
+    "tmdb": 136435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

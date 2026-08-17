@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_asias_next_top_model",
+  "title": "Asia's Next Top Model",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q605957",
+    "imdb": "tt2578812",
+    "tmdb": 42212
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 75
+}

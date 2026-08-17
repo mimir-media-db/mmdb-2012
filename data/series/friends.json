@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_friends",
+  "title": "Friends",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5504143",
+    "imdb": "tt2380598",
+    "tmdb": 48068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 74
+}

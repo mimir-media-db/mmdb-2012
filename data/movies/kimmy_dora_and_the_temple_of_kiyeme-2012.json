@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kimmy_dora_and_the_temple_of_kiyeme_2012",
+  "title": "Kimmy Dora and the Temple of Kiyeme",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6410197",
+    "imdb": "tt2158504",
+    "tmdb": 129459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

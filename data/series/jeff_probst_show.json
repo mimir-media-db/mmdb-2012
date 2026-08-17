@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jeff_probst_show",
+  "title": "The Jeff Probst Show",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7743083",
+    "imdb": "tt1978332",
+    "tmdb": 44851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 170
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_box_office",
+  "title": "Mr. Box Office",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6928472",
+    "imdb": "tt2389845",
+    "tmdb": 70213
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

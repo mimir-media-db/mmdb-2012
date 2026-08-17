@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ktown",
+  "title": "K-Town",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6322784",
+    "imdb": "tt2229928"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

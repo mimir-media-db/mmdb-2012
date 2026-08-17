@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pseudo_blood_of_our_own_2012",
+  "title": "Pseudo: Blood of Our Own",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7254455",
+    "imdb": "tt1942946",
+    "tmdb": 127722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_you_and_me_2012",
+  "title": "You and Me",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5931894",
+    "imdb": "tt2669718"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_d",
+  "title": "Mr. D",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q6928559",
+    "imdb": "tt2128016",
+    "tmdb": 42382
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 59
+}

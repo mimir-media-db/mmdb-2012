@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supermen_of_malegaon_2012",
+  "title": "Supermen of Malegaon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3504744",
+    "imdb": "tt1479380",
+    "tmdb": 115064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heaven_in_your_eyes_2012",
+  "title": "Heaven in Your Eyes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5821423",
+    "imdb": "tt2186753",
+    "tmdb": 154181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

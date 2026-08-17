@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voice",
+  "title": "The Voice",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3282955",
+    "imdb": "tt2334429",
+    "tmdb": 39845
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 173
+}

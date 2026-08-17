@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forest_2012",
+  "title": "The Forest",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3050317",
+    "imdb": "tt2364649",
+    "tmdb": 137614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

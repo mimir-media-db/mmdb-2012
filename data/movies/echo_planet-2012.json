@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_echo_planet_2012",
+  "title": "Echo Planet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5332745",
+    "imdb": "tt2318440",
+    "tmdb": 136368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

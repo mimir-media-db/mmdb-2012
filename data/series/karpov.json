@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_karpov",
+  "title": "Karpov",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4215846",
+    "imdb": "tt4024268",
+    "tmdb": 45915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 94
+}

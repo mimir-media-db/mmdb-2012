@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_karunia",
+  "title": "Karunia",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12489718",
+    "tmdb": 50411
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 63
+}

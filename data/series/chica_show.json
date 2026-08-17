@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chica_show",
+  "title": "The Chica Show",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7722389",
+    "imdb": "tt2635374",
+    "tmdb": 59532
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

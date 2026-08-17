@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_love_2012",
+  "title": "Haunting Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5682731",
+    "imdb": "tt6371906",
+    "tmdb": 200848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

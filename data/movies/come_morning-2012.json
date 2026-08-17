@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_come_morning_2012",
+  "title": "Come Morning",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5151190",
+    "imdb": "tt2016168",
+    "tmdb": 292086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

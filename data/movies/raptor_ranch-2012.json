@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raptor_ranch_2012",
+  "title": "Raptor Ranch",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7294371",
+    "imdb": "tt1343103",
+    "tmdb": 230453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

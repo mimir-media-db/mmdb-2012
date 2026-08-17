@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mcdull_the_pork_of_music_2012",
+  "title": "McDull: The Pork of Music",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6801036",
+    "imdb": "tt2275080",
+    "tmdb": 137386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_xendra_2012",
+  "title": "El Xendra",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5823709",
+    "imdb": "tt2452800",
+    "tmdb": 388596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 109
+}

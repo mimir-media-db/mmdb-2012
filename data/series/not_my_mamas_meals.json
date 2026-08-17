@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_not_my_mamas_meals",
+  "title": "Not My Mama's Meals",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7062134",
+    "imdb": "tt2183535",
+    "tmdb": 46514
+  },
+  "last_updated": "2026-08-17"
+}

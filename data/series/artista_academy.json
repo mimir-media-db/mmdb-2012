@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_artista_academy",
+  "title": "Artista Academy",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q490867",
+    "imdb": "tt2322070",
+    "tmdb": 44087
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 78
+}

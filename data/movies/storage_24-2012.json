@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_storage_24_2012",
+  "title": "Storage 24",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7619905",
+    "imdb": "tt1986953",
+    "tmdb": 114958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

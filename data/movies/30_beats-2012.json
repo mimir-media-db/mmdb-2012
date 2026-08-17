@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_beats_2012",
+  "title": "30 Beats",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4634472",
+    "imdb": "tt1484521",
+    "tmdb": 109416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

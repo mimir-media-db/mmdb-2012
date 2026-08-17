@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_2012",
+  "title": "Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q901766",
+    "imdb": "tt2202471",
+    "tmdb": 95919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

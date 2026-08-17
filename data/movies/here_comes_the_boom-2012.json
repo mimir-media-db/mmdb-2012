@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_here_comes_the_boom_2012",
+  "title": "Here Comes the Boom",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1170347",
+    "imdb": "tt1648179",
+    "tmdb": 87826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_is_a_lifetime_movie",
+  "title": "My Life is a Lifetime Movie",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6945880",
+    "imdb": "tt2441420",
+    "tmdb": 99012
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

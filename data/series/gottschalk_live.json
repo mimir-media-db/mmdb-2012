@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gottschalk_live",
+  "title": "Gottschalk Live",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1540007",
+    "imdb": "tt2190889",
+    "tmdb": 81765
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_norges_beste_stemme",
+  "title": "The Voice – Norges beste stemme",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7773058",
+    "imdb": "tt6684464",
+    "tmdb": 115528
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

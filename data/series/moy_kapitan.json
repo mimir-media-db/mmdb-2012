@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_moy_kapitan",
+  "title": "Moy kapitan",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113005311",
+    "imdb": "tt3859486"
+  },
+  "last_updated": "2026-08-17"
+}

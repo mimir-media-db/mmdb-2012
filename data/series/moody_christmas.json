@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moody_christmas",
+  "title": "A Moody Christmas",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4658353",
+    "imdb": "tt2164274",
+    "tmdb": 46415
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

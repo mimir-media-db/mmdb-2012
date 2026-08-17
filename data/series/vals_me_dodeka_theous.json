@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vals_me_dodeka_theous",
+  "title": "Vals me Dodeka Theous",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q109319218",
+    "imdb": "tt2593254",
+    "tmdb": 53468
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 262
+}

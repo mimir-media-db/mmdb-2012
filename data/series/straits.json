@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_straits",
+  "title": "The Straits",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7766873",
+    "imdb": "tt2057856",
+    "tmdb": 40396
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

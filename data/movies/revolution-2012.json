@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_revolution_2012",
+  "title": "Revolution",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7318625",
+    "imdb": "tt2350608",
+    "tmdb": 128201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

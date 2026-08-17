@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_nata_una_star_2012",
+  "title": "È nata una star?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4025297",
+    "imdb": "tt2322683",
+    "tmdb": 97836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

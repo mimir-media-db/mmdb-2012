@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_endeavour",
+  "title": "Endeavour",
+  "start_year": 2012,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q2151914",
+    "imdb": "tt2701582",
+    "tmdb": 44264
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 36
+}

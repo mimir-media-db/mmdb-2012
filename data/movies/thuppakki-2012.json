@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thuppakki_2012",
+  "title": "Thuppakki",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473399",
+    "imdb": "tt2187153",
+    "tmdb": 143010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 165
+}

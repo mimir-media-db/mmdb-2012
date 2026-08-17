@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_man_from_the_equator",
+  "title": "Man from the Equator",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q491673",
+    "imdb": "tt4651518",
+    "tmdb": 44894
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

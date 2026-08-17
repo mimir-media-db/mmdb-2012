@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elevator_2012",
+  "title": "Elevator",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5359702",
+    "imdb": "tt1728975",
+    "tmdb": 93394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

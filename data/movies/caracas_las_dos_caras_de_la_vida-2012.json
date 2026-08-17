@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caracas_las_dos_caras_de_la_vida_2012",
+  "title": "Caracas, las dos caras de la vida",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5748791",
+    "imdb": "tt5271198",
+    "tmdb": 505362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

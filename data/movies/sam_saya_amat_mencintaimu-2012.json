@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sam_saya_amat_mencintaimu_2012",
+  "title": "SAM: Saya Amat Mencintaimu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12702211",
+    "imdb": "tt2517260",
+    "tmdb": 133451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wizards_vs_aliens",
+  "title": "Wizards vs Aliens",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3448609",
+    "imdb": "tt2491332",
+    "tmdb": 45124
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

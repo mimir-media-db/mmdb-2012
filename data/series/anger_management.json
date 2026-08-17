@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anger_management",
+  "title": "Anger Management",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q537952",
+    "imdb": "tt1986770",
+    "tmdb": 42878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 100
+}

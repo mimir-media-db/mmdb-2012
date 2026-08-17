@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_with_a_blog",
+  "title": "Dog with a Blog",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1571652",
+    "imdb": "tt2222135",
+    "tmdb": 43775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 68
+}

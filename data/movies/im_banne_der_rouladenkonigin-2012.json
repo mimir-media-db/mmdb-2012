@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_banne_der_rouladenkonigin_2012",
+  "title": "Im Banne der Rouladenkönigin",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1659317",
+    "imdb": "tt2218048",
+    "tmdb": 141660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 59
+}

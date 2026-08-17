@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mekong_hotel_2012",
+  "title": "Mekong Hotel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6810603",
+    "imdb": "tt1844735",
+    "tmdb": 110377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f_type_2012",
+  "title": "F Type",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6019031",
+    "imdb": "tt2584502",
+    "tmdb": 350127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 118
+}

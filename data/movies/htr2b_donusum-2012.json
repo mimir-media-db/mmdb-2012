@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_htr2b_donusum_2012",
+  "title": "htr2b: Dönüsüm",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12810000",
+    "imdb": "tt2606118",
+    "tmdb": 462504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

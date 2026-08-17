@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diaries_of_the_cheating_hearts_2012",
+  "title": "Diaries of the Cheating Hearts",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11078649",
+    "imdb": "tt27988796",
+    "tmdb": 128989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

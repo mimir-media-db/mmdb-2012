@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dodecapentathlon_2012",
+  "title": "The Do-Deca-Pentathlon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7730459",
+    "imdb": "tt0811137",
+    "tmdb": 96987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_oprah_where_are_they_now",
+  "title": "Oprah: Where Are They Now?",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7098676",
+    "imdb": "tt2466672"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 86
+}

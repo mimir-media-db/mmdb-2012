@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fragiles",
+  "title": "Frágiles",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8962929",
+    "imdb": "tt2114701",
+    "tmdb": 62435
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

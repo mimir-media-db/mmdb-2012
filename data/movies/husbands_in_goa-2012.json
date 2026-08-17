@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_husbands_in_goa_2012",
+  "title": "Husbands in Goa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11268003",
+    "imdb": "tt2407826",
+    "tmdb": 154366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loiter_squad",
+  "title": "Loiter Squad",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3258705",
+    "imdb": "tt2272367",
+    "tmdb": 40520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

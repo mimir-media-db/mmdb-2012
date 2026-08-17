@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bakugyaku_familia_2012",
+  "title": "Bakugyaku Familia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4251203",
+    "imdb": "tt1817093",
+    "tmdb": 232445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

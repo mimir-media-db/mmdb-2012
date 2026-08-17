@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jun_to_ai",
+  "title": "Jun to Ai",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6119046",
+    "imdb": "tt2284141",
+    "tmdb": 45787
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

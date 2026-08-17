@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_second_marriage_dot_com_2012",
+  "title": "Second Marriage Dot Com",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7443412",
+    "imdb": "tt2306721"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

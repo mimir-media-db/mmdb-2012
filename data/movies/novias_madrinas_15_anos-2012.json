@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_novias_madrinas_15_anos_2012",
+  "title": "Novias - Madrinas - 15 años",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6046017",
+    "imdb": "tt1864434",
+    "tmdb": 584935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 60
+}

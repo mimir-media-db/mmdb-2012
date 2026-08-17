@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marvin_marvin",
+  "title": "Marvin Marvin",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q368212",
+    "imdb": "tt2453016",
+    "tmdb": 46205
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

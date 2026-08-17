@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiempos_de_dictadura_tiempos_de_marcos_perez_jimenez_2012",
+  "title": "Tiempos de dictadura, tiempos de Marcos Pérez Jiménez",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6146559",
+    "imdb": "tt2571030",
+    "tmdb": 256527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

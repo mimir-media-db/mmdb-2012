@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_syd2030",
+  "title": "SYD2030",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17084230",
+    "imdb": "tt2175936",
+    "tmdb": 55733
+  },
+  "last_updated": "2026-08-17"
+}

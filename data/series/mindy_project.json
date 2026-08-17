@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mindy_project",
+  "title": "The Mindy Project",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q62564",
+    "imdb": "tt2211129",
+    "tmdb": 44857
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 117
+}

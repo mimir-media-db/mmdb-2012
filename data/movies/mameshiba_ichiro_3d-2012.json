@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mameshiba_ichiro_3d_2012",
+  "title": "Mameshiba Ichirō 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6745622",
+    "imdb": "tt2122407",
+    "tmdb": 1707404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

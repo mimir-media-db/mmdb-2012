@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mystery_diners",
+  "title": "Mystery Diners",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6948826",
+    "imdb": "tt2147632",
+    "tmdb": 58936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 140
+}

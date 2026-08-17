@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tree_fu_go",
+  "title": "Tree Fu Go!",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7837545",
+    "imdb": "tt2299207",
+    "tmdb": 57605
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

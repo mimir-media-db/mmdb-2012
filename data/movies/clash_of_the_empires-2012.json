@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clash_of_the_empires_2012",
+  "title": "Clash of the Empires",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2046516",
+    "imdb": "tt2456594",
+    "tmdb": 150584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_de_zonen_van_van_as",
+  "title": "De zonen van Van As",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2171653",
+    "imdb": "tt1815013",
+    "tmdb": 51887
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 52
+}

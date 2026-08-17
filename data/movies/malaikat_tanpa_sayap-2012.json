@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malaikat_tanpa_sayap_2012",
+  "title": "Malaikat Tanpa Sayap",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4843992",
+    "imdb": "tt2205448",
+    "tmdb": 388555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_starting_point",
+  "title": "Starting Point",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7602589"
+  },
+  "last_updated": "2026-08-17"
+}

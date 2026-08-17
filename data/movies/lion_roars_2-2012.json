@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_roars_2_2012",
+  "title": "The Lion Roars 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11141206",
+    "imdb": "tt2361586",
+    "tmdb": 141941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

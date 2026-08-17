@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_chills",
+  "title": "Chills",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5099110",
+    "imdb": "tt2078567"
+  },
+  "last_updated": "2026-08-17"
+}

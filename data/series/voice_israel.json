@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_israel",
+  "title": "The Voice Israel",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5007975",
+    "imdb": "tt3029822",
+    "tmdb": 257031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

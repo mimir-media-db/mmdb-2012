@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hjem",
+  "title": "Hjem",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5119136",
+    "imdb": "tt2535202",
+    "tmdb": 65079
+  },
+  "last_updated": "2026-08-17"
+}

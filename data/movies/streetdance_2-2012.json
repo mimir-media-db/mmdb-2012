@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_streetdance_2_2012",
+  "title": "StreetDance 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1139265",
+    "imdb": "tt1718903",
+    "tmdb": 85373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chintoo_2012",
+  "title": "Chintoo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5101361",
+    "imdb": "tt2401179",
+    "tmdb": 493964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

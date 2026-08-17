@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_krew_z_krwi",
+  "title": "Krew z krwi",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11748161",
+    "imdb": "tt2190324",
+    "tmdb": 48275
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

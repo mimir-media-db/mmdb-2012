@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meu_passado_me_condena",
+  "title": "Meu Passado Me Condena",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q18475377",
+    "imdb": "tt2450290",
+    "tmdb": 65486
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

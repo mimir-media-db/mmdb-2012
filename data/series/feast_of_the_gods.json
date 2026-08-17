@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_feast_of_the_gods",
+  "title": "Feast of the Gods",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q487380",
+    "imdb": "tt3216592",
+    "tmdb": 43988
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

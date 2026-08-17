@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azura_2012",
+  "title": "Azura",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12472983",
+    "imdb": "tt2203743",
+    "tmdb": 91406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

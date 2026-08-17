@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_regole_per_fare_innamorare_2012",
+  "title": "10 regole per fare innamorare",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3596941",
+    "imdb": "tt2100371",
+    "tmdb": 106942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harvest_of_empire_a_history_of_latinos_in_america_2012",
+  "title": "Harvest of Empire: A History of Latinos in America",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5676883",
+    "imdb": "tt2072987",
+    "tmdb": 130936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

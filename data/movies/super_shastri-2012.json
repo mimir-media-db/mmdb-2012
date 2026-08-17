@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_super_shastri_2012",
+  "title": "Super Shastri",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642754",
+    "imdb": "tt13940270"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

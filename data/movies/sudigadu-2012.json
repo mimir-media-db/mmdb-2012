@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sudigadu_2012",
+  "title": "Sudigadu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7633848",
+    "imdb": "tt2359290",
+    "tmdb": 155738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

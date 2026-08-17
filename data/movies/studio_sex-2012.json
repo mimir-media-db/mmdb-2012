@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_studio_sex_2012",
+  "title": "Studio Sex",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10682405",
+    "imdb": "tt2183302",
+    "tmdb": 118279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

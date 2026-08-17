@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_did_you_score_2012",
+  "title": "Did You Score?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10269870",
+    "imdb": "tt2209400",
+    "tmdb": 117534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

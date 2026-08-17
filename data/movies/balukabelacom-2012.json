@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balukabelacom_2012",
+  "title": "Balukabela.com",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4853065",
+    "imdb": "tt2580286",
+    "tmdb": 300808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

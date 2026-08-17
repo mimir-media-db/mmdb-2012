@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_now",
+  "title": "Love, Now",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1756869",
+    "imdb": "tt6273116",
+    "tmdb": 48146
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 72
+}

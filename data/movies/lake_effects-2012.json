@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lake_effects_2012",
+  "title": "Lake Effects",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870351",
+    "imdb": "tt1699498",
+    "tmdb": 127061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

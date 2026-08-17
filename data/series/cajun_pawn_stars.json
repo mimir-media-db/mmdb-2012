@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cajun_pawn_stars",
+  "title": "Cajun Pawn Stars",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5018015",
+    "imdb": "tt2140815",
+    "tmdb": 42388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_undateables",
+  "title": "The Undateables",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7771339",
+    "imdb": "tt2255443",
+    "tmdb": 44600
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 23
+}

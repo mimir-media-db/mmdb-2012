@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rzhevsky_versus_napoleon_2012",
+  "title": "Rzhevsky versus Napoleon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2603569",
+    "imdb": "tt1728245",
+    "tmdb": 90804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

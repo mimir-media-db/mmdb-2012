@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childish_games_2012",
+  "title": "Childish Games",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5097996",
+    "imdb": "tt1734428",
+    "tmdb": 120194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

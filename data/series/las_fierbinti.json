@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_fierbinti",
+  "title": "Las Fierbinți",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12731959",
+    "imdb": "tt1745739",
+    "tmdb": 46917
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 347
+}

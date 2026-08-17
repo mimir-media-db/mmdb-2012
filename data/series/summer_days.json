@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_days",
+  "title": "Summer Days",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q12407932",
+    "imdb": "tt10042182",
+    "tmdb": 100945
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 100
+}

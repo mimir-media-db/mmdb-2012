@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pobre_rico",
+  "title": "Pobre Rico",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2165806",
+    "imdb": "tt2367785",
+    "tmdb": 126015
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 227
+}

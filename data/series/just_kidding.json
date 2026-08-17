@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_just_kidding",
+  "title": "Just Kidding",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3811492",
+    "imdb": "tt3887698",
+    "tmdb": 58418
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

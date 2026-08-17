@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beau_rivage_2012",
+  "title": "Beau Rivage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893096",
+    "imdb": "tt1825674",
+    "tmdb": 224914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

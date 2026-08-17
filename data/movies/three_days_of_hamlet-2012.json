@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_days_of_hamlet_2012",
+  "title": "Three Days (of Hamlet)",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7797433",
+    "imdb": "tt1733686",
+    "tmdb": 224829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

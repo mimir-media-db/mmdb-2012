@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chrissy_mr_jones",
+  "title": "Chrissy & Mr. Jones",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5108615",
+    "imdb": "tt2466126",
+    "tmdb": 65031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

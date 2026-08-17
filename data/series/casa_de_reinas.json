@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_casa_de_reinas",
+  "title": "Casa de Reinas",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5755005",
+    "imdb": "tt9121024",
+    "tmdb": 136175
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

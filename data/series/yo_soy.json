@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yo_soy",
+  "title": "Yo Soy",
+  "start_year": 2012,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q6170127",
+    "imdb": "tt2196360",
+    "tmdb": 46972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 25,
+  "total_episodes": 138
+}

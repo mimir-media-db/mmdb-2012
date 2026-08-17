@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_together_forever",
+  "title": "Together Forever",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7813109",
+    "imdb": "tt3738946",
+    "tmdb": 44889
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

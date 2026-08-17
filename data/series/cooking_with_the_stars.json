@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cooking_with_the_stars",
+  "title": "Cooking with the Stars",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5167156",
+    "imdb": "tt3337558",
+    "tmdb": 44025
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

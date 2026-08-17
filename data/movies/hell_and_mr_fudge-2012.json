@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_and_mr_fudge_2012",
+  "title": "Hell and Mr. Fudge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5706746",
+    "imdb": "tt1966465",
+    "tmdb": 241739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

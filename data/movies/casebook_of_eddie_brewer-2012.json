@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_casebook_of_eddie_brewer_2012",
+  "title": "The Casebook of Eddie Brewer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7721542",
+    "imdb": "tt2298489",
+    "tmdb": 140821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

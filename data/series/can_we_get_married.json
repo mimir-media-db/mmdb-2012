@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_can_we_get_married",
+  "title": "Can We Get Married?",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5217257",
+    "imdb": "tt3247224",
+    "tmdb": 46538
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

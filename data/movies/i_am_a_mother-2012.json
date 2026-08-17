@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_a_mother_2012",
+  "title": "I Am a Mother",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5961710",
+    "imdb": "tt2161962",
+    "tmdb": 508413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

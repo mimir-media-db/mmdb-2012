@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_ranjid_rettet_die_welt_2012",
+  "title": "Agent Ranjid rettet die Welt",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q392756",
+    "imdb": "tt2219188",
+    "tmdb": 138672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

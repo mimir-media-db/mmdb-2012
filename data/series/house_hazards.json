@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_house_hazards",
+  "title": "House Hazards",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5913658"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

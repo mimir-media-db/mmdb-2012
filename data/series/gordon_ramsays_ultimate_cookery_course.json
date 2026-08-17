@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gordon_ramsays_ultimate_cookery_course",
+  "title": "Gordon Ramsay's Ultimate Cookery Course",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2805201",
+    "imdb": "tt2438272",
+    "tmdb": 59442
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

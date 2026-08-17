@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avunu_2012",
+  "title": "Avunu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4829568",
+    "imdb": "tt3402542",
+    "tmdb": 176104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

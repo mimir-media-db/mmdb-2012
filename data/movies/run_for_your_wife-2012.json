@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_run_for_your_wife_2012",
+  "title": "Run for Your Wife",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7379567",
+    "imdb": "tt1965057",
+    "tmdb": 166392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

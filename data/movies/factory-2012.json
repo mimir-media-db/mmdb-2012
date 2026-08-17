@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_factory_2012",
+  "title": "The Factory",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520827",
+    "imdb": "tt1132285",
+    "tmdb": 136911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 104
+}

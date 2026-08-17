@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_auction_room",
+  "title": "Auction Room",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4819600"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_tag_der_norddeutschen_2012",
+  "title": "Der Tag der Norddeutschen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197299",
+    "imdb": "tt7066808"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 1080
+}

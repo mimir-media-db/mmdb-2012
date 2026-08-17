@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blondie_2012",
+  "title": "Blondie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4121234",
+    "imdb": "tt2287661",
+    "tmdb": 123358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

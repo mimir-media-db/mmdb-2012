@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_oka_tokat",
+  "title": "Oka Tokat",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7081698",
+    "imdb": "tt2204911",
+    "tmdb": 44625
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

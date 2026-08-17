@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lan_kwai_fong_2_2012",
+  "title": "Lan Kwai Fong 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10923591",
+    "imdb": "tt2253038",
+    "tmdb": 144473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

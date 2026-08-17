@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sin_reaper_3d_2012",
+  "title": "Sin Reaper 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1466863",
+    "imdb": "tt2188885",
+    "tmdb": 230263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

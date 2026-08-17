@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brynne_my_bedazzled_life",
+  "title": "Brynne: My Bedazzled Life",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4981026",
+    "imdb": "tt6138550",
+    "tmdb": 59412
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

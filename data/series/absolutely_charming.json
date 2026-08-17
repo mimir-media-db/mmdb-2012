@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_absolutely_charming",
+  "title": "Absolutely Charming",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q16057999",
+    "imdb": "tt12230206",
+    "tmdb": 44848
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

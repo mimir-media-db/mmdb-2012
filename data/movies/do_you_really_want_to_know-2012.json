@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_you_really_want_to_know_2012",
+  "title": "Do You Really Want to Know?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5286366",
+    "imdb": "tt2302579",
+    "tmdb": 295812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

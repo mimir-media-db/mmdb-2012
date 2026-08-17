@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cutoff_man_2012",
+  "title": "The Cutoff Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6768897",
+    "imdb": "tt2219708",
+    "tmdb": 129113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 76
+}

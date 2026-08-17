@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tamar_vince",
+  "title": "Tamar & Vince",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7680721",
+    "imdb": "tt2158001",
+    "tmdb": 59636
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 38
+}

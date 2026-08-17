@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inaccurate_memoir_2012",
+  "title": "An Inaccurate Memoir",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4750046",
+    "imdb": "tt2400407",
+    "tmdb": 134770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

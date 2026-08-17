@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tempete_sous_un_crane_2012",
+  "title": "Tempête sous un crâne",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3517859",
+    "imdb": "tt2479438",
+    "tmdb": 146593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

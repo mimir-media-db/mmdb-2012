@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saturday_morning_massacre_2012",
+  "title": "Saturday Morning Massacre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7426645",
+    "imdb": "tt2321501",
+    "tmdb": 116475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

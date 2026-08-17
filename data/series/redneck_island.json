@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_redneck_island",
+  "title": "Redneck Island",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7306155",
+    "imdb": "tt2396087",
+    "tmdb": 64864
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 46
+}

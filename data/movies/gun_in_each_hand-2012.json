@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_in_each_hand_2012",
+  "title": "A Gun in Each Hand",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6155879",
+    "imdb": "tt1945034",
+    "tmdb": 139808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

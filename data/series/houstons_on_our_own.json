@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_houstons_on_our_own",
+  "title": "The Houstons: On Our Own",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7740737",
+    "imdb": "tt2398043",
+    "tmdb": 59224
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

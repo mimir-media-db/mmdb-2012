@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rauwer_2012",
+  "title": "Rauwer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2947916",
+    "imdb": "tt2594654",
+    "tmdb": 310447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 57
+}

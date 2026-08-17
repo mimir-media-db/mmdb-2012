@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chal_pichchur_banate_hain_2012",
+  "title": "Chal Pichchur Banate Hain",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068497",
+    "imdb": "tt2367056",
+    "tmdb": 271416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

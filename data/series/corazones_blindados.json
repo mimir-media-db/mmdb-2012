@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_corazones_blindados",
+  "title": "Corazones blindados",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5788207",
+    "imdb": "tt2523062",
+    "tmdb": 121253
+  },
+  "last_updated": "2026-08-17"
+}

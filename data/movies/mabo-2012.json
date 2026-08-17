@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mabo_2012",
+  "title": "Mabo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6721611",
+    "imdb": "tt2112195",
+    "tmdb": 114021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

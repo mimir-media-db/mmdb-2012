@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_twelve_men_in_a_year",
+  "title": "Twelve Men in a Year",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6860873",
+    "imdb": "tt2585230",
+    "tmdb": 60198
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

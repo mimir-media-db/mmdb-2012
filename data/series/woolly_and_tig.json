@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_woolly_and_tig",
+  "title": "Woolly and Tig",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8033868",
+    "imdb": "tt2145456",
+    "tmdb": 84227
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loslopend_wild",
+  "title": "Loslopend Wild",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3178155",
+    "imdb": "tt2266466",
+    "tmdb": 122966
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

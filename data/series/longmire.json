@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_longmire",
+  "title": "Longmire",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3006225",
+    "imdb": "tt1836037",
+    "tmdb": 43901
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 63
+}

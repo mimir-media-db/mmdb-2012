@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_studio_c",
+  "title": "Studio C",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16981574",
+    "imdb": "tt2445666",
+    "tmdb": 68207
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 21
+}

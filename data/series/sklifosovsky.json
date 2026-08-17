@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sklifosovsky",
+  "title": "Sklifosovsky",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16272363",
+    "imdb": "tt3781262",
+    "tmdb": 69591
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 240
+}

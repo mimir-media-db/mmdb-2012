@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_stone_lions_at_the_gateway_into_night_2012",
+  "title": "Like Stone Lions at the Gateway into Night",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6547144",
+    "imdb": "tt2248723",
+    "tmdb": 251222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

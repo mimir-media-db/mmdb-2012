@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_ishhq_2012",
+  "title": "Dangerous Ishhq",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q968441",
+    "imdb": "tt1971365",
+    "tmdb": 106586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

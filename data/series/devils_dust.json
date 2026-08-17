@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_devils_dust",
+  "title": "Devil's Dust",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5267120",
+    "imdb": "tt2259197",
+    "tmdb": 46399
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kromer_late_night_show",
+  "title": "Krömer - Late Night Show",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1790631",
+    "imdb": "tt2322468",
+    "tmdb": 55449
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

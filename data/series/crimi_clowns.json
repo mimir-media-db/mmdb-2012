@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crimi_clowns",
+  "title": "Crimi Clowns",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2538577",
+    "imdb": "tt2256612",
+    "tmdb": 55509
+  },
+  "last_updated": "2026-08-17"
+}

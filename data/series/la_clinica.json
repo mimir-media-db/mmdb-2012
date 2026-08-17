@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_clinica",
+  "title": "La clínica",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5966248"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 120
+}

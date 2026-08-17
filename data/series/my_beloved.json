@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_beloved",
+  "title": "My Beloved",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6944998",
+    "imdb": "tt2230275",
+    "tmdb": 42390
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_thirty_shekels_for_hour",
+  "title": "Thirty Shekels for Hour",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12403187",
+    "imdb": "tt3012188"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

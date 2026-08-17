@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_always_sanchome_no_yuhi_64_2012",
+  "title": "Always Sanchōme no Yūhi '64",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902058",
+    "imdb": "tt1823067",
+    "tmdb": 121239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 142
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hoarder_next_door",
+  "title": "The Hoarder Next Door",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7739901",
+    "imdb": "tt2169598",
+    "tmdb": 58766
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 15
+}

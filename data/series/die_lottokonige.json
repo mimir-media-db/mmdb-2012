@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_die_lottokonige",
+  "title": "Die LottoKönige",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19965511",
+    "imdb": "tt2366869",
+    "tmdb": 63078
+  },
+  "last_updated": "2026-08-17"
+}

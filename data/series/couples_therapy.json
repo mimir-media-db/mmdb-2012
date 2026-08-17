@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_couples_therapy",
+  "title": "Couples Therapy",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5178028",
+    "imdb": "tt2245519",
+    "tmdb": 45301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 48
+}

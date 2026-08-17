@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_yesterday_comes_2012",
+  "title": "When Yesterday Comes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11088901",
+    "imdb": "tt2460716",
+    "tmdb": 126810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 77
+}

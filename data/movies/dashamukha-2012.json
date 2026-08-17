@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dashamukha_2012",
+  "title": "Dashamukha",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5226579",
+    "imdb": "tt3008348",
+    "tmdb": 1509711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_toledo",
+  "title": "Toledo",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q9088079",
+    "imdb": "tt2091188",
+    "tmdb": 62826
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

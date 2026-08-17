@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cardinal_burns",
+  "title": "Cardinal Burns",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5038532",
+    "imdb": "tt2404043",
+    "tmdb": 44825
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

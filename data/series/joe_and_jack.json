@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_joe_and_jack",
+  "title": "Joe and Jack",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30603472",
+    "imdb": "tt2734194",
+    "tmdb": 125395
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

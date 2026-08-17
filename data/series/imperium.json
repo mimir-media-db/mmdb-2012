@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_imperium",
+  "title": "Imperium",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3311049",
+    "imdb": "tt2293719",
+    "tmdb": 63885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

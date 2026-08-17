@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pound_shop_wars",
+  "title": "Pound Shop Wars",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17018116",
+    "imdb": "tt3532766",
+    "tmdb": 64051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

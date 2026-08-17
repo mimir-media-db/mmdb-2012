@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_affair",
+  "title": "A Beautiful Affair",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q490837",
+    "imdb": "tt4287584",
+    "tmdb": 44119
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

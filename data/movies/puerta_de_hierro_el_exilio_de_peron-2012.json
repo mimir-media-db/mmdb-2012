@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puerta_de_hierro_el_exilio_de_peron_2012",
+  "title": "Puerta de Hierro, el exilio de Perón",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11504814",
+    "imdb": "tt2512204",
+    "tmdb": 222759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

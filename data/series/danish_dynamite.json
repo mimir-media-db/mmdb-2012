@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_danish_dynamite",
+  "title": "Danish Dynamite",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17347427",
+    "imdb": "tt2208231",
+    "tmdb": 53950
+  },
+  "last_updated": "2026-08-17"
+}

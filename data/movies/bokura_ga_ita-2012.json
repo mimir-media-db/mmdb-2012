@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bokura_ga_ita_2012",
+  "title": "Bokura ga Ita",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3595767",
+    "imdb": "tt1866931",
+    "tmdb": 140054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 123
+}

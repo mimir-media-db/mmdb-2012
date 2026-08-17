@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theresa_is_a_mother_2012",
+  "title": "Theresa is a Mother",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7782912",
+    "imdb": "tt1989646",
+    "tmdb": 361398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

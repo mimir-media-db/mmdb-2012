@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wicked_tuna",
+  "title": "Wicked Tuna",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7998300",
+    "imdb": "tt2191567",
+    "tmdb": 62598
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 41
+}

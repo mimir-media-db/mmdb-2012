@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_love_you_2012",
+  "title": "Born to Love You",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4945990",
+    "imdb": "tt2200860",
+    "tmdb": 122476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

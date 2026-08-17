@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_couple_2012",
+  "title": "The Golden Couple",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7449329",
+    "imdb": "tt2879102",
+    "tmdb": 259373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

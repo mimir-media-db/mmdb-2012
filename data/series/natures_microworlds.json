@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_natures_microworlds",
+  "title": "Nature's Microworlds",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6980860",
+    "imdb": "tt2288138",
+    "tmdb": 58262
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

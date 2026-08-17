@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tu_maimestu",
+  "title": "Tu m'aimes-tu?",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3541716",
+    "imdb": "tt2786330",
+    "tmdb": 86940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

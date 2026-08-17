@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_mike_2012",
+  "title": "Magic Mike",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197932",
+    "imdb": "tt1915581",
+    "tmdb": 77930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

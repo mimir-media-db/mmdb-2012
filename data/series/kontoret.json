@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kontoret",
+  "title": "Kontoret",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20228663",
+    "imdb": "tt2263665",
+    "tmdb": 39127
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

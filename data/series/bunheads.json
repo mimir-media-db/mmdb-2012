@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bunheads",
+  "title": "Bunheads",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q952568",
+    "imdb": "tt2006848",
+    "tmdb": 42329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}

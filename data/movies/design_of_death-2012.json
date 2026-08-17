@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_design_of_death_2012",
+  "title": "Design Of Death",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11095077",
+    "imdb": "tt2290645",
+    "tmdb": 114464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 109
+}

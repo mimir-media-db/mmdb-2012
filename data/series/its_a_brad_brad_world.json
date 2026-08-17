@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_a_brad_brad_world",
+  "title": "It's a Brad, Brad World",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6091044",
+    "imdb": "tt1879455",
+    "tmdb": 42346
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

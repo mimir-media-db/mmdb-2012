@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sessao_de_terapia",
+  "title": "Sessão de Terapia",
+  "start_year": 2012,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q10370686",
+    "imdb": "tt2928890",
+    "tmdb": 57553
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 185
+}

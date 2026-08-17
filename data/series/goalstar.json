@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_goalstar",
+  "title": "Goalstar",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6967690",
+    "imdb": "tt2485550",
+    "tmdb": 64064
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 108
+}

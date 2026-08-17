@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_luna_blanca",
+  "title": "Luna Blanca",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12967433",
+    "imdb": "tt6867382",
+    "tmdb": 222647
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 115
+}

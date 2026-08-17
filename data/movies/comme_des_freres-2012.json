@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comme_des_freres_2012",
+  "title": "Comme des frères",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986014",
+    "imdb": "tt2112129",
+    "tmdb": 143567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 104
+}

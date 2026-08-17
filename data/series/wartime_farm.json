@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wartime_farm",
+  "title": "Wartime Farm",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7971031",
+    "imdb": "tt2470814",
+    "tmdb": 58699
+  },
+  "last_updated": "2026-08-17"
+}

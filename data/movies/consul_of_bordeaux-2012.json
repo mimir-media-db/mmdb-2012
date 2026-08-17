@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_consul_of_bordeaux_2012",
+  "title": "The Consul of Bordeaux",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q665692",
+    "imdb": "tt2075263",
+    "tmdb": 89886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

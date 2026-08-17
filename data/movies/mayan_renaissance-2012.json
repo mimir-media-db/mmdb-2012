@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayan_renaissance_2012",
+  "title": "Mayan Renaissance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6796826",
+    "imdb": "tt2100579",
+    "tmdb": 243965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_tomato",
+  "title": "Mr. Tomato",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16133366"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 69
+}

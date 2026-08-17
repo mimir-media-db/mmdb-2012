@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lawless_2012",
+  "title": "Lawless",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q253901",
+    "imdb": "tt1212450",
+    "tmdb": 82633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 115
+}

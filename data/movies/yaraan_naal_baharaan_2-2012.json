@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaraan_naal_baharaan_2_2012",
+  "title": "Yaraan Naal Baharaan 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8049202",
+    "imdb": "tt2273160",
+    "tmdb": 137516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

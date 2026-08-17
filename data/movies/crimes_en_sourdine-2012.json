@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_crimes_en_sourdine_2012",
+  "title": "Crimes en sourdine",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3002632",
+    "imdb": "tt2317622"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

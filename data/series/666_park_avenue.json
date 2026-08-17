@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_666_park_avenue",
+  "title": "666 Park Avenue",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q254964",
+    "imdb": "tt2197797",
+    "tmdb": 43188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

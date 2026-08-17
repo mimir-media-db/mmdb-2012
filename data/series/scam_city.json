@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scam_city",
+  "title": "Scam City",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2562190",
+    "imdb": "tt2207986",
+    "tmdb": 59580
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

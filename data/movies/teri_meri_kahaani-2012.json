@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teri_meri_kahaani_2012",
+  "title": "Teri Meri Kahaani",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3518373",
+    "imdb": "tt2354407",
+    "tmdb": 120942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 117
+}

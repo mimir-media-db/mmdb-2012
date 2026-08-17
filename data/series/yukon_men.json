@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yukon_men",
+  "title": "Yukon Men",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q8060834",
+    "imdb": "tt2378020",
+    "tmdb": 59117
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

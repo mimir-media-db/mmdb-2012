@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_late_blossom",
+  "title": "Late Blossom",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6799111",
+    "imdb": "tt1862020",
+    "tmdb": 239237
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

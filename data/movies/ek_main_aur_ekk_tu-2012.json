@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_main_aur_ekk_tu_2012",
+  "title": "Ek Main Aur Ekk Tu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3933658",
+    "imdb": "tt1703958",
+    "tmdb": 84533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

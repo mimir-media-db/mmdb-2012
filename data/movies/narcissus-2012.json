@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narcissus_2012",
+  "title": "Narcissus",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6965650",
+    "imdb": "tt2380089",
+    "tmdb": 282991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

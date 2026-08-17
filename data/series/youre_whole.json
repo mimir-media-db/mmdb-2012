@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_youre_whole",
+  "title": "You're Whole",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17060312",
+    "imdb": "tt2272868",
+    "tmdb": 223188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

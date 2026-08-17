@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_buenas_noches_y_buenafuente",
+  "title": "Buenas noches y Buenafuente",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6398823",
+    "imdb": "tt2356061",
+    "tmdb": 60976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_cesko_slovensko",
+  "title": "The Voice Česko Slovensko",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q373330",
+    "imdb": "tt2163949",
+    "tmdb": 87301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

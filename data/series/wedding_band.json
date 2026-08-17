@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wedding_band",
+  "title": "Wedding Band",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q135685",
+    "imdb": "tt1798701",
+    "tmdb": 43860
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_litalia_2012",
+  "title": "Viva l'Italia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4015634",
+    "imdb": "tt2508478",
+    "tmdb": 142320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

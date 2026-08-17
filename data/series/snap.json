@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_snap",
+  "title": "S.N.A.P.",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7387236",
+    "tmdb": 46990
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_movie_out_here_2012",
+  "title": "The Movie Out Here",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7752552",
+    "imdb": "tt2498626",
+    "tmdb": 199565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

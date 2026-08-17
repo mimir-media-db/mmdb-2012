@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anna_bond_2012",
+  "title": "Anna Bond",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4766866",
+    "imdb": "tt2146950",
+    "tmdb": 618176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 136
+}

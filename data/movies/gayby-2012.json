@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gayby_2012",
+  "title": "Gayby",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5528739",
+    "imdb": "tt2106739",
+    "tmdb": 458877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

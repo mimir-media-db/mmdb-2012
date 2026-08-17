@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_line_of_duty",
+  "title": "Line of Duty",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6553279",
+    "imdb": "tt2303687",
+    "tmdb": 43982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 36
+}

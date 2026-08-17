@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wako_wako",
+  "title": "Wako Wako",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7961197",
+    "imdb": "tt2264767",
+    "tmdb": 44238
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 57
+}

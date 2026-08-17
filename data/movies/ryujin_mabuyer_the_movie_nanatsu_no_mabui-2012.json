@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ryujin_mabuyer_the_movie_nanatsu_no_mabui_2012",
+  "title": "Ryujin Mabuyer the Movie: Nanatsu no Mabui",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1661521",
+    "imdb": "tt1876430",
+    "tmdb": 326319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

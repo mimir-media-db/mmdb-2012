@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_a_good_time_call_2012",
+  "title": "For a Good Time, Call...",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5466990",
+    "imdb": "tt1996264",
+    "tmdb": 84200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

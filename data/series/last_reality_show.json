@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_reality_show",
+  "title": "The Last Reality Show",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7745962",
+    "imdb": "tt2071731",
+    "tmdb": 44041
+  },
+  "last_updated": "2026-08-17"
+}

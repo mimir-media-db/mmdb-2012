@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lizzie_bennet_diaries",
+  "title": "The Lizzie Bennet Diaries",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7747920",
+    "imdb": "tt2392261",
+    "tmdb": 43237
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jumping_boy_2012",
+  "title": "Jumping Boy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10868817",
+    "imdb": "tt2458160",
+    "tmdb": 498651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

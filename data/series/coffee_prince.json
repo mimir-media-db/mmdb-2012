@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_coffee_prince",
+  "title": "Coffee Prince",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5140920",
+    "imdb": "tt2449910",
+    "tmdb": 222435
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

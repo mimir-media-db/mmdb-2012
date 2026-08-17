@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pitch",
+  "title": "The Pitch",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7757294",
+    "imdb": "tt2287229",
+    "tmdb": 43706
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

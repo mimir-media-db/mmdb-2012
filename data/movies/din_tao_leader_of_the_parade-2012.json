@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_din_tao_leader_of_the_parade_2012",
+  "title": "Din Tao: Leader of the Parade",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4204477",
+    "imdb": "tt2301291",
+    "tmdb": 118609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamaho_yama_2012",
+  "title": "Yamaho Yama",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8047825",
+    "imdb": "tt2486238",
+    "tmdb": 232312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

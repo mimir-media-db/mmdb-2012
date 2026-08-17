@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keyhole_2012",
+  "title": "Keyhole",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548128",
+    "imdb": "tt1674775",
+    "tmdb": 93084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

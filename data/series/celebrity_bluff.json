@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_bluff",
+  "title": "Celebrity Bluff",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q5057700",
+    "imdb": "tt3279612",
+    "tmdb": 59768
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 248
+}

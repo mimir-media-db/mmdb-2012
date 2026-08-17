@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peddlers_2012",
+  "title": "Peddlers",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7159069",
+    "imdb": "tt2198101",
+    "tmdb": 128161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

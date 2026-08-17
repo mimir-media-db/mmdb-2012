@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puppe_icke_der_dicke_2012",
+  "title": "Puppe, Icke & der Dicke",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3410898",
+    "imdb": "tt2071458",
+    "tmdb": 138780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

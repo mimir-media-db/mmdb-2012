@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_them_softly_2012",
+  "title": "Killing Them Softly",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136264",
+    "imdb": "tt1764234",
+    "tmdb": 64689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

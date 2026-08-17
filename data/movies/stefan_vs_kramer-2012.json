@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stefan_vs_kramer_2012",
+  "title": "Stefan v/s Kramer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6133899",
+    "imdb": "tt2328188",
+    "tmdb": 132706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

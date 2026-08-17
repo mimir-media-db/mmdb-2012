@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pintada",
+  "title": "Pintada",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7196504",
+    "imdb": "tt2269348",
+    "tmdb": 43565
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

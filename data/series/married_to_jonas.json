@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_married_to_jonas",
+  "title": "Married to Jonas",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6420561",
+    "imdb": "tt2385649",
+    "tmdb": 57098
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cycle",
+  "title": "The Cycle",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7728542"
+  },
+  "last_updated": "2026-08-17"
+}

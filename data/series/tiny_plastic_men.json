@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tiny_plastic_men",
+  "title": "Tiny Plastic Men",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18788581",
+    "imdb": "tt2388250",
+    "tmdb": 231981
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

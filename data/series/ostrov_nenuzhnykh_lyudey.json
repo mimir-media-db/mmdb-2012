@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ostrov_nenuzhnykh_lyudey",
+  "title": "Ostrov nenuzhnykh lyudey",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4338866",
+    "imdb": "tt3575330",
+    "tmdb": 138088
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

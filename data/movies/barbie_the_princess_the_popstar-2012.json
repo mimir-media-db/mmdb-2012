@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_the_princess_the_popstar_2012",
+  "title": "Barbie: The Princess & the Popstar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2884193",
+    "imdb": "tt2396690",
+    "tmdb": 129533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_story_2_2012",
+  "title": "A Christmas Story 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655922",
+    "imdb": "tt2281069",
+    "tmdb": 125504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

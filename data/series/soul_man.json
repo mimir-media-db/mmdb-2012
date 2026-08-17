@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soul_man",
+  "title": "The Soul Man",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q302737",
+    "imdb": "tt2400129",
+    "tmdb": 42992
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 54
+}

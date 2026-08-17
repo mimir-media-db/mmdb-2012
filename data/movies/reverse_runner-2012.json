@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reverse_runner_2012",
+  "title": "Reverse Runner",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7318200",
+    "imdb": "tt2071567",
+    "tmdb": 318348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

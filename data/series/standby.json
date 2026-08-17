@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_standby",
+  "title": "Standby",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q487371",
+    "imdb": "tt5890956",
+    "tmdb": 44553
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_full_house_take_2",
+  "title": "Full House Take 2",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492328",
+    "imdb": "tt2580084",
+    "tmdb": 46540
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

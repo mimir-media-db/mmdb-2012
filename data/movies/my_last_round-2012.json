@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_last_round_2012",
+  "title": "My Last Round",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012611",
+    "imdb": "tt1863321",
+    "tmdb": 106294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

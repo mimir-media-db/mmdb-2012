@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_perception",
+  "title": "Perception",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2632294",
+    "imdb": "tt1714204",
+    "tmdb": 39957
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

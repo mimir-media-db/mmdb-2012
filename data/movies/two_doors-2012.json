@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_two_doors_2012",
+  "title": "Two Doors",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7858927",
+    "imdb": "tt7600874",
+    "tmdb": 133170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

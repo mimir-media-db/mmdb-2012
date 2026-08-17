@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_catalina",
+  "title": "The Catalina",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7721683",
+    "imdb": "tt2292187",
+    "tmdb": 43153
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

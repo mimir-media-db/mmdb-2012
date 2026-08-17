@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crooked_arrows_2012",
+  "title": "Crooked Arrows",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5187783",
+    "imdb": "tt1954352",
+    "tmdb": 106135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

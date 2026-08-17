@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feo_de_dia_lindo_de_noche_2012",
+  "title": "Feo de día, lindo de noche",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12175107",
+    "imdb": "tt2595872",
+    "tmdb": 397050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

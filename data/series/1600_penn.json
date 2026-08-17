@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_1600_penn",
+  "title": "1600 Penn",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q80217",
+    "imdb": "tt2266639",
+    "tmdb": 43243
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

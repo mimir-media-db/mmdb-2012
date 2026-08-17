@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_nfl_am",
+  "title": "NFL AM",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6953710"
+  },
+  "last_updated": "2026-08-17"
+}

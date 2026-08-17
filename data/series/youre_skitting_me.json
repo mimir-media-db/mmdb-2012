@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_youre_skitting_me",
+  "title": "You're Skitting Me",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q8056591",
+    "imdb": "tt2261141",
+    "tmdb": 58080
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

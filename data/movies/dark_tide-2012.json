@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_tide_2012",
+  "title": "Dark Tide",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74319",
+    "imdb": "tt1507563",
+    "tmdb": 59963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

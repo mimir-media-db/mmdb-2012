@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_2_soliti_idioti_2012",
+  "title": "I 2 soliti idioti",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790021",
+    "imdb": "tt2557964",
+    "tmdb": 152100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

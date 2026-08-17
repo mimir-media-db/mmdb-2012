@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_test_pack_2012",
+  "title": "Test Pack",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12521085",
+    "imdb": "tt2455368",
+    "tmdb": 187151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

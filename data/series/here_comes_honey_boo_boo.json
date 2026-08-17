@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_here_comes_honey_boo_boo",
+  "title": "Here Comes Honey Boo Boo",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2791134",
+    "imdb": "tt2288050",
+    "tmdb": 45516
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_old_prison_2012",
+  "title": "老獄/OLD PRISON",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11610658",
+    "imdb": "tt2290629"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

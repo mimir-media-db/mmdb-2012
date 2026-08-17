@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_the_north_2012",
+  "title": "Once Upon a Time in the North",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5324603",
+    "imdb": "tt1925446",
+    "tmdb": 105983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_from_sydney_with_love_2012",
+  "title": "From Sydney with Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5505522",
+    "imdb": "tt2185084",
+    "tmdb": 302963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

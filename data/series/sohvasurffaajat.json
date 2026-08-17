@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sohvasurffaajat",
+  "title": "Sohvasurffaajat",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23039905",
+    "imdb": "tt3005858",
+    "tmdb": 279915
+  },
+  "last_updated": "2026-08-17"
+}

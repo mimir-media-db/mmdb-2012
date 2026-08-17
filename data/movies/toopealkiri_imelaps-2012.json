@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toopealkiri_imelaps_2012",
+  "title": "Tööpealkiri: Imelaps",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12377598",
+    "imdb": "tt2279298",
+    "tmdb": 1227068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

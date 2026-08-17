@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starship_troopers_invasion_2012",
+  "title": "Starship Troopers: Invasion",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2700340",
+    "imdb": "tt2085930",
+    "tmdb": 114478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

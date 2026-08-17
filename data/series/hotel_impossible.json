@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_impossible",
+  "title": "Hotel Impossible",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5911599",
+    "imdb": "tt2129304",
+    "tmdb": 49038
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 84
+}

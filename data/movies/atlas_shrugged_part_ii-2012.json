@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atlas_shrugged_part_ii_2012",
+  "title": "Atlas Shrugged: Part II",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4816841",
+    "imdb": "tt1985017",
+    "tmdb": 134371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

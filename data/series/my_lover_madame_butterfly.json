@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lover_madame_butterfly",
+  "title": "My Lover, Madame Butterfly",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6797000",
+    "imdb": "tt6357810",
+    "tmdb": 60328
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

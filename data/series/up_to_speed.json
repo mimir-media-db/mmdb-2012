@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_up_to_speed",
+  "title": "Up to Speed",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7898134",
+    "imdb": "tt2188577",
+    "tmdb": 43587
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

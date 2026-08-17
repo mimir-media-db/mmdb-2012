@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lucky_seven",
+  "title": "Lucky Seven",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q872103",
+    "imdb": "tt2108808",
+    "tmdb": 44727
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

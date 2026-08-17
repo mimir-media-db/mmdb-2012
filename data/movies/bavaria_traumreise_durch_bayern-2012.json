@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bavaria_traumreise_durch_bayern_2012",
+  "title": "Bavaria - Traumreise durch Bayern",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q811999",
+    "imdb": "tt2250890",
+    "tmdb": 148267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

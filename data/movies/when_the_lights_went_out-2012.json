@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_lights_went_out_2012",
+  "title": "When the Lights Went Out",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1149717",
+    "imdb": "tt1743993",
+    "tmdb": 50497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

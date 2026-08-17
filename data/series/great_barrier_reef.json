@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_great_barrier_reef",
+  "title": "Great Barrier Reef",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5598707",
+    "imdb": "tt2185885",
+    "tmdb": 46516
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

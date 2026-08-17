@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_philly_kid_2012",
+  "title": "The Philly Kid",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2262966",
+    "imdb": "tt1937506",
+    "tmdb": 102222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

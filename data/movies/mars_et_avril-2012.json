@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mars_et_avril_2012",
+  "title": "Mars et Avril",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3294972",
+    "imdb": "tt1638277",
+    "tmdb": 177117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touch_of_the_light_2012",
+  "title": "Touch of the Light",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q429077",
+    "imdb": "tt2368920",
+    "tmdb": 134990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

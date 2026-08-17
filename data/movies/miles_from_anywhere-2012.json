@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miles_from_anywhere_2012",
+  "title": "Miles From Anywhere",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870338",
+    "imdb": "tt1669794",
+    "tmdb": 111943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

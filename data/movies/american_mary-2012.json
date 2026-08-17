@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_mary_2012",
+  "title": "American Mary",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4744400",
+    "imdb": "tt1959332",
+    "tmdb": 126277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

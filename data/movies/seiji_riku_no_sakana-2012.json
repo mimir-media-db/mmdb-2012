@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seiji_riku_no_sakana_2012",
+  "title": "Seiji: Riku no Sakana",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7446723",
+    "imdb": "tt1789898",
+    "tmdb": 328042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

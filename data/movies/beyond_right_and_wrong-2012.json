@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_right_and_wrong_2012",
+  "title": "Beyond Right and Wrong",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12102275",
+    "imdb": "tt2458202",
+    "tmdb": 270885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

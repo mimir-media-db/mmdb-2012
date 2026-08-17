@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stand_by_me",
+  "title": "Stand By Me",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15917804",
+    "imdb": "tt2202646",
+    "tmdb": 128054
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

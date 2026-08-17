@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_pickup_the_movie_2012",
+  "title": "Boy Pick-Up: The Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4952118",
+    "imdb": "tt2179520",
+    "tmdb": 130129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

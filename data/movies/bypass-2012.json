@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bypass_2012",
+  "title": "Bypass",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12255572",
+    "imdb": "tt2121338",
+    "tmdb": 135900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

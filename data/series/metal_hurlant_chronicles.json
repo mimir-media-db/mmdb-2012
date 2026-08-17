@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_metal_hurlant_chronicles",
+  "title": "Métal Hurlant Chronicles",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3333440",
+    "imdb": "tt1629348",
+    "tmdb": 45658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

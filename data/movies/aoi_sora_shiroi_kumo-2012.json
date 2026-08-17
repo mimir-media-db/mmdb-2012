@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aoi_sora_shiroi_kumo_2012",
+  "title": "Aoi sora shiroi kumo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11660974",
+    "imdb": "tt1975119"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

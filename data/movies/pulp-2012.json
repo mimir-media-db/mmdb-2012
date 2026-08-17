@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulp_2012",
+  "title": "Pulp",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7259568",
+    "imdb": "tt1737680",
+    "tmdb": 139026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

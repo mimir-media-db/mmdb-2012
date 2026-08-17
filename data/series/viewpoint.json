@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_viewpoint",
+  "title": "Viewpoint",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7928815"
+  },
+  "last_updated": "2026-08-17"
+}

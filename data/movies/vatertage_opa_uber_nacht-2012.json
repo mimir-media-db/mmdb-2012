@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vatertage_opa_uber_nacht_2012",
+  "title": "Vatertage - Opa über Nacht",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1769215",
+    "imdb": "tt2211044",
+    "tmdb": 111325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

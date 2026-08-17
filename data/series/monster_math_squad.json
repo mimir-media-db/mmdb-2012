@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monster_math_squad",
+  "title": "Monster Math Squad",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6005810",
+    "imdb": "tt2289057",
+    "tmdb": 103850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 50
+}

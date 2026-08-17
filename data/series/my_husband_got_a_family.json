@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_husband_got_a_family",
+  "title": "My Husband Got a Family",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492357",
+    "imdb": "tt2483728",
+    "tmdb": 45020
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 58
+}

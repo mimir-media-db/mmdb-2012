@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joyful_noise_2012",
+  "title": "Joyful Noise",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2085298",
+    "imdb": "tt1710396",
+    "tmdb": 63574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 118
+}

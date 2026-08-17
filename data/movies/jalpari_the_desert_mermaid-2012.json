@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jalpari_the_desert_mermaid_2012",
+  "title": "Jalpari: The Desert Mermaid",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6126980",
+    "imdb": "tt2387495",
+    "tmdb": 149082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

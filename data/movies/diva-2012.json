@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diva_2012",
+  "title": "Diva",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10846891",
+    "imdb": "tt2235184",
+    "tmdb": 136936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 102
+}

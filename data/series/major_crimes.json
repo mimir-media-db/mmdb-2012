@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_major_crimes",
+  "title": "Major Crimes",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q738219",
+    "imdb": "tt1936532",
+    "tmdb": 39483
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 105
+}

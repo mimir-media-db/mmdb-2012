@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_keumala_2012",
+  "title": "Keumala",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12491537",
+    "imdb": "tt2251772",
+    "tmdb": 418073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_air_aces",
+  "title": "Air Aces",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4697714",
+    "imdb": "tt2247314",
+    "tmdb": 239374
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_and_fall_of_a_white_collar_hooligan_2012",
+  "title": "The Rise and Fall of a White Collar Hooligan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7760874",
+    "imdb": "tt2121377",
+    "tmdb": 115547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

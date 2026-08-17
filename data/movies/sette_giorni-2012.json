@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sette_giorni_2012",
+  "title": "Sette giorni",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3958316"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 60
+}

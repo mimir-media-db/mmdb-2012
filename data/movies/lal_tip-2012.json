@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lal_tip_2012",
+  "title": "Lal Tip",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13059695",
+    "imdb": "tt2855180",
+    "tmdb": 467564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

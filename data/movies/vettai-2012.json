@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vettai_2012",
+  "title": "Vettai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7923787",
+    "imdb": "tt1956697",
+    "tmdb": 69504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

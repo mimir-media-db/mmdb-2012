@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chorabali_2012",
+  "title": "Chorabali",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3353038",
+    "imdb": "tt2408912",
+    "tmdb": 541662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 137
+}

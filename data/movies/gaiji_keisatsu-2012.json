@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaiji_keisatsu_2012",
+  "title": "Gaiji Keisatsu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189810",
+    "imdb": "tt2097267",
+    "tmdb": 1608930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

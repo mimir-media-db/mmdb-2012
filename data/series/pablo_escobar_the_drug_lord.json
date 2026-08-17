@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pablo_escobar_the_drug_lord",
+  "title": "Pablo Escobar, The Drug Lord",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q172426",
+    "imdb": "tt2187850",
+    "tmdb": 43348
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bye_bye_blondie_2012",
+  "title": "Bye Bye Blondie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2929154",
+    "imdb": "tt1688064",
+    "tmdb": 134781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

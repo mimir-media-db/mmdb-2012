@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bridal_mask",
+  "title": "Bridal Mask",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q487388",
+    "imdb": "tt3139942",
+    "tmdb": 44956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 28
+}

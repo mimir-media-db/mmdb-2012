@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mankind_the_story_of_all_of_us",
+  "title": "Mankind: The Story of All of Us",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6750543",
+    "imdb": "tt2431022",
+    "tmdb": 62006
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_tower",
+  "title": "Blue Tower",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13515670",
+    "imdb": "tt3850860",
+    "tmdb": 100227
+  },
+  "last_updated": "2026-08-17"
+}

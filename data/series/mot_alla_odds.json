@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mot_alla_odds",
+  "title": "Mot alla odds",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20749327"
+  },
+  "last_updated": "2026-08-17"
+}

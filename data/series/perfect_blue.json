@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_blue",
+  "title": "Perfect Blue",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7167953",
+    "imdb": "tt2367302",
+    "tmdb": 46069
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_gay_and_muslim_2012",
+  "title": "I Am Gay and Muslim",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4535676",
+    "imdb": "tt2188912",
+    "tmdb": 509259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 59
+}

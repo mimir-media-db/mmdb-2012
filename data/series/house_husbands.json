@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_husbands",
+  "title": "House Husbands",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5903537",
+    "imdb": "tt2402807",
+    "tmdb": 44072
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 46
+}

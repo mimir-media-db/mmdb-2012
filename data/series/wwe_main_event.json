@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_main_event",
+  "title": "WWE Main Event",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q35718",
+    "imdb": "tt2659152",
+    "tmdb": 46707
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 439
+}

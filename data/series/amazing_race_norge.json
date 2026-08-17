@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_race_norge",
+  "title": "The Amazing Race Norge",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2372621",
+    "imdb": "tt2356541",
+    "tmdb": 45257
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

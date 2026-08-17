@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bungo_stories_of_desire_2012",
+  "title": "Bungo Stories Of Desire",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11191885",
+    "imdb": "tt2320498",
+    "tmdb": 322838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idiots_2012",
+  "title": "Idiots",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5989032",
+    "imdb": "tt2622956",
+    "tmdb": 395198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

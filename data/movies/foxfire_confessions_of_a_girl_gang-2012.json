@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foxfire_confessions_of_a_girl_gang_2012",
+  "title": "Foxfire: Confessions of a Girl Gang",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2091631",
+    "imdb": "tt1772270",
+    "tmdb": 101998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 143
+}

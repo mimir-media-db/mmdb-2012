@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_nouveaux_chiens_de_garde_2012",
+  "title": "Les Nouveaux Chiens De Garde",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234228",
+    "imdb": "tt1988699",
+    "tmdb": 150049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 104
+}

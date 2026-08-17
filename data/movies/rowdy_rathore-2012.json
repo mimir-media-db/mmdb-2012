@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rowdy_rathore_2012",
+  "title": "Rowdy Rathore",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7371867",
+    "imdb": "tt2077833",
+    "tmdb": 102632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_partners",
+  "title": "Partners",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q210683",
+    "imdb": "tt2248977",
+    "tmdb": 43755
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

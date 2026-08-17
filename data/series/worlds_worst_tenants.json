@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_worst_tenants",
+  "title": "World's Worst Tenants",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8035261",
+    "imdb": "tt2223758",
+    "tmdb": 47138
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wolven",
+  "title": "Wolven",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1981639",
+    "imdb": "tt1475553",
+    "tmdb": 36404
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

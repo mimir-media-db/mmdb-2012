@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guns_girls_and_gambling_2012",
+  "title": "Guns, Girls and Gambling",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5619330",
+    "imdb": "tt1675161",
+    "tmdb": 132923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

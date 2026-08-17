@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_species_2012",
+  "title": "Tokyo Species",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7813991",
+    "imdb": "tt2435148",
+    "tmdb": 97642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

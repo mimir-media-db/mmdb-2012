@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_me_suis_fait_tout_petit_2012",
+  "title": "Je me suis fait tout petit",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163457",
+    "imdb": "tt1992163",
+    "tmdb": 147798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

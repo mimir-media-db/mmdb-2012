@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_go_on",
+  "title": "Go On",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1304135",
+    "imdb": "tt2300923",
+    "tmdb": 44987
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_life",
+  "title": "Love Life",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6690958",
+    "imdb": "tt2297703",
+    "tmdb": 40967
+  },
+  "last_updated": "2026-08-17"
+}

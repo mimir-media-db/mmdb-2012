@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trisha_goddard_show",
+  "title": "The Trisha Goddard Show",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7770271",
+    "imdb": "tt2501940",
+    "tmdb": 221487
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 260
+}

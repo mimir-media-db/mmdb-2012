@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thieves_are_everywhere_2012",
+  "title": "Thieves are everywhere",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q283286",
+    "imdb": "tt2188749",
+    "tmdb": 84879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

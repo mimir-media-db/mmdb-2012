@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alien_deep_with_bob_ballard",
+  "title": "Alien Deep with Bob Ballard",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q46993899",
+    "imdb": "tt2399098",
+    "tmdb": 49952
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_article_23_2012",
+  "title": "Article 23",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2865525",
+    "imdb": "tt2567558",
+    "tmdb": 147693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_faithfully",
+  "title": "Faithfully",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5431301",
+    "imdb": "tt2887802",
+    "tmdb": 44892
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_los_rey",
+  "title": "Los Rey",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6683210",
+    "imdb": "tt2581736",
+    "tmdb": 44649
+  },
+  "last_updated": "2026-08-17"
+}

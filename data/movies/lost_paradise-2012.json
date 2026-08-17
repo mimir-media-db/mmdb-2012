@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_paradise_2012",
+  "title": "Lost Paradise",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3363261",
+    "imdb": "tt1863352",
+    "tmdb": 141687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

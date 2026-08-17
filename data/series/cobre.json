@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cobre",
+  "title": "Cobre",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5775778",
+    "imdb": "tt2803758",
+    "tmdb": 103958
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

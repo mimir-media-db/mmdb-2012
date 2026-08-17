@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_julia",
+  "title": "Julia",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11728945",
+    "imdb": "tt2448896",
+    "tmdb": 60278
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 186
+}

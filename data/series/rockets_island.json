@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rockets_island",
+  "title": "Rocket's Island",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17019093",
+    "imdb": "tt2555406",
+    "tmdb": 323914
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 29
+}

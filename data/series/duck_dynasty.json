@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_duck_dynasty",
+  "title": "Duck Dynasty",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q15067038",
+    "imdb": "tt2229907",
+    "tmdb": 42738
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 101
+}

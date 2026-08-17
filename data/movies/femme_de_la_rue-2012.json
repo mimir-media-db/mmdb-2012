@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_femme_de_la_rue_2012",
+  "title": "Femme de la rue",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2194701",
+    "imdb": "tt2677366",
+    "tmdb": 873742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

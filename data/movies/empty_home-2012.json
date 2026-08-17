@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_empty_home_2012",
+  "title": "The Empty Home",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7731979",
+    "imdb": "tt2381347",
+    "tmdb": 136862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

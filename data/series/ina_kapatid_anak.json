@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ina_kapatid_anak",
+  "title": "Ina, Kapatid, Anak",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6013149",
+    "imdb": "tt2878412",
+    "tmdb": 17424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 178
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nashville",
+  "title": "Nashville",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q210676",
+    "imdb": "tt2281375",
+    "tmdb": 44549
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 124
+}

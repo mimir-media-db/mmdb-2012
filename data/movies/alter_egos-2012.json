@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alter_egos_2012",
+  "title": "Alter Egos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4736279",
+    "imdb": "tt1907614",
+    "tmdb": 126442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

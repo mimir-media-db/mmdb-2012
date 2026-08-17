@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_qi",
+  "title": "Q.I.",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q109042328",
+    "imdb": "tt2799160",
+    "tmdb": 63339
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

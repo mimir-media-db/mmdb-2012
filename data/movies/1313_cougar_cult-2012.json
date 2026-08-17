@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1313_cougar_cult_2012",
+  "title": "1313: Cougar Cult",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2807530",
+    "imdb": "tt2024351",
+    "tmdb": 84565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

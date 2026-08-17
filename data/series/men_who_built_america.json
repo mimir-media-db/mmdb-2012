@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_men_who_built_america",
+  "title": "The Men Who Built America",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7750993",
+    "imdb": "tt2167393",
+    "tmdb": 56304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

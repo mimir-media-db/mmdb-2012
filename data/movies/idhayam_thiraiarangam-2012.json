@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idhayam_thiraiarangam_2012",
+  "title": "Idhayam Thiraiarangam",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5988599",
+    "imdb": "tt13394244",
+    "tmdb": 117061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

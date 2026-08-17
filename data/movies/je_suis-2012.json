@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_je_suis_2012",
+  "title": "Je suis",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163517",
+    "imdb": "tt2325735",
+    "tmdb": 499796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

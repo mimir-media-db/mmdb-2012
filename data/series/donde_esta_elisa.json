@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_donde_esta_elisa",
+  "title": "¿Dónde está Elisa?",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3576576",
+    "imdb": "tt2288516"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_humans",
+  "title": "Real Humans",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2690883",
+    "imdb": "tt2180271",
+    "tmdb": 43058
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

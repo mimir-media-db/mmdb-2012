@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_department_2012",
+  "title": "Department",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5260097",
+    "imdb": "tt2186731",
+    "tmdb": 117784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

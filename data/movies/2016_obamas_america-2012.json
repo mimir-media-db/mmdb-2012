@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2016_obamas_america_2012",
+  "title": "2016: Obama's America",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4630336",
+    "imdb": "tt2247692",
+    "tmdb": 126509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}
