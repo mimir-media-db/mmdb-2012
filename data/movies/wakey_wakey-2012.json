@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wakey_wakey_2012",
+  "title": "Wakey Wakey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132636571",
+    "imdb": "tt2342421",
+    "tmdb": 517042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 63
+}

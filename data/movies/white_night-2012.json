@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_night_2012",
+  "title": "White Night",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19841020",
+    "imdb": "tt2753288",
+    "tmdb": 141032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 75
+}

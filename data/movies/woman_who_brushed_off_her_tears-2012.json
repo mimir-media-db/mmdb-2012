@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_who_brushed_off_her_tears_2012",
+  "title": "The Woman Who Brushed Off Her Tears",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20650052",
+    "imdb": "tt1946484",
+    "tmdb": 321392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

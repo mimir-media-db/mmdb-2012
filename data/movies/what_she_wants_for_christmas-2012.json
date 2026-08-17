@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_she_wants_for_christmas_2012",
+  "title": "What She Wants for Christmas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85300989",
+    "imdb": "tt2316852",
+    "tmdb": 151172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

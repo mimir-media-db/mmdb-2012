@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrath_of_the_titans_2012",
+  "title": "Wrath of the Titans",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q226773",
+    "imdb": "tt1646987",
+    "tmdb": 57165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-29",
+  "runtime_minutes": 99
+}

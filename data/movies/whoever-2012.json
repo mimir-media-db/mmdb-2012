@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whoever_2012",
+  "title": "Whoever",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27951698",
+    "imdb": "tt2460768",
+    "tmdb": 680569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-09"
+}

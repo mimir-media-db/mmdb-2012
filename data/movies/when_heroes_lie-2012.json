@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_heroes_lie_2012",
+  "title": "When Heroes Lie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5488039",
+    "imdb": "tt2142889",
+    "tmdb": 161456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05",
+  "runtime_minutes": 119
+}

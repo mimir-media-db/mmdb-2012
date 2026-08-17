@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallenda_2012",
+  "title": "Wallenda",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115478322",
+    "imdb": "tt2094183",
+    "tmdb": 307642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-23"
+}

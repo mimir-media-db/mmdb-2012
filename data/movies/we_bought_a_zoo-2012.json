@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_bought_a_zoo_2012",
+  "title": "We Bought a Zoo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q956681",
+    "imdb": "tt1389137",
+    "tmdb": 74465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-22",
+  "runtime_minutes": 123
+}

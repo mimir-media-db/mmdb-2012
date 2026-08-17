@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_do_we_go_now_2012",
+  "title": "Where Do We Go Now?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1766235",
+    "imdb": "tt1772424",
+    "tmdb": 77461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-22",
+  "runtime_minutes": 100
+}

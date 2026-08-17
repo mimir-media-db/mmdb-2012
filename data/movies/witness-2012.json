@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_witness_2012",
+  "title": "The Witness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7775330",
+    "imdb": "tt2293003",
+    "tmdb": 288049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-21"
+}

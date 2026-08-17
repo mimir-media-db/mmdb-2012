@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wasted_2012",
+  "title": "Wasted",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136094741",
+    "tmdb": 1520193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-31",
+  "runtime_minutes": 15
+}

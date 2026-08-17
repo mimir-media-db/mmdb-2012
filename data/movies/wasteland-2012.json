@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wasteland_2012",
+  "title": "Wasteland",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15853740",
+    "imdb": "tt2504910",
+    "tmdb": 157585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-05",
+  "runtime_minutes": 118
+}

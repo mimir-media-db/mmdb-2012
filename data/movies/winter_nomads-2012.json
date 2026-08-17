@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_nomads_2012",
+  "title": "Winter Nomads",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14348901",
+    "imdb": "tt2215113",
+    "tmdb": 99879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-10",
+  "runtime_minutes": 89
+}

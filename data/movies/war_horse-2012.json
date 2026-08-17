@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_horse_2012",
+  "title": "War Horse",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q218589",
+    "imdb": "tt1568911",
+    "tmdb": 57212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 146
+}

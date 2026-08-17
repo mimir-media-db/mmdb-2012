@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_elizabeth_in_mount_dora_2012",
+  "title": "With Elizabeth in Mount Dora",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962234",
+    "imdb": "tt2175607",
+    "tmdb": 475898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-26",
+  "runtime_minutes": 88
+}

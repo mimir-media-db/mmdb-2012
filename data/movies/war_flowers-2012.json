@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_flowers_2012",
+  "title": "War Flowers",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17041183",
+    "imdb": "tt1688704",
+    "tmdb": 133206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

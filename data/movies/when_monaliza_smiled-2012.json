@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_monaliza_smiled_2012",
+  "title": "When Monaliza Smiled",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17071461",
+    "imdb": "tt2388422",
+    "tmdb": 613698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-20"
+}

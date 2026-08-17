@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_a_wolf_falls_in_love_with_a_sheep_2012",
+  "title": "When a Wolf Falls in Love with a Sheep",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15911222",
+    "imdb": "tt2636362",
+    "tmdb": 140822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-09",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wiggles_surfer_jeff_2012",
+  "title": "The Wiggles : Surfer Jeff",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130846639",
+    "imdb": "tt2245778",
+    "tmdb": 134749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolwedans_in_die_skemer_2012",
+  "title": "Wolwedans in die skemer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13036428",
+    "imdb": "tt2188965",
+    "tmdb": 171046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05"
+}

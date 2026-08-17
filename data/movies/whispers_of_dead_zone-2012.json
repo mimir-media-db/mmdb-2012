@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whispers_of_dead_zone_2012",
+  "title": "Whispers of Dead Zone",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16967381",
+    "imdb": "tt2298553",
+    "tmdb": 1252610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

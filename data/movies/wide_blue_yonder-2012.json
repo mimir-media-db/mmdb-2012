@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wide_blue_yonder_2012",
+  "title": "Wide Blue Yonder",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22661616",
+    "imdb": "tt0858500",
+    "tmdb": 630305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-25",
+  "runtime_minutes": 88
+}
