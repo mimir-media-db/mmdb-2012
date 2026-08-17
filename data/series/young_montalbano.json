@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_young_montalbano",
+  "title": "The Young Montalbano",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3794235",
+    "imdb": "tt2259665",
+    "tmdb": 62652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
