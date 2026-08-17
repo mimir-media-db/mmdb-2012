@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_23_pares",
+  "title": "23 pares",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5651694",
+    "imdb": "tt4818104",
+    "tmdb": 227378
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
