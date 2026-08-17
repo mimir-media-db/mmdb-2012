@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_united_stats_of_america",
+  "title": "United Stats of America",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7893565",
+    "imdb": "tt2167569",
+    "tmdb": 42798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

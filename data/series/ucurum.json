@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ucurum",
+  "title": "Uçurum",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1426144",
+    "imdb": "tt3212064",
+    "tmdb": 80982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

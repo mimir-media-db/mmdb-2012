@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_undercover_boss",
+  "title": "Undercover Boss",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7883505",
+    "imdb": "tt2177313",
+    "tmdb": 45008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

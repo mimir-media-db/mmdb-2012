@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_unzipped",
+  "title": "Unzipped",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7897862",
+    "imdb": "tt0396969"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

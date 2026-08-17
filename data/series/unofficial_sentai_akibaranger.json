@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unofficial_sentai_akibaranger",
+  "title": "Unofficial Sentai Akibaranger",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2773983",
+    "imdb": "tt2259601",
+    "tmdb": 78591
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
