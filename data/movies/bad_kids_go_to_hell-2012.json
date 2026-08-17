@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_kids_go_to_hell_2012",
+  "title": "Bad Kids Go to Hell",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4840343",
+    "imdb": "tt1865573",
+    "tmdb": 138372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

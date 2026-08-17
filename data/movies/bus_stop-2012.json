@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bus_stop_2012",
+  "title": "Bus Stop",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5001200",
+    "imdb": "tt8660466",
+    "tmdb": 360868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

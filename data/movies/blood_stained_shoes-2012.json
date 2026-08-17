@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_stained_shoes_2012",
+  "title": "Blood Stained Shoes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4927714",
+    "imdb": "tt2238995",
+    "tmdb": 112516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

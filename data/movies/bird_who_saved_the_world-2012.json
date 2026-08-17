@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bird_who_saved_the_world_2012",
+  "title": "The Bird Who Saved the World",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10883704",
+    "imdb": "tt10510384",
+    "tmdb": 1087282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

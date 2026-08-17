@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baandhon_2012",
+  "title": "Baandhon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4837167",
+    "imdb": "tt2188116",
+    "tmdb": 556455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

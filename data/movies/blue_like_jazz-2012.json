@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_like_jazz_2012",
+  "title": "Blue Like Jazz",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4929366",
+    "imdb": "tt1758575",
+    "tmdb": 98369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

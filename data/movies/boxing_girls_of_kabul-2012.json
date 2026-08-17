@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boxing_girls_of_kabul_2012",
+  "title": "The Boxing Girls of Kabul",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719595",
+    "imdb": "tt2391069",
+    "tmdb": 191879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

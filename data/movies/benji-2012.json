@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benji_2012",
+  "title": "Benji",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4889511",
+    "imdb": "tt2519480",
+    "tmdb": 180705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bu_son_olsun_2012",
+  "title": "Bu Son Olsun",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12808945",
+    "imdb": "tt2145623",
+    "tmdb": 112084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balancing_act_2012",
+  "title": "Balancing Act",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3772087",
+    "imdb": "tt2370096",
+    "tmdb": 141810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

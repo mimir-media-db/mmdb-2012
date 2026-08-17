@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bronies_the_extremely_unexpected_adult_fans_of_my_little_pony_2012",
+  "title": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4973878",
+    "imdb": "tt2446192",
+    "tmdb": 160220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

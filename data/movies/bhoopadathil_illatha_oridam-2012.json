@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhoopadathil_illatha_oridam_2012",
+  "title": "Bhoopadathil Illatha Oridam",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4901980",
+    "imdb": "tt4887722",
+    "tmdb": 143389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

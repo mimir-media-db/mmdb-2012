@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_body_complete_2012",
+  "title": "Body Complete",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4936804",
+    "imdb": "tt1945048",
+    "tmdb": 434582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

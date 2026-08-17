@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_girls_2012",
+  "title": "Bad Girls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10942754",
+    "imdb": "tt2445236",
+    "tmdb": 136930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

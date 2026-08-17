@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_fix_2012",
+  "title": "The Big Fix",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7717637",
+    "imdb": "tt1939753",
+    "tmdb": 111118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

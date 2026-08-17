@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brett_vorm_kopp_2012",
+  "title": "Brett vor'm Kopp",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q910891",
+    "imdb": "tt1781783",
+    "tmdb": 448148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

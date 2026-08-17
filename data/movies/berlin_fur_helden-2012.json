@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_fur_helden_2012",
+  "title": "Berlin für Helden",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1535741",
+    "imdb": "tt2214851",
+    "tmdb": 111945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

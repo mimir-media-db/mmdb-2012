@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bill_w_2012",
+  "title": "Bill W.",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4911248",
+    "imdb": "tt2275549",
+    "tmdb": 108540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

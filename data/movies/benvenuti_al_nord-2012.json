@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_benvenuti_al_nord_2012",
+  "title": "Benvenuti al Nord",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2896775",
+    "imdb": "tt1756415",
+    "tmdb": 85038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

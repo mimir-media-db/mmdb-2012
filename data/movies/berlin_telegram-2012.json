@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_telegram_2012",
+  "title": "Berlin Telegram",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2897260",
+    "imdb": "tt1825678",
+    "tmdb": 230913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

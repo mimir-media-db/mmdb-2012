@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bol_bachchan_2012",
+  "title": "Bol Bachchan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2909273",
+    "imdb": "tt1728986",
+    "tmdb": 112936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 155
+}

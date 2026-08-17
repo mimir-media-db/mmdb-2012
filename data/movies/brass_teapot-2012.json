@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brass_teapot_2012",
+  "title": "The Brass Teapot",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986092",
+    "imdb": "tt1935902",
+    "tmdb": 127867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}
