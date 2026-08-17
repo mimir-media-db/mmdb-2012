@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_head_games_2012",
+  "title": "Head Games",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5689152",
+    "imdb": "tt2239400",
+    "tmdb": 127505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

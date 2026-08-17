@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_survive_a_plague_2012",
+  "title": "How to Survive a Plague",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3700505",
+    "imdb": "tt2124803",
+    "tmdb": 84286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

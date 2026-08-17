@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horde_2012",
+  "title": "The Horde",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3624018",
+    "imdb": "tt2331066",
+    "tmdb": 130264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 129
+}

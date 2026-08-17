@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_motors_2012",
+  "title": "Holy Motors",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q304739",
+    "imdb": "tt2076220",
+    "tmdb": 103328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 115
+}

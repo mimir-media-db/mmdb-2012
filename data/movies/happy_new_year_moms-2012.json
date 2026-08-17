@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_new_year_moms_2012",
+  "title": "Happy New Year, Moms!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4402946",
+    "imdb": "tt2592500",
+    "tmdb": 159447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanya_aku_cinta_kau_seorang_2012",
+  "title": "Hanya Aku Cinta Kau Seorang",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12687505",
+    "imdb": "tt2393766",
+    "tmdb": 119299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

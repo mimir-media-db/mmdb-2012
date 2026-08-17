@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_boiled_sweets_2012",
+  "title": "Hard Boiled Sweets",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5655142",
+    "imdb": "tt1711458",
+    "tmdb": 89260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

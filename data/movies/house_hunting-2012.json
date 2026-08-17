@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_hunting_2012",
+  "title": "House Hunting",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5913665",
+    "imdb": "tt1608368",
+    "tmdb": 158967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

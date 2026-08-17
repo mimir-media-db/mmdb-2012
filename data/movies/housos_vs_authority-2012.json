@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_housos_vs_authority_2012",
+  "title": "Housos vs. Authority",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5916271",
+    "imdb": "tt2483516",
+    "tmdb": 172040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}
