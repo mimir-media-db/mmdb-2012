@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nacer_contigo",
+  "title": "Nacer contigo",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3334743",
+    "imdb": "tt12421484",
+    "tmdb": 203069
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

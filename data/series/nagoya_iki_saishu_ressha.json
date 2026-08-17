@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_nagoya_iki_saishu_ressha",
+  "title": "Nagoya Iki Saishū Ressha",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11415248"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_noel_fieldings_luxury_comedy",
+  "title": "Noel Fielding's Luxury Comedy",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4045423",
+    "imdb": "tt2220083",
+    "tmdb": 43333
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

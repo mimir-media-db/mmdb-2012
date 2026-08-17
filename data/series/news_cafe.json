@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_news_cafe",
+  "title": "News Café",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18353123"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 114
+}

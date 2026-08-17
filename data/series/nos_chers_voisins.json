@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nos_chers_voisins",
+  "title": "Nos chers voisins",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3344295",
+    "imdb": "tt2298746",
+    "tmdb": 65881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 1700
+}

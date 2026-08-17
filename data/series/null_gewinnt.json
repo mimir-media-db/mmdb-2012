@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_null_gewinnt",
+  "title": "Null gewinnt",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q106640576",
+    "imdb": "tt2273308"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 27
+}

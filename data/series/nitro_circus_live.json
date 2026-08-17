@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nitro_circus_live",
+  "title": "Nitro Circus Live",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16164112",
+    "imdb": "tt2871284",
+    "tmdb": 58800
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

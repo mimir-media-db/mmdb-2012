@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_next_big_thing_ny",
+  "title": "The Next Big Thing: NY",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7753954",
+    "imdb": "tt2381353"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

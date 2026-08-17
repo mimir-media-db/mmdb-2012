@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_numtums",
+  "title": "The Numtums",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7754496",
+    "imdb": "tt4059610",
+    "tmdb": 58620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 77
+}
