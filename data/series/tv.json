@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_tv",
+  "title": "TV조선 저녁 일일연속극",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12581991"
+  },
+  "last_updated": "2026-08-17"
+}

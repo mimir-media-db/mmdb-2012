@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_touch_of_cloth",
+  "title": "A Touch of Cloth",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4660213",
+    "imdb": "tt2240991",
+    "tmdb": 45482
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_take_care_of_us",
+  "title": "Take Care of Us",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q487106",
+    "imdb": "tt3019384",
+    "tmdb": 45225
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

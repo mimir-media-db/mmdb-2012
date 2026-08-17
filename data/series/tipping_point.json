@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tipping_point",
+  "title": "Tipping Point",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7808929",
+    "imdb": "tt2841872",
+    "tmdb": 56926
+  },
+  "last_updated": "2026-08-17"
+}

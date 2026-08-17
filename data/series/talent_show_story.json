@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_talent_show_story",
+  "title": "The Talent Show Story",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7768009",
+    "imdb": "tt2181655",
+    "tmdb": 43939
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tokyo_zenryoku_shojo",
+  "title": "Tokyo Zenryoku Shōjo",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q903106",
+    "imdb": "tt2385926",
+    "tmdb": 45809
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

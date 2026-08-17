@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_three_kingdoms_rpg",
+  "title": "Three Kingdoms RPG",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7797556",
+    "tmdb": 38927
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}
