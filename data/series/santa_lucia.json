@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_santa_lucia",
+  "title": "Santa Lucia",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112336161",
+    "tmdb": 293942
+  },
+  "last_updated": "2026-08-17"
+}

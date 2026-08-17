@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_steve_harvey",
+  "title": "Steve Harvey",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7612788",
+    "imdb": "tt2380710",
+    "tmdb": 51999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 500
+}

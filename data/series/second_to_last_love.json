@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_second_to_last_love",
+  "title": "Second to Last Love",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5235089",
+    "imdb": "tt2119858",
+    "tmdb": 42180
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 34
+}

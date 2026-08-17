@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah_millican_television_programme",
+  "title": "The Sarah Millican Television Programme",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7762274",
+    "imdb": "tt2294225",
+    "tmdb": 43961
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_strip_the_city",
+  "title": "Strip the City",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q109701847",
+    "imdb": "tt2471672",
+    "tmdb": 63889
+  },
+  "last_updated": "2026-08-17"
+}

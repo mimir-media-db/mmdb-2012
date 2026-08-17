@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_salvage_dawgs",
+  "title": "Salvage Dawgs",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q106608776",
+    "imdb": "tt2662810",
+    "tmdb": 64897
+  },
+  "last_updated": "2026-08-17"
+}

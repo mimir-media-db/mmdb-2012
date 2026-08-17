@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shaun_micallefs_mad_as_hell",
+  "title": "Shaun Micallef's Mad as Hell",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7490919",
+    "imdb": "tt2155043",
+    "tmdb": 44982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 72
+}

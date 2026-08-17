@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_showbiz_inside_report",
+  "title": "Showbiz Inside Report",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7503132",
+    "tmdb": 59669
+  },
+  "last_updated": "2026-08-17"
+}

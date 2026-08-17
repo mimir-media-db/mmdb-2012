@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_small_town_big_deal",
+  "title": "Small Town Big Deal",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30642678",
+    "imdb": "tt4003914",
+    "tmdb": 300042
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 183
+}

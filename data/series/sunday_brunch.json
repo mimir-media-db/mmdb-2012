@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sunday_brunch",
+  "title": "Sunday Brunch",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7639349",
+    "imdb": "tt2326935",
+    "tmdb": 44963
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

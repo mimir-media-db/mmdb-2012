@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_syndicate",
+  "title": "The Syndicate",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7767823",
+    "imdb": "tt2299141",
+    "tmdb": 19305
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 17
+}

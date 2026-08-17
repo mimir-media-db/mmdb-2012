@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saiko_no_jinsei",
+  "title": "Saiko no Jinsei",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q714385",
+    "imdb": "tt2108249",
+    "tmdb": 42296
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seksenler",
+  "title": "Seksenler",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6101572",
+    "imdb": "tt2361816",
+    "tmdb": 50666
+  },
+  "last_updated": "2026-08-17"
+}

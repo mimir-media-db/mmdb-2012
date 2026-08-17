@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_the_money",
+  "title": "Show Me the Money",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12603085",
+    "tmdb": 68884
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

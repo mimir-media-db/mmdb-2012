@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stamos_okupa2",
+  "title": "Stamos okupa2",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6133690",
+    "imdb": "tt2171498",
+    "tmdb": 71429
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

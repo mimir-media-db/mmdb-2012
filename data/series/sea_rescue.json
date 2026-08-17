@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sea_rescue",
+  "title": "Sea Rescue",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7439980",
+    "imdb": "tt2353113",
+    "tmdb": 200833
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 54
+}

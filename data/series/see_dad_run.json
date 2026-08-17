@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_see_dad_run",
+  "title": "See Dad Run",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q134127",
+    "imdb": "tt2382108",
+    "tmdb": 59500
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 50
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sergeant_tabloid",
+  "title": "Sergeant Tabloid",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7453408",
+    "tmdb": 42147
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

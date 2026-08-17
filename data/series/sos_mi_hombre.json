@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sos_mi_hombre",
+  "title": "Sos mi hombre",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6132611",
+    "imdb": "tt2359772",
+    "tmdb": 67977
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 202
+}

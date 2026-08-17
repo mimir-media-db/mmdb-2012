@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strange_calls",
+  "title": "The Strange Calls",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7766890",
+    "imdb": "tt2268019",
+    "tmdb": 46427
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
