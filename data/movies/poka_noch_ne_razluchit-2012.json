@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poka_noch_ne_razluchit_2012",
+  "title": "Poka noch ne razluchit",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4369007",
+    "imdb": "tt2209180",
+    "tmdb": 139559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 70
+}

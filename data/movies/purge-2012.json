@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_purge_2012",
+  "title": "Purge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2618838",
+    "imdb": "tt1714205",
+    "tmdb": 135225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 125
+}

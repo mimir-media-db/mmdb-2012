@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pluto_2012",
+  "title": "Pluto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170264",
+    "imdb": "tt2741624",
+    "tmdb": 133964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_peaceful_2012",
+  "title": "Private Peaceful",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18277107",
+    "imdb": "tt1667439",
+    "tmdb": 143970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-12",
+  "runtime_minutes": 100
+}

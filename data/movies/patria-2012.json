@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_patria_2012",
+  "title": "Pátria",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106547384",
+    "imdb": "tt4773534"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12",
+  "runtime_minutes": 26
+}

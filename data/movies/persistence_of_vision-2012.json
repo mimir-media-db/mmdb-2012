@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_persistence_of_vision_2012",
+  "title": "Persistence of Vision",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17143687",
+    "imdb": "tt2265495",
+    "tmdb": 137845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 83
+}

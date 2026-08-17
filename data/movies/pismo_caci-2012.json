@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pismo_caci_2012",
+  "title": "Pismo ćaći",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67175000",
+    "imdb": "tt2287666",
+    "tmdb": 354583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-22"
+}

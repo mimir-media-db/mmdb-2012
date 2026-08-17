@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_prathiroo_2012",
+  "title": "Prathiroo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830768",
+    "imdb": "tt9817938"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-23"
+}

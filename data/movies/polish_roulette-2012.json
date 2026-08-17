@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polish_roulette_2012",
+  "title": "Polish Roulette",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9352277",
+    "imdb": "tt2012645",
+    "tmdb": 111071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20",
+  "runtime_minutes": 99
+}

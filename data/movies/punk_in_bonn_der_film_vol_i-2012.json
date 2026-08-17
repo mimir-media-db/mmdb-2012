@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punk_in_bonn_der_film_vol_i_2012",
+  "title": "Punk in Bonn – Der Film Vol. I",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43038945",
+    "imdb": "tt7137782",
+    "tmdb": 722741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 115
+}

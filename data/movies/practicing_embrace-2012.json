@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_practicing_embrace_2012",
+  "title": "Practicing Embrace",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750174",
+    "imdb": "tt2597726",
+    "tmdb": 171781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

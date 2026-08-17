@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_porn_in_the_hood_2012",
+  "title": "Porn in the Hood",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233474",
+    "imdb": "tt2282849",
+    "tmdb": 123229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-10",
+  "runtime_minutes": 95
+}

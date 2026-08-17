@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pinky_moge_wali_2012",
+  "title": "Pinky Moge Wali",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7196243",
+    "imdb": "tt2387820",
+    "tmdb": 138082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-28"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_2012",
+  "title": "Papa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12621523",
+    "imdb": "tt2081329",
+    "tmdb": 134004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-01"
+}

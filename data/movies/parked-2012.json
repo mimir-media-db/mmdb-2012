@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parked_2012",
+  "title": "Parked",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7138240",
+    "imdb": "tt1571409",
+    "tmdb": 59110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_palabar_poth_nei_2012",
+  "title": "Palabar Poth Nei",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131861179",
+    "imdb": "tt33046389"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_policeman_2012",
+  "title": "Policeman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893726",
+    "imdb": "tt1978447",
+    "tmdb": 96888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25",
+  "runtime_minutes": 105
+}

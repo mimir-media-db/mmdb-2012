@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_per_anhalter_uber_den_atlantik_2012",
+  "title": "Per Anhalter über den Atlantik",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20665500"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 58
+}

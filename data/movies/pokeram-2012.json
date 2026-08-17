@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pokeram_2012",
+  "title": "Poker.Am",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20506836",
+    "imdb": "tt2536426",
+    "tmdb": 404536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-04",
+  "runtime_minutes": 97
+}

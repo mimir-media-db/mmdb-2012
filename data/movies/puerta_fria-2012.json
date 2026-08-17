@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puerta_fria_2012",
+  "title": "A puerta fría",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16142616",
+    "imdb": "tt1986760",
+    "tmdb": 160946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paternal_house_2012",
+  "title": "The Paternal House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755457",
+    "imdb": "tt2420018",
+    "tmdb": 182829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07"
+}

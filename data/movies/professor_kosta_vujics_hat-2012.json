@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_professor_kosta_vujics_hat_2012",
+  "title": "Professor Kosta Vujic's Hat",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12646096",
+    "imdb": "tt2054808",
+    "tmdb": 110892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-01",
+  "runtime_minutes": 121
+}

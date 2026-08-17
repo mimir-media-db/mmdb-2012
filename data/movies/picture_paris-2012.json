@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_picture_paris_2012",
+  "title": "Picture Paris",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16800962",
+    "imdb": "tt2080359",
+    "tmdb": 151703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

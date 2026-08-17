@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_c_2012",
+  "title": "Plan C",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2310430",
+    "imdb": "tt1922689",
+    "tmdb": 114929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01",
+  "runtime_minutes": 95
+}

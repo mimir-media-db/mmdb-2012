@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prasad_2012",
+  "title": "Prasad",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19580858",
+    "imdb": "tt13859404",
+    "tmdb": 1321437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passion_of_marie_2012",
+  "title": "The Passion of Marie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4992391",
+    "imdb": "tt1961192",
+    "tmdb": 133783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 102
+}
