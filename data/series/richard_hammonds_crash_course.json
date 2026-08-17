@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_richard_hammonds_crash_course",
+  "title": "Richard Hammond's Crash Course",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7326236",
+    "imdb": "tt2004577",
+    "tmdb": 40005
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

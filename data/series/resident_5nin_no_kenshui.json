@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_resident_5nin_no_kenshui",
+  "title": "Resident – 5-nin no Kenshui",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11237300",
+    "imdb": "tt2343382",
+    "tmdb": 71234
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

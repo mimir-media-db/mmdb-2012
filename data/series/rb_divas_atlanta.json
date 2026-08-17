@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rb_divas_atlanta",
+  "title": "R&B Divas: Atlanta",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7273213",
+    "imdb": "tt2366526",
+    "tmdb": 58986
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

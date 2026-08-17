@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_restaurant_stakeout",
+  "title": "Restaurant Stakeout",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7316097",
+    "imdb": "tt2302085",
+    "tmdb": 44183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 58
+}

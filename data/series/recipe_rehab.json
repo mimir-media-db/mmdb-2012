@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_recipe_rehab",
+  "title": "Recipe Rehab",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17183096",
+    "imdb": "tt2423802",
+    "tmdb": 51616
+  },
+  "last_updated": "2026-08-17"
+}

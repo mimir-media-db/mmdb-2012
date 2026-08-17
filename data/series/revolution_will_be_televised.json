@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_revolution_will_be_televised",
+  "title": "The Revolution Will Be Televised",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7760578",
+    "imdb": "tt2435984",
+    "tmdb": 47790
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rita",
+  "title": "Rita",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q12333582",
+    "imdb": "tt1973692",
+    "tmdb": 51078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}
