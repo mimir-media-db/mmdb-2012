@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_di_timur_matahari_2012",
+  "title": "Di Timur Matahari",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5270060",
+    "imdb": "tt2187578",
+    "tmdb": 504216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

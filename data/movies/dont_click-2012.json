@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_click_2012",
+  "title": "Don't Click",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5291511",
+    "imdb": "tt1935785",
+    "tmdb": 132957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_missen_massaker_2012",
+  "title": "Das Missen Massaker",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3016702",
+    "imdb": "tt2403849",
+    "tmdb": 181390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

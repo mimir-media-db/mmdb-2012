@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domingo_de_ramos_2012",
+  "title": "Domingo de Ramos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5812958",
+    "imdb": "tt1747992",
+    "tmdb": 286562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

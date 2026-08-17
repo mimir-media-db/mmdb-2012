@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_haus_anubis_pfad_der_7_sunden_2012",
+  "title": "Das Haus Anubis - Pfad der 7 Sünden",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1168729",
+    "imdb": "tt2313211",
+    "tmdb": 100708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

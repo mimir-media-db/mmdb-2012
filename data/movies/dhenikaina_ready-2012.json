@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhenikaina_ready_2012",
+  "title": "Dhenikaina Ready",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5269509",
+    "imdb": "tt2393775",
+    "tmdb": 171384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

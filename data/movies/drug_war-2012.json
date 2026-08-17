@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drug_war_2012",
+  "title": "Drug War",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4249764",
+    "imdb": "tt2165735",
+    "tmdb": 110410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

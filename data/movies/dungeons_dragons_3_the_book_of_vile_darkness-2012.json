@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dungeons_dragons_3_the_book_of_vile_darkness_2012",
+  "title": "Dungeons & Dragons 3: The Book of Vile Darkness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3280654",
+    "imdb": "tt1733125",
+    "tmdb": 135858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

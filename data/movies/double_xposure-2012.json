@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_xposure_2012",
+  "title": "Double Xposure",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5299954",
+    "imdb": "tt2176668",
+    "tmdb": 141932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

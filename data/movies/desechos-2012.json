@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desechos_2012",
+  "title": "Desechos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5804045",
+    "imdb": "tt1479209",
+    "tmdb": 120721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

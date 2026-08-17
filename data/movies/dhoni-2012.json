@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhoni_2012",
+  "title": "Dhoni",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5269737",
+    "imdb": "tt2217781",
+    "tmdb": 117072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

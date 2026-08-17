@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dilema_2012",
+  "title": "Dilema",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12481523",
+    "imdb": "tt2072940",
+    "tmdb": 270927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

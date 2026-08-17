@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_man_talking_2012",
+  "title": "Dead Man Talking",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020542",
+    "imdb": "tt2435076",
+    "tmdb": 150747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

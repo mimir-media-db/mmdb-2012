@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_duke_of_tombstone_2012",
+  "title": "The Duke of Tombstone",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3167160",
+    "imdb": "tt0556780"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

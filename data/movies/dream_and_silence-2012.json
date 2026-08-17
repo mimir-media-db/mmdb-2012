@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_and_silence_2012",
+  "title": "Dream and Silence",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5306491",
+    "imdb": "tt2342317",
+    "tmdb": 112751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 120
+}
