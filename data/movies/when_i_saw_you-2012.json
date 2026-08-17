@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_saw_you_2012",
+  "title": "When I Saw You",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7992575",
+    "imdb": "tt2369543",
+    "tmdb": 128250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

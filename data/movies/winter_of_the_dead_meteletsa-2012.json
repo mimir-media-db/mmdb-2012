@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_of_the_dead_meteletsa_2012",
+  "title": "Winter of the Dead: Meteletsa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4191895",
+    "imdb": "tt1731775",
+    "tmdb": 159773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

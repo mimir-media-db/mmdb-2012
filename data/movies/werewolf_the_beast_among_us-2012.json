@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_werewolf_the_beast_among_us_2012",
+  "title": "Werewolf: The Beast Among Us",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4020677",
+    "imdb": "tt1987028",
+    "tmdb": 132137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

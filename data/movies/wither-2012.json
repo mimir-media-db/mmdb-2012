@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wither_2012",
+  "title": "Wither",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10716445",
+    "imdb": "tt2140671",
+    "tmdb": 134812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

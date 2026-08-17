@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_not_alone_2012",
+  "title": "We are not alone",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12404090",
+    "imdb": "tt1964485",
+    "tmdb": 359957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

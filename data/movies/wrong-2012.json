@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_2012",
+  "title": "Wrong",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129874",
+    "imdb": "tt1901040",
+    "tmdb": 83186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

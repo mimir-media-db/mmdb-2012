@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watching_tv_with_the_red_chinese_2012",
+  "title": "Watching TV with the Red Chinese",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7973145",
+    "imdb": "tt1261968",
+    "tmdb": 85451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

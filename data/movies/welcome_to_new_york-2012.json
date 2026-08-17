@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_new_york_2012",
+  "title": "Welcome to New York",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3616623",
+    "imdb": "tt2189912",
+    "tmdb": 571868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

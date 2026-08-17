@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wayuu_la_nina_de_maracaibo_2012",
+  "title": "Wayuu: La niña de Maracaibo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3882036",
+    "imdb": "tt1977842",
+    "tmdb": 287700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

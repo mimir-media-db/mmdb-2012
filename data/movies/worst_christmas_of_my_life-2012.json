@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_christmas_of_my_life_2012",
+  "title": "The Worst Christmas of My Life",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795079",
+    "imdb": "tt2550838",
+    "tmdb": 147868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

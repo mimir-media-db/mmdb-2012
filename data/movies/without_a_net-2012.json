@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_without_a_net_2012",
+  "title": "Without a Net",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8028277",
+    "imdb": "tt2331159",
+    "tmdb": 126458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
