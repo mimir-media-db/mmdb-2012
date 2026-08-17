@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_nuit_nomade_2012",
+  "title": "La nuit nomade",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211261",
+    "imdb": "tt2338047",
+    "tmdb": 222566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

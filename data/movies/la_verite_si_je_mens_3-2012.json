@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_verite_si_je_mens_3_2012",
+  "title": "La Vérité si je mens ! 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3213979",
+    "imdb": "tt1794850",
+    "tmdb": 86868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 99
+}

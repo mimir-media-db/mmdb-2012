@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lethal_hostage_2012",
+  "title": "Lethal Hostage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6533243",
+    "imdb": "tt2385138",
+    "tmdb": 128842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

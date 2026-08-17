@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_fils_a_jo_2012",
+  "title": "Le Fils à Jo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3222851",
+    "imdb": "tt1548603",
+    "tmdb": 52043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_u_2012",
+  "title": "Lonely U",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1214425",
+    "imdb": "tt2281109",
+    "tmdb": 148449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 83
+}

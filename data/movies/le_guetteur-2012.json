@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_guetteur_2012",
+  "title": "Le Guetteur",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223421",
+    "imdb": "tt1946298",
+    "tmdb": 122192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

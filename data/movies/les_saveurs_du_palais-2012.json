@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_saveurs_du_palais_2012",
+  "title": "Les Saveurs du Palais",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3235331",
+    "imdb": "tt2094877",
+    "tmdb": 139651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

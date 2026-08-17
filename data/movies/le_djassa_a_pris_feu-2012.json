@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_djassa_a_pris_feu_2012",
+  "title": "Le djassa a pris feu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3228428",
+    "imdb": "tt2673176",
+    "tmdb": 127868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

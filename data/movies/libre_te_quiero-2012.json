@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_libre_te_quiero_2012",
+  "title": "Libre te quiero",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5974904",
+    "imdb": "tt2469876",
+    "tmdb": 145088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 60
+}

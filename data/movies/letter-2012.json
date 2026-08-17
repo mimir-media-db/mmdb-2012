@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letter_2012",
+  "title": "The Letter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7746987",
+    "imdb": "tt1899324",
+    "tmdb": 122928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

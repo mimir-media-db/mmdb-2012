@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lebanese_rocket_society_2012",
+  "title": "The Lebanese Rocket Society",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521550",
+    "imdb": "tt2361348",
+    "tmdb": 128122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

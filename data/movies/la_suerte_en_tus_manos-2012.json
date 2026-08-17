@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_suerte_en_tus_manos_2012",
+  "title": "La suerte en tus manos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2891067",
+    "imdb": "tt1904835",
+    "tmdb": 115165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

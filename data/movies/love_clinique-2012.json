@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_clinique_2012",
+  "title": "Love Clinique",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12610680",
+    "imdb": "tt3087696",
+    "tmdb": 155277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_u_2012",
+  "title": "Love is U",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10854643",
+    "imdb": "tt2251864",
+    "tmdb": 363145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

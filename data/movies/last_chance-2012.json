@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_chance_2012",
+  "title": "Last Chance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6494189",
+    "imdb": "tt8943678",
+    "tmdb": 159793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
