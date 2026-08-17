@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jikken_keiji_totori",
+  "title": "Jikken Keiji Totori",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11452889",
+    "imdb": "tt2391684",
+    "tmdb": 81505
+  },
+  "last_updated": "2026-08-17"
+}

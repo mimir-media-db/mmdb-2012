@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jack_irish",
+  "title": "Jack Irish",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12125198",
+    "imdb": "tt4905554",
+    "tmdb": 58057
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

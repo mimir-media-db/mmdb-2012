@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jul_i_kommunen",
+  "title": "Jul i Kommunen",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q32656735",
+    "imdb": "tt2559466",
+    "tmdb": 136527
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

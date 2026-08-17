@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jamies_15minute_meals",
+  "title": "Jamie's 15-Minute Meals",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6146516",
+    "imdb": "tt3672988",
+    "tmdb": 58411
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

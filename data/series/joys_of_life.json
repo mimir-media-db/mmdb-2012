@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_joys_of_life",
+  "title": "Joys of Life",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6297829",
+    "tmdb": 42288
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

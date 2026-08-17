@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jane_by_design",
+  "title": "Jane by Design",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1682635",
+    "imdb": "tt1743904",
+    "tmdb": 39048
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}
