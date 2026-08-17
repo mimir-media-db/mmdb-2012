@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_90_minutes_2012",
+  "title": "90 Minutes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16220003",
+    "imdb": "tt3054786",
+    "tmdb": 183921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-23",
+  "runtime_minutes": 94
+}
