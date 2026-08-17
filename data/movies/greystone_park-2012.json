@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greystone_park_2012",
+  "title": "Greystone Park",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5608501",
+    "imdb": "tt1588886",
+    "tmdb": 122804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 83
+}

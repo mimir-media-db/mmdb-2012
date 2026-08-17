@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_loves_caviar_2012",
+  "title": "God Loves Caviar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3027570",
+    "imdb": "tt2181959",
+    "tmdb": 128767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

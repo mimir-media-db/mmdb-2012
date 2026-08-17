@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_game_of_the_nation_2012",
+  "title": "Game of the Nation",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12665185",
+    "imdb": "tt2146080",
+    "tmdb": 276504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

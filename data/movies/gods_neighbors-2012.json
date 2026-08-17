@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_neighbors_2012",
+  "title": "God's Neighbors",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3236132",
+    "imdb": "tt2164756",
+    "tmdb": 136426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

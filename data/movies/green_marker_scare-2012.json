@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_green_marker_scare_2012",
+  "title": "The Green Marker Scare",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7738185",
+    "imdb": "tt2509428",
+    "tmdb": 597181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

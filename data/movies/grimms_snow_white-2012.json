@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grimms_snow_white_2012",
+  "title": "Grimm's Snow White",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124671",
+    "imdb": "tt2081255",
+    "tmdb": 92645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

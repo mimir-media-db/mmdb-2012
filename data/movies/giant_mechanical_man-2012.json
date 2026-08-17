@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giant_mechanical_man_2012",
+  "title": "The Giant Mechanical Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521033",
+    "imdb": "tt1769363",
+    "tmdb": 100046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

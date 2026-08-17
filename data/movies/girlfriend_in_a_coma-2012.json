@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girlfriend_in_a_coma_2012",
+  "title": "Girlfriend in a Coma",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5400624",
+    "imdb": "tt2315588",
+    "tmdb": 170170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grannys_funeral_2012",
+  "title": "Granny's Funeral",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2824409",
+    "imdb": "tt2399495",
+    "tmdb": 123243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

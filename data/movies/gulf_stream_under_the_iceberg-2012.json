@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulf_stream_under_the_iceberg_2012",
+  "title": "Gulf Stream Under the Iceberg",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4142799",
+    "imdb": "tt2192200",
+    "tmdb": 136742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 125
+}

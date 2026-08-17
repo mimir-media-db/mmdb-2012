@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghetuputra_kamola_2012",
+  "title": "Ghetuputra Kamola",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5130981",
+    "imdb": "tt2409642",
+    "tmdb": 136732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

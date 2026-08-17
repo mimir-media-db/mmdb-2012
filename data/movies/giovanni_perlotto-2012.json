@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giovanni_perlotto_2012",
+  "title": "Giovanni Perlotto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3926991",
+    "imdb": "tt2220700",
+    "tmdb": 134703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

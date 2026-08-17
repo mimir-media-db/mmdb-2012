@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glaz_bozhiy_2012",
+  "title": "Glaz Bozhiy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4139380",
+    "imdb": "tt4070022",
+    "tmdb": 448842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 150
+}

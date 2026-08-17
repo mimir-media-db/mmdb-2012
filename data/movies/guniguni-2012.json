@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guniguni_2012",
+  "title": "Guni-Guni",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5618798",
+    "imdb": "tt2350984",
+    "tmdb": 174825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

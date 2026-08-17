@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guillotines_2012",
+  "title": "The Guillotines",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7738472",
+    "imdb": "tt1847713",
+    "tmdb": 167449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 112
+}

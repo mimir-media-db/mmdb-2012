@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grassroots_2012",
+  "title": "Grassroots",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3012583",
+    "imdb": "tt1634286",
+    "tmdb": 96600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}
