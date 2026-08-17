@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anderssons_in_greece_2012",
+  "title": "The Anderssons in Greece",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10683877",
+    "imdb": "tt2192888",
+    "tmdb": 133459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-25",
+  "runtime_minutes": 95
+}

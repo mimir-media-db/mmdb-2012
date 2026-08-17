@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_2012",
+  "title": "Ali",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719307",
+    "imdb": "tt2006051",
+    "tmdb": 167435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

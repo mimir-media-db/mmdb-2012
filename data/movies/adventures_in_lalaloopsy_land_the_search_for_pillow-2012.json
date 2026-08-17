@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_in_lalaloopsy_land_the_search_for_pillow_2012",
+  "title": "Adventures In Lalaloopsy Land: The Search For Pillow",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19516136",
+    "imdb": "tt2332519",
+    "tmdb": 92640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_av_idol_2012",
+  "title": "AV Idol",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655076",
+    "imdb": "tt8922384",
+    "tmdb": 285012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-08",
+  "runtime_minutes": 99
+}

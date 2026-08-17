@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_bulk_2012",
+  "title": "The Amazing Bulk",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755523",
+    "imdb": "tt1788453",
+    "tmdb": 109125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-17",
+  "runtime_minutes": 76
+}

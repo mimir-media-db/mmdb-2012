@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_in_good_time_2012",
+  "title": "All in Good Time",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16827326",
+    "imdb": "tt1980911",
+    "tmdb": 101533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

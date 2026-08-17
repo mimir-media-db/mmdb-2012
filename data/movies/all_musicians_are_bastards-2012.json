@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_musicians_are_bastards_2012",
+  "title": "All Musicians Are Bastards",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25519169",
+    "imdb": "tt2279330",
+    "tmdb": 142088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anquanto_la_lhengua_fur_cantada_2012",
+  "title": "Anquanto la Lhéngua fur Cantada",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198403",
+    "imdb": "tt2278831",
+    "tmdb": 283367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 52
+}

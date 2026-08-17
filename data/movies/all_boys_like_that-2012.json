@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_boys_like_that_2012",
+  "title": "All Boys Like That",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139565300",
+    "imdb": "tt2476262",
+    "tmdb": 753355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

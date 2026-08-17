@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avanti_popolo_2012",
+  "title": "Avanti Popolo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16949642",
+    "imdb": "tt2536312",
+    "tmdb": 202673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-17",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alphee_of_the_stars_2012",
+  "title": "Alphée of the Stars",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671780",
+    "imdb": "tt2639422",
+    "tmdb": 190518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 83
+}

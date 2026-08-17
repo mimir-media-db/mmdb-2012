@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ace_of_spades_bad_destiny_2012",
+  "title": "Ace of Spades: Bad Destiny",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16960193",
+    "imdb": "tt2338242",
+    "tmdb": 218419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-04",
+  "runtime_minutes": 96
+}

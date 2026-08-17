@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alemari_2012",
+  "title": "Alemari",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4716065",
+    "imdb": "tt13979642",
+    "tmdb": 463178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09"
+}

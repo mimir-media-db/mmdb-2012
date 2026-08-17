@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_heres_whats_happening_to_me_2012",
+  "title": "And Here's What's Happening to Me",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4425710",
+    "imdb": "tt2569398",
+    "tmdb": 152155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-19",
+  "runtime_minutes": 72
+}

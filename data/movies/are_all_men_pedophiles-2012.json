@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_are_all_men_pedophiles_2012",
+  "title": "Are All Men Pedophiles?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2947156",
+    "imdb": "tt2072045",
+    "tmdb": 142573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-02",
+  "runtime_minutes": 70
+}

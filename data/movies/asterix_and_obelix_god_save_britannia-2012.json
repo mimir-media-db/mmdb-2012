@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asterix_and_obelix_god_save_britannia_2012",
+  "title": "Asterix and Obelix: God Save Britannia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q747919",
+    "imdb": "tt1597522",
+    "tmdb": 99770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-17",
+  "runtime_minutes": 111
+}

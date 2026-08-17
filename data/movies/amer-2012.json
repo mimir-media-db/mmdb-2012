@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amer_2012",
+  "title": "Amer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2842784",
+    "imdb": "tt1426352",
+    "tmdb": 43950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-19",
+  "runtime_minutes": 90
+}

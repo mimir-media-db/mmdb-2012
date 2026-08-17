@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_lucia_2012",
+  "title": "After Lucia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2713624",
+    "imdb": "tt2368749",
+    "tmdb": 126315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-21",
+  "runtime_minutes": 93
+}

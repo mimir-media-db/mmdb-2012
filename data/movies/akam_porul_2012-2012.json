@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_akam_porul_2012_2012",
+  "title": "Akam Porul 2012",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21996451",
+    "imdb": "tt5184688"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

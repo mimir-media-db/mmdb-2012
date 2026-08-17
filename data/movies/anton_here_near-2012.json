@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anton_here_near_2012",
+  "title": "Anton here near",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4067189",
+    "imdb": "tt2358838",
+    "tmdb": 137430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-03",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_years_combine_the_dvd_collection_2012",
+  "title": "All the Years Combine: The DVD Collection",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4730226"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-17"
+}

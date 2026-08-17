@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_archaeology_of_a_woman_2012",
+  "title": "Archaeology of a Woman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363542",
+    "imdb": "tt1702455",
+    "tmdb": 288927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abcs_of_death_2012",
+  "title": "The ABCs of Death",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74535",
+    "imdb": "tt1935896",
+    "tmdb": 87436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-15",
+  "runtime_minutes": 124
+}

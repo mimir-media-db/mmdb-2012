@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_african_cats_2012",
+  "title": "African Cats",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3092327",
+    "imdb": "tt1223236",
+    "tmdb": 57586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19",
+  "runtime_minutes": 89
+}

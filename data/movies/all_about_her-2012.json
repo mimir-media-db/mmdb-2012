@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_her_2012",
+  "title": "All About Her",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274963",
+    "imdb": "tt2404267",
+    "tmdb": 464137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-19"
+}

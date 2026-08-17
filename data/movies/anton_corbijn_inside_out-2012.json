@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anton_corbijn_inside_out_2012",
+  "title": "Anton Corbijn Inside Out",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19879819",
+    "imdb": "tt2101314",
+    "tmdb": 103215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-22",
+  "runtime_minutes": 85
+}

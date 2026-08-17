@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adhisaya_ulagam_3d_2012",
+  "title": "Adhisaya Ulagam 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15043369",
+    "imdb": "tt3277790",
+    "tmdb": 277327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

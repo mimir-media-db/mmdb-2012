@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aisa_hota_hai_2012",
+  "title": "Aisa Hota Hai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4699095",
+    "imdb": "tt2332527",
+    "tmdb": 659040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-24"
+}

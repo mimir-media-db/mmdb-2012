@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arrete_de_pleurer_penelope_2012",
+  "title": "Arrête de pleurer Pénélope",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30742213",
+    "imdb": "tt2399499",
+    "tmdb": 49889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-06",
+  "runtime_minutes": 84
+}

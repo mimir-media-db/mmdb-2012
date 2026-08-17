@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arakawa_under_the_bridge_2012",
+  "title": "Arakawa Under the Bridge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4783819",
+    "imdb": "tt1880923",
+    "tmdb": 142386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-04",
+  "runtime_minutes": 115
+}

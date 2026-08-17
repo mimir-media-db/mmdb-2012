@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animals_i_killed_last_summer_2012",
+  "title": "Animals I Killed Last Summer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18288205",
+    "imdb": "tt2723720",
+    "tmdb": 255351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-22",
+  "runtime_minutes": 15
+}

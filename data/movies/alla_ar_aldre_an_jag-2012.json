@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alla_ar_aldre_an_jag_2012",
+  "title": "Alla är äldre än jag",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16496285",
+    "imdb": "tt2493420",
+    "tmdb": 228855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-01",
+  "runtime_minutes": 75
+}

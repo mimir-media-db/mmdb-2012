@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_av_star_kidnap_case_incident_2012",
+  "title": "AV Star Kidnap Case Incident",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93431355",
+    "tmdb": 466725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-22",
+  "runtime_minutes": 68
+}
