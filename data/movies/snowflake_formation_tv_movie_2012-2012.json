@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snowflake_formation_tv_movie_2012_2012",
+  "title": "Snowflake Formation (TV Movie 2012)",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802906",
+    "imdb": "tt2165955",
+    "tmdb": 506235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-08",
+  "runtime_minutes": 53
+}

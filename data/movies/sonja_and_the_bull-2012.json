@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sonja_and_the_bull_2012",
+  "title": "Sonja and the Bull",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15427160",
+    "imdb": "tt2249542",
+    "tmdb": 170898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 106
+}

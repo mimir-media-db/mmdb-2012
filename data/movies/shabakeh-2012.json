@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shabakeh_2012",
+  "title": "Shabakeh",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5880979",
+    "imdb": "tt5390400"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-16",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_srulik_2012",
+  "title": "Srulik",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16712104",
+    "imdb": "tt3036802"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_sink_2012",
+  "title": "Sink",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44873895"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

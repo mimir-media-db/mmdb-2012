@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleep_tight_2012",
+  "title": "Sleep Tight",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2701566",
+    "imdb": "tt1437358",
+    "tmdb": 77495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-05",
+  "runtime_minutes": 102
+}

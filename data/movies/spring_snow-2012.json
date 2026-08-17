@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_snow_2012",
+  "title": "Spring, Snow",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483840",
+    "imdb": "tt13829054",
+    "tmdb": 463077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

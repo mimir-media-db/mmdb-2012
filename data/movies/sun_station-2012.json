@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_station_2012",
+  "title": "Sun Station",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755436",
+    "imdb": "tt2162864",
+    "tmdb": 542115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-13",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sagrada_el_misteri_de_la_creacio_2012",
+  "title": "Sagrada - el misteri de la creació",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16885369",
+    "imdb": "tt2552316",
+    "tmdb": 203612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

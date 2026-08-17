@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_space_brothers_2012",
+  "title": "Space Brothers",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96052510",
+    "imdb": "tt1872220",
+    "tmdb": 127535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-05"
+}

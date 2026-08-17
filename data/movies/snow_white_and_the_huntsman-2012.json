@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_white_and_the_huntsman_2012",
+  "title": "Snow White and the Huntsman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q624603",
+    "imdb": "tt1735898",
+    "tmdb": 58595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-30",
+  "runtime_minutes": 127
+}

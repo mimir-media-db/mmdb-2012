@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_the_stars_2012",
+  "title": "Son of the Stars",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140372559",
+    "imdb": "tt2016992",
+    "tmdb": 402836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-08"
+}

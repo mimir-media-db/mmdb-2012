@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_savages_2012",
+  "title": "Savages",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1143802",
+    "imdb": "tt1615065",
+    "tmdb": 82525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-25",
+  "runtime_minutes": 131
+}

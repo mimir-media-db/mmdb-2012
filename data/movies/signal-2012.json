@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_signal_2012",
+  "title": "Signál",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12054232",
+    "imdb": "tt2209754",
+    "tmdb": 151152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 113
+}

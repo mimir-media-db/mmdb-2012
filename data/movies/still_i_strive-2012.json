@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_i_strive_2012",
+  "title": "Still I Strive",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037160",
+    "imdb": "tt2631276",
+    "tmdb": 269235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saaa_wi_nos_2012",
+  "title": "Saa'a wi Nos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12215055",
+    "imdb": "tt3395908",
+    "tmdb": 212864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-03",
+  "runtime_minutes": 126
+}

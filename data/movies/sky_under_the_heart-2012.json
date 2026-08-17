@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_under_the_heart_2012",
+  "title": "The Sky Under the Heart",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4315543",
+    "imdb": "tt2194627",
+    "tmdb": 902974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-05"
+}

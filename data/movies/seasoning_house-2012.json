@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seasoning_house_2012",
+  "title": "The Seasoning House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7762867",
+    "imdb": "tt1555093",
+    "tmdb": 127651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-23",
+  "runtime_minutes": 90
+}

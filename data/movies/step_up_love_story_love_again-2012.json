@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_step_up_love_story_love_again_2012",
+  "title": "Step Up Love Story: Love Again",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10941903",
+    "imdb": "tt10068184",
+    "tmdb": 720423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-12",
+  "runtime_minutes": 60
+}

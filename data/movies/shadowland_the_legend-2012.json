@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadowland_the_legend_2012",
+  "title": "Shadowland: The Legend",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17156758",
+    "imdb": "tt2055730",
+    "tmdb": 146018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-04"
+}

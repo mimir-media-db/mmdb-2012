@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sohnemanner_2012",
+  "title": "Sohnemänner",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23805572",
+    "imdb": "tt2059282",
+    "tmdb": 179160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19",
+  "runtime_minutes": 90
+}

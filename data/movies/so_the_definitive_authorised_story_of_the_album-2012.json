@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_the_definitive_authorised_story_of_the_album_2012",
+  "title": "So - The Definitive Authorised Story of the Album",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20556451",
+    "imdb": "tt3142710",
+    "tmdb": 141610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-22",
+  "runtime_minutes": 116
+}

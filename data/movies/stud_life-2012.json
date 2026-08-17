@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stud_life_2012",
+  "title": "Stud Life",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111842957",
+    "imdb": "tt1758770",
+    "tmdb": 177354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-23",
+  "runtime_minutes": 91
+}

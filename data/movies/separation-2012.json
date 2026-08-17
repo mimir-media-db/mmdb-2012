@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_separation_2012",
+  "title": "A Separation",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q640561",
+    "imdb": "tt1832382",
+    "tmdb": 60243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20",
+  "runtime_minutes": 123
+}

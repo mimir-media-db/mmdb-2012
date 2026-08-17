@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steve_jobs_the_lost_interview_2012",
+  "title": "Steve Jobs: The Lost Interview",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19850847",
+    "imdb": "tt2104994",
+    "tmdb": 89638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-11"
+}

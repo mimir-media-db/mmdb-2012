@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sparrows_dance_2012",
+  "title": "Sparrows Dance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528064",
+    "imdb": "tt1822311",
+    "tmdb": 136466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

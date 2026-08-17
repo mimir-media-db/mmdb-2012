@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sacred_2012",
+  "title": "The Sacred",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20092812",
+    "imdb": "tt1852947",
+    "tmdb": 192415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

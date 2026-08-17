@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_little_lies_2012",
+  "title": "Sweet Little Lies",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18541900",
+    "imdb": "tt2374002",
+    "tmdb": 146548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-19"
+}

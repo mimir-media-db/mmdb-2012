@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saint_dracula_3d_2012",
+  "title": "Saint Dracula 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7401185",
+    "imdb": "tt2184267",
+    "tmdb": 149233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-23"
+}

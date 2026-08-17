@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_succubus_2012",
+  "title": "Succubus",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33571741",
+    "imdb": "tt2290687",
+    "tmdb": 708494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 18
+}

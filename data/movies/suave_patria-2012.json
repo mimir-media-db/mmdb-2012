@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suave_patria_2012",
+  "title": "Suave Patria",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6134759",
+    "imdb": "tt1562873",
+    "tmdb": 131978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07"
+}

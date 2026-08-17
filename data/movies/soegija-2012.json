@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soegija_2012",
+  "title": "Soegija",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7553487",
+    "imdb": "tt2225946",
+    "tmdb": 153793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-07",
+  "runtime_minutes": 115
+}

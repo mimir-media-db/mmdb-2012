@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_star_radiant_love_2012",
+  "title": "Star: Radiant Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17564588",
+    "tmdb": 622825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11"
+}

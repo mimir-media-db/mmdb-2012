@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_war_2012",
+  "title": "The Silent War",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14476570",
+    "imdb": "tt2078768",
+    "tmdb": 129070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sanubari_jakarta_2012",
+  "title": "Sanubari Jakarta",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19731904",
+    "imdb": "tt2316498",
+    "tmdb": 509268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

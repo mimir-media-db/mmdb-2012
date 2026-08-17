@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suddenly_its_magic_2012",
+  "title": "Suddenly It's Magic",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061188",
+    "imdb": "tt2428580",
+    "tmdb": 151241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

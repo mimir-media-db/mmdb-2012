@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steel_butterfly_2012",
+  "title": "Steel Butterfly",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4439276",
+    "imdb": "tt2469210",
+    "tmdb": 147171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-01",
+  "runtime_minutes": 107
+}

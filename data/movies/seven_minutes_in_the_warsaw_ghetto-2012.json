@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_minutes_in_the_warsaw_ghetto_2012",
+  "title": "Seven minutes in the Warsaw ghetto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480785",
+    "imdb": "tt2349803",
+    "tmdb": 486230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-26",
+  "runtime_minutes": 8
+}

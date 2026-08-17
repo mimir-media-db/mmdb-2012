@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_souls_of_zen_2012",
+  "title": "Souls of Zen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23794212",
+    "imdb": "tt2294819",
+    "tmdb": 130754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

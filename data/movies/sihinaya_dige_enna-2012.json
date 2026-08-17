@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sihinaya_dige_enna_2012",
+  "title": "Sihinaya Dige Enna",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17074299",
+    "imdb": "tt2896006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soongava_dance_of_the_orchids_2012",
+  "title": "Soongava: Dance of the Orchids",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17012488",
+    "imdb": "tt2408026",
+    "tmdb": 142110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-04",
+  "runtime_minutes": 85
+}

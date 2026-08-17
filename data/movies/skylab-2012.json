@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skylab_2012",
+  "title": "Skylab",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3227234",
+    "imdb": "tt1638350",
+    "tmdb": 85449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-05",
+  "runtime_minutes": 113
+}

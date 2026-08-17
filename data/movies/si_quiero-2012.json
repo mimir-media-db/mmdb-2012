@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_si_quiero_2012",
+  "title": "Sí quiero",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136343630",
+    "imdb": "tt1941614",
+    "tmdb": 257352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

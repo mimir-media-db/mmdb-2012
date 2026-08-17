@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexual_tension_volatile_2012",
+  "title": "Sexual Tension: Volatile",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17593405",
+    "imdb": "tt2433190",
+    "tmdb": 177656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

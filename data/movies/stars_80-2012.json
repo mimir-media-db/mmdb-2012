@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stars_80_2012",
+  "title": "Stars 80",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3497218",
+    "imdb": "tt2166143",
+    "tmdb": 139156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-24",
+  "runtime_minutes": 110
+}

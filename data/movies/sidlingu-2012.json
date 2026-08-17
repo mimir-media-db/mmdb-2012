@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sidlingu_2012",
+  "title": "Sidlingu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7508877",
+    "imdb": "tt3107818",
+    "tmdb": 326449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-13"
+}

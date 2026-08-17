@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_strange_2012",
+  "title": "Still Strange",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739525",
+    "imdb": "tt13696878",
+    "tmdb": 417217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-31"
+}

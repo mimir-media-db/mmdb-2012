@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samsara_2012",
+  "title": "Samsara",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3150366",
+    "imdb": "tt0770802",
+    "tmdb": 89708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-23",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slice_and_dice_the_slasher_film_forever_2012",
+  "title": "Slice and Dice: The Slasher Film Forever",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17035497",
+    "imdb": "tt1956630",
+    "tmdb": 193714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 78
+}

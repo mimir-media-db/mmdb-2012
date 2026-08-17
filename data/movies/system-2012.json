@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_system_2012",
+  "title": "The System",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38454903",
+    "imdb": "tt1631697",
+    "tmdb": 83281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 85
+}

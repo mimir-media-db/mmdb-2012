@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_2012",
+  "title": "Stolen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2025754",
+    "imdb": "tt1656186",
+    "tmdb": 127493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-14",
+  "runtime_minutes": 96
+}
