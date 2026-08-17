@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wives_with_knives",
+  "title": "Wives with Knives",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q15036518",
+    "imdb": "tt2537956",
+    "tmdb": 68721
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

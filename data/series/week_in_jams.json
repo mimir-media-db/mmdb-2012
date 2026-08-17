@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_week_in_jams",
+  "title": "The Week in Jams",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16170585"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_saturday_morning_slam",
+  "title": "WWE Saturday Morning Slam",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q35730",
+    "imdb": "tt2359548",
+    "tmdb": 46706
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 38
+}

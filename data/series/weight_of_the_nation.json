@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_weight_of_the_nation",
+  "title": "The Weight of the Nation",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19593693",
+    "imdb": "tt2220150",
+    "tmdb": 43113
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

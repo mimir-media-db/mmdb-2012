@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_why_did_you_come_to_japan",
+  "title": "Why Did You Come to Japan?",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11255238",
+    "imdb": "tt2832926",
+    "tmdb": 111076
+  },
+  "last_updated": "2026-08-17"
+}
