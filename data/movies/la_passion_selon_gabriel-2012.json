@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_passion_selon_gabriel_2012",
+  "title": "La Passion selon Gabriel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59644292",
+    "imdb": "tt8488332"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 53
+}

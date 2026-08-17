@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_parisienne_2012",
+  "title": "La Vie parisienne",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14604215",
+    "imdb": "tt2371369",
+    "tmdb": 514888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

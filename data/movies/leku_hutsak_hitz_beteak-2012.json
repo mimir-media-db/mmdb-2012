@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leku_hutsak_hitz_beteak_2012",
+  "title": "Leku hutsak, hitz beteak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20492317",
+    "imdb": "tt2425224",
+    "tmdb": 178760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 60
+}

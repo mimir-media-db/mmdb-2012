@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fuerza_del_condor_2012",
+  "title": "La fuerza del Cóndor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123398930",
+    "tmdb": 916560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

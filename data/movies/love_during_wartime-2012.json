@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_during_wartime_2012",
+  "title": "Love during wartime",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3264250",
+    "imdb": "tt1756604",
+    "tmdb": 250789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-19"
+}

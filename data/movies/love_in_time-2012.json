@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_time_2012",
+  "title": "Love in Time",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15906362",
+    "imdb": "tt3376596",
+    "tmdb": 186662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

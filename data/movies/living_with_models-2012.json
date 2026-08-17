@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_living_with_models_2012",
+  "title": "Living with Models",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117776827",
+    "imdb": "tt2323725"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_casa_emak_bakia_2012",
+  "title": "La casa Emak Bakia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56488887",
+    "imdb": "tt2454970",
+    "tmdb": 168403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 83
+}

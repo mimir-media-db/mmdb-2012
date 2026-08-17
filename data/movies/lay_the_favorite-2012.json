@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lay_the_favorite_2012",
+  "title": "Lay the Favorite",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q166214",
+    "imdb": "tt1132449",
+    "tmdb": 84305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-21",
+  "runtime_minutes": 97
+}

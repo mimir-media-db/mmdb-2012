@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lowlife_2012",
+  "title": "Lowlife",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649485",
+    "imdb": "tt2186929",
+    "tmdb": 144013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

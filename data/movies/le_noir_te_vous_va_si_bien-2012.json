@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_noir_te_vous_va_si_bien_2012",
+  "title": "Le noir (te) vous va si bien",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18228840",
+    "imdb": "tt2305090",
+    "tmdb": 146353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

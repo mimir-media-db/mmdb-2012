@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_strange_2012",
+  "title": "Life Is Strange",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218301",
+    "imdb": "tt2069836",
+    "tmdb": 252565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

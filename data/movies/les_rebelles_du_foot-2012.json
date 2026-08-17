@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_rebelles_du_foot_2012",
+  "title": "Les rebelles du foot",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17591348",
+    "imdb": "tt2229708",
+    "tmdb": 126017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

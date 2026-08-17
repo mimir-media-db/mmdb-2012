@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_2012",
+  "title": "The Lady",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q971941",
+    "imdb": "tt1802197",
+    "tmdb": 77878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-05",
+  "runtime_minutes": 132
+}

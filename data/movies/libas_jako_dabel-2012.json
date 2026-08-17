@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_libas_jako_dabel_2012",
+  "title": "Líbáš jako ďábel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12034613",
+    "imdb": "tt2402651",
+    "tmdb": 152472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-17",
+  "runtime_minutes": 113
+}

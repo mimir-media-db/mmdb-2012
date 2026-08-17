@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_mundos_sutiles_2012",
+  "title": "Los mundos sutiles",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97625988",
+    "imdb": "tt2465640",
+    "tmdb": 622053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25",
+  "runtime_minutes": 85
+}

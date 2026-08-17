@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_professeur_2012",
+  "title": "Le Professeur",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106574558",
+    "imdb": "tt3099378",
+    "tmdb": 389366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-16"
+}

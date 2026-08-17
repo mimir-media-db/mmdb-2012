@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_blanc_deyenga_2012",
+  "title": "Le blanc d'Eyenga",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116896398",
+    "imdb": "tt21863572"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

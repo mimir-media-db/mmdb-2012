@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_hillbilly_butcher_2012",
+  "title": "Legend Of The Hillbilly Butcher",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703169",
+    "imdb": "tt2435520",
+    "tmdb": 294346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lek_wysokosci_2012",
+  "title": "Lek wysokosci",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11764690",
+    "imdb": "tt2055666",
+    "tmdb": 147261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-20",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lentejuelas_de_sangre_2012",
+  "title": "Lentejuelas de sangre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135206957",
+    "imdb": "tt2577352",
+    "tmdb": 500624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-10"
+}

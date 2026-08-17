@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_nez_dans_le_ruisseau_2012",
+  "title": "Le Nez dans le ruisseau",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123745709",
+    "imdb": "tt2350626",
+    "tmdb": 214109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

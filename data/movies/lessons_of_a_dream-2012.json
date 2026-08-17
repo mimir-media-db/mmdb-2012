@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lessons_of_a_dream_2012",
+  "title": "Lessons of a Dream",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198645",
+    "imdb": "tt1686768",
+    "tmdb": 58166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-03",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_step_2012",
+  "title": "The Last Step",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5945351",
+    "imdb": "tt2161980",
+    "tmdb": 136016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-11",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_chemin_noir_2012",
+  "title": "Le Chemin noir",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16653509",
+    "imdb": "tt1442625",
+    "tmdb": 232932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

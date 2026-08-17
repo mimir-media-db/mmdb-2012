@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_or_whatever_2012",
+  "title": "Love or Whatever",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96144946",
+    "imdb": "tt1638898",
+    "tmdb": 284374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

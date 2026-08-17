@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_with_an_accent_2012",
+  "title": "Love with an Accent",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17582636",
+    "imdb": "tt2400284",
+    "tmdb": 145239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-11",
+  "runtime_minutes": 100
+}

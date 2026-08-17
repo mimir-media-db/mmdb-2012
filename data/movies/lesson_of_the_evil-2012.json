@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesson_of_the_evil_2012",
+  "title": "Lesson of the Evil",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q391943",
+    "imdb": "tt2294473",
+    "tmdb": 120852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-09",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loyalty_and_betrayal_2012",
+  "title": "Loyalty and Betrayal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125684699",
+    "imdb": "tt9496830"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-23",
+  "runtime_minutes": 92
+}

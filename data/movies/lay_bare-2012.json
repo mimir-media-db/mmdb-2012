@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lay_bare_2012",
+  "title": "Lay Bare",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64876568",
+    "imdb": "tt2825176",
+    "tmdb": 188947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 6
+}

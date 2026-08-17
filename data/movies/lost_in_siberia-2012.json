@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_siberia_2012",
+  "title": "Lost in Siberia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q778718",
+    "imdb": "tt1833843",
+    "tmdb": 107445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-10",
+  "runtime_minutes": 100
+}

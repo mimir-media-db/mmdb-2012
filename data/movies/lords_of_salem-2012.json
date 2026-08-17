@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lords_of_salem_2012",
+  "title": "The Lords of Salem",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2701647",
+    "imdb": "tt1731697",
+    "tmdb": 104755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-10",
+  "runtime_minutes": 101
+}
