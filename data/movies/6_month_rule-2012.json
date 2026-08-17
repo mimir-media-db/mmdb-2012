@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_6_month_rule_2012",
+  "title": "6 Month Rule",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105810893",
+    "imdb": "tt0865561",
+    "tmdb": 112161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}
