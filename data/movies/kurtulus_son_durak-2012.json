@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kurtulus_son_durak_2012",
+  "title": "Kurtulus Son Durak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31190850",
+    "imdb": "tt2142801",
+    "tmdb": 101682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 106
+}

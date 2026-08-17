@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiwi_flyer_2012",
+  "title": "Kiwi Flyer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25420057",
+    "imdb": "tt2131556",
+    "tmdb": 172593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

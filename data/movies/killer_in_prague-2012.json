@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_in_prague_2012",
+  "title": "A Killer in Prague",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20860771",
+    "imdb": "tt2295824",
+    "tmdb": 322647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-02",
+  "runtime_minutes": 90
+}

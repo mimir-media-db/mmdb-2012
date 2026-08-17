@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kandathum_kanathathum_2012",
+  "title": "Kandathum Kanathathum",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118515574",
+    "imdb": "tt13394308"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-18"
+}

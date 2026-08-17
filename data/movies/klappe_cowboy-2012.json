@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_klappe_cowboy_2012",
+  "title": "Klappe Cowboy!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19227508",
+    "imdb": "tt2325795",
+    "tmdb": 218548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20",
+  "runtime_minutes": 84
+}

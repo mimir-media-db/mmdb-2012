@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabaddi_once_again_2012",
+  "title": "Kabaddi Once Again",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983175",
+    "imdb": "tt2176910",
+    "tmdb": 137497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-01"
+}

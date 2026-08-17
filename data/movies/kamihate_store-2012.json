@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamihate_store_2012",
+  "title": "Kamihate Store",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39046996",
+    "imdb": "tt2193126",
+    "tmdb": 152645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

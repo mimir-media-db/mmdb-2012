@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_devils_island_2012",
+  "title": "King of Devil's Island",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1742094",
+    "imdb": "tt1332134",
+    "tmdb": 73211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-29",
+  "runtime_minutes": 115
+}

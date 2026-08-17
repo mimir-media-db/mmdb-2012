@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katy_perry_part_of_me_2012",
+  "title": "Katy Perry: Part of Me",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199262",
+    "imdb": "tt2215719",
+    "tmdb": 101267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-26",
+  "runtime_minutes": 95
+}

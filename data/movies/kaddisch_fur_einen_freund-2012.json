@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaddisch_fur_einen_freund_2012",
+  "title": "Kaddisch für einen Freund",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1720918",
+    "imdb": "tt1722440",
+    "tmdb": 87334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 94
+}

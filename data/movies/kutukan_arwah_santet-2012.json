@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kutukan_arwah_santet_2012",
+  "title": "Kutukan Arwah Santet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12493182",
+    "imdb": "tt2455440",
+    "tmdb": 648498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 81
+}

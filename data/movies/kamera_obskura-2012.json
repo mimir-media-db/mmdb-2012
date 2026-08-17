@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamera_obskura_2012",
+  "title": "Kamera Obskura",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002040",
+    "imdb": "tt2246100",
+    "tmdb": 215818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

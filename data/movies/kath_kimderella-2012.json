@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kath_kimderella_2012",
+  "title": "Kath & Kimderella",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6376051",
+    "imdb": "tt1859607",
+    "tmdb": 130953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-06",
+  "runtime_minutes": 86
+}
