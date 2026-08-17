@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_money",
+  "title": "On the Money",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16920146"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outrageous_acts_of_science",
+  "title": "Outrageous Acts of Science",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19867348",
+    "imdb": "tt2857312",
+    "tmdb": 49450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 87
+}

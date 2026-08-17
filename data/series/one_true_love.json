@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one_true_love",
+  "title": "One True Love",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7093314",
+    "imdb": "tt2201836",
+    "tmdb": 222546
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 85
+}

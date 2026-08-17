@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one_car_too_far",
+  "title": "One Car Too Far",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7092515",
+    "imdb": "tt2189346",
+    "tmdb": 59607
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_on_death_row",
+  "title": "On Death Row",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q32443",
+    "imdb": "tt1843894",
+    "tmdb": 56988
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
