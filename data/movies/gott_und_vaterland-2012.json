@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gott_und_vaterland_2012",
+  "title": "Gott und Vaterland",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15216000",
+    "imdb": "tt2517544"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 35
+}

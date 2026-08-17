@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guest_house_2012",
+  "title": "The Guest House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131939",
+    "imdb": "tt1859603",
+    "tmdb": 117618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gentilly_or_not_to_be_2012",
+  "title": "Gentilly Or Not To Be",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16038753",
+    "imdb": "tt2715426"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

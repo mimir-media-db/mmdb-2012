@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grey_2012",
+  "title": "The Grey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1147689",
+    "imdb": "tt1601913",
+    "tmdb": 75174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-27",
+  "runtime_minutes": 117
+}

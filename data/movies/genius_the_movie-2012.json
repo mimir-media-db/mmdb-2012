@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genius_the_movie_2012",
+  "title": "Genius - The Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137731390",
+    "imdb": "tt3165598",
+    "tmdb": 372759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-28",
+  "runtime_minutes": 34
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gebo_and_the_shadow_2012",
+  "title": "Gebo and the Shadow",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3100038",
+    "imdb": "tt2006802",
+    "tmdb": 110401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-05",
+  "runtime_minutes": 91
+}

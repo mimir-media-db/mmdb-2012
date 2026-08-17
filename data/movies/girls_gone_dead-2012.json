@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_gone_dead_2012",
+  "title": "Girls Gone Dead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10958628",
+    "imdb": "tt1884318",
+    "tmdb": 117942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-28",
+  "runtime_minutes": 127
+}

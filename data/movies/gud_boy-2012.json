@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gud_boy_2012",
+  "title": "Gud Boy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5614495",
+    "imdb": "tt2955286"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-10"
+}

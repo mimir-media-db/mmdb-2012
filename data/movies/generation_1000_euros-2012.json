@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_1000_euros_2012",
+  "title": "Generation 1000 Euros",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3759619",
+    "imdb": "tt1272014",
+    "tmdb": 42395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-19",
+  "runtime_minutes": 101
+}

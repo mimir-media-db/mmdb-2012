@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_green_planet_2012",
+  "title": "The Green Planet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29016681",
+    "imdb": "tt2266696",
+    "tmdb": 173773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13"
+}

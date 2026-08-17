@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grape_candy_2012",
+  "title": "Grape Candy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000572",
+    "imdb": "tt2473734",
+    "tmdb": 146083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-06"
+}

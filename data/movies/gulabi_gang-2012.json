@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulabi_gang_2012",
+  "title": "Gulabi Gang",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052305",
+    "imdb": "tt2196638",
+    "tmdb": 161043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-13",
+  "runtime_minutes": 96
+}

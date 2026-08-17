@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_halloween_puppy_adventure_2012",
+  "title": "The Great Halloween Puppy Adventure",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60176867",
+    "imdb": "tt2404153",
+    "tmdb": 134461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-02",
+  "runtime_minutes": 80
+}

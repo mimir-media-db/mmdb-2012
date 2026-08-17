@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_heist_2012",
+  "title": "The Grand Heist",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491943",
+    "imdb": "tt2448584",
+    "tmdb": 132711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-09",
+  "runtime_minutes": 121
+}

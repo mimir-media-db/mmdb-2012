@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_man_2012",
+  "title": "The Good Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170045",
+    "imdb": "tt2223946",
+    "tmdb": 143662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 75
+}

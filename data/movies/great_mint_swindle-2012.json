@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_mint_swindle_2012",
+  "title": "The Great Mint Swindle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703209",
+    "imdb": "tt2182177",
+    "tmdb": 96719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-11"
+}

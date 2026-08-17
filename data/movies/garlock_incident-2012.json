@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garlock_incident_2012",
+  "title": "The Garlock Incident",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27512953",
+    "imdb": "tt2125650",
+    "tmdb": 472908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-10",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goldrausch_die_geschichte_der_treuhand_2012",
+  "title": "Goldrausch - Die Geschichte der Treuhand",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15505392",
+    "imdb": "tt2301296",
+    "tmdb": 301674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

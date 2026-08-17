@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glanz_gloria_2012",
+  "title": "Glanz & Gloria",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23564124",
+    "imdb": "tt2403877",
+    "tmdb": 205889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

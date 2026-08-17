@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_with_the_dragon_tattoo_2012",
+  "title": "The Girl with the Dragon Tattoo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q276343",
+    "imdb": "tt1132620",
+    "tmdb": 15472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-05",
+  "runtime_minutes": 152
+}

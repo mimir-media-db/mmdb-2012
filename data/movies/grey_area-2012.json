@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grey_area_2012",
+  "title": "The Grey Area",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250919",
+    "imdb": "tt2176972",
+    "tmdb": 433466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

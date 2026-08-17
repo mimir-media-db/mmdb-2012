@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodnight_nobody_2012",
+  "title": "Goodnight Nobody",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718868",
+    "imdb": "tt1606229",
+    "tmdb": 151939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 77
+}

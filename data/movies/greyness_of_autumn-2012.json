@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_greyness_of_autumn_2012",
+  "title": "The Greyness of Autumn",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17426167",
+    "imdb": "tt2566248",
+    "tmdb": 835853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

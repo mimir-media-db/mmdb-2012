@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ginger_rosa_2012",
+  "title": "Ginger & Rosa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3764502",
+    "imdb": "tt2115295",
+    "tmdb": 121872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 90
+}

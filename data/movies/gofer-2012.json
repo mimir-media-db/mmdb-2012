@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gofer_2012",
+  "title": "Gofer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15640888",
+    "imdb": "tt2528876",
+    "tmdb": 204401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
