@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_days_in_new_york_2012",
+  "title": "2 Days in New York",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2778386",
+    "imdb": "tt1602472",
+    "tmdb": 84165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}
