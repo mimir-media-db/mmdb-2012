@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_26_lettres_et_1_philosophe_2012",
+  "title": "26 lettres et 1 philosophe",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055360",
+    "imdb": "tt3635938"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 112
+}

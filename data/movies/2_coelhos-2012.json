@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_coelhos_2012",
+  "title": "2 Coelhos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4633311",
+    "imdb": "tt1753722",
+    "tmdb": 102784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20",
+  "runtime_minutes": 108
+}
