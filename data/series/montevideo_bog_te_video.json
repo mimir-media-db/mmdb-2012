@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_montevideo_bog_te_video",
+  "title": "Montevideo, Bog te video!",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q12755726",
+    "imdb": "tt2160915",
+    "tmdb": 118185
+  },
+  "last_updated": "2026-08-17"
+}

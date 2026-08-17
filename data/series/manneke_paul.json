@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_manneke_paul",
+  "title": "Manneke Paul",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2020936",
+    "imdb": "tt2438294",
+    "tmdb": 52900
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 54
+}

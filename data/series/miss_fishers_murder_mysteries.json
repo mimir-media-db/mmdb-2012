@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_fishers_murder_mysteries",
+  "title": "Miss Fisher's Murder Mysteries",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4257078",
+    "imdb": "tt1988386",
+    "tmdb": 43078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 34
+}

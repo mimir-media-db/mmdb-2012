@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mob_doctor",
+  "title": "The Mob Doctor",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1190075",
+    "imdb": "tt2215717",
+    "tmdb": 43105
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

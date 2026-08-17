@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moordvrouw",
+  "title": "Moordvrouw",
+  "start_year": 2012,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q2489839",
+    "imdb": "tt1978200",
+    "tmdb": 42596
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}

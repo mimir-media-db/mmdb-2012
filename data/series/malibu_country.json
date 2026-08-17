@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_malibu_country",
+  "title": "Malibu Country",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q210665",
+    "imdb": "tt2215291",
+    "tmdb": 40454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_my_family_recipe_rocks",
+  "title": "My Family Recipe Rocks",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6945371"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

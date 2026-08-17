@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moone_boy",
+  "title": "Moone Boy",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4026795",
+    "imdb": "tt2319283",
+    "tmdb": 56817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

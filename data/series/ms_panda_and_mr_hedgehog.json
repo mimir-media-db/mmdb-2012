@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_panda_and_mr_hedgehog",
+  "title": "Ms Panda and Mr Hedgehog",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492039",
+    "imdb": "tt3647374",
+    "tmdb": 49934
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

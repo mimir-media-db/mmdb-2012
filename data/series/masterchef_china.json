@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_china",
+  "title": "MasterChef China",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6784946",
+    "imdb": "tt2483522",
+    "tmdb": 271916
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 35
+}

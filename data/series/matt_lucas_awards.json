@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_matt_lucas_awards",
+  "title": "The Matt Lucas Awards",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7750686",
+    "imdb": "tt2484182",
+    "tmdb": 44118
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mothers_day",
+  "title": "Mother's Day",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q12407919",
+    "imdb": "tt2876928",
+    "tmdb": 259471
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

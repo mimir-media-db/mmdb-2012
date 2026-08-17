@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_biggs",
+  "title": "Mrs Biggs",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6929928",
+    "imdb": "tt2186101",
+    "tmdb": 48666
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

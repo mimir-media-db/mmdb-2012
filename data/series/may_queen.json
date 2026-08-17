@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_may_queen",
+  "title": "May Queen",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492258",
+    "imdb": "tt6286344",
+    "tmdb": 53727
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 38
+}

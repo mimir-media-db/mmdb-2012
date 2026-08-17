@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_city",
+  "title": "Magic City",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q368733",
+    "imdb": "tt1832045",
+    "tmdb": 38967
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

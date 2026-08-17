@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_big_fat_american_gypsy_wedding",
+  "title": "My Big Fat American Gypsy Wedding",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17076083",
+    "imdb": "tt2245937",
+    "tmdb": 60438
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 33
+}

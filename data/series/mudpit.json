@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mudpit",
+  "title": "Mudpit",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3327414",
+    "imdb": "tt1763752",
+    "tmdb": 44797
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
