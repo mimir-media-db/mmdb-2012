@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_buddy_project",
+  "title": "The Buddy Project",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7720500",
+    "imdb": "tt2383438"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 420
+}

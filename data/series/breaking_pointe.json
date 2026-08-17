@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_pointe",
+  "title": "Breaking Pointe",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4959581",
+    "imdb": "tt2290981",
+    "tmdb": 43151
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

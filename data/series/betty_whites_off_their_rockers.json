@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_betty_whites_off_their_rockers",
+  "title": "Betty White's Off Their Rockers",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q3208860",
+    "imdb": "tt1879713",
+    "tmdb": 43064
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 46
+}

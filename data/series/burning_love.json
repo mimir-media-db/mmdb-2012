@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_burning_love",
+  "title": "Burning Love",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4999866",
+    "imdb": "tt2292621",
+    "tmdb": 44189
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 42
+}

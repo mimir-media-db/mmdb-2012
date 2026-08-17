@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_rain",
+  "title": "Beautiful Rain",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q901021",
+    "imdb": "tt2398353",
+    "tmdb": 45991
+  },
+  "last_updated": "2026-08-17"
+}

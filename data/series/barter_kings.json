@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barter_kings",
+  "title": "Barter Kings",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4865171",
+    "imdb": "tt2254098",
+    "tmdb": 42741
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bake_with_anna_olson",
+  "title": "Bake with Anna Olson",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q4849048",
+    "imdb": "tt2978774",
+    "tmdb": 45135
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 60
+}

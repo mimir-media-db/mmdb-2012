@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beauty_and_the_beast",
+  "title": "Beauty and the Beast",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q73268",
+    "imdb": "tt2193041",
+    "tmdb": 44606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 70
+}

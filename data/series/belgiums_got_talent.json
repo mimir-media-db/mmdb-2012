@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_belgiums_got_talent",
+  "title": "Belgium's Got Talent",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q276868"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

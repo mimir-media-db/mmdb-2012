@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bizarre_foods_america",
+  "title": "Bizarre Foods America",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4919366",
+    "imdb": "tt8558578",
+    "tmdb": 59720
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bite_of_china",
+  "title": "A Bite of China",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1073560",
+    "imdb": "tt2168980",
+    "tmdb": 60781
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 15
+}
