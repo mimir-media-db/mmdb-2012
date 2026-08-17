@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_christmas",
+  "title": "The King of Christmas",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11979478",
+    "imdb": "tt2605424",
+    "tmdb": 55611
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_koyu_krmz",
+  "title": "Koyu Kırmızı",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12810423",
+    "imdb": "tt13291348",
+    "tmdb": 49834
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

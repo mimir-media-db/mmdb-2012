@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kathmandu",
+  "title": "Kathmandu",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7058806",
+    "imdb": "tt4556714",
+    "tmdb": 52346
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

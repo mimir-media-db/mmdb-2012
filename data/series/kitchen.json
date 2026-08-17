@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kitchen",
+  "title": "Kitchen",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q4249828",
+    "imdb": "tt2930610",
+    "tmdb": 45994
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 120
+}

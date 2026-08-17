@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdom_of_plants_3d",
+  "title": "Kingdom of Plants 3D",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7846035",
+    "imdb": "tt2117380",
+    "tmdb": 58775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}
