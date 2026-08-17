@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_bad_xxx_2012",
+  "title": "Breaking Bad XXX",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412717",
+    "imdb": "tt2622692",
+    "tmdb": 451828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

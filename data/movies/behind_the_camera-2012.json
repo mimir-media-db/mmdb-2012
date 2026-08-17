@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_camera_2012",
+  "title": "Behind the Camera",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16184510",
+    "imdb": "tt2704282",
+    "tmdb": 172723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-06"
+}

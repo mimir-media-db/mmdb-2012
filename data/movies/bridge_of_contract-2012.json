@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bridge_of_contract_2012",
+  "title": "Bridge of Contract",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203784",
+    "imdb": "tt1961442",
+    "tmdb": 367303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

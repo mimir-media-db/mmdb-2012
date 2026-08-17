@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bear_it_2012",
+  "title": "Bear It",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15921414",
+    "imdb": "tt2340062",
+    "tmdb": 107523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

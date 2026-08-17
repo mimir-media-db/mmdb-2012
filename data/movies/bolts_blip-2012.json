@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bolts_blip_2012",
+  "title": "Bolts & Blip",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998763",
+    "imdb": "tt3341536",
+    "tmdb": 311191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-23"
+}

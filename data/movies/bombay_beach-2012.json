@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bombay_beach_2012",
+  "title": "Bombay Beach",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4940535",
+    "imdb": "tt1758576",
+    "tmdb": 83732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 78
+}

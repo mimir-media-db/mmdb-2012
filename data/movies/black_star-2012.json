@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_star_2012",
+  "title": "Black Star",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113450505",
+    "imdb": "tt3142936",
+    "tmdb": 461817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

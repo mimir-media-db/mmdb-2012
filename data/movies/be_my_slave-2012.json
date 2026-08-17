@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_my_slave_2012",
+  "title": "Be My Slave",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964482",
+    "imdb": "tt2304662",
+    "tmdb": 179058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-03",
+  "runtime_minutes": 96
+}

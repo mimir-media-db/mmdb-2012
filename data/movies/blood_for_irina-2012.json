@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_for_irina_2012",
+  "title": "Blood for Irina",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248810",
+    "imdb": "tt2255976",
+    "tmdb": 138944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

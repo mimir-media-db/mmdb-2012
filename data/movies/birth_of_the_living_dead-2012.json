@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_the_living_dead_2012",
+  "title": "Birth of the Living Dead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21001627",
+    "imdb": "tt2507128",
+    "tmdb": 171795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 76
+}

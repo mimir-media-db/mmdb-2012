@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blues_for_willadean_2012",
+  "title": "Blues for Willadean",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13424124",
+    "imdb": "tt1833111",
+    "tmdb": 275860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 113
+}

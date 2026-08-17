@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bangkok_revenge_2012",
+  "title": "Bangkok Revenge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2882473",
+    "imdb": "tt1784600",
+    "tmdb": 128185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-13",
+  "runtime_minutes": 82
+}

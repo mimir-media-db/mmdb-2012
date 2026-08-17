@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_2012",
+  "title": "Blood",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2906925",
+    "imdb": "tt2078552",
+    "tmdb": 136278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 96
+}

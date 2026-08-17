@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_batalha_do_passinho_2012",
+  "title": "A Batalha do Passinho",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16959768",
+    "imdb": "tt2445298",
+    "tmdb": 228380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-06"
+}

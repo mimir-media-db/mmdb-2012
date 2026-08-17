@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belle_du_seigneur_2012",
+  "title": "Belle du Seigneur",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2894771",
+    "imdb": "tt0810772",
+    "tmdb": 201365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_putin_2012",
+  "title": "Being... Putin",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30513045",
+    "imdb": "tt2229099",
+    "tmdb": 95218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-28",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beast_stalker_2012",
+  "title": "Beast Stalker",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1076380",
+    "imdb": "tt1330525",
+    "tmdb": 18060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-07",
+  "runtime_minutes": 109
+}

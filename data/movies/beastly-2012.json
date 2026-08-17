@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beastly_2012",
+  "title": "Beastly",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q813057",
+    "imdb": "tt1152398",
+    "tmdb": 38117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-14",
+  "runtime_minutes": 86
+}

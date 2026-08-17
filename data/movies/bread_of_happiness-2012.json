@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bread_of_happiness_2012",
+  "title": "Bread of Happiness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058904",
+    "imdb": "tt1726749",
+    "tmdb": 135598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-21",
+  "runtime_minutes": 114
+}

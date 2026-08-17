@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbara_2012",
+  "title": "Barbara",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q708737",
+    "imdb": "tt2178941",
+    "tmdb": 88284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-11",
+  "runtime_minutes": 105
+}

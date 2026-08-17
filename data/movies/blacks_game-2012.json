@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blacks_game_2012",
+  "title": "Black's Game",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15303068",
+    "imdb": "tt1860181",
+    "tmdb": 97340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-01",
+  "runtime_minutes": 104
+}

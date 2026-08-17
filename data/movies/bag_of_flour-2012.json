@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bag_of_flour_2012",
+  "title": "The Bag of Flour",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16654322",
+    "imdb": "tt1848975",
+    "tmdb": 225077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blackout_2012",
+  "title": "Blackout",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112435130",
+    "imdb": "tt1865640",
+    "tmdb": 334584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-19"
+}

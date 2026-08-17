@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackbird_2012",
+  "title": "Blackbird",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2905523",
+    "imdb": "tt2077721",
+    "tmdb": 127862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-09",
+  "runtime_minutes": 103
+}

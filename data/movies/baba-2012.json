@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baba_2012",
+  "title": "Baba",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100351",
+    "imdb": "tt1843853",
+    "tmdb": 408280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 65
+}

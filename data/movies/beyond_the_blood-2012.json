@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_blood_2012",
+  "title": "Beyond the Blood",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15148965",
+    "imdb": "tt2258641",
+    "tmdb": 577479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-24"
+}

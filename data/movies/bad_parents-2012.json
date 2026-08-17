@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_parents_2012",
+  "title": "Bad Parents",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18914859",
+    "imdb": "tt2081178",
+    "tmdb": 214426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

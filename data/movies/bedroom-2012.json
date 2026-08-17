@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bedroom_2012",
+  "title": "Bedroom",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4879407",
+    "imdb": "tt2600010",
+    "tmdb": 121219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-06"
+}

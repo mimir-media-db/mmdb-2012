@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhobhar_2012",
+  "title": "Bhobhar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720477",
+    "imdb": "tt1876259"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-17"
+}

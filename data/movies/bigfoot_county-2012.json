@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bigfoot_county_2012",
+  "title": "Bigfoot County",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16532639",
+    "imdb": "tt2108605",
+    "tmdb": 145198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

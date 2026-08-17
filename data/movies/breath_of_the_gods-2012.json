@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breath_of_the_gods_2012",
+  "title": "Breath of the Gods",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198315",
+    "imdb": "tt2102302",
+    "tmdb": 168423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-05",
+  "runtime_minutes": 105
+}

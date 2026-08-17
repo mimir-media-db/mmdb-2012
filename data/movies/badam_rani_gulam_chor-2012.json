@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_badam_rani_gulam_chor_2012",
+  "title": "Badam Rani Gulam Chor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13116303",
+    "imdb": "tt5900116",
+    "tmdb": 521628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-20"
+}

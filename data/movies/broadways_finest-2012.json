@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broadways_finest_2012",
+  "title": "Broadway's Finest",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948449",
+    "imdb": "tt1737118",
+    "tmdb": 300278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

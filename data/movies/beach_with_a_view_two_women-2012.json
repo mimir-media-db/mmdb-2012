@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beach_with_a_view_two_women_2012",
+  "title": "A Beach With A View - Two Women",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738405",
+    "imdb": "tt8675644",
+    "tmdb": 355037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

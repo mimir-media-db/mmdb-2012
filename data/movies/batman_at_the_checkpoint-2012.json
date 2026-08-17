@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_batman_at_the_checkpoint_2012",
+  "title": "Batman at the Checkpoint",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55650293",
+    "imdb": "tt2241031",
+    "tmdb": 1049538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

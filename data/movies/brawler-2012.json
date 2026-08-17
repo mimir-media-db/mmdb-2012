@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brawler_2012",
+  "title": "Brawler",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16985168",
+    "imdb": "tt1662295",
+    "tmdb": 86818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-14",
+  "runtime_minutes": 84
+}
