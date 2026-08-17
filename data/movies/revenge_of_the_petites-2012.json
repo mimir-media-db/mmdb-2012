@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_revenge_of_the_petites_2012",
+  "title": "Revenge of the Petites",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127136",
+    "imdb": "tt2103240",
+    "tmdb": 464786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

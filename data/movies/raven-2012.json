@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raven_2012",
+  "title": "The Raven",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q235742",
+    "imdb": "tt1486192",
+    "tmdb": 70436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_robotech_2012",
+  "title": "Robotech",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9070036",
+    "tmdb": 418403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_evil_retribution_2012",
+  "title": "Resident Evil: Retribution",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83542",
+    "imdb": "tt1855325",
+    "tmdb": 71679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

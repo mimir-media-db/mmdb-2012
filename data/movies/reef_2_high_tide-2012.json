@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reef_2_high_tide_2012",
+  "title": "The Reef 2: High Tide",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5082967",
+    "imdb": "tt1978567",
+    "tmdb": 132601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_republique_de_la_malbouffe_2012",
+  "title": "République de la malbouffe",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3456425",
+    "imdb": "tt2249019",
+    "tmdb": 283388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_routine_love_story_2012",
+  "title": "Routine Love Story",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7371613",
+    "imdb": "tt2605686",
+    "tmdb": 166460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

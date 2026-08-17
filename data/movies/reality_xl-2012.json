@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reality_xl_2012",
+  "title": "Reality XL",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1273863",
+    "imdb": "tt2145849",
+    "tmdb": 82664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}
