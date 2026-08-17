@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_8_out_of_10_cats_does_countdown",
+  "title": "8 Out of 10 Cats Does Countdown",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17049097",
+    "imdb": "tt2345459",
+    "tmdb": 62974
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 23,
+  "total_episodes": 150
+}
