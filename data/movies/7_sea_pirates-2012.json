@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_sea_pirates_2012",
+  "title": "7 Sea Pirates",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2790656",
+    "imdb": "tt2231505",
+    "tmdb": 89733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

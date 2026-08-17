@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7_welcome_to_london_2012",
+  "title": "7 Welcome to London",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4643893",
+    "imdb": "tt1990976",
+    "tmdb": 106076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
