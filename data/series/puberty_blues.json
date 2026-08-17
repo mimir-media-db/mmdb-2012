@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_puberty_blues",
+  "title": "Puberty Blues",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6090637",
+    "imdb": "tt2222848",
+    "tmdb": 45043
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_princess_and_i",
+  "title": "Princess and I",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q11276530",
+    "imdb": "tt2353017",
+    "tmdb": 44832
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 210
+}

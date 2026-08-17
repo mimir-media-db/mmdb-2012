@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_people_watching_variety_program_monitoring",
+  "title": "People Watching Variety Program: Monitoring",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11325062",
+    "imdb": "tt2873144",
+    "tmdb": 107105
+  },
+  "last_updated": "2026-08-17"
+}

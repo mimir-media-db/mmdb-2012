@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_panico_na_band",
+  "title": "Pânico na Band",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7264081",
+    "imdb": "tt0466518",
+    "tmdb": 46236
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

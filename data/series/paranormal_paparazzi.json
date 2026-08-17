@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paranormal_paparazzi",
+  "title": "Paranormal Paparazzi",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7135546",
+    "imdb": "tt2369568",
+    "tmdb": 58975
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

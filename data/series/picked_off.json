@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_picked_off",
+  "title": "Picked Off",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7190769",
+    "imdb": "tt2214722",
+    "tmdb": 58375
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

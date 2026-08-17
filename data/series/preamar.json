@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_preamar",
+  "title": "Preamar",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3280689",
+    "imdb": "tt2152894",
+    "tmdb": 57311
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

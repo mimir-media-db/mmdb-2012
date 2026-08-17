@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prisoners_wives",
+  "title": "Prisoners' Wives",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3404007",
+    "imdb": "tt2188249",
+    "tmdb": 43143
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

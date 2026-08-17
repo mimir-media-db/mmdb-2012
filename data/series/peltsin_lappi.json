@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_peltsin_lappi",
+  "title": "Peltsin Lappi",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23039848",
+    "imdb": "tt2346738",
+    "tmdb": 281104
+  },
+  "last_updated": "2026-08-17"
+}

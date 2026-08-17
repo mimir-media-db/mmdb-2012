@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pyros",
+  "title": "Pyros",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q17109221",
+    "imdb": "tt2168308",
+    "tmdb": 46740
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

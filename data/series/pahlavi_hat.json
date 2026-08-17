@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pahlavi_hat",
+  "title": "Pahlavi Hat",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5949367",
+    "imdb": "tt5119196"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 54
+}
