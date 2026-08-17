@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_ridge_2012",
+  "title": "Red Ridge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133157520",
+    "imdb": "tt0446771",
+    "tmdb": 153995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15"
+}

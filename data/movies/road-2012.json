@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_2012",
+  "title": "The Road",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107293429",
+    "imdb": "tt2346048",
+    "tmdb": 876750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-31"
+}

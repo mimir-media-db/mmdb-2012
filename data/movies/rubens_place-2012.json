@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rubens_place_2012",
+  "title": "Ruben's Place",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56322416",
+    "imdb": "tt2609706",
+    "tmdb": 256935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 71
+}

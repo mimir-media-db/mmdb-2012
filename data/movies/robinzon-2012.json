@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_robinzon_2012",
+  "title": "Robinzon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52561519",
+    "imdb": "tt1995896"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 384
+}

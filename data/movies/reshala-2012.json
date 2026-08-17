@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reshala_2012",
+  "title": "Reshala",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16692032",
+    "imdb": "tt7857914",
+    "tmdb": 206767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 79
+}

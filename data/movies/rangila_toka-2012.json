@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rangila_toka_2012",
+  "title": "Rangila Toka",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45036759",
+    "imdb": "tt2320238",
+    "tmdb": 493459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-27"
+}

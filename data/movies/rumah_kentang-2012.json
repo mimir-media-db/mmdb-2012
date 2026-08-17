@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumah_kentang_2012",
+  "title": "Rumah Kentang",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12509045",
+    "imdb": "tt2455470",
+    "tmdb": 286297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-04",
+  "runtime_minutes": 102
+}

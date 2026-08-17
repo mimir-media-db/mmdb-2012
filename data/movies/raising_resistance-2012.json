@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raising_resistance_2012",
+  "title": "Raising Resistance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84497486",
+    "imdb": "tt2070781",
+    "tmdb": 112420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-03",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rafea_solar_mama_2012",
+  "title": "Rafea: Solar Mama",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17010035",
+    "imdb": "tt2379442",
+    "tmdb": 131509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-10",
+  "runtime_minutes": 75
+}

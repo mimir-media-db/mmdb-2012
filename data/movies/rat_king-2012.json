@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rat_king_2012",
+  "title": "Rat King",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12373600",
+    "imdb": "tt2082410",
+    "tmdb": 104997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20",
+  "runtime_minutes": 94
+}

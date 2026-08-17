@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_river_used_to_be_a_man_2012",
+  "title": "The River Used to Be a Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30807072",
+    "imdb": "tt1956669",
+    "tmdb": 129248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27"
+}

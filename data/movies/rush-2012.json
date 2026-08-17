@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rush_2012",
+  "title": "Rush",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7380675",
+    "imdb": "tt2256514",
+    "tmdb": 146003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25"
+}

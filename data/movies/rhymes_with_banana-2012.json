@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rhymes_with_banana_2012",
+  "title": "Rhymes with Banana",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97171172",
+    "imdb": "tt1858524",
+    "tmdb": 181215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-13",
+  "runtime_minutes": 99
+}

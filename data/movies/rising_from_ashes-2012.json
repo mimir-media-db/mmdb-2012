@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rising_from_ashes_2012",
+  "title": "Rising from Ashes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17108261",
+    "imdb": "tt2088883",
+    "tmdb": 139572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

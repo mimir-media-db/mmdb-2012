@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_remembrance_of_yusin_2012",
+  "title": "Remembrance Of Yusin",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738438",
+    "tmdb": 463299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-28"
+}

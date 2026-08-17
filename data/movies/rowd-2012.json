@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rowd_2012",
+  "title": "Rowd",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7371847",
+    "imdb": "tt2347798",
+    "tmdb": 556159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05"
+}

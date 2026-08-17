@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_refuge_2012",
+  "title": "Refuge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363779",
+    "imdb": "tt1844763",
+    "tmdb": 139571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 84
+}

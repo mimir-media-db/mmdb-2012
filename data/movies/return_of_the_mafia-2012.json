@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_the_mafia_2012",
+  "title": "Return of The Mafia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16220380",
+    "imdb": "tt2588506",
+    "tmdb": 249826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

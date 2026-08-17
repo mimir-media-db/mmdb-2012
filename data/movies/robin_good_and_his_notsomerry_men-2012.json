@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robin_good_and_his_notsomerry_men_2012",
+  "title": "Robin Good and His Not-So-Merry Men",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17015692",
+    "imdb": "tt2288137",
+    "tmdb": 273203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 45
+}

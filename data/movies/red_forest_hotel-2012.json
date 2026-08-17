@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_forest_hotel_2012",
+  "title": "Red Forest Hotel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11889062",
+    "imdb": "tt2061784",
+    "tmdb": 214421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-13",
+  "runtime_minutes": 87
+}

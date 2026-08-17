@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_richards_wedding_2012",
+  "title": "Richard's Wedding",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18589245",
+    "imdb": "tt2147491",
+    "tmdb": 111240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
