@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_god_2012",
+  "title": "You Are God",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11725891",
+    "imdb": "tt2209386",
+    "tmdb": 135161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-07",
+  "runtime_minutes": 110
+}

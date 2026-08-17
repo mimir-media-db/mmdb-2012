@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yugo_lala_2012",
+  "title": "Yugo & Lala",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8060356",
+    "imdb": "tt2346354",
+    "tmdb": 221963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-10"
+}

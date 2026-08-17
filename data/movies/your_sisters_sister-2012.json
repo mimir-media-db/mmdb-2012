@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_sisters_sister_2012",
+  "title": "Your Sister's Sister",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2009666",
+    "imdb": "tt1742336",
+    "tmdb": 84355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_europe_2012",
+  "title": "Young Europe",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18668720",
+    "imdb": "tt1843333",
+    "tmdb": 141911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

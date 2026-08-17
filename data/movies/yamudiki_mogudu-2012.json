@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamudiki_mogudu_2012",
+  "title": "Yamudiki Mogudu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16311106",
+    "imdb": "tt2433542",
+    "tmdb": 196801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
