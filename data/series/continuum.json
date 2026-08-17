@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_continuum",
+  "title": "Continuum",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q658010",
+    "imdb": "tt1954347",
+    "tmdb": 43020
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 42
+}

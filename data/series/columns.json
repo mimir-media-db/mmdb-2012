@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_columns",
+  "title": "Columns",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16543100",
+    "imdb": "tt5645922"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 10
+}

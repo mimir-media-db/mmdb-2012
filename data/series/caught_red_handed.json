@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_caught_red_handed",
+  "title": "Caught Red Handed",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5054434",
+    "imdb": "tt2429872",
+    "tmdb": 59710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

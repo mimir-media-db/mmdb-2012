@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_coma",
+  "title": "Coma",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2655470",
+    "imdb": "tt2132641",
+    "tmdb": 37092
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

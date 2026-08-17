@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cheongdamdong_alice",
+  "title": "Cheongdam-dong Alice",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q56841",
+    "imdb": "tt2700064",
+    "tmdb": 46536
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

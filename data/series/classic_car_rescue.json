@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_classic_car_rescue",
+  "title": "Classic Car Rescue",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5128110",
+    "imdb": "tt4521598",
+    "tmdb": 58383
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

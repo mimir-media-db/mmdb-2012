@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_canadas_handyman_challenge",
+  "title": "Canada's Handyman Challenge",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16955210",
+    "imdb": "tt3393920",
+    "tmdb": 46765
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

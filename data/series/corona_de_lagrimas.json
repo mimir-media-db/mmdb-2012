@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corona_de_lagrimas",
+  "title": "Corona de lágrimas",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q309218",
+    "imdb": "tt2365086",
+    "tmdb": 46881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_bang_bang",
+  "title": "Comedy Bang Bang",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5151423",
+    "imdb": "tt2176287",
+    "tmdb": 43323
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 90
+}

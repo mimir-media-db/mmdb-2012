@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_coacherna",
+  "title": "Coacherna",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10455858",
+    "imdb": "tt3907140",
+    "tmdb": 283429
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_call_the_midwife",
+  "title": "Call the Midwife",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q172230",
+    "imdb": "tt1983079",
+    "tmdb": 39793
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 131
+}

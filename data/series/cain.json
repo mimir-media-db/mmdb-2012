@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cain",
+  "title": "Caïn",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q2943494",
+    "imdb": "tt2364258",
+    "tmdb": 61794
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 68
+}

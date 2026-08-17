@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chicago_fire",
+  "title": "Chicago Fire",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1187416",
+    "imdb": "tt2261391",
+    "tmdb": 44006
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 295
+}

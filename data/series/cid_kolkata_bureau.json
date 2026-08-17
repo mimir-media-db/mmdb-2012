@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cid_kolkata_bureau",
+  "title": "C.I.D. Kolkata Bureau",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5006129",
+    "imdb": "tt10404120"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 129
+}

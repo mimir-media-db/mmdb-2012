@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_coke_studio",
+  "title": "Coke Studio",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5141704"
+  },
+  "last_updated": "2026-08-17"
+}
