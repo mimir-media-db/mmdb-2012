@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_120_seras_eterno_como_el_tiempo_2012",
+  "title": "120 Seras eterno como el tiempo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5649777",
+    "imdb": "tt3714940",
+    "tmdb": 886220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 145
+}

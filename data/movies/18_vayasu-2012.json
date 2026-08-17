@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_18_vayasu_2012",
+  "title": "18 Vayasu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4557530",
+    "imdb": "tt2877914",
+    "tmdb": 134696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

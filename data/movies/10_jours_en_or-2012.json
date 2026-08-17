@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_jours_en_or_2012",
+  "title": "10 jours en or",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2806825",
+    "imdb": "tt1729630",
+    "tmdb": 83390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}
