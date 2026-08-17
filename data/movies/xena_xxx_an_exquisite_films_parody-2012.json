@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_xena_xxx_an_exquisite_films_parody_2012",
+  "title": "Xena XXX: An Exquisite Films Parody",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412709",
+    "imdb": "tt2434876",
+    "tmdb": 200741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
