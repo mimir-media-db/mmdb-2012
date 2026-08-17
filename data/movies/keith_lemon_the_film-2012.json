@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_keith_lemon_the_film_2012",
+  "title": "Keith Lemon: The Film",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6384646",
+    "imdb": "tt2147365",
+    "tmdb": 118690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

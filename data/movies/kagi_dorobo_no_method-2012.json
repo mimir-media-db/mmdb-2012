@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kagi_dorobo_no_method_2012",
+  "title": "Kagi Dorobō no Method",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6346551",
+    "imdb": "tt2078599",
+    "tmdb": 128113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 128
+}

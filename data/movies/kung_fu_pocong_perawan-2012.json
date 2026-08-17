@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_pocong_perawan_2012",
+  "title": "Kung Fu Pocong Perawan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12492941",
+    "imdb": "tt2316418",
+    "tmdb": 646722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

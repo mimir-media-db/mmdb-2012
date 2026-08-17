@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_k11_2012",
+  "title": "K-11",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q855967",
+    "imdb": "tt1329177",
+    "tmdb": 170178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

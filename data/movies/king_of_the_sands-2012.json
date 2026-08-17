@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_the_sands_2012",
+  "title": "King of the Sands",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6627279",
+    "imdb": "tt3223362",
+    "tmdb": 470107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 120
+}

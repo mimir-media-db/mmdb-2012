@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_motel_2012",
+  "title": "Killer Motel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407517",
+    "imdb": "tt2235110",
+    "tmdb": 139297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

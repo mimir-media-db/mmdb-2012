@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karakara_2012",
+  "title": "Karakara",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3192918",
+    "imdb": "tt2104051",
+    "tmdb": 139124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 101
+}

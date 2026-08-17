@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kumki_2012",
+  "title": "Kumki",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6443927",
+    "imdb": "tt2404801",
+    "tmdb": 146591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

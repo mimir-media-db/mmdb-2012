@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karma_yodha_2012",
+  "title": "Karma Yodha",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1426069",
+    "imdb": "tt2358424",
+    "tmdb": 200201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
