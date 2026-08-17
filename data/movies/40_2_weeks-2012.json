@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_40_2_weeks_2012",
+  "title": "40 + 2 Weeks",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31272111",
+    "imdb": "tt2156184",
+    "tmdb": 492982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
