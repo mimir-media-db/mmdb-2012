@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samaritan_2012",
+  "title": "The Samaritan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2690192",
+    "imdb": "tt1867093",
+    "tmdb": 98339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

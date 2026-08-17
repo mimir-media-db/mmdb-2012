@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safety_not_guaranteed_2012",
+  "title": "Safety Not Guaranteed",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2110480",
+    "imdb": "tt1862079",
+    "tmdb": 84332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

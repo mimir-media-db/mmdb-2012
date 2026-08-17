@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sparkle_2012",
+  "title": "Sparkle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2067318",
+    "imdb": "tt1876451",
+    "tmdb": 88036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 120
+}

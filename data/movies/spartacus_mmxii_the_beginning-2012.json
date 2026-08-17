@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spartacus_mmxii_the_beginning_2012",
+  "title": "Spartacus MMXII: The Beginning",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1369490",
+    "imdb": "tt2496550",
+    "tmdb": 138180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 216
+}

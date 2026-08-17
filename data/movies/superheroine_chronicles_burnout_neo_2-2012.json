@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_superheroine_chronicles_burnout_neo_2_2012",
+  "title": "Superheroine Chronicles Burnout Neo - 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6135881"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 60
+}

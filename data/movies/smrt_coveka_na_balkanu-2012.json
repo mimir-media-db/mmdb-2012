@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_smrt_coveka_na_balkanu_2012",
+  "title": "Smrt čoveka na Balkanu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7546560",
+    "imdb": "tt2113768",
+    "tmdb": 136902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shoo_bre_2012",
+  "title": "Shoo bre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10667139",
+    "imdb": "tt2258591",
+    "tmdb": 117245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

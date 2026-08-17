@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strippers_vs_werewolves_2012",
+  "title": "Strippers vs Werewolves",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7624158",
+    "imdb": "tt1702009",
+    "tmdb": 94603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

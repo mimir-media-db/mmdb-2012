@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sangolli_rayanna_2012",
+  "title": "Sangolli Rayanna",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7418070",
+    "imdb": "tt2616620",
+    "tmdb": 726319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

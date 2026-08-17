@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spec_ten_2012",
+  "title": "SPEC: Ten",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5358857",
+    "imdb": "tt1881045",
+    "tmdb": 137936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_days_of_sin_2012",
+  "title": "Seven Days of Sin",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4643911",
+    "imdb": "tt2375922",
+    "tmdb": 228084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 107
+}

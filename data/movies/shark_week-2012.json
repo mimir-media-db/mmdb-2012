@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shark_week_2012",
+  "title": "Shark Week",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3481501",
+    "imdb": "tt2292182",
+    "tmdb": 124054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

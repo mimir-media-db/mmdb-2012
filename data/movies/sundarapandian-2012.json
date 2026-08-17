@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sundarapandian_2012",
+  "title": "Sundarapandian",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7639243",
+    "imdb": "tt2391732",
+    "tmdb": 134016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

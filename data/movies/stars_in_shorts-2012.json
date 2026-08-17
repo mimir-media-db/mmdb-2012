@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stars_in_shorts_2012",
+  "title": "Stars in Shorts",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7602355",
+    "imdb": "tt2644980",
+    "tmdb": 136066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

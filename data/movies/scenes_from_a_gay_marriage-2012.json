@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scenes_from_a_gay_marriage_2012",
+  "title": "Scenes from a Gay Marriage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7430780",
+    "imdb": "tt2011223",
+    "tmdb": 162639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

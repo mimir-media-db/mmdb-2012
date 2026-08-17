@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexocracy_2012",
+  "title": "Sexocracy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3958579",
+    "imdb": "tt2145867",
+    "tmdb": 542121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 76
+}

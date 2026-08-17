@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shining_night_a_portrait_of_composer_morten_lauridsen_2012",
+  "title": "Shining Night: A Portrait of Composer Morten Lauridsen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7497547",
+    "imdb": "tt2073077",
+    "tmdb": 206266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 74
+}

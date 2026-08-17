@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_stranger_2012",
+  "title": "Strange Stranger",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7621460",
+    "imdb": "tt3165470",
+    "tmdb": 451323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

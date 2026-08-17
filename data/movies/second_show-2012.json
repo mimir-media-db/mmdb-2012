@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_show_2012",
+  "title": "Second Show",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7443528",
+    "imdb": "tt2265539",
+    "tmdb": 187855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

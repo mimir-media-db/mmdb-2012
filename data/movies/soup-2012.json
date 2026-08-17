@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soup_2012",
+  "title": "Soup",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11314001",
+    "imdb": "tt2030395",
+    "tmdb": 431675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

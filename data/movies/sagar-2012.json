@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sagar_2012",
+  "title": "Sagar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7399008",
+    "imdb": "tt2421350",
+    "tmdb": 1063822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

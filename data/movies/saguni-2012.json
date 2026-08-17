@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saguni_2012",
+  "title": "Saguni",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473436",
+    "imdb": "tt2224902",
+    "tmdb": 67635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 148
+}

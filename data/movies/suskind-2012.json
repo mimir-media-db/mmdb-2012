@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suskind_2012",
+  "title": "Süskind",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1966634",
+    "imdb": "tt1609159",
+    "tmdb": 84057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 118
+}

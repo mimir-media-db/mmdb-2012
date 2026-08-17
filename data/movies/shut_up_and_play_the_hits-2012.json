@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shut_up_and_play_the_hits_2012",
+  "title": "Shut Up and Play the Hits",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1646330",
+    "imdb": "tt2124908",
+    "tmdb": 83589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 108
+}

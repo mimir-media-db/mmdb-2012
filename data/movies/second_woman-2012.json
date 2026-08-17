@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_woman_2012",
+  "title": "The Second Woman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11073304",
+    "imdb": "tt2271555",
+    "tmdb": 120880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 102
+}

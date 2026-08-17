@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_st_georges_day_2012",
+  "title": "St George's Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7593166",
+    "imdb": "tt1329232",
+    "tmdb": 131737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 109
+}
