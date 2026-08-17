@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_indonesia",
+  "title": "X Factor Indonesia",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q8042731",
+    "imdb": "tt2658396",
+    "tmdb": 33041
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 45
+}

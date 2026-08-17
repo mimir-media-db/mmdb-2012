@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_philippines",
+  "title": "The X Factor Philippines",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7776453",
+    "imdb": "tt2197536",
+    "tmdb": 38972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 34
+}
