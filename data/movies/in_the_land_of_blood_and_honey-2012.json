@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_land_of_blood_and_honey_2012",
+  "title": "In the Land of Blood and Honey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1459759",
+    "imdb": "tt1714209",
+    "tmdb": 79777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-23",
+  "runtime_minutes": 127
+}

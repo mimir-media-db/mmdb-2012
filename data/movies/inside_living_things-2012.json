@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_living_things_2012",
+  "title": "Inside Living Things",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16157817",
+    "imdb": "tt7595268",
+    "tmdb": 1031112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

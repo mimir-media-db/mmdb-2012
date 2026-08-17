@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_igor_the_cranes_journey_2012",
+  "title": "Igor & the Cranes' Journey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6981074",
+    "imdb": "tt1906396",
+    "tmdb": 128084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-08",
+  "runtime_minutes": 90
+}

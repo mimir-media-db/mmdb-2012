@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_illusionauts_2012",
+  "title": "The Illusionauts",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114267638",
+    "imdb": "tt1893371",
+    "tmdb": 126565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

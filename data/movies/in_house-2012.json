@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_house_2012",
+  "title": "In House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116609390",
+    "imdb": "tt2174934",
+    "tmdb": 254528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

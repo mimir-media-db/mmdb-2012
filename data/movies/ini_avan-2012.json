@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ini_avan_2012",
+  "title": "Ini Avan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12974495",
+    "imdb": "tt2379480",
+    "tmdb": 128074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 104
+}

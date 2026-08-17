@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_looks_pretty_from_a_distance_2012",
+  "title": "It Looks Pretty From a Distance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9383741",
+    "imdb": "tt2114410",
+    "tmdb": 121207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-24",
+  "runtime_minutes": 77
+}

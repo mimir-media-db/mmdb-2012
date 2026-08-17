@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_have_to_buy_new_shoes_2012",
+  "title": "I Have to Buy New Shoes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10699140",
+    "imdb": "tt2330723",
+    "tmdb": 142178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-06",
+  "runtime_minutes": 115
+}

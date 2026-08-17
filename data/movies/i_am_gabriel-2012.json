@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_gabriel_2012",
+  "title": "I Am... Gabriel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16761578",
+    "imdb": "tt2040608",
+    "tmdb": 128281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_carried_you_home_2012",
+  "title": "I Carried You Home",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43083527",
+    "imdb": "tt2085894",
+    "tmdb": 137081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20"
+}

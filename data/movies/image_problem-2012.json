@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_image_problem_2012",
+  "title": "Image Problem",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15819986",
+    "imdb": "tt2234380",
+    "tmdb": 509378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-03",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_dark_half_2012",
+  "title": "In the Dark Half",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16994844",
+    "imdb": "tt1764645",
+    "tmdb": 124501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

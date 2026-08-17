@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_a_ghost_2012",
+  "title": "I Am a Ghost",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5976135",
+    "imdb": "tt2076862",
+    "tmdb": 120698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09",
+  "runtime_minutes": 76
+}

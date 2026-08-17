@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impossible_torn_pages_2012",
+  "title": "The Impossible - Torn Pages",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009159",
+    "imdb": "tt2550138",
+    "tmdb": 147389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

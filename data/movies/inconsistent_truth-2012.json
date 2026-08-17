@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inconsistent_truth_2012",
+  "title": "An Inconsistent Truth",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4750051",
+    "imdb": "tt1806777",
+    "tmdb": 87828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-27"
+}

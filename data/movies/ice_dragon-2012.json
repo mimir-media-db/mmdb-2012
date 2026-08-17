@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_dragon_2012",
+  "title": "The Ice Dragon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18290985",
+    "imdb": "tt2184211",
+    "tmdb": 124217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-24",
+  "runtime_minutes": 77
+}
