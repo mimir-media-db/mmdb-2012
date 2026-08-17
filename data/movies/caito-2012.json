@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caito_2012",
+  "title": "Caíto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124806485",
+    "imdb": "tt2546868",
+    "tmdb": 391389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

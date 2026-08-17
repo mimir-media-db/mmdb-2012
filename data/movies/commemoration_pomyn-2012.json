@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_commemoration_pomyn_2012",
+  "title": "Commemoration: Pomyn",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16712232",
+    "imdb": "tt3620296",
+    "tmdb": 506777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

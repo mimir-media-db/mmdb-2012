@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cosmic_sex_2012",
+  "title": "Cosmic Sex",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18210866",
+    "imdb": "tt4566934",
+    "tmdb": 330141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

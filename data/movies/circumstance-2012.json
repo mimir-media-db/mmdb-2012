@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_circumstance_2012",
+  "title": "Circumstance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3053655",
+    "imdb": "tt1684628",
+    "tmdb": 60421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-24",
+  "runtime_minutes": 106
+}

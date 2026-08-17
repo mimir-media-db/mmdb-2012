@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cohasset_snuff_film_2012",
+  "title": "The Cohasset Snuff Film",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65677530",
+    "imdb": "tt2145903",
+    "tmdb": 280552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chanthaly_2012",
+  "title": "Chanthaly",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16858958",
+    "imdb": "tt2837366",
+    "tmdb": 220287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

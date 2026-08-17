@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cloned_the_recreator_chronicles_2012",
+  "title": "Cloned: The Recreator Chronicles",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9306016",
+    "imdb": "tt1540005",
+    "tmdb": 127594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-12"
+}

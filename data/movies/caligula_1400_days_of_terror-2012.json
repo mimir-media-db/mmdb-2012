@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caligula_1400_days_of_terror_2012",
+  "title": "Caligula: 1400 Days of Terror",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140586939",
+    "imdb": "tt2458392",
+    "tmdb": 198979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheesecake_casserole_2012",
+  "title": "Cheesecake Casserole",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62278069",
+    "imdb": "tt1733114",
+    "tmdb": 114591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

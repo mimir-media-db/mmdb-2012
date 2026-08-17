@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corpse_grinders_3_2012",
+  "title": "The Corpse Grinders 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124426132",
+    "imdb": "tt2388765",
+    "tmdb": 191644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuentame_de_bia_2012",
+  "title": "Cuéntame de Bia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123398925",
+    "imdb": "tt2164502",
+    "tmdb": 745392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_community_service_the_movie_2012",
+  "title": "Community Service: The Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18169974",
+    "imdb": "tt2510820",
+    "tmdb": 252567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

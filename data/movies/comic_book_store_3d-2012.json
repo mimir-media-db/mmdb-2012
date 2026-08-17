@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_comic_book_store_3d_2012",
+  "title": "Comic Book Store 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840871",
+    "tmdb": 649863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-29"
+}

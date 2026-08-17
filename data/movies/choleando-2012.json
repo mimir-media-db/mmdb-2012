@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_choleando_2012",
+  "title": "Choleando",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116745126",
+    "imdb": "tt3318690",
+    "tmdb": 329130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

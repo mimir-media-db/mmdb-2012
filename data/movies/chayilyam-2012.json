@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chayilyam_2012",
+  "title": "Chayilyam",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17050463",
+    "imdb": "tt2574954",
+    "tmdb": 379535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhota_bheem_aur_hanuman_2012",
+  "title": "Chhota Bheem Aur Hanuman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247582",
+    "imdb": "tt6417854",
+    "tmdb": 256863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-01"
+}

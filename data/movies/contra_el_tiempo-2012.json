@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_contra_el_tiempo_2012",
+  "title": "Contra el tiempo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97491232",
+    "imdb": "tt2342047",
+    "tmdb": 142921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-25",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_curators_of_dixon_school_2012",
+  "title": "The Curators of Dixon School",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54829040",
+    "tmdb": 125681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

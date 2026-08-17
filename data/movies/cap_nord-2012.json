@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cap_nord_2012",
+  "title": "Cap Nord",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23309174",
+    "imdb": "tt1132579",
+    "tmdb": 255619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 60
+}

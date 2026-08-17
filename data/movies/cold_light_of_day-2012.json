@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_light_of_day_2012",
+  "title": "The Cold Light of Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1339013",
+    "imdb": "tt1366365",
+    "tmdb": 77948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-04",
+  "runtime_minutes": 94
+}

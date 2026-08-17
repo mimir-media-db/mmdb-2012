@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ce_nest_pas_un_film_de_cowboys_2012",
+  "title": "Ce n'est pas un film de cow-boys",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18610924",
+    "imdb": "tt2271243",
+    "tmdb": 162143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-25",
+  "runtime_minutes": 11
+}

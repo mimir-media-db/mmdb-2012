@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confession_of_murder_2012",
+  "title": "Confession of Murder",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28289",
+    "imdb": "tt2468774",
+    "tmdb": 140212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-08",
+  "runtime_minutes": 119
+}

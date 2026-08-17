@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cop_vs_killer_2012",
+  "title": "Cop vs Killer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1891254",
+    "imdb": "tt2082239",
+    "tmdb": 246637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-16",
+  "runtime_minutes": 87
+}

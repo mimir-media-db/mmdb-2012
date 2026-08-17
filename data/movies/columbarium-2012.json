@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_columbarium_2012",
+  "title": "Columbarium",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105707697",
+    "imdb": "tt2195982",
+    "tmdb": 255944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-05",
+  "runtime_minutes": 86
+}

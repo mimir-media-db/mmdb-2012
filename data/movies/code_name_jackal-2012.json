@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_code_name_jackal_2012",
+  "title": "Code Name: Jackal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q497021",
+    "imdb": "tt2652756",
+    "tmdb": 159230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captive_2012",
+  "title": "Captive",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1035158",
+    "imdb": "tt1699745",
+    "tmdb": 98203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-12",
+  "runtime_minutes": 120
+}

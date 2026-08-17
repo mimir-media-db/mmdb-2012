@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colecao_invisivel_2012",
+  "title": "A Coleção Invisível",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16142102",
+    "imdb": "tt2550692",
+    "tmdb": 220022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-04",
+  "runtime_minutes": 89
+}

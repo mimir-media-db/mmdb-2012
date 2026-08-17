@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_challenge_2_2012",
+  "title": "Challenge 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068890",
+    "imdb": "tt2912138",
+    "tmdb": 575760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-19"
+}

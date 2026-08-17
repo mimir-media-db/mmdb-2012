@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_from_the_napf_2012",
+  "title": "The Children from the Napf",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14852085",
+    "imdb": "tt2207467",
+    "tmdb": 197128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25",
+  "runtime_minutes": 91
+}

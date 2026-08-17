@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_on_a_pomegranate_tree_2012",
+  "title": "A Cherry on a Pomegranate Tree",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270521",
+    "imdb": "tt2405552"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}
