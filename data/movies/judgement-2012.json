@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_judgement_2012",
+  "title": "Judgement",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20044871",
+    "imdb": "tt2528442",
+    "tmdb": 496984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-10"
+}

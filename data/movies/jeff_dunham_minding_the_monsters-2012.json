@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeff_dunham_minding_the_monsters_2012",
+  "title": "Jeff Dunham: Minding the Monsters",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29021068",
+    "imdb": "tt2461736",
+    "tmdb": 137144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jewtopia_2012",
+  "title": "Jewtopia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6190232",
+    "imdb": "tt0878814",
+    "tmdb": 220746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-26",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_christ_superstar_live_arena_tour_2012",
+  "title": "Jesus Christ Superstar: Live Arena Tour",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108439755",
+    "imdb": "tt2596918",
+    "tmdb": 143563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-19",
+  "runtime_minutes": 105
+}

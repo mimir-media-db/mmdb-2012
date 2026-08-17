@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_je_fais_feu_de_tout_bois_2012",
+  "title": "Je fais feu de tout bois",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16645112",
+    "imdb": "tt2165166",
+    "tmdb": 215320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

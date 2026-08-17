@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_carter_2012",
+  "title": "John Carter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q235347",
+    "imdb": "tt0401729",
+    "tmdb": 49529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-08",
+  "runtime_minutes": 132
+}

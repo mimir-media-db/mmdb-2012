@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaaneman_2012",
+  "title": "Jaaneman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958499",
+    "imdb": "tt3091982",
+    "tmdb": 578345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-25"
+}

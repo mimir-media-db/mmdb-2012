@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jorge_mautner_o_filho_do_holocausto_2012",
+  "title": "Jorge Mautner - O Filho do Holocausto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13861278",
+    "imdb": "tt2316323",
+    "tmdb": 229883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_irish_bad_debts_2012",
+  "title": "Jack Irish: Bad Debts",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28501510",
+    "imdb": "tt2087820",
+    "tmdb": 141095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

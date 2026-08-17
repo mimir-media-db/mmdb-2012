@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_as_i_remember_2012",
+  "title": "Just as I Remember",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96384856",
+    "imdb": "tt2212234",
+    "tmdb": 188246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

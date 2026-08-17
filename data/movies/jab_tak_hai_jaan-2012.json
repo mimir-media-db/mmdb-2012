@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jab_tak_hai_jaan_2012",
+  "title": "Jab Tak Hai Jaan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44280",
+    "imdb": "tt2176013",
+    "tmdb": 132316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-12",
+  "runtime_minutes": 176
+}

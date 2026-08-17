@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jiro_dreams_of_sushi_2012",
+  "title": "Jiro Dreams of Sushi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1279290",
+    "imdb": "tt1772925",
+    "tmdb": 80767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joris_en_boris_en_het_geheim_van_de_tempel_2012",
+  "title": "Joris en Boris en het geheim van de tempel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2474537",
+    "imdb": "tt2224233",
+    "tmdb": 141235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-18",
+  "runtime_minutes": 79
+}
