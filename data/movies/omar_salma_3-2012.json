@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_omar_salma_3_2012",
+  "title": "Omar & Salma 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12228489",
+    "imdb": "tt2265641",
+    "tmdb": 103427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-11"
+}

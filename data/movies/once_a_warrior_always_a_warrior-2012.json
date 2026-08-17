@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_once_a_warrior_always_a_warrior_2012",
+  "title": "Once a Warrior - Always a Warrior",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756990"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 7
+}

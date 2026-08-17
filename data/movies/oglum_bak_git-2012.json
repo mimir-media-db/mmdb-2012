@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oglum_bak_git_2012",
+  "title": "Oglum Bak Git",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6091413",
+    "imdb": "tt2415946",
+    "tmdb": 331062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-19",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_dia_que_durou_21_anos_2012",
+  "title": "O Dia que Durou 21 Anos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14332398",
+    "imdb": "tt2634236",
+    "tmdb": 137221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 77
+}

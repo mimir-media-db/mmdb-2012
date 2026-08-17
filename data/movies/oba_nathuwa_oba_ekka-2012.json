@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oba_nathuwa_oba_ekka_2012",
+  "title": "Oba Nathuwa Oba Ekka",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128891",
+    "imdb": "tt2274706",
+    "tmdb": 267978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-28",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outing_2012",
+  "title": "Outing",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15056433",
+    "imdb": "tt2076292",
+    "tmdb": 130744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 76
+}

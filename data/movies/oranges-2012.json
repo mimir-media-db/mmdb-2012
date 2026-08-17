@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oranges_2012",
+  "title": "The Oranges",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4739",
+    "imdb": "tt1313139",
+    "tmdb": 89008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05",
+  "runtime_minutes": 90
+}

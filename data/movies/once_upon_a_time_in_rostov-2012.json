@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_rostov_2012",
+  "title": "Once Upon a Time in Rostov",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16682572",
+    "imdb": "tt4573408"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-23",
+  "runtime_minutes": 43
+}

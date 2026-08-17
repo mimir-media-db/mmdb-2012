@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outbound_2012",
+  "title": "Outbound",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18545296",
+    "imdb": "tt1646221",
+    "tmdb": 57830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12",
+  "runtime_minutes": 87
+}

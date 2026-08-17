@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_overdraft_2012",
+  "title": "Overdraft",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99802684",
+    "imdb": "tt2244248",
+    "tmdb": 296209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

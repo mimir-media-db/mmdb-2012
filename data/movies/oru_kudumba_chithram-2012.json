@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_kudumba_chithram_2012",
+  "title": "Oru Kudumba Chithram",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170246",
+    "imdb": "tt23559938",
+    "tmdb": 331304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

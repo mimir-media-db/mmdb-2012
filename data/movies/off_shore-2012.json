@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_off_shore_2012",
+  "title": "Off Shore",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16743788",
+    "imdb": "tt1906440",
+    "tmdb": 169023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-05",
+  "runtime_minutes": 89
+}

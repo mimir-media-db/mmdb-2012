@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_the_darkness_2012",
+  "title": "Out of the Darkness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718731",
+    "imdb": "tt1737649",
+    "tmdb": 1078813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-29"
+}
