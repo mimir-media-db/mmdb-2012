@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yatasto_2012",
+  "title": "Yatasto",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6169829",
+    "imdb": "tt1886762",
+    "tmdb": 169307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

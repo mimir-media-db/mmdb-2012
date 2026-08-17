@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_your_my_home_2012",
+  "title": "Your My Home",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6743263",
+    "imdb": "tt2261505",
+    "tmdb": 141901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

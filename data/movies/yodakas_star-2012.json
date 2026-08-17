@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yodakas_star_2012",
+  "title": "Yodaka'S Star",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11281172",
+    "imdb": "tt2198988",
+    "tmdb": 443566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

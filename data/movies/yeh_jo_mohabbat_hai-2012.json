@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_jo_mohabbat_hai_2012",
+  "title": "Yeh Jo Mohabbat Hai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8051199",
+    "imdb": "tt2155776",
+    "tmdb": 244323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_and_wild_2012",
+  "title": "Young and Wild",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7221330",
+    "imdb": "tt2125698",
+    "tmdb": 84354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}
