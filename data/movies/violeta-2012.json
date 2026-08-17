@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violeta_2012",
+  "title": "Violeta",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q942581",
+    "imdb": "tt2014392",
+    "tmdb": 80717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 110
+}

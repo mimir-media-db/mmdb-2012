@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_baseball_2012",
+  "title": "Viva Baseball",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15900170",
+    "imdb": "tt2460678",
+    "tmdb": 159676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

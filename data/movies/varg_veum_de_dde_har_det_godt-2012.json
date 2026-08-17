@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_varg_veum_de_dde_har_det_godt_2012",
+  "title": "Varg Veum – De døde har det godt",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17416310",
+    "imdb": "tt2182237",
+    "tmdb": 111422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

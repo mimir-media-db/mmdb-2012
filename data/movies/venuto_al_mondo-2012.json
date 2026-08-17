@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venuto_al_mondo_2012",
+  "title": "Venuto al mondo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4009792",
+    "imdb": "tt1396226",
+    "tmdb": 121642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 127
+}

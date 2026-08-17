@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vozhd_raznokozhikh_2012",
+  "title": "Vozhd raznokozhikh",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16694732",
+    "imdb": "tt2284824",
+    "tmdb": 138186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

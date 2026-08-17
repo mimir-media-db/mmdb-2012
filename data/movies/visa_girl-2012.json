@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_visa_girl_2012",
+  "title": "Visa Girl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54975399",
+    "imdb": "tt2438106",
+    "tmdb": 493987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05"
+}

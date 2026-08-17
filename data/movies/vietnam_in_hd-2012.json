@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vietnam_in_hd_2012",
+  "title": "Vietnam in HD",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197841",
+    "imdb": "tt2109059",
+    "tmdb": 208982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 360
+}

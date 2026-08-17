@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_spider_2012",
+  "title": "The Vampire Spider",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41628239",
+    "imdb": "tt1687220",
+    "tmdb": 246341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

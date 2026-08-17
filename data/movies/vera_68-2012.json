@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vera_68_2012",
+  "title": "Vera 68",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896381",
+    "imdb": "tt2602178",
+    "tmdb": 376759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-03",
+  "runtime_minutes": 91
+}
