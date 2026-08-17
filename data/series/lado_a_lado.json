@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lado_a_lado",
+  "title": "Lado a Lado",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q777650",
+    "imdb": "tt2426188",
+    "tmdb": 46156
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 154
+}

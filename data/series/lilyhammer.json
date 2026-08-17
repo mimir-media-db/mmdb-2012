@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lilyhammer",
+  "title": "Lilyhammer",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1758072",
+    "imdb": "tt1958961",
+    "tmdb": 42368
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

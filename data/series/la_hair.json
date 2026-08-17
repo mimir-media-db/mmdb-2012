@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_hair",
+  "title": "L.A. Hair",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6456213",
+    "imdb": "tt2365269",
+    "tmdb": 63907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 47
+}

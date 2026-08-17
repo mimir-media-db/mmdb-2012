@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_hip_hop_atlanta",
+  "title": "Love & Hip Hop: Atlanta",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6690204",
+    "imdb": "tt2224452",
+    "tmdb": 42910
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 73
+}

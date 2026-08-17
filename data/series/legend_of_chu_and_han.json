@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_chu_and_han",
+  "title": "Legend of Chu and Han",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7878787",
+    "imdb": "tt9586376",
+    "tmdb": 41146
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

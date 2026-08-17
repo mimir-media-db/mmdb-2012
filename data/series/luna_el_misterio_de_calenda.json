@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_luna_el_misterio_de_calenda",
+  "title": "Luna, el misterio de Calenda",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3311203",
+    "imdb": "tt2124494",
+    "tmdb": 46824
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lab_rats",
+  "title": "Lab Rats",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q2699347",
+    "imdb": "tt1991564",
+    "tmdb": 38867
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_link",
+  "title": "The Link",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7747428",
+    "imdb": "tt2239168",
+    "tmdb": 46649
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

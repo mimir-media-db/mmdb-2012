@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_legal_help_desk",
+  "title": "Legal Help Desk",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6517394"
+  },
+  "last_updated": "2026-08-17"
+}

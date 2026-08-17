@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_and_fate",
+  "title": "Life and Fate",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q15270626",
+    "imdb": "tt2460432",
+    "tmdb": 84851
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

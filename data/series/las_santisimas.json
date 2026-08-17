@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_las_santisimas",
+  "title": "Las Santisimas",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q9020535",
+    "imdb": "tt3491320",
+    "tmdb": 107228
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

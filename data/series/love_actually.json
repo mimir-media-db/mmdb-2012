@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_actually",
+  "title": "Love Actually",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15902643",
+    "imdb": "tt6284094",
+    "tmdb": 83803
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 34
+}

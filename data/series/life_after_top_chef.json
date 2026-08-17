@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_after_top_chef",
+  "title": "Life After Top Chef",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6544706",
+    "imdb": "tt2342847",
+    "tmdb": 59620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

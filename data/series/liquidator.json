@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_liquidator",
+  "title": "The Liquidator",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q17015856",
+    "imdb": "tt2251080",
+    "tmdb": 48979
+  },
+  "last_updated": "2026-08-17"
+}

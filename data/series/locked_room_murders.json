@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_locked_room_murders",
+  "title": "The Locked Room Murders",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123521624",
+    "imdb": "tt2284143",
+    "tmdb": 46084
+  },
+  "last_updated": "2026-08-17"
+}
