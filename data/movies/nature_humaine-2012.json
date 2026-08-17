@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_humaine_2012",
+  "title": "Nature humaine",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90159392"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 5
+}

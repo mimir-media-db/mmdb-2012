@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halim_munan_2012",
+  "title": "Halim Munan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20447743",
+    "imdb": "tt2593616",
+    "tmdb": 136188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

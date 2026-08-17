@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunset_strip_2012",
+  "title": "Sunset Strip",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30607213",
+    "imdb": "tt1542485",
+    "tmdb": 200063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

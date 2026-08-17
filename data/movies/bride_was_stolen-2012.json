@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_was_stolen_2012",
+  "title": "The Bride Was Stolen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44873243",
+    "imdb": "tt2321499",
+    "tmdb": 146555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

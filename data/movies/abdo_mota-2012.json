@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abdo_mota_2012",
+  "title": "Abdo Mota",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12224223",
+    "imdb": "tt2497436",
+    "tmdb": 175195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-24",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vou_rifar_meu_coracao_2012",
+  "title": "Vou Rifar meu Coração",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28680072",
+    "imdb": "tt2157079",
+    "tmdb": 159174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 78
+}

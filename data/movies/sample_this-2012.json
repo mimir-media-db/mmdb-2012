@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sample_this_2012",
+  "title": "Sample This",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408955",
+    "imdb": "tt2407418",
+    "tmdb": 217129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

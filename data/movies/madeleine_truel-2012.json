@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_madeleine_truel_2012",
+  "title": "Madeleine Truel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135265269",
+    "imdb": "tt3326304"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jawan_of_vellimala_2012",
+  "title": "Jawan of Vellimala",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6166047",
+    "imdb": "tt2265194",
+    "tmdb": 139658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-19"
+}

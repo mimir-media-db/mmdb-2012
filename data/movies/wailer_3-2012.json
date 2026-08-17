@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wailer_3_2012",
+  "title": "The Wailer 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29022694",
+    "imdb": "tt2400434",
+    "tmdb": 140965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

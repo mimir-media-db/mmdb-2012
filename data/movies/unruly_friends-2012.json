@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unruly_friends_2012",
+  "title": "Unruly Friends",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12197853",
+    "imdb": "tt3587480",
+    "tmdb": 204233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-17",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tanzt_2012",
+  "title": "Tanzt!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15215975",
+    "imdb": "tt3267078"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mapa_2012",
+  "title": "Mapa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60425569",
+    "imdb": "tt2494396",
+    "tmdb": 160777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

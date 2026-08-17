@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_claw_the_collective_of_lady_arm_wrestlers_2012",
+  "title": "CLAW: The Collective of Lady Arm Wrestlers",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135320764",
+    "imdb": "tt2576478",
+    "tmdb": 436058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_code_of_the_west_2012",
+  "title": "Code of the West",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30603828",
+    "imdb": "tt2091266",
+    "tmdb": 181108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

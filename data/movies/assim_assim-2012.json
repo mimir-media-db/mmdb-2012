@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assim_assim_2012",
+  "title": "Assim assim",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16494767",
+    "imdb": "tt1594438",
+    "tmdb": 92611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cabin_in_the_woods_2012",
+  "title": "The Cabin in the Woods",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45394",
+    "imdb": "tt1259521",
+    "tmdb": 22970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09",
+  "runtime_minutes": 95
+}

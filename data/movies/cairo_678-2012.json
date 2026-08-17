@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cairo_678_2012",
+  "title": "Cairo 678",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1335092",
+    "imdb": "tt1764141",
+    "tmdb": 85441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-08",
+  "runtime_minutes": 100
+}

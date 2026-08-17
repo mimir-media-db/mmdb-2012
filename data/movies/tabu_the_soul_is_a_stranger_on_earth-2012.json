@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tabu_the_soul_is_a_stranger_on_earth_2012",
+  "title": "Tabu: The Soul Is a Stranger on Earth",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13105184",
+    "imdb": "tt1965131",
+    "tmdb": 315276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-31",
+  "runtime_minutes": 100
+}

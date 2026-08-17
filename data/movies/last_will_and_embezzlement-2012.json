@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_will_and_embezzlement_2012",
+  "title": "Last Will and Embezzlement",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252381",
+    "imdb": "tt2048793",
+    "tmdb": 105782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-13"
+}

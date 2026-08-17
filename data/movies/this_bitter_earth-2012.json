@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_bitter_earth_2012",
+  "title": "This Bitter Earth",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107589360",
+    "imdb": "tt1060273"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_wedding_2012",
+  "title": "Red Wedding",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17064257",
+    "imdb": "tt4599298",
+    "tmdb": 234161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-16",
+  "runtime_minutes": 58
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_eating_the_birds_food_2012",
+  "title": "Boy Eating the Bird's Food",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15353041",
+    "imdb": "tt2182209",
+    "tmdb": 127866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

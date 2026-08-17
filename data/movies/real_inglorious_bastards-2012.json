@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_real_inglorious_bastards_2012",
+  "title": "The Real Inglorious Bastards",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122740677",
+    "imdb": "tt3320110",
+    "tmdb": 255392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

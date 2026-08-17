@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_las_viudas_de_ifni_2012",
+  "title": "Las viudas de Ifni",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97656391",
+    "imdb": "tt2716278"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 27
+}

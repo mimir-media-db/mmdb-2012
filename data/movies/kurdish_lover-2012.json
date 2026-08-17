@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kurdish_lover_2012",
+  "title": "Kurdish Lover",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108542987",
+    "imdb": "tt1783316",
+    "tmdb": 147660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-12",
+  "runtime_minutes": 95
+}

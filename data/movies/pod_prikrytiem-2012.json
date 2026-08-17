@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pod_prikrytiem_2012",
+  "title": "Pod prikrytiem",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25394910",
+    "imdb": "tt4083474",
+    "tmdb": 215997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

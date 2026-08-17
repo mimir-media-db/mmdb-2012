@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_noirs_de_france_2012",
+  "title": "Noirs de France",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60650045",
+    "imdb": "tt2176138"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-04"
+}

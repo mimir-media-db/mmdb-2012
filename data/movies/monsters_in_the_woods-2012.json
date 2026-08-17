@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsters_in_the_woods_2012",
+  "title": "Monsters in the Woods",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082408",
+    "imdb": "tt1686902",
+    "tmdb": 93513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lilet_never_happened_2012",
+  "title": "Lilet Never Happened",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64515941",
+    "imdb": "tt1986951",
+    "tmdb": 138731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

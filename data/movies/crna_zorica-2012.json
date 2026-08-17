@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crna_zorica_2012",
+  "title": "Crna Zorica",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12629334",
+    "imdb": "tt1679544",
+    "tmdb": 110911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-20",
+  "runtime_minutes": 80
+}

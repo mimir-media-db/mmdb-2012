@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_goodbye_2012",
+  "title": "Hello Goodbye",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19943415",
+    "imdb": "tt2998380",
+    "tmdb": 271621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

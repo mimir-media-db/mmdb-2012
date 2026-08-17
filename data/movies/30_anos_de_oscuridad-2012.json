@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_anos_de_oscuridad_2012",
+  "title": "30 años de oscuridad",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97136192",
+    "imdb": "tt2076142",
+    "tmdb": 119609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-04",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darkfall_resurrection_2012",
+  "title": "Darkfall Resurrection",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600720",
+    "imdb": "tt2581502",
+    "tmdb": 357707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

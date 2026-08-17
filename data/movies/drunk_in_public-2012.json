@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drunk_in_public_2012",
+  "title": "Drunk in Public",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136299",
+    "imdb": "tt1419769",
+    "tmdb": 95373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-27"
+}

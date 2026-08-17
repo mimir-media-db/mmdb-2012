@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janeane_from_des_moines_2012",
+  "title": "Janeane from Des Moines",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18208268",
+    "imdb": "tt2379438",
+    "tmdb": 128108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liverpool_goalie_2012",
+  "title": "The Liverpool Goalie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1737744",
+    "imdb": "tt1488574",
+    "tmdb": 58397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trickle_dickle_down_2012",
+  "title": "Trickle Dickle Down",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647225",
+    "imdb": "tt4478920",
+    "tmdb": 426852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

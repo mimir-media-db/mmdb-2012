@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4_dead_girls_the_soul_taker_2012",
+  "title": "4 Dead Girls: The Soul Taker",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97641737",
+    "imdb": "tt2252444",
+    "tmdb": 228724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

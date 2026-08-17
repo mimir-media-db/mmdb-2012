@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machine_which_makes_everything_disappear_2012",
+  "title": "The Machine Which Makes Everything Disappear",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22669549",
+    "imdb": "tt2551618",
+    "tmdb": 159026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

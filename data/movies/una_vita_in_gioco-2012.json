@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_una_vita_in_gioco_2012",
+  "title": "Una vita in gioco",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48809156",
+    "imdb": "tt2076976"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 145
+}

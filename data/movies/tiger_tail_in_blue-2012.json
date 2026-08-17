@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_tail_in_blue_2012",
+  "title": "Tiger Tail in Blue",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122931577",
+    "imdb": "tt2082482",
+    "tmdb": 122961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-17",
+  "runtime_minutes": 76
+}

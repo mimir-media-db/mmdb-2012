@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zuloak_2012",
+  "title": "Zuloak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92163132",
+    "imdb": "tt2406934",
+    "tmdb": 135491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 99
+}

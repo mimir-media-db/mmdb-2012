@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brigada_naslednik_2012",
+  "title": "Brigada: Naslednik",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4096414",
+    "imdb": "tt1765729",
+    "tmdb": 149798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 102
+}

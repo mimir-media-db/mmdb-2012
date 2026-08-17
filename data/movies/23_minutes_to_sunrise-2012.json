@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_23_minutes_to_sunrise_2012",
+  "title": "23 Minutes to Sunrise",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511171",
+    "imdb": "tt2009402",
+    "tmdb": 179242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

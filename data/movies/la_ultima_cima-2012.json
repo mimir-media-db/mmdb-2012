@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ultima_cima_2012",
+  "title": "La última cima",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9019676",
+    "imdb": "tt1651902",
+    "tmdb": 76010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-18",
+  "runtime_minutes": 80
+}

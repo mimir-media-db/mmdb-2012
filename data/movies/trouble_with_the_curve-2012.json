@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_the_curve_2012",
+  "title": "Trouble with the Curve",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112747",
+    "imdb": "tt2083383",
+    "tmdb": 87825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-19",
+  "runtime_minutes": 111
+}

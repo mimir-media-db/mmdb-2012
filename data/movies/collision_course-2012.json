@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_collision_course_2012",
+  "title": "Collision Course",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21072101",
+    "imdb": "tt2474984",
+    "tmdb": 151092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

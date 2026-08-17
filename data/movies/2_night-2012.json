@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_night_2012",
+  "title": "2 Night",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12403186",
+    "imdb": "tt1685486",
+    "tmdb": 224240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 87
+}

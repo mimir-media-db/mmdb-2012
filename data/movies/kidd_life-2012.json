@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidd_life_2012",
+  "title": "Kidd life",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729022",
+    "imdb": "tt2498426",
+    "tmdb": 164528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-03",
+  "runtime_minutes": 96
+}

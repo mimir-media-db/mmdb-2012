@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_2012",
+  "title": "Virgin",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17193847",
+    "imdb": "tt2288141",
+    "tmdb": 152642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

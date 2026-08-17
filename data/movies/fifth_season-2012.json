@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fifth_season_2012",
+  "title": "The Fifth Season",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6466046",
+    "imdb": "tt2298820",
+    "tmdb": 123366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-06",
+  "runtime_minutes": 93
+}

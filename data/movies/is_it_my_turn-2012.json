@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_is_it_my_turn_2012",
+  "title": "Is It My Turn",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62277786"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

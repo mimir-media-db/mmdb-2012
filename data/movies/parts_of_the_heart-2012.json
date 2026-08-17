@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parts_of_the_heart_2012",
+  "title": "Parts of the Heart",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125420909",
+    "imdb": "tt2172015",
+    "tmdb": 346778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-01",
+  "runtime_minutes": 88
+}

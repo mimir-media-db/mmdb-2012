@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sean_banan_inuti_seanfrika_2012",
+  "title": "Sean Banan inuti Seanfrika",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7440814",
+    "imdb": "tt2251481",
+    "tmdb": 87072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-15",
+  "runtime_minutes": 76
+}

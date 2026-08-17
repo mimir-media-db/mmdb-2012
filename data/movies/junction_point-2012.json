@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_junction_point_2012",
+  "title": "Junction Point",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59740794",
+    "imdb": "tt1851923",
+    "tmdb": 117893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hsueshen_tsien_2012",
+  "title": "Hsue-shen Tsien",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15903131",
+    "imdb": "tt2566924",
+    "tmdb": 142621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-02",
+  "runtime_minutes": 120
+}

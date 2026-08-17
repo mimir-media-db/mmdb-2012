@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_la_ville_a_remonter_le_temps_2012",
+  "title": "Paris, la ville à remonter le temps",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112670089",
+    "imdb": "tt2720844",
+    "tmdb": 354895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_desiderio_oscuro_2012",
+  "title": "Desiderio oscuro",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303111"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

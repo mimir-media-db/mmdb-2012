@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_boy_street_2012",
+  "title": "Bad Boy Street",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14914033",
+    "imdb": "tt2240764",
+    "tmdb": 140208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

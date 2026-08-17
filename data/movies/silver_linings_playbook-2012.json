@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_linings_playbook_2012",
+  "title": "Silver Linings Playbook",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116845",
+    "imdb": "tt1045658",
+    "tmdb": 82693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-08",
+  "runtime_minutes": 122
+}

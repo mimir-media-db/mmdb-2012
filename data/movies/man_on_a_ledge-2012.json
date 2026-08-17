@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_on_a_ledge_2012",
+  "title": "Man on a Ledge",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q194696",
+    "imdb": "tt1568338",
+    "tmdb": 49527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-27",
+  "runtime_minutes": 103
+}

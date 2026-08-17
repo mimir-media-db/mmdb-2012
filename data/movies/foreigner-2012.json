@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foreigner_2012",
+  "title": "The Foreigner",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4201290",
+    "imdb": "tt2170623",
+    "tmdb": 142319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-16"
+}

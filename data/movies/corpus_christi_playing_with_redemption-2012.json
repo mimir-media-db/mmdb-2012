@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corpus_christi_playing_with_redemption_2012",
+  "title": "Corpus Christi: Playing with Redemption",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25646605",
+    "imdb": "tt1697891",
+    "tmdb": 297587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 75
+}

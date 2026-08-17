@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_darkness_2012",
+  "title": "In Darkness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q699338",
+    "imdb": "tt1417075",
+    "tmdb": 73686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-09",
+  "runtime_minutes": 144
+}

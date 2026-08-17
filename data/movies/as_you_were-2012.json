@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_as_you_were_2012",
+  "title": "As You Were",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33526651",
+    "imdb": "tt2300795"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 25
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dove_2012",
+  "title": "The Black Dove",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048757",
+    "imdb": "tt1844790",
+    "tmdb": 579081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19"
+}

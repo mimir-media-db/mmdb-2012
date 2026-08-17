@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thats_my_boy_2012",
+  "title": "That's My Boy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32535",
+    "imdb": "tt1232200",
+    "tmdb": 87428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-02",
+  "runtime_minutes": 114
+}

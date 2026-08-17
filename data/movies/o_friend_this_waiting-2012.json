@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_friend_this_waiting_2012",
+  "title": "O Friend, This Waiting!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17072681",
+    "imdb": "tt2750206",
+    "tmdb": 1100031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inbetweeners_movie_2012",
+  "title": "The Inbetweeners Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q262173",
+    "imdb": "tt1716772",
+    "tmdb": 69798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02",
+  "runtime_minutes": 97
+}

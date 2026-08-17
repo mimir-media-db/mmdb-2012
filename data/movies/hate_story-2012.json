@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hate_story_2012",
+  "title": "Hate Story",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5681216",
+    "imdb": "tt2309987",
+    "tmdb": 109907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-20",
+  "runtime_minutes": 140
+}

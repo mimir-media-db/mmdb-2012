@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_material_of_the_future_2012",
+  "title": "Material of the Future",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19864695",
+    "imdb": "tt4317344"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ekla_akash_2012",
+  "title": "Ekla Akash",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350490",
+    "imdb": "tt5490812",
+    "tmdb": 277243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05"
+}

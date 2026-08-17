@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_riva_2012",
+  "title": "Viva Riva!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3066607",
+    "imdb": "tt1723120",
+    "tmdb": 63946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_heart_2012",
+  "title": "Another Heart",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56322002",
+    "imdb": "tt2462420",
+    "tmdb": 458702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

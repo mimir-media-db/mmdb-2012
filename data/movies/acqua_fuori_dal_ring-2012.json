@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_acqua_fuori_dal_ring_2012",
+  "title": "Acqua Fuori Dal Ring",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16960222",
+    "imdb": "tt2430074",
+    "tmdb": 181582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-14"
+}

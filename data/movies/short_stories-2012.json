@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_short_stories_2012",
+  "title": "Short Stories",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4390413",
+    "imdb": "tt2192582",
+    "tmdb": 160833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 105
+}

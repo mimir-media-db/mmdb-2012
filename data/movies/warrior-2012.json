@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warrior_2012",
+  "title": "Warrior",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1415964",
+    "imdb": "tt1291584",
+    "tmdb": 59440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01",
+  "runtime_minutes": 139
+}

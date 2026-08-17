@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_on_the_hill_2012",
+  "title": "House on the Hill",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20926314",
+    "imdb": "tt2513864",
+    "tmdb": 287601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_like_zorro_2012",
+  "title": "Just Like Zorro",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10673442",
+    "imdb": "tt2355859",
+    "tmdb": 488997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-28",
+  "runtime_minutes": 29
+}

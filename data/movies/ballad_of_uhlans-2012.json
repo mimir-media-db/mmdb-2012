@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_uhlans_2012",
+  "title": "The Ballad of Uhlans",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4029298",
+    "imdb": "tt2388755",
+    "tmdb": 150088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-01"
+}

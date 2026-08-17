@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rodencia_y_el_diente_de_la_princesa_2012",
+  "title": "Rodencia y el diente de la princesa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811586",
+    "imdb": "tt2439190",
+    "tmdb": 227731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 87
+}

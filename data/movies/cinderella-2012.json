@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinderella_2012",
+  "title": "Cinderella",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4053629",
+    "imdb": "tt2147597",
+    "tmdb": 98604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-14",
+  "runtime_minutes": 100
+}

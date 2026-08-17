@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feathered_dreams_2012",
+  "title": "Feathered Dreams",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170023",
+    "imdb": "tt2182269",
+    "tmdb": 945492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

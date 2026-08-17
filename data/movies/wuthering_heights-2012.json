@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wuthering_heights_2012",
+  "title": "Wuthering Heights",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1189728",
+    "imdb": "tt1181614",
+    "tmdb": 9364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02",
+  "runtime_minutes": 129
+}

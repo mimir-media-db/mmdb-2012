@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_substance_albert_hofmanns_lsd_2012",
+  "title": "The Substance: Albert Hofmann's LSD",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7767153",
+    "imdb": "tt2075352",
+    "tmdb": 103195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-17",
+  "runtime_minutes": 96
+}

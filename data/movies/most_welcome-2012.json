@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_most_welcome_2012",
+  "title": "Most Welcome",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6916799",
+    "imdb": "tt5281722",
+    "tmdb": 591318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-20"
+}

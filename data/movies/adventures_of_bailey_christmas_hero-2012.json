@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_bailey_christmas_hero_2012",
+  "title": "Adventures of Bailey: Christmas Hero",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135651474",
+    "imdb": "tt2316383",
+    "tmdb": 242167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

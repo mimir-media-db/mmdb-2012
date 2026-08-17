@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spicy_robbery_2012",
+  "title": "Spicy Robbery",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16139157",
+    "imdb": "tt2380137",
+    "tmdb": 101032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 114
+}

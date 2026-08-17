@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peaches_does_herself_2012",
+  "title": "Peaches Does Herself",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17150928",
+    "imdb": "tt2379550",
+    "tmdb": 128160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

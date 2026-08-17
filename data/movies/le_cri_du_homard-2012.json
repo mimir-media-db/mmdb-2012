@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_cri_du_homard_2012",
+  "title": "Le cri du homard",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16653611",
+    "imdb": "tt2150716",
+    "tmdb": 466263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 30
+}

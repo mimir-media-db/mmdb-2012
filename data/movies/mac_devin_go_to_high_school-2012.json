@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mac_devin_go_to_high_school_2012",
+  "title": "Mac & Devin Go to High School",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14315430",
+    "imdb": "tt1870425",
+    "tmdb": 104859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 75
+}

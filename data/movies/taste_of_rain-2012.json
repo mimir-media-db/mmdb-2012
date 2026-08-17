@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_rain_2012",
+  "title": "Taste of Rain",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136139233"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-13"
+}

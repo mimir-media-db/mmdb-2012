@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bibi_blocksberg_eene_meene_eins_zwei_drei_2012",
+  "title": "Bibi Blocksberg - Eene Meene Eins, Zwei, Drei!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26839362",
+    "imdb": "tt2148574",
+    "tmdb": 79928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-17",
+  "runtime_minutes": 80
+}

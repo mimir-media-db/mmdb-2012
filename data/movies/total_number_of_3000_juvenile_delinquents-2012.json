@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_total_number_of_3000_juvenile_delinquents_2012",
+  "title": "The Total Number of 3000 Juvenile Delinquents",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138507603",
+    "imdb": "tt2136937",
+    "tmdb": 153760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-10"
+}

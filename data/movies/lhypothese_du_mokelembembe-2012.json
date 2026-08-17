@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lhypothese_du_mokelembembe_2012",
+  "title": "L'Hypothèse du Mokélé-Mbembé",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131986968",
+    "imdb": "tt1991085",
+    "tmdb": 146606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-07",
+  "runtime_minutes": 78
+}

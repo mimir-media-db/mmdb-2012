@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carry_on_jatta_2012",
+  "title": "Carry On Jatta",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5046795",
+    "imdb": "tt2245544",
+    "tmdb": 123463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-27"
+}

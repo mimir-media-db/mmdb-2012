@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_min_barndom_i_helvede_2012",
+  "title": "Min barndom i helvede",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494283",
+    "imdb": "tt9655180",
+    "tmdb": 444392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 58
+}

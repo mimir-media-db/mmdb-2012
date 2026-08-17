@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_class_2012",
+  "title": "Second Class",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955278",
+    "imdb": "tt2622186",
+    "tmdb": 265303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

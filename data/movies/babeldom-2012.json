@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babeldom_2012",
+  "title": "Babeldom",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64876602",
+    "imdb": "tt2483688",
+    "tmdb": 175011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

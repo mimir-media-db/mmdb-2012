@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punk_syndrome_2012",
+  "title": "The Punk Syndrome",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q401765",
+    "imdb": "tt1774438",
+    "tmdb": 122492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-08",
+  "runtime_minutes": 85
+}

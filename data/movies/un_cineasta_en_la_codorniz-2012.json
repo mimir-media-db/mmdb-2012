@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_cineasta_en_la_codorniz_2012",
+  "title": "Un cineasta en La Codorniz",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97656556",
+    "imdb": "tt2716246"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-23",
+  "runtime_minutes": 16
+}

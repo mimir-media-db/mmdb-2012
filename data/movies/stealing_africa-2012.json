@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stealing_africa_2012",
+  "title": "Stealing Africa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729545",
+    "imdb": "tt2525064",
+    "tmdb": 553007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 58
+}

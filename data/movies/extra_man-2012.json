@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extra_man_2012",
+  "title": "The Extra Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q500030",
+    "imdb": "tt1361313",
+    "tmdb": 47088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-12",
+  "runtime_minutes": 88
+}

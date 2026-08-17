@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_and_not_so_pink_2012",
+  "title": "Blue and Not So Pink",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5412577",
+    "imdb": "tt2091235",
+    "tmdb": 168379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-27",
+  "runtime_minutes": 92
+}

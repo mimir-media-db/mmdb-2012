@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kokoko_2012",
+  "title": "Kokoko",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4227352",
+    "imdb": "tt2403899",
+    "tmdb": 123949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-14",
+  "runtime_minutes": 100
+}

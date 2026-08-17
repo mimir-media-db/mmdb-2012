@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_compliance_2012",
+  "title": "Compliance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1100064",
+    "imdb": "tt1971352",
+    "tmdb": 84188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-21",
+  "runtime_minutes": 90
+}

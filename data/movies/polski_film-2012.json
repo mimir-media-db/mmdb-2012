@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polski_film_2012",
+  "title": "Polski film",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12046251",
+    "imdb": "tt2197242",
+    "tmdb": 123479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12",
+  "runtime_minutes": 113
+}

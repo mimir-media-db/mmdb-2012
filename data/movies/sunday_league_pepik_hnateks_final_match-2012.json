@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunday_league_pepik_hnateks_final_match_2012",
+  "title": "Sunday League - Pepik Hnatek's Final Match",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8452990",
+    "imdb": "tt2210879",
+    "tmdb": 135017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-29",
+  "runtime_minutes": 102
+}

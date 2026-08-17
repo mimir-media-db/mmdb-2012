@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_reunion_2012",
+  "title": "American Reunion",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q303040",
+    "imdb": "tt1605630",
+    "tmdb": 71552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-04",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neighbouring_sounds_2012",
+  "title": "Neighbouring Sounds",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4414346",
+    "imdb": "tt2190367",
+    "tmdb": 97989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-01",
+  "runtime_minutes": 131
+}

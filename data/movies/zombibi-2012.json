@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombibi_2012",
+  "title": "Zombibi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q730584",
+    "imdb": "tt2084934",
+    "tmdb": 90231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-15",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajj_de_ranjhe_2012",
+  "title": "Ajj De Ranjhe",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4699831",
+    "imdb": "tt2440140",
+    "tmdb": 138081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07"
+}

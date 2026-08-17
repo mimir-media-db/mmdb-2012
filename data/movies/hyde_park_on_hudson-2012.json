@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hyde_park_on_hudson_2012",
+  "title": "Hyde Park on Hudson",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2604581",
+    "imdb": "tt1477855",
+    "tmdb": 87504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-31",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_next_door_2012",
+  "title": "The Children Next Door",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20381443",
+    "imdb": "tt2344458",
+    "tmdb": 1039660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 36
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holidays_by_the_sea_2012",
+  "title": "Holidays by the Sea",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3339409",
+    "imdb": "tt1754946",
+    "tmdb": 79850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-05",
+  "runtime_minutes": 76
+}

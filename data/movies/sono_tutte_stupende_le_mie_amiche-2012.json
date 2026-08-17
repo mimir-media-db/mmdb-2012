@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sono_tutte_stupende_le_mie_amiche_2012",
+  "title": "Sono tutte stupende le mie amiche",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20006047",
+    "imdb": "tt2820482",
+    "tmdb": 962639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

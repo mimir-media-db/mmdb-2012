@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_dancer_2012",
+  "title": "Little Dancer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575484",
+    "imdb": "tt1852010"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-30",
+  "runtime_minutes": 110
+}

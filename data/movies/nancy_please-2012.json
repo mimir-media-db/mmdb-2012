@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nancy_please_2012",
+  "title": "Nancy, Please",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18152851",
+    "imdb": "tt1760985",
+    "tmdb": 140444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_how_they_save_the_world_2012",
+  "title": "How They Save the World!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13022972",
+    "imdb": "tt2706492",
+    "tmdb": 168309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

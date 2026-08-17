@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mask_of_love_2012",
+  "title": "The Mask of Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414366",
+    "imdb": "tt3425640",
+    "tmdb": 254701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-29",
+  "runtime_minutes": 100
+}

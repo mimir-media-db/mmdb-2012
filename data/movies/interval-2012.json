@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interval_2012",
+  "title": "The Interval",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819389",
+    "imdb": "tt2290934",
+    "tmdb": 128106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-04",
+  "runtime_minutes": 86
+}

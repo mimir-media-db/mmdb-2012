@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cornelia_at_her_mirror_2012",
+  "title": "Cornelia at Her Mirror",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101620",
+    "imdb": "tt2033971",
+    "tmdb": 387589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

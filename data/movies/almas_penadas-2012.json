@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almas_penadas_2012",
+  "title": "Almas penadas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16488794",
+    "imdb": "tt3087672",
+    "tmdb": 217444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

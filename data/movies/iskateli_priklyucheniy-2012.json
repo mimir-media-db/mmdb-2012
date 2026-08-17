@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iskateli_priklyucheniy_2012",
+  "title": "Iskateli priklyucheniy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116506369",
+    "imdb": "tt2085829",
+    "tmdb": 152869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

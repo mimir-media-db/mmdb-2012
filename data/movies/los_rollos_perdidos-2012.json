@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_rollos_perdidos_2012",
+  "title": "Los rollos perdidos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18419821",
+    "imdb": "tt2318591",
+    "tmdb": 269088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

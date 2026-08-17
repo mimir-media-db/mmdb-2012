@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinta_kura_kura_2012",
+  "title": "Cinta Kura Kura",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473151",
+    "imdb": "tt1841545",
+    "tmdb": 97417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01"
+}

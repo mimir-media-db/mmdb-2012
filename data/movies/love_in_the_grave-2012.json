@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_the_grave_2012",
+  "title": "Love in the Grave",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12034540",
+    "imdb": "tt2745744",
+    "tmdb": 137690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 79
+}

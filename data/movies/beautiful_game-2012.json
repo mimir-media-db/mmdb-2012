@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_game_2012",
+  "title": "The Beautiful Game",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60740798",
+    "imdb": "tt1494611",
+    "tmdb": 291911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

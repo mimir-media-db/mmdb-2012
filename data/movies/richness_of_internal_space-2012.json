@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_richness_of_internal_space_2012",
+  "title": "Richness of Internal Space",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13497123",
+    "imdb": "tt1081975",
+    "tmdb": 208447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-04",
+  "runtime_minutes": 89
+}

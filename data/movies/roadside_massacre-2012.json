@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roadside_massacre_2012",
+  "title": "Roadside Massacre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44798930",
+    "imdb": "tt2345695",
+    "tmdb": 224301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

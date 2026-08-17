@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghastly_love_of_johnny_x_2012",
+  "title": "The Ghastly Love of Johnny X",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16964992",
+    "imdb": "tt1754633",
+    "tmdb": 188652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

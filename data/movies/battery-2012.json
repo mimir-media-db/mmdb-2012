@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battery_2012",
+  "title": "The Battery",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15633859",
+    "imdb": "tt2272350",
+    "tmdb": 177221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-13",
+  "runtime_minutes": 101
+}

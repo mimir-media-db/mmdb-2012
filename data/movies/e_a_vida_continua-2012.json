@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_e_a_vida_continua_2012",
+  "title": "E a Vida Continua...",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052199",
+    "imdb": "tt2366794",
+    "tmdb": 150181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

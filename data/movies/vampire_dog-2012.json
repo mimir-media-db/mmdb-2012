@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_dog_2012",
+  "title": "Vampire Dog",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7912975",
+    "imdb": "tt2071648",
+    "tmdb": 134415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_nameless_girls_story_2012",
+  "title": "Tokyo Nameless Girl's Story",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11525014",
+    "imdb": "tt2124077",
+    "tmdb": 528533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-16"
+}

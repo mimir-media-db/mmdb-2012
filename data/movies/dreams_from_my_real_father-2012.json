@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_from_my_real_father_2012",
+  "title": "Dreams from My Real Father",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052295",
+    "imdb": "tt2379807",
+    "tmdb": 118740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

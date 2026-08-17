@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_town_of_runners_2012",
+  "title": "Town Of Runners",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115954788",
+    "imdb": "tt2108648",
+    "tmdb": 88646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

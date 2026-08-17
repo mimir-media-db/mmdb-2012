@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nipples_palm_trees_2012",
+  "title": "Nipples & Palm Trees",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19599113",
+    "imdb": "tt1630052",
+    "tmdb": 150943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

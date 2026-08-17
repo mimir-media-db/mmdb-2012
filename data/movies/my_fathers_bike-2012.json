@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_bike_2012",
+  "title": "My Father's Bike",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11787810",
+    "imdb": "tt2209426",
+    "tmdb": 181284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-16",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talaash_the_answer_lies_within_2012",
+  "title": "Talaash: The Answer Lies Within",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q283555",
+    "imdb": "tt1787988",
+    "tmdb": 86004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 140
+}

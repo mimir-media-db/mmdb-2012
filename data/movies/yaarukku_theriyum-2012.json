@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaarukku_theriyum_2012",
+  "title": "Yaarukku Theriyum",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895326",
+    "imdb": "tt13387566",
+    "tmdb": 280995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

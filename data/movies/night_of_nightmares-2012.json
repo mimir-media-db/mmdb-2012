@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_nightmares_2012",
+  "title": "A Night of Nightmares",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87067867",
+    "imdb": "tt2188753",
+    "tmdb": 121562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-26",
+  "runtime_minutes": 84
+}

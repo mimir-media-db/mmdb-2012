@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_henry_christ_2012",
+  "title": "Jesus Henry Christ",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4141403",
+    "imdb": "tt1393742",
+    "tmdb": 96973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-20",
+  "runtime_minutes": 92
+}

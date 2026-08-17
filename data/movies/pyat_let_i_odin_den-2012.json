@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pyat_let_i_odin_den_2012",
+  "title": "Pyat let i odin den",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574062",
+    "imdb": "tt13840234"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-11",
+  "runtime_minutes": 95
+}

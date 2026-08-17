@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parade_2012",
+  "title": "The Parade",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2051292",
+    "imdb": "tt1784575",
+    "tmdb": 81534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-07",
+  "runtime_minutes": 115
+}

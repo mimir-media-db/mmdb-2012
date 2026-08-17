@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ces_femmes_qui_marchent_2012",
+  "title": "Ces femmes qui marchent",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61976605",
+    "imdb": "tt2368675"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_circle_of_crime_2012",
+  "title": "Circle of Crime",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16261645",
+    "imdb": "tt2927050",
+    "tmdb": 287537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25"
+}

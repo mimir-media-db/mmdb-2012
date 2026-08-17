@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_2012",
+  "title": "The Attack",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3202539",
+    "imdb": "tt0787442",
+    "tmdb": 121791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-01",
+  "runtime_minutes": 105
+}

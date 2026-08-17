@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_take_my_chances_2012",
+  "title": "I'll Take My Chances",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18208965",
+    "imdb": "tt21872458"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-24",
+  "runtime_minutes": 101
+}

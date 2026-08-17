@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_first_you_close_your_eyes_2012",
+  "title": "First You Close Your Eyes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33533415"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 30
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_na_hannyate_2012",
+  "title": "Na Hannyate",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6956388",
+    "imdb": "tt4163510",
+    "tmdb": 665355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-16"
+}

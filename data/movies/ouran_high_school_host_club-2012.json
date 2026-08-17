@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ouran_high_school_host_club_2012",
+  "title": "Ouran High School Host Club",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17637818",
+    "imdb": "tt2036375",
+    "tmdb": 152752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_medal_of_honor_2012",
+  "title": "Medal of Honor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210961",
+    "imdb": "tt1504960",
+    "tmdb": 112063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-03",
+  "runtime_minutes": 104
+}

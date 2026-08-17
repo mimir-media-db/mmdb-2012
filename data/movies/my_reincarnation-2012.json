@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_reincarnation_2012",
+  "title": "My Reincarnation",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2777624",
+    "imdb": "tt1740799",
+    "tmdb": 75933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02"
+}

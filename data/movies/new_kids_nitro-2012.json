@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_kids_nitro_2012",
+  "title": "New Kids Nitro",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1982655",
+    "imdb": "tt2043932",
+    "tmdb": 79723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-05",
+  "runtime_minutes": 74
+}

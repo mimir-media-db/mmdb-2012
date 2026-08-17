@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_al_pereira_vs_the_alligator_ladies_2012",
+  "title": "Al Pereira vs. the Alligator Ladies",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8987175",
+    "imdb": "tt2306814",
+    "tmdb": 137854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 75
+}

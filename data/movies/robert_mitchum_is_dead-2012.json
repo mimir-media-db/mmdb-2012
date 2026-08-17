@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robert_mitchum_is_dead_2012",
+  "title": "Robert Mitchum Is Dead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3435934",
+    "imdb": "tt1653929",
+    "tmdb": 153541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 91
+}

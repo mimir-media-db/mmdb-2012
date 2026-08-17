@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_story_2012",
+  "title": "A Long Story",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6094757",
+    "imdb": "tt2328819",
+    "tmdb": 139272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-11",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_said_boom_the_story_of_fifth_column_2012",
+  "title": "She Said Boom: The Story of Fifth Column",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120637256",
+    "imdb": "tt2206976",
+    "tmdb": 178772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-27",
+  "runtime_minutes": 64
+}

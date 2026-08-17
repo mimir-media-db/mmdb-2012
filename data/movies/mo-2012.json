@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mo_2012",
+  "title": "M.O.",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136393383",
+    "imdb": "tt3098634"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-04",
+  "runtime_minutes": 7
+}

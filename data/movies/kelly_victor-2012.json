@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kelly_victor_2012",
+  "title": "Kelly + Victor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6385920",
+    "imdb": "tt2076871",
+    "tmdb": 138130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-16",
+  "runtime_minutes": 95
+}

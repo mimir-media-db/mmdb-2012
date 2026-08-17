@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_town_that_caught_tourettes_2012",
+  "title": "The Town That Caught Tourette's",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18449028",
+    "imdb": "tt2625538",
+    "tmdb": 1168826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

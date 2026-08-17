@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuse_teppo_musume_no_torimonocho_2012",
+  "title": "Fuse Teppō Musume no Torimonochō",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3754885",
+    "imdb": "tt2403867",
+    "tmdb": 204755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-20",
+  "runtime_minutes": 106
+}

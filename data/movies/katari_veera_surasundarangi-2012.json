@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katari_veera_surasundarangi_2012",
+  "title": "Katari Veera Surasundarangi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6375144",
+    "imdb": "tt3129632",
+    "tmdb": 339865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-10"
+}

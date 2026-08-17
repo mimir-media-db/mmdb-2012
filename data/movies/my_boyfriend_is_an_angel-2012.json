@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_boyfriend_is_an_angel_2012",
+  "title": "My Boyfriend Is an Angel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4299869",
+    "imdb": "tt2158649",
+    "tmdb": 85729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-02",
+  "runtime_minutes": 97
+}

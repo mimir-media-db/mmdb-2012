@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_scandal_2012",
+  "title": "Wedding Scandal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18142012",
+    "tmdb": 133146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

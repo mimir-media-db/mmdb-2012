@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jordi_dauder_la_revolucio_pendent_2012",
+  "title": "Jordi Dauder, la revolució pendent",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97669847",
+    "imdb": "tt2321375",
+    "tmdb": 176669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-30",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fashion_story_model_2012",
+  "title": "Fashion Story: Model",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19671472",
+    "imdb": "tt2263940",
+    "tmdb": 216338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

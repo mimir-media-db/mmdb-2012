@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_documentary_of_akb48_show_must_go_on_2012",
+  "title": "Documentary of AKB48 Show Must Go On",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8154273",
+    "imdb": "tt2136879",
+    "tmdb": 273401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-27"
+}

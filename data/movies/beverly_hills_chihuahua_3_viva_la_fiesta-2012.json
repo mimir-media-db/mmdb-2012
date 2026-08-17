@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beverly_hills_chihuahua_3_viva_la_fiesta_2012",
+  "title": "Beverly Hills Chihuahua 3: Viva la Fiesta!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1026470",
+    "imdb": "tt2224075",
+    "tmdb": 105965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-03",
+  "runtime_minutes": 89
+}

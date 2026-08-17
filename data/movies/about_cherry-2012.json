@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_cherry_2012",
+  "title": "About Cherry",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1070339",
+    "imdb": "tt1945062",
+    "tmdb": 94901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-01",
+  "runtime_minutes": 102
+}

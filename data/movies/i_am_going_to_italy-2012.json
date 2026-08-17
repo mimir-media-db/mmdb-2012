@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_going_to_italy_2012",
+  "title": "I Am Going to Italy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57619533",
+    "imdb": "tt2232352"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 21
+}

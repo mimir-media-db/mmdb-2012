@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_loco_amor_2012",
+  "title": "Loco Amor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21093899",
+    "imdb": "tt2023580"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

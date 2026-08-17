@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_youth_2012",
+  "title": "Silent Youth",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15847583",
+    "imdb": "tt2168288",
+    "tmdb": 224404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-19",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_jenin_the_story_of_a_dream_2012",
+  "title": "Cinema Jenin – The Story of a Dream",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19839659",
+    "imdb": "tt2179140",
+    "tmdb": 157996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-28",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_a_plu_sur_le_grand_paysage_2012",
+  "title": "Il a plu sur le grand paysage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48774245",
+    "imdb": "tt3588104",
+    "tmdb": 665068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

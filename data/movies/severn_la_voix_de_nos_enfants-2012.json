@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_severn_la_voix_de_nos_enfants_2012",
+  "title": "Severn, la voix de nos enfants",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480829",
+    "imdb": "tt1754480",
+    "tmdb": 80514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19",
+  "runtime_minutes": 120
+}

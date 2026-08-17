@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_un_oncle_damerique_2012",
+  "title": "Un oncle d'Amérique",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88874416"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 5
+}

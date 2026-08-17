@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_belgium_2012",
+  "title": "The Sound of Belgium",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037532",
+    "imdb": "tt2966298",
+    "tmdb": 145304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-19",
+  "runtime_minutes": 85
+}

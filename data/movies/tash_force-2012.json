@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tash_force_2012",
+  "title": "Tash Force",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755395",
+    "imdb": "tt1688701",
+    "tmdb": 1613727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-23"
+}

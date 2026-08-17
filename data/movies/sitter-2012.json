@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sitter_2012",
+  "title": "The Sitter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q798776",
+    "imdb": "tt1366344",
+    "tmdb": 57431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-31",
+  "runtime_minutes": 81
+}

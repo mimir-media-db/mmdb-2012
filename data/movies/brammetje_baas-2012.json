@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brammetje_baas_2012",
+  "title": "Brammetje Baas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1913072",
+    "imdb": "tt2243189",
+    "tmdb": 120961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-27",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_chance_2012",
+  "title": "Second Chance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207192",
+    "imdb": "tt1667100",
+    "tmdb": 53010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-07",
+  "runtime_minutes": 87
+}

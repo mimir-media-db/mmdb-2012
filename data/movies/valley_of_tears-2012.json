@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_tears_2012",
+  "title": "The Valley of Tears",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64224968",
+    "imdb": "tt1838588",
+    "tmdb": 181030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

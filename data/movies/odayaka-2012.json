@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_odayaka_2012",
+  "title": "Odayaka",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17225197",
+    "imdb": "tt2299491",
+    "tmdb": 153789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sint_diego_en_de_magische_bron_van_myra_2012",
+  "title": "Sint & Diego en de Magische Bron van Myra",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14346601",
+    "imdb": "tt2327509",
+    "tmdb": 150039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

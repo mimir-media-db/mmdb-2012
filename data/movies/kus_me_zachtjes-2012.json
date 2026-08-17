@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kus_me_zachtjes_2012",
+  "title": "Kus me zachtjes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131531679",
+    "imdb": "tt2599822",
+    "tmdb": 239761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

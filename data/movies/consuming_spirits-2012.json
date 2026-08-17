@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_consuming_spirits_2012",
+  "title": "Consuming Spirits",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16951191",
+    "imdb": "tt2253947",
+    "tmdb": 130445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 136
+}

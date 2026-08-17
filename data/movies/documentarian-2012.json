@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_documentarian_2012",
+  "title": "Documentarian",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55285928",
+    "imdb": "tt2554128",
+    "tmdb": 116943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

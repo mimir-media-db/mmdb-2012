@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berg_fidel_2012",
+  "title": "Berg Fidel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15856862",
+    "imdb": "tt2154637",
+    "tmdb": 149770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 87
+}

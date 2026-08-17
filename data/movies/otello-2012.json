@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_otello_2012",
+  "title": "Otel·lo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15701928",
+    "imdb": "tt2413134",
+    "tmdb": 178594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-07",
+  "runtime_minutes": 69
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olivia_experiment_2012",
+  "title": "The Olivia Experiment",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25646530",
+    "imdb": "tt2063819",
+    "tmdb": 286247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bread_and_circuses_2012",
+  "title": "Bread and Circuses",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20522681",
+    "imdb": "tt2089723",
+    "tmdb": 152334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extreme_jukebox_2012",
+  "title": "Extreme Jukebox",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30889894",
+    "imdb": "tt2919180",
+    "tmdb": 437754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_er_relajo_der_loro_2012",
+  "title": "Er Relajo Der Loro",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5647373",
+    "imdb": "tt2243220",
+    "tmdb": 257921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-15",
+  "runtime_minutes": 90
+}

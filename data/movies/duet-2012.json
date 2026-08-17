@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_duet_2012",
+  "title": "Duet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18880603",
+    "imdb": "tt3236578",
+    "tmdb": 158656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19"
+}

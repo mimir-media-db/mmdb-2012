@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quiero_saber_2012",
+  "title": "Quiero saber",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123398934",
+    "imdb": "tt6449222",
+    "tmdb": 790335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_javla_pojkar_2012",
+  "title": "Jävla pojkar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10542056",
+    "imdb": "tt1813407",
+    "tmdb": 229167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-13",
+  "runtime_minutes": 81
+}

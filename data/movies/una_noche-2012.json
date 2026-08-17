@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_noche_2012",
+  "title": "Una Noche",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1233119",
+    "imdb": "tt2184331",
+    "tmdb": 140447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 90
+}

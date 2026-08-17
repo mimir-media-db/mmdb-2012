@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genetic_roulette_the_gamble_of_our_lives_2012",
+  "title": "Genetic Roulette: The Gamble of Our Lives",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052300",
+    "imdb": "tt2546394",
+    "tmdb": 168890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

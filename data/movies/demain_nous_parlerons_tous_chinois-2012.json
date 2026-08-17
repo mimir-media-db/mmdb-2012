@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_demain_nous_parlerons_tous_chinois_2012",
+  "title": "Demain, nous parlerons tous chinois",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107614202",
+    "imdb": "tt4555110"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

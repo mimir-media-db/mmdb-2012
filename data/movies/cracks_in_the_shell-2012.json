@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cracks_in_the_shell_2012",
+  "title": "Cracks in the Shell",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1217049",
+    "imdb": "tt1717152",
+    "tmdb": 86387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-09",
+  "runtime_minutes": 113
+}

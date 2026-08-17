@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mariachi_high_2012",
+  "title": "Mariachi High",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129697975",
+    "imdb": "tt2231186",
+    "tmdb": 549710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

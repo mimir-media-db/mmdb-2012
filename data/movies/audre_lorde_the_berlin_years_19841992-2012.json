@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_audre_lorde_the_berlin_years_19841992_2012",
+  "title": "Audre Lorde: The Berlin Years 1984–1992",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85544388",
+    "imdb": "tt2200975",
+    "tmdb": 328313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 2
+}

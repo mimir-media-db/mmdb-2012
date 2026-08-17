@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rurouni_kenshin_2012",
+  "title": "Rurouni Kenshin",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2750748",
+    "imdb": "tt1979319",
+    "tmdb": 127533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-25",
+  "runtime_minutes": 134
+}

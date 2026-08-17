@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_organizatsija_karayan_2012",
+  "title": "Johan Falk: Organizatsija Karayan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10540365",
+    "imdb": "tt2279838",
+    "tmdb": 138115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05",
+  "runtime_minutes": 97
+}

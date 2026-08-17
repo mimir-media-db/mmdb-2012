@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_pasion_por_david_2012",
+  "title": "Mi pasión por David",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100436357",
+    "imdb": "tt6305348"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

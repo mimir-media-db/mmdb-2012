@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fairhaven_2012",
+  "title": "Fairhaven",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959331",
+    "imdb": "tt1341718",
+    "tmdb": 111172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-20",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cubillo_historia_de_un_crimen_de_estado_2012",
+  "title": "Cubillo, Historia de un crimen de Estado",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126737331",
+    "imdb": "tt2519220"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

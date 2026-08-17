@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ship_of_theseus_2012",
+  "title": "Ship of Theseus",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14243960",
+    "imdb": "tt1773764",
+    "tmdb": 128207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-06"
+}

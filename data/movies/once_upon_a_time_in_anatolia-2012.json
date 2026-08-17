@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_anatolia_2012",
+  "title": "Once Upon a Time in Anatolia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1707497",
+    "imdb": "tt1827487",
+    "tmdb": 74879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-19",
+  "runtime_minutes": 157
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bayside_shakedown_the_final_2012",
+  "title": "Bayside Shakedown The Final",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11274500",
+    "imdb": "tt2124014",
+    "tmdb": 193402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 126
+}

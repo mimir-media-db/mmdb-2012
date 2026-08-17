@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_airborne_2012",
+  "title": "Airborne",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q408090",
+    "imdb": "tt1827354",
+    "tmdb": 85207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-11",
+  "runtime_minutes": 82
+}

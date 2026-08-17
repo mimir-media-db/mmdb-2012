@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_fishbowl_2012",
+  "title": "In the Fishbowl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44866456",
+    "imdb": "tt2894678",
+    "tmdb": 937300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

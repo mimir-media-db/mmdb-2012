@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hsien_of_the_dead_2012",
+  "title": "Hsien of the Dead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15118110",
+    "imdb": "tt2231076",
+    "tmdb": 1508558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13"
+}

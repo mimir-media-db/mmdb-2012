@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wife_he_met_online_2012",
+  "title": "The Wife He Met Online",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156573",
+    "imdb": "tt2072276",
+    "tmdb": 129531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-21"
+}

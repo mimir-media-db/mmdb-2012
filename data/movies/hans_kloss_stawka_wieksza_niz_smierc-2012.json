@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hans_kloss_stawka_wieksza_niz_smierc_2012",
+  "title": "Hans Kloss. Stawka większa niż śmierć",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q628884",
+    "imdb": "tt2014266",
+    "tmdb": 129477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-16"
+}

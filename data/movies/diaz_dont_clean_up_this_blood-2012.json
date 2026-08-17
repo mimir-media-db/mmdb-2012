@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diaz_dont_clean_up_this_blood_2012",
+  "title": "Diaz – Don't Clean Up This Blood",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q651081",
+    "imdb": "tt1934234",
+    "tmdb": 96714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-12",
+  "runtime_minutes": 127
+}

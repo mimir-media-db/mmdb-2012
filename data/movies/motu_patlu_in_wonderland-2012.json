@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motu_patlu_in_wonderland_2012",
+  "title": "Motu Patlu in Wonderland!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830168",
+    "imdb": "tt20602440",
+    "tmdb": 824531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

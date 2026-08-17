@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supernatural_activity_2012",
+  "title": "Supernatural Activity",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881151",
+    "imdb": "tt1832516",
+    "tmdb": 127421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

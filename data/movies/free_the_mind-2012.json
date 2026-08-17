@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_the_mind_2012",
+  "title": "Free the Mind",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728726",
+    "imdb": "tt1673376",
+    "tmdb": 189747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-06",
+  "runtime_minutes": 72
+}

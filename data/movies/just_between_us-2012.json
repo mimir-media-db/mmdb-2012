@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_between_us_2012",
+  "title": "Just Between Us",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6315859",
+    "imdb": "tt1318029",
+    "tmdb": 73680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-23",
+  "runtime_minutes": 87
+}

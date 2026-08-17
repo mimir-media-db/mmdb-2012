@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_of_the_year_was_warm_2012",
+  "title": "The Winter of the Year Was Warm",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17486990",
+    "imdb": "tt5175242",
+    "tmdb": 188594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15"
+}

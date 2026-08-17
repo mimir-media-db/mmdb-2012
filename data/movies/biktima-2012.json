@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_biktima_2012",
+  "title": "Biktima",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4907462",
+    "imdb": "tt2220686",
+    "tmdb": 283561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-19"
+}

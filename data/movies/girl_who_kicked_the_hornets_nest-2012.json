@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_who_kicked_the_hornets_nest_2012",
+  "title": "The Girl Who Kicked the Hornets' Nest",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1416607",
+    "imdb": "tt1343097",
+    "tmdb": 33613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-05",
+  "runtime_minutes": 147
+}

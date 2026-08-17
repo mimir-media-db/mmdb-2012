@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeremy_jones_further_2012",
+  "title": "Jeremy Jones' Further",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414373",
+    "imdb": "tt2713886",
+    "tmdb": 139254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 85
+}

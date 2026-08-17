@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_became_an_elephant_2012",
+  "title": "How I Became an Elephant",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15253165",
+    "imdb": "tt1833854",
+    "tmdb": 91365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

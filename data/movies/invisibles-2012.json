@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisibles_2012",
+  "title": "The Invisibles",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233377",
+    "imdb": "tt2399533",
+    "tmdb": 126331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-20",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monitor_2012",
+  "title": "The Monitor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1138897",
+    "imdb": "tt1595833",
+    "tmdb": 75229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12",
+  "runtime_minutes": 96
+}

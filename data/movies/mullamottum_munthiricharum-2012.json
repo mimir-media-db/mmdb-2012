@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mullamottum_munthiricharum_2012",
+  "title": "Mullamottum Munthiricharum",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6934136",
+    "imdb": "tt3207826",
+    "tmdb": 140895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12"
+}

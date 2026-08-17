@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cats_and_dogs_2012",
+  "title": "Cats and Dogs",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18730864",
+    "tmdb": 289294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-12"
+}

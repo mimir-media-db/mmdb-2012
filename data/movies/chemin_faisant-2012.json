@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chemin_faisant_2012",
+  "title": "Chemin faisant",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872139"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 4
+}

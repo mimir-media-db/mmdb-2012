@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1313_hercules_unbound_2012",
+  "title": "1313: Hercules Unbound!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18420775",
+    "imdb": "tt2214751",
+    "tmdb": 114587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-01"
+}

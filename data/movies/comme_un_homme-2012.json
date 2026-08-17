@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comme_un_homme_2012",
+  "title": "Comme un homme",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21546439",
+    "imdb": "tt2130125",
+    "tmdb": 137372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

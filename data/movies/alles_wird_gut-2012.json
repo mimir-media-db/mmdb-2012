@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alles_wird_gut_2012",
+  "title": "Alles wird gut",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101208831",
+    "imdb": "tt2208172",
+    "tmdb": 335737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

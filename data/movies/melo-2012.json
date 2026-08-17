@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_melo_2012",
+  "title": "Melo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444386",
+    "imdb": "tt4854940",
+    "tmdb": 276658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-07"
+}

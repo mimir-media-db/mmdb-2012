@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_now_forager_2012",
+  "title": "Now, Forager",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18194796",
+    "imdb": "tt1961447",
+    "tmdb": 99509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-27",
+  "runtime_minutes": 93
+}

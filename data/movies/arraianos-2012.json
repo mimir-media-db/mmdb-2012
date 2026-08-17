@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arraianos_2012",
+  "title": "Arraianos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25515074",
+    "imdb": "tt2333254",
+    "tmdb": 153571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 70
+}

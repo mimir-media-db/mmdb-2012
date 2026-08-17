@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_but_milk_is_important_2012",
+  "title": "But Milk is Important",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50225297",
+    "imdb": "tt3395212",
+    "tmdb": 238678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 11
+}

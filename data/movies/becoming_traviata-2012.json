@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_traviata_2012",
+  "title": "Becoming Traviata",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15283352",
+    "imdb": "tt2294917",
+    "tmdb": 146592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

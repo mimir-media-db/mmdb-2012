@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hated_2012",
+  "title": "Hated",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16977714",
+    "imdb": "tt1539993",
+    "tmdb": 273798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

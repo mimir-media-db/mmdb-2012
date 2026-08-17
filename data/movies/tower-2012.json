@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tower_2012",
+  "title": "Tower",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73898270",
+    "imdb": "tt2319142",
+    "tmdb": 125733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

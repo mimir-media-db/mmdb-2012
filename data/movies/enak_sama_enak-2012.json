@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enak_sama_enak_2012",
+  "title": "Enak Sama Enak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19725604",
+    "imdb": "tt2316410",
+    "tmdb": 647738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

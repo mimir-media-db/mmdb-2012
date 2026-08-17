@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dahlia_haunting_directors_cut_2012",
+  "title": "The Black Dahlia Haunting: Director's Cut",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107044260",
+    "imdb": "tt2359347",
+    "tmdb": 140166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 80
+}

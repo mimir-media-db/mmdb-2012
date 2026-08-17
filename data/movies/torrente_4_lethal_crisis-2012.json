@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torrente_4_lethal_crisis_2012",
+  "title": "Torrente 4: Lethal Crisis",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129869",
+    "imdb": "tt1417108",
+    "tmdb": 59117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19",
+  "runtime_minutes": 93
+}

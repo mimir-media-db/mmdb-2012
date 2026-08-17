@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parts_of_the_same_circle_2012",
+  "title": "Parts of the Same Circle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130333599",
+    "imdb": "tt3283632",
+    "tmdb": 853675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

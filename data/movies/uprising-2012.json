@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uprising_2012",
+  "title": "Uprising",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17142385",
+    "imdb": "tt2192002",
+    "tmdb": 157678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

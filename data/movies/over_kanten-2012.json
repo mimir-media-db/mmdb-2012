@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_over_kanten_2012",
+  "title": "Over kanten",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19702815",
+    "imdb": "tt2015474",
+    "tmdb": 106328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-03",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plop_wordt_kabouterkoning_2012",
+  "title": "Plop wordt kabouterkoning",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14127253",
+    "imdb": "tt2345683",
+    "tmdb": 140532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-25",
+  "runtime_minutes": 78
+}

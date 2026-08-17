@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_wriezen_2012",
+  "title": "Beyond Wriezen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18629335",
+    "imdb": "tt2461622",
+    "tmdb": 330569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-30",
+  "runtime_minutes": 87
+}

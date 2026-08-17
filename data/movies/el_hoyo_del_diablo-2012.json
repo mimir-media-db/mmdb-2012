@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hoyo_del_diablo_2012",
+  "title": "El Hoyo del Diablo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16492334",
+    "imdb": "tt2585214",
+    "tmdb": 337487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

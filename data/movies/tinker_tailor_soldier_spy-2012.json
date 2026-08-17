@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tinker_tailor_soldier_spy_2012",
+  "title": "Tinker Tailor Soldier Spy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q681962",
+    "imdb": "tt1340800",
+    "tmdb": 49517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02",
+  "runtime_minutes": 127
+}

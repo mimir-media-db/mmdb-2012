@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_acp_ranveer_2012",
+  "title": "ACP Ranveer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15723757",
+    "imdb": "tt2929950",
+    "tmdb": 1085642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-19"
+}

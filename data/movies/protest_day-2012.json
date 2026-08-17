@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_protest_day_2012",
+  "title": "Protest Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20076184",
+    "imdb": "tt2416620",
+    "tmdb": 169039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

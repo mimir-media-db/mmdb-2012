@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_ring_pendant_2012",
+  "title": "Between Ring & Pendant",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19621570",
+    "imdb": "tt2206252",
+    "tmdb": 658586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 15
+}

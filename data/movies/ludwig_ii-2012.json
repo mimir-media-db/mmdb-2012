@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ludwig_ii_2012",
+  "title": "Ludwig II",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3839166",
+    "imdb": "tt2180463",
+    "tmdb": 152135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-26",
+  "runtime_minutes": 136
+}

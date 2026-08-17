@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hugo_2012",
+  "title": "Hugo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q206576",
+    "imdb": "tt0970179",
+    "tmdb": 44826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-09",
+  "runtime_minutes": 126
+}

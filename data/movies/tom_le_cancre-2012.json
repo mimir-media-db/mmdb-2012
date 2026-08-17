@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_le_cancre_2012",
+  "title": "Tom le cancre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009476",
+    "imdb": "tt2934292",
+    "tmdb": 202571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

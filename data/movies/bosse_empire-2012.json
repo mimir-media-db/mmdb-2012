@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bosse_empire_2012",
+  "title": "The Bossé Empire",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110231122",
+    "imdb": "tt2171947",
+    "tmdb": 117116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-12",
+  "runtime_minutes": 95
+}

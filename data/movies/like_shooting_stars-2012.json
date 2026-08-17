@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_shooting_stars_2012",
+  "title": "Like shooting stars",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30088418",
+    "imdb": "tt2528166",
+    "tmdb": 460997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 92
+}

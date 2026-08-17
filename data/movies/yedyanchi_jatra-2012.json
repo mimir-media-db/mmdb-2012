@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yedyanchi_jatra_2012",
+  "title": "Yedyanchi Jatra",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8051099",
+    "imdb": "tt2290845",
+    "tmdb": 100783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-03"
+}

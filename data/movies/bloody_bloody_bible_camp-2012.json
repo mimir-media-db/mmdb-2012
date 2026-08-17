@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_bloody_bible_camp_2012",
+  "title": "Bloody Bloody Bible Camp",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040697",
+    "imdb": "tt1663625",
+    "tmdb": 120771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

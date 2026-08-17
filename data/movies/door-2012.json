@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_door_2012",
+  "title": "The Door",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7730684",
+    "imdb": "tt1194577",
+    "tmdb": 90130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-08",
+  "runtime_minutes": 97
+}

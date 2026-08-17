@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_of_all_trades_2012",
+  "title": "Jack of All Trades",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15903551",
+    "imdb": "tt2458022",
+    "tmdb": 738905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

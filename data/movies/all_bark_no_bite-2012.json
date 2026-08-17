@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_all_bark_no_bite_2012",
+  "title": "All Bark, No Bite",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16179043",
+    "tmdb": 141242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

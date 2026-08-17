@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_shadows_2012",
+  "title": "Dead Shadows",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123421482",
+    "imdb": "tt1927012",
+    "tmdb": 176915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-10",
+  "runtime_minutes": 75
+}

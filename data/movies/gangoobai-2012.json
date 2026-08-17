@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gangoobai_2012",
+  "title": "Gangoobai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248509",
+    "imdb": "tt2624852",
+    "tmdb": 168117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

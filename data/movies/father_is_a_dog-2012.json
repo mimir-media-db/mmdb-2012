@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_father_is_a_dog_2012",
+  "title": "Father Is a Dog",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21059192",
+    "imdb": "tt1794788",
+    "tmdb": 134013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-26"
+}

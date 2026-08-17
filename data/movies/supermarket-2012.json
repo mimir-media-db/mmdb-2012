@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_supermarket_2012",
+  "title": "Supermarket",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9348253",
+    "imdb": "tt2282989",
+    "tmdb": 176037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-25",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ladies_turn_2012",
+  "title": "Ladies' Turn",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109838236",
+    "imdb": "tt2458616",
+    "tmdb": 702895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

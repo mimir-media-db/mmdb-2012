@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_present_tense_2012",
+  "title": "Present Tense",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6057361",
+    "imdb": "tt2298465",
+    "tmdb": 184845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-13",
+  "runtime_minutes": 110
+}

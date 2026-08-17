@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_wedding_2012",
+  "title": "The Perfect Wedding",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18153136",
+    "imdb": "tt2151863",
+    "tmdb": 243306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

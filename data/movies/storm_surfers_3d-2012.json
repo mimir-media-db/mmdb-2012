@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_surfers_3d_2012",
+  "title": "Storm Surfers 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50575626",
+    "imdb": "tt1754546",
+    "tmdb": 128217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

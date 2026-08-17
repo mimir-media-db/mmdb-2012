@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superior_human_2012",
+  "title": "The Superior Human?",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117775085",
+    "imdb": "tt2332847",
+    "tmdb": 366208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

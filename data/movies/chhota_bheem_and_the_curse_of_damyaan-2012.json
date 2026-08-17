@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chhota_bheem_and_the_curse_of_damyaan_2012",
+  "title": "Chhota Bheem and the Curse of Damyaan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5094939",
+    "imdb": "tt2798620",
+    "tmdb": 150859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-18",
+  "runtime_minutes": 88
+}

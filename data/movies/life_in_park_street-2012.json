@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_in_park_street_2012",
+  "title": "Life in Park Street",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6545163",
+    "imdb": "tt5291044",
+    "tmdb": 1358514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-20"
+}

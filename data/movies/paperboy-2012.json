@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paperboy_2012",
+  "title": "The Paperboy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1026872",
+    "imdb": "tt1496422",
+    "tmdb": 82390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-24",
+  "runtime_minutes": 101
+}

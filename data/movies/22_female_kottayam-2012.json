@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_22_female_kottayam_2012",
+  "title": "22 Female Kottayam",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4631308",
+    "imdb": "tt2363047",
+    "tmdb": 129088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-13"
+}

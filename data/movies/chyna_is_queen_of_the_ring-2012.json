@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chyna_is_queen_of_the_ring_2012",
+  "title": "Chyna Is Queen of the Ring",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478874",
+    "imdb": "tt2496968",
+    "tmdb": 456319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

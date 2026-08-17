@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panihida_2012",
+  "title": "Panihida",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109577386",
+    "imdb": "tt2076913",
+    "tmdb": 171742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

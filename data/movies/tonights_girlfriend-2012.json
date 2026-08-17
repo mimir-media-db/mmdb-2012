@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tonights_girlfriend_2012",
+  "title": "Tonight's Girlfriend",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61702366",
+    "imdb": "tt4223308",
+    "tmdb": 500389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sag_salim_2012",
+  "title": "Sag Salim",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450876",
+    "imdb": "tt2355823",
+    "tmdb": 140485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-18",
+  "runtime_minutes": 98
+}

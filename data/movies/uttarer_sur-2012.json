@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_uttarer_sur_2012",
+  "title": "Uttarer Sur",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24288513",
+    "imdb": "tt5329268"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-14"
+}

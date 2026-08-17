@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kahaani_2012",
+  "title": "Kahaani",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219396",
+    "imdb": "tt1821480",
+    "tmdb": 82825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09",
+  "runtime_minutes": 122
+}

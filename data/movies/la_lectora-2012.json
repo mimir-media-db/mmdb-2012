@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_lectora_2012",
+  "title": "La Lectora",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51899955",
+    "imdb": "tt2349721",
+    "tmdb": 216223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

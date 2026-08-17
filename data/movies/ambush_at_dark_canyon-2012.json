@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ambush_at_dark_canyon_2012",
+  "title": "Ambush at Dark Canyon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120441773",
+    "imdb": "tt1887923",
+    "tmdb": 252328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

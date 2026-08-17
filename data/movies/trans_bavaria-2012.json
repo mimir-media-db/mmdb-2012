@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trans_bavaria_2012",
+  "title": "Trans Bavaria",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2448813",
+    "imdb": "tt2075363",
+    "tmdb": 173099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01",
+  "runtime_minutes": 120
+}

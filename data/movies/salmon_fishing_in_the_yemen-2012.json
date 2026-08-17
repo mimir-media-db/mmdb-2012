@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salmon_fishing_in_the_yemen_2012",
+  "title": "Salmon Fishing in the Yemen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q602256",
+    "imdb": "tt1441952",
+    "tmdb": 81025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 108
+}

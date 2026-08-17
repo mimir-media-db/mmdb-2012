@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_wave_2012",
+  "title": "Beautiful Wave",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4877836",
+    "imdb": "tt1470021",
+    "tmdb": 99534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-08",
+  "runtime_minutes": 96
+}

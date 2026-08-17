@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_triptyque_2_2012",
+  "title": "Triptyque 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49711945",
+    "imdb": "tt2311848"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

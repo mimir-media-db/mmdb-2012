@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_am_i_2012",
+  "title": "Virgin Am I",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13019353",
+    "imdb": "tt2589514",
+    "tmdb": 150080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-30"
+}

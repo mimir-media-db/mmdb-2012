@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bharath_stores_2012",
+  "title": "Bharath Stores",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16841279",
+    "imdb": "tt2881702",
+    "tmdb": 726295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

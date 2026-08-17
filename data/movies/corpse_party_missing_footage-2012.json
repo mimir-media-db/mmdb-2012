@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corpse_party_missing_footage_2012",
+  "title": "Corpse Party: Missing Footage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38804944",
+    "imdb": "tt4127328",
+    "tmdb": 357804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

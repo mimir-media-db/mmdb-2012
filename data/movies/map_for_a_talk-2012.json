@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_map_for_a_talk_2012",
+  "title": "A Map for a Talk",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21648764",
+    "imdb": "tt1742067",
+    "tmdb": 179657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 81
+}

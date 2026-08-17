@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_mazo_de_la_roche_2012",
+  "title": "The Mystery of Mazo de la Roche",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51278851",
+    "imdb": "tt2338329",
+    "tmdb": 103836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-29"
+}

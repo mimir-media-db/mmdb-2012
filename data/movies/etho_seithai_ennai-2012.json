@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_etho_seithai_ennai_2012",
+  "title": "Etho Seithai Ennai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5404404",
+    "imdb": "tt2342091",
+    "tmdb": 343881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-17"
+}

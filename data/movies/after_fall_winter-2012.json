@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_fall_winter_2012",
+  "title": "After Fall, Winter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124479577",
+    "imdb": "tt1986204",
+    "tmdb": 83738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 132
+}

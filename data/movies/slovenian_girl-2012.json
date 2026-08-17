@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slovenian_girl_2012",
+  "title": "Slovenian Girl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2799348",
+    "imdb": "tt1224373",
+    "tmdb": 34989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-21",
+  "runtime_minutes": 90
+}

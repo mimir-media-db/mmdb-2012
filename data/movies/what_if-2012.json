@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_if_2012",
+  "title": "What If...",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15073491",
+    "imdb": "tt2400283",
+    "tmdb": 172499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

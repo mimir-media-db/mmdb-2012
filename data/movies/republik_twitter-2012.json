@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_republik_twitter_2012",
+  "title": "Republik Twitter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184239",
+    "imdb": "tt2205482",
+    "tmdb": 182959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_stalker_2012",
+  "title": "Hotel Stalker",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33539547",
+    "imdb": "tt2342143",
+    "tmdb": 714268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 30
+}

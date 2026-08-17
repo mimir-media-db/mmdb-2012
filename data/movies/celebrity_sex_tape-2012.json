@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_celebrity_sex_tape_2012",
+  "title": "Celebrity Sex Tape",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2390777",
+    "imdb": "tt2136808",
+    "tmdb": 87584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02"
+}

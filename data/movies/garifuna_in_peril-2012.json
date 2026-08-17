@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garifuna_in_peril_2012",
+  "title": "Garifuna in Peril",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21140598",
+    "imdb": "tt2265315",
+    "tmdb": 309936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

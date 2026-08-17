@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_thirteen_2012",
+  "title": "Little Thirteen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15991166",
+    "imdb": "tt2215267",
+    "tmdb": 138735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-30",
+  "runtime_minutes": 91
+}

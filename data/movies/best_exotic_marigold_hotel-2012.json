@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_exotic_marigold_hotel_2012",
+  "title": "The Best Exotic Marigold Hotel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q830295",
+    "imdb": "tt1412386",
+    "tmdb": 74534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-24",
+  "runtime_minutes": 124
+}

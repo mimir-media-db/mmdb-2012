@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trespass_2012",
+  "title": "Trespass",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16034524",
+    "imdb": "tt3009588",
+    "tmdb": 609707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

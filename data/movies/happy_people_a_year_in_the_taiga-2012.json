@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_people_a_year_in_the_taiga_2012",
+  "title": "Happy People: A Year in the Taiga",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5652974",
+    "imdb": "tt1683876",
+    "tmdb": 89704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 90
+}

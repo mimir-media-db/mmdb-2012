@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_man_2012",
+  "title": "Kung Fu Man",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15978496",
+    "imdb": "tt1534449",
+    "tmdb": 508910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

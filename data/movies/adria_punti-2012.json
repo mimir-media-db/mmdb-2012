@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adria_punti_2012",
+  "title": "Adrià Puntí",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110952698",
+    "imdb": "tt2460430",
+    "tmdb": 1429917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

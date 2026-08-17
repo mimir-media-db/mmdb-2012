@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_someone_like_him_2012",
+  "title": "Someone Like Him",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1307075",
+    "imdb": "tt1670388",
+    "tmdb": 85469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-12",
+  "runtime_minutes": 100
+}

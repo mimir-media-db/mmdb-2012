@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_keder_emakku_ajaib_bener_2012",
+  "title": "Mother Keder: Emakku Ajaib Bener",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19729388",
+    "imdb": "tt2156456",
+    "tmdb": 967895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 97
+}

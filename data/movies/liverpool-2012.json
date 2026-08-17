@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_liverpool_2012",
+  "title": "Liverpool",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16908714",
+    "imdb": "tt2185702",
+    "tmdb": 128128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-01"
+}

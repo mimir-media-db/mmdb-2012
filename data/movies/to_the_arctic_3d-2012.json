@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_the_arctic_3d_2012",
+  "title": "To the Arctic 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16938187",
+    "imdb": "tt2073128",
+    "tmdb": 92837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-12",
+  "runtime_minutes": 40
+}

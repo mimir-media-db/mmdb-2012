@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bekas_2012",
+  "title": "Bekas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10427785",
+    "imdb": "tt1733105",
+    "tmdb": 224746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-30",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lima_13_2012",
+  "title": "Lima 13",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104161925",
+    "imdb": "tt2407844",
+    "tmdb": 147378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

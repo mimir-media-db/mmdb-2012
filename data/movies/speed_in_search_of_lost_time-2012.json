@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_in_search_of_lost_time_2012",
+  "title": "Speed: In Search of Lost Time",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19879162",
+    "imdb": "tt2147484",
+    "tmdb": 135317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-18",
+  "runtime_minutes": 97
+}

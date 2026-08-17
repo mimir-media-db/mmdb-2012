@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beats_rhymes_life_the_travels_of_a_tribe_called_quest_2012",
+  "title": "Beats, Rhymes & Life: The Travels of A Tribe Called Quest",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893027",
+    "imdb": "tt1613023",
+    "tmdb": 70342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-07",
+  "runtime_minutes": 97
+}

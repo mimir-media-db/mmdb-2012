@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_hole_2012",
+  "title": "The Kill Hole",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96409409",
+    "imdb": "tt1727373",
+    "tmdb": 100540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

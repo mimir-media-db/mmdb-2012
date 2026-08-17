@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_i_entered_a_garden_2012",
+  "title": "Once I Entered a Garden",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16546139",
+    "imdb": "tt2567178",
+    "tmdb": 206022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domestic_2012",
+  "title": "Domestic",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29455469",
+    "imdb": "tt2527190",
+    "tmdb": 159618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 82
+}

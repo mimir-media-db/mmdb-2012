@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_high_as_the_sky_2012",
+  "title": "As High as the Sky",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112326817",
+    "imdb": "tt2119383",
+    "tmdb": 180097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

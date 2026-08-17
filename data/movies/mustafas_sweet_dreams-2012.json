@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mustafas_sweet_dreams_2012",
+  "title": "Mustafa's Sweet Dreams",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50555253",
+    "imdb": "tt2243429",
+    "tmdb": 95389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-14",
+  "runtime_minutes": 69
+}

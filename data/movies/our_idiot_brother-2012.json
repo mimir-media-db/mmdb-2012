@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_idiot_brother_2012",
+  "title": "Our Idiot Brother",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1372081",
+    "imdb": "tt1637706",
+    "tmdb": 59968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-17",
+  "runtime_minutes": 91
+}

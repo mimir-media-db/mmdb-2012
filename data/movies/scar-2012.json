@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scar_2012",
+  "title": "Scar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881996",
+    "imdb": "tt5181988"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 11
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caines_arcade_2012",
+  "title": "Caine's Arcade",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5017606",
+    "imdb": "tt2355521",
+    "tmdb": 102854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-09"
+}

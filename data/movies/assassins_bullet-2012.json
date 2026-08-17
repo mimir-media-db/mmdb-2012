@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assassins_bullet_2012",
+  "title": "Assassin's Bullet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20077798",
+    "imdb": "tt1780983",
+    "tmdb": 117923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-03",
+  "runtime_minutes": 91
+}

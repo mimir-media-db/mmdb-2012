@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_me_forever_2012",
+  "title": "You & Me Forever",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16719933",
+    "imdb": "tt1970076",
+    "tmdb": 159432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 85
+}

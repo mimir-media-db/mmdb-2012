@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_514_2012",
+  "title": "Room 514",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15055016",
+    "imdb": "tt2205501",
+    "tmdb": 138767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

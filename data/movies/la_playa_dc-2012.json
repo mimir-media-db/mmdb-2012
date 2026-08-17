@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_playa_dc_2012",
+  "title": "La Playa DC",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q282761",
+    "imdb": "tt2369025",
+    "tmdb": 133878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-23",
+  "runtime_minutes": 90
+}

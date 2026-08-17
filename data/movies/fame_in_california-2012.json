@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fame_in_california_2012",
+  "title": "Fame in California",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56605104",
+    "imdb": "tt2808962",
+    "tmdb": 520616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-18",
+  "runtime_minutes": 16
+}

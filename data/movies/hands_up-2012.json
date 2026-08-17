@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hands_up_2012",
+  "title": "Hands Up",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3233634",
+    "imdb": "tt1634334",
+    "tmdb": 54155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-01",
+  "runtime_minutes": 90
+}

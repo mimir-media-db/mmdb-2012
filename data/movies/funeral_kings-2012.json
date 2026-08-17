@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funeral_kings_2012",
+  "title": "Funeral Kings",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18207279",
+    "imdb": "tt1951133",
+    "tmdb": 96087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-10",
+  "runtime_minutes": 85
+}

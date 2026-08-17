@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bikini_spring_break_2012",
+  "title": "Bikini Spring Break",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4907409",
+    "imdb": "tt2304517",
+    "tmdb": 114574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-26",
+  "runtime_minutes": 87
+}

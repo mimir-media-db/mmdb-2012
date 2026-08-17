@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_rapper_and_cool_wendy_2012",
+  "title": "Ricky Rapper and Cool Wendy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11890922",
+    "imdb": "tt1786650",
+    "tmdb": 143959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-10",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_load_warriors_2_2012",
+  "title": "Load Warriors 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117777085",
+    "imdb": "tt2617040",
+    "tmdb": 489519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-25",
+  "runtime_minutes": 199
+}

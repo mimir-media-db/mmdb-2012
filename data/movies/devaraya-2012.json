@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devaraya_2012",
+  "title": "Devaraya",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247916",
+    "imdb": "tt2693174",
+    "tmdb": 158435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

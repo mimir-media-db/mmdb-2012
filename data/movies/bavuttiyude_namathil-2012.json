@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bavuttiyude_namathil_2012",
+  "title": "Bavuttiyude Namathil",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1425300",
+    "imdb": "tt2610258",
+    "tmdb": 155315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-21"
+}

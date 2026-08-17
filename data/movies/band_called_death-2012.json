@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_band_called_death_2012",
+  "title": "A Band Called Death",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052283",
+    "imdb": "tt2064713",
+    "tmdb": 137563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

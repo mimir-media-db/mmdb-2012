@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_about_men_2012",
+  "title": "Truth About Men",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4249907",
+    "imdb": "tt1539325",
+    "tmdb": 61624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-18",
+  "runtime_minutes": 91
+}

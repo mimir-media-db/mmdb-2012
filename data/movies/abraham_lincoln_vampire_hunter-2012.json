@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abraham_lincoln_vampire_hunter_2012",
+  "title": "Abraham Lincoln: Vampire Hunter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q587707",
+    "imdb": "tt1611224",
+    "tmdb": 72331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-18",
+  "runtime_minutes": 105
+}

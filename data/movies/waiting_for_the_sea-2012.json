@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_the_sea_2012",
+  "title": "Waiting for the Sea",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18692433",
+    "imdb": "tt2522082",
+    "tmdb": 230301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-09",
+  "runtime_minutes": 103
+}

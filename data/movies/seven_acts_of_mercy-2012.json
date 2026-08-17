@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_acts_of_mercy_2012",
+  "title": "Seven Acts of Mercy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15616133",
+    "imdb": "tt1841830",
+    "tmdb": 84939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

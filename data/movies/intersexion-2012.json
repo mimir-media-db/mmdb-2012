@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intersexion_2012",
+  "title": "Intersexion",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17004041",
+    "imdb": "tt2157302",
+    "tmdb": 109833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 68
+}

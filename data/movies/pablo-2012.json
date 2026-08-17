@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pablo_2012",
+  "title": "Pablo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104879100",
+    "imdb": "tt1049406",
+    "tmdb": 153153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

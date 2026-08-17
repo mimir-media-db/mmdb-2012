@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_day_breaks_2012",
+  "title": "When Day Breaks",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7219190",
+    "imdb": "tt2093153",
+    "tmdb": 127367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-17"
+}

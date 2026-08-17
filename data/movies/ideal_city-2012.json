@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ideal_city_2012",
+  "title": "The Ideal City",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13435931",
+    "imdb": "tt2290918",
+    "tmdb": 185918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_undercover_2012",
+  "title": "So Undercover",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q948726",
+    "imdb": "tt1766094",
+    "tmdb": 93837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-06",
+  "runtime_minutes": 94
+}

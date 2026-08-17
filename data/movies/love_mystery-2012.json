@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_love_mystery_2012",
+  "title": "Love Mystery",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19603900",
+    "tmdb": 1024236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-29"
+}

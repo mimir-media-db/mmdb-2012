@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romancing_in_thin_air_2012",
+  "title": "Romancing in Thin Air",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13592706",
+    "imdb": "tt1941536",
+    "tmdb": 86409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-09",
+  "runtime_minutes": 111
+}

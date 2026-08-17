@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_in_between_2012",
+  "title": "In Between",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19598835"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-22"
+}

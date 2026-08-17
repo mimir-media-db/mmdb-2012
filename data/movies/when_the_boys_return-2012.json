@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_boys_return_2012",
+  "title": "When the Boys Return",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19398665",
+    "imdb": "tt2625960",
+    "tmdb": 193993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-20",
+  "runtime_minutes": 58
+}

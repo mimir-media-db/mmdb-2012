@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_write_love_on_her_arms_2012",
+  "title": "To Write Love on Her Arms",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q737870",
+    "imdb": "tt1850418",
+    "tmdb": 75861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-11",
+  "runtime_minutes": 118
+}

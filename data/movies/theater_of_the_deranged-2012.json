@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theater_of_the_deranged_2012",
+  "title": "Theater of the Deranged",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116692126",
+    "imdb": "tt2064980",
+    "tmdb": 302506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 66
+}

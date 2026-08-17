@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jonas_2012",
+  "title": "Jonas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1703048",
+    "imdb": "tt2041385",
+    "tmdb": 79361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-05",
+  "runtime_minutes": 106
+}

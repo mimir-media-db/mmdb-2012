@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheerleaders_2012",
+  "title": "Cheerleaders",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33528875",
+    "imdb": "tt4114288"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 23
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_must_flow_2012",
+  "title": "Blood must flow",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q886438",
+    "imdb": "tt2258293",
+    "tmdb": 247754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 87
+}

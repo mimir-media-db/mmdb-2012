@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fidai_film_2012",
+  "title": "A Fidai Film",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718893",
+    "imdb": "tt2152392",
+    "tmdb": 124070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

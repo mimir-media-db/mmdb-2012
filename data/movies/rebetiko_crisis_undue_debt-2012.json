@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebetiko_crisis_undue_debt_2012",
+  "title": "Rebetiko Crisis: Undue Debt",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17266149",
+    "imdb": "tt3066178",
+    "tmdb": 258542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

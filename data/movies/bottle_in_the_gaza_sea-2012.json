@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bottle_in_the_gaza_sea_2012",
+  "title": "A Bottle in the Gaza Sea",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549372",
+    "imdb": "tt2082496",
+    "tmdb": 102292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-08",
+  "runtime_minutes": 100
+}

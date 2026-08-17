@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muzhchina_s_garantiey_2012",
+  "title": "Muzhchina s garantiey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17582643",
+    "imdb": "tt2349126",
+    "tmdb": 138724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_love_2012",
+  "title": "Love Is Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12034536",
+    "imdb": "tt2101390",
+    "tmdb": 152480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-19",
+  "runtime_minutes": 108
+}

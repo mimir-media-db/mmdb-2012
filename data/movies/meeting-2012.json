@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meeting_2012",
+  "title": "The Meeting",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16733838",
+    "imdb": "tt2527090",
+    "tmdb": 423155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_saint_2012",
+  "title": "The Black Saint",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124499163",
+    "imdb": "tt15359818",
+    "tmdb": 1066726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 75
+}

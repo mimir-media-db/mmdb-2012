@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starbuck_2012",
+  "title": "Starbuck",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902631",
+    "imdb": "tt1756750",
+    "tmdb": 79108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-16",
+  "runtime_minutes": 103
+}

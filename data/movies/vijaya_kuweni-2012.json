@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vijaya_kuweni_2012",
+  "title": "Vijaya Kuweni",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830786",
+    "imdb": "tt7648274",
+    "tmdb": 809088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-06"
+}

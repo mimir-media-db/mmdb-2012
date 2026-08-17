@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knuckleball_2012",
+  "title": "Knuckleball!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039857",
+    "imdb": "tt2343601",
+    "tmdb": 111174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

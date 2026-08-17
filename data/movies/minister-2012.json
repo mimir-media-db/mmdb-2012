@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minister_2012",
+  "title": "The Minister",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3006902",
+    "imdb": "tt1781843",
+    "tmdb": 95448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-30",
+  "runtime_minutes": 112
+}

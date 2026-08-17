@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_hamilton_but_not_if_it_concerns_your_daughter_2012",
+  "title": "Agent Hamilton - But Not If It Concerns Your Daughter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10516771",
+    "imdb": "tt1856047",
+    "tmdb": 147655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 90
+}

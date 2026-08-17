@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marfa_girl_2012",
+  "title": "Marfa Girl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3012563",
+    "imdb": "tt2168854",
+    "tmdb": 137174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-20",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_polar_bears_a_summer_odyssey_2012",
+  "title": "Polar Bears: A Summer Odyssey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63698714",
+    "imdb": "tt2403931",
+    "tmdb": 147177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_china_2012",
+  "title": "Made in China",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25415407",
+    "imdb": "tt2244891",
+    "tmdb": 171731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-07",
+  "runtime_minutes": 91
+}

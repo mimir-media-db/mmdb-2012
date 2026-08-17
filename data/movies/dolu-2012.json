@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dolu_2012",
+  "title": "Dolu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112461",
+    "imdb": "tt3961690",
+    "tmdb": 716447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-02"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_inlaws_2012",
+  "title": "Meet the In-Laws",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961446",
+    "imdb": "tt2459282",
+    "tmdb": 124499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

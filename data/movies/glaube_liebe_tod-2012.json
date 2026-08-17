@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glaube_liebe_tod_2012",
+  "title": "Glaube, Liebe, Tod",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58368619",
+    "imdb": "tt2238793",
+    "tmdb": 310009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

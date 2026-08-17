@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swchwrm_2012",
+  "title": "Swchwrm",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113573567",
+    "imdb": "tt2234449",
+    "tmdb": 141068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

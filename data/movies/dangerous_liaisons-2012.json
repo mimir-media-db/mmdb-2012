@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_liaisons_2012",
+  "title": "Dangerous Liaisons",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5216112",
+    "imdb": "tt2071441",
+    "tmdb": 121602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-24",
+  "runtime_minutes": 110
+}

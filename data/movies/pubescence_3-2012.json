@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pubescence_3_2012",
+  "title": "Pubescence 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15912511",
+    "imdb": "tt6964190",
+    "tmdb": 469682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

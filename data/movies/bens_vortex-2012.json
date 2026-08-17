@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bens_vortex_2012",
+  "title": "Ben's Vortex",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128789658",
+    "imdb": "tt2292918",
+    "tmdb": 401342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

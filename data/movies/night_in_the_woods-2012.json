@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_in_the_woods_2012",
+  "title": "A Night in the Woods",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658613",
+    "imdb": "tt1718714",
+    "tmdb": 130802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 82
+}

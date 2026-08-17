@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_league_of_incredible_vegetables_2012",
+  "title": "The League of Incredible Vegetables",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052817",
+    "imdb": "tt2233584",
+    "tmdb": 275066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

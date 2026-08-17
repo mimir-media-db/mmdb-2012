@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gegenwart_2012",
+  "title": "Gegenwart",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106716364",
+    "imdb": "tt2566368",
+    "tmdb": 153803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

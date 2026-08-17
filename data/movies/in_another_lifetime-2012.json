@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_another_lifetime_2012",
+  "title": "In another lifetime",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2523268",
+    "imdb": "tt1456110",
+    "tmdb": 176801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-21",
+  "runtime_minutes": 96
+}

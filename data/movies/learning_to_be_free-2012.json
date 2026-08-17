@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_learning_to_be_free_2012",
+  "title": "Learning to be free",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494297"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 12
+}

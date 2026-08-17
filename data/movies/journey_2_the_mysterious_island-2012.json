@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_2_the_mysterious_island_2012",
+  "title": "Journey 2: The Mysterious Island",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q211545",
+    "imdb": "tt1397514",
+    "tmdb": 72545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-19",
+  "runtime_minutes": 94
+}

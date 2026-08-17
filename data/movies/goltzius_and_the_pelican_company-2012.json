@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goltzius_and_the_pelican_company_2012",
+  "title": "Goltzius and the Pelican Company",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4142817",
+    "imdb": "tt1851006",
+    "tmdb": 139820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-30",
+  "runtime_minutes": 128
+}

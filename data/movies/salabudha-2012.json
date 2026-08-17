@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salabudha_2012",
+  "title": "Salabudha",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15725198",
+    "imdb": "tt2831172",
+    "tmdb": 1024660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

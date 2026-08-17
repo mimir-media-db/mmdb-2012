@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_life_2012",
+  "title": "This Life",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12317570",
+    "imdb": "tt1766190",
+    "tmdb": 103839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01",
+  "runtime_minutes": 110
+}

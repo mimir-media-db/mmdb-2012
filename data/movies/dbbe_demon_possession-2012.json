@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dbbe_demon_possession_2012",
+  "title": "D@bbe: Demon Possession",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6078871",
+    "imdb": "tt2322420",
+    "tmdb": 211505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-03",
+  "runtime_minutes": 110
+}

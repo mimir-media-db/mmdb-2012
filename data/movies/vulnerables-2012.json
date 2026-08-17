@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vulnerables_2012",
+  "title": "Vulnerables",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18417410",
+    "imdb": "tt1941717",
+    "tmdb": 136273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

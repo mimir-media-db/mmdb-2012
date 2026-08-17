@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_miracle_2012",
+  "title": "Christmas Miracle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109018481",
+    "imdb": "tt2273641",
+    "tmdb": 145018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-12",
+  "runtime_minutes": 92
+}

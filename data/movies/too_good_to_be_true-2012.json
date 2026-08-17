@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_good_to_be_true_2012",
+  "title": "Too Good To Be True",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135947500",
+    "imdb": "tt2338157",
+    "tmdb": 135557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

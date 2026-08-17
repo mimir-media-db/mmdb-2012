@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_bloom_2012",
+  "title": "Cold Bloom",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18336970",
+    "imdb": "tt2434550",
+    "tmdb": 155501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05"
+}

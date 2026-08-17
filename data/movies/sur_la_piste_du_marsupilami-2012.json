@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_la_piste_du_marsupilami_2012",
+  "title": "Sur la piste du Marsupilami",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2346479",
+    "imdb": "tt1723642",
+    "tmdb": 102207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-04",
+  "runtime_minutes": 105
+}

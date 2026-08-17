@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tomboy_2012",
+  "title": "Tomboy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q926083",
+    "imdb": "tt1847731",
+    "tmdb": 65229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-03",
+  "runtime_minutes": 82
+}

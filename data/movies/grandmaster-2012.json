@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandmaster_2012",
+  "title": "Grandmaster",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5595479",
+    "imdb": "tt2345561",
+    "tmdb": 105506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-03"
+}

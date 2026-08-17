@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_de_prijs_van_de_hemel_2012",
+  "title": "De Prijs van de Hemel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16848040",
+    "imdb": "tt2224920"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-14"
+}

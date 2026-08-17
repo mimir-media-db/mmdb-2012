@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_to_the_frogs_2012",
+  "title": "Farewell to the Frogs",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q331967",
+    "imdb": "tt2214775",
+    "tmdb": 456068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 95
+}

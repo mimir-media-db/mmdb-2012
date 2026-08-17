@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cousin_ben_troop_screening_with_jason_schwartzman_2012",
+  "title": "Cousin Ben Troop Screening with Jason Schwartzman",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28664617",
+    "imdb": "tt2219564",
+    "tmdb": 126909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 2
+}

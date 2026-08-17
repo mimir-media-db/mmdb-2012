@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_george_harrison_living_in_the_material_world_2012",
+  "title": "George Harrison: Living in the Material World",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1139311",
+    "imdb": "tt1113829",
+    "tmdb": 1676821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-30",
+  "runtime_minutes": 208
+}

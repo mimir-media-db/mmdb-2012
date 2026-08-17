@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jinsuk_me_2012",
+  "title": "Jinsuk & Me",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739459",
+    "tmdb": 467786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27"
+}

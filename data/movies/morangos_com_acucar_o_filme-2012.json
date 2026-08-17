@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morangos_com_acucar_o_filme_2012",
+  "title": "Morangos com Açúcar – O Filme",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6909249",
+    "imdb": "tt2185846",
+    "tmdb": 115875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-30",
+  "runtime_minutes": 97
+}

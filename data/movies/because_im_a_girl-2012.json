@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_because_im_a_girl_2012",
+  "title": "Because I'm a Girl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16034403",
+    "imdb": "tt2515220"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

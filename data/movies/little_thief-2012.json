@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_little_thief_2012",
+  "title": "Little Thief",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19657233"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_brbr_tfo_3_saisons_2012",
+  "title": "BRBR TFO (3 saisons)",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107614109"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

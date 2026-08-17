@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_macho_mustanaa_2012",
+  "title": "Macho Mustanaa",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250999",
+    "imdb": "tt3080148",
+    "tmdb": 286398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09"
+}

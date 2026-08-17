@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_troumaron_2012",
+  "title": "The Children of Troumaron",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74595864",
+    "imdb": "tt2363259",
+    "tmdb": 837163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

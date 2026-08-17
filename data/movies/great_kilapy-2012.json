@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_kilapy_2012",
+  "title": "The Great Kilapy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17053959",
+    "imdb": "tt1710588",
+    "tmdb": 127923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 100
+}

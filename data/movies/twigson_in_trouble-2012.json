@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twigson_in_trouble_2012",
+  "title": "Twigson in Trouble",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17263964",
+    "imdb": "tt1611876",
+    "tmdb": 87038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-20"
+}

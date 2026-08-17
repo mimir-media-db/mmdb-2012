@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_who_kill_shadow_of_the_past_2012",
+  "title": "Those Who Kill: Shadow of the Past",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493983",
+    "imdb": "tt1804508",
+    "tmdb": 118946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_november_2012",
+  "title": "Black November",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17510216",
+    "imdb": "tt2147225",
+    "tmdb": 312113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-08",
+  "runtime_minutes": 95
+}

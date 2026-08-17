@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_shadows_2012",
+  "title": "In the Shadows",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5817326",
+    "imdb": "tt1860359",
+    "tmdb": 136190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 106
+}

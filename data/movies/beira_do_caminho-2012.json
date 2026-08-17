@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beira_do_caminho_2012",
+  "title": "À Beira do Caminho",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14481563",
+    "imdb": "tt2113588",
+    "tmdb": 129697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

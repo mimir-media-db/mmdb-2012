@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_phuket_2012",
+  "title": "Once Upon a Time in Phuket",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7091877",
+    "imdb": "tt2082262",
+    "tmdb": 86980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-03",
+  "runtime_minutes": 105
+}

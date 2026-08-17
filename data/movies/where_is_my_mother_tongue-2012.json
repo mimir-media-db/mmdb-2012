@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_where_is_my_mother_tongue_2012",
+  "title": "Where Is My Mother Tongue",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106772010",
+    "imdb": "tt2098875"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

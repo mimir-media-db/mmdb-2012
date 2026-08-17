@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_lights_2012",
+  "title": "Red Lights",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q733000",
+    "imdb": "tt1748179",
+    "tmdb": 75638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-20",
+  "runtime_minutes": 118
+}

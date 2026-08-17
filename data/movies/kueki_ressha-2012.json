@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kueki_ressha_2012",
+  "title": "Kueki Ressha",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1059146",
+    "imdb": "tt2127305",
+    "tmdb": 139102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-14",
+  "runtime_minutes": 112
+}

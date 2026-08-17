@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fanatics_2012",
+  "title": "Fanatics",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5411142",
+    "imdb": "tt2072145",
+    "tmdb": 90645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-24"
+}

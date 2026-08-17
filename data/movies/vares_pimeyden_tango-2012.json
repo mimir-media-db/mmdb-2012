@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vares_pimeyden_tango_2012",
+  "title": "Vares - Pimeyden tango",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11900484",
+    "imdb": "tt1919184",
+    "tmdb": 150208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kepong_gangster_2012",
+  "title": "Kepong Gangster",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85982629",
+    "imdb": "tt2653086",
+    "tmdb": 140460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13"
+}

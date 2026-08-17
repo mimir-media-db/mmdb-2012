@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultrasonic_2012",
+  "title": "Ultrasonic",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881602",
+    "imdb": "tt2070883",
+    "tmdb": 192644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

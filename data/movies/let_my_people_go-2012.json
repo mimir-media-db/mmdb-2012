@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_my_people_go_2012",
+  "title": "Let My People Go!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3236871",
+    "imdb": "tt1841713",
+    "tmdb": 137871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12",
+  "runtime_minutes": 86
+}

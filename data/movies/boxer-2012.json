@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boxer_2012",
+  "title": "The Boxer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9176470",
+    "imdb": "tt1956447",
+    "tmdb": 320534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_het_geheim_van_de_hema_2012",
+  "title": "Het Geheim van de Hema",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13725955",
+    "imdb": "tt2195906",
+    "tmdb": 156133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-18",
+  "runtime_minutes": 73
+}

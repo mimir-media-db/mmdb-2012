@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thorberg_2012",
+  "title": "Thorberg",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55808293",
+    "imdb": "tt2451498",
+    "tmdb": 211809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-07",
+  "runtime_minutes": 106
+}

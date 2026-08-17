@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_cut_ladies_and_gentlemen_2012",
+  "title": "Final Cut: Ladies and Gentlemen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1475421",
+    "imdb": "tt2243299",
+    "tmdb": 126314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-04",
+  "runtime_minutes": 84
+}

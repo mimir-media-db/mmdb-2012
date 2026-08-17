@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_elefant_vergit_nie_2012",
+  "title": "Der Elefant vergißt nie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20093111",
+    "imdb": "tt0112943",
+    "tmdb": 201475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

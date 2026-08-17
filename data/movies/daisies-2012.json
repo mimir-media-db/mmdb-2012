@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daisies_2012",
+  "title": "Daisies",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q910705",
+    "imdb": "tt0060959",
+    "tmdb": 46919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-27",
+  "runtime_minutes": 76
+}

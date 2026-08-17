@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shuttlecock_boys_2012",
+  "title": "Shuttlecock Boys",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7505715",
+    "imdb": "tt1679290",
+    "tmdb": 215726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-03"
+}

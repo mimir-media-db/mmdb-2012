@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goats_2012",
+  "title": "Goats",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5575373",
+    "imdb": "tt1577052",
+    "tmdb": 84203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-24",
+  "runtime_minutes": 94
+}

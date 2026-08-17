@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_video_vertov_2012",
+  "title": "Video Vertov",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23931033",
+    "imdb": "tt3908222"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

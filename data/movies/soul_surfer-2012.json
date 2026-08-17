@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_surfer_2012",
+  "title": "Soul Surfer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1156089",
+    "imdb": "tt1596346",
+    "tmdb": 43959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 106
+}

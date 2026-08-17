@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_high_escape_from_skull_shores_2012",
+  "title": "Monster High: Escape from Skull Shores",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19865023",
+    "imdb": "tt2395337",
+    "tmdb": 167666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-17",
+  "runtime_minutes": 46
+}

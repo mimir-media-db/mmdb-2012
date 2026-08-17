@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turbulence_2012",
+  "title": "Turbulence",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97104712",
+    "imdb": "tt2265437",
+    "tmdb": 501207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

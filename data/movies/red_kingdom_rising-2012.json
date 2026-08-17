@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_kingdom_rising_2012",
+  "title": "Red Kingdom Rising",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16911914",
+    "imdb": "tt2251465",
+    "tmdb": 302904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_see_girl_run_2012",
+  "title": "See Girl Run",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590399",
+    "imdb": "tt1954811",
+    "tmdb": 97732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-11",
+  "runtime_minutes": 90
+}

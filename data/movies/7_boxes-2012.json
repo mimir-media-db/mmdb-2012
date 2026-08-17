@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_boxes_2012",
+  "title": "7 Boxes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q429395",
+    "imdb": "tt2333598",
+    "tmdb": 127847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-10",
+  "runtime_minutes": 110
+}

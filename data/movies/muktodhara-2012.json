@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muktodhara_2012",
+  "title": "Muktodhara",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6933630",
+    "imdb": "tt2909140",
+    "tmdb": 207336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-03"
+}

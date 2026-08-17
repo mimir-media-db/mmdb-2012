@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terraferma_2012",
+  "title": "Terraferma",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q594490",
+    "imdb": "tt1641410",
+    "tmdb": 73872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-22",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hemmeligheden_2012",
+  "title": "Hemmeligheden",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495978",
+    "imdb": "tt2580010",
+    "tmdb": 516737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-14",
+  "runtime_minutes": 94
+}

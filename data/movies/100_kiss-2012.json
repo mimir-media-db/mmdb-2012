@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_100_kiss_2012",
+  "title": "100% Kiss",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139683891",
+    "imdb": "tt2454874"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-06"
+}

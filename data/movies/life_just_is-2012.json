@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_just_is_2012",
+  "title": "Life Just Is",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6544913",
+    "imdb": "tt1758689",
+    "tmdb": 117720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fray_2012",
+  "title": "Fray",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150093",
+    "imdb": "tt2049448",
+    "tmdb": 266235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

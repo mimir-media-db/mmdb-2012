@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_bloody_acres_2012",
+  "title": "100 Bloody Acres",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040679",
+    "imdb": "tt2290065",
+    "tmdb": 126757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-04",
+  "runtime_minutes": 91
+}

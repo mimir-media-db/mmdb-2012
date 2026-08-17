@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullhead_2012",
+  "title": "Bullhead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q181823",
+    "imdb": "tt1821593",
+    "tmdb": 63310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-12",
+  "runtime_minutes": 129
+}

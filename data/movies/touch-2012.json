@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_touch_2012",
+  "title": "Touch",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18551324",
+    "imdb": "tt2996736",
+    "tmdb": 140629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-08"
+}

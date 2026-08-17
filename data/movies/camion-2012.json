@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camion_2012",
+  "title": "Camion",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5026792",
+    "imdb": "tt2194870",
+    "tmdb": 127874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-01",
+  "runtime_minutes": 94
+}

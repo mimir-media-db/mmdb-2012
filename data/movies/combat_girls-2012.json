@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_combat_girls_2012",
+  "title": "Combat Girls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q821311",
+    "imdb": "tt1890373",
+    "tmdb": 82529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-19",
+  "runtime_minutes": 103
+}

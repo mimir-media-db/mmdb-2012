@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tage_die_bleiben_2012",
+  "title": "Tage die bleiben",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1644280",
+    "imdb": "tt1609483",
+    "tmdb": 193473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-26",
+  "runtime_minutes": 106
+}

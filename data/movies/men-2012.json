@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_men_2012",
+  "title": "Men",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20945007",
+    "imdb": "tt3294818",
+    "tmdb": 1249654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

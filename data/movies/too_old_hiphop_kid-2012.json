@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_too_old_hiphop_kid_2012",
+  "title": "Too Old Hip-Hop Kid",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739538",
+    "tmdb": 486383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13"
+}

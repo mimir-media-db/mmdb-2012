@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pais_do_desejo_2012",
+  "title": "País do Desejo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13475505",
+    "imdb": "tt2156927",
+    "tmdb": 163259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 87
+}

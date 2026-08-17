@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capturing_dad_2012",
+  "title": "Capturing Dad",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11317940",
+    "imdb": "tt2476426",
+    "tmdb": 165729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-15",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_europas_letzter_sommer_2012",
+  "title": "Europas letzter Sommer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125072954",
+    "imdb": "tt2200708"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

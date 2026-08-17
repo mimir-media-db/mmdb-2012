@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_paciente_interno_2012",
+  "title": "El paciente interno",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16560696",
+    "imdb": "tt2355557",
+    "tmdb": 220268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annelie_2012",
+  "title": "Annelie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14835086",
+    "imdb": "tt2395139",
+    "tmdb": 417507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 111
+}

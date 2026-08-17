@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_heart_chocolate_2012",
+  "title": "Sweet Heart Chocolate",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17223288",
+    "imdb": "tt2351385",
+    "tmdb": 324477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

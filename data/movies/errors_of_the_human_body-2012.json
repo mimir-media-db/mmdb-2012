@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_errors_of_the_human_body_2012",
+  "title": "Errors of the Human Body",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5395738",
+    "imdb": "tt1835955",
+    "tmdb": 121565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-28",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_laos_2012",
+  "title": "Lost in Laos",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96756080",
+    "imdb": "tt4120930"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

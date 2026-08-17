@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diario_a_tres_voces_2012",
+  "title": "Diario a tres voces",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68740471",
+    "imdb": "tt2460786",
+    "tmdb": 176635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 61
+}

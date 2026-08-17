@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arike_2012",
+  "title": "Arike",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4790635",
+    "imdb": "tt2457548",
+    "tmdb": 125237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-18",
+  "runtime_minutes": 118
+}

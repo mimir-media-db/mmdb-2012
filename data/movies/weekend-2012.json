@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_2012",
+  "title": "The Weekend",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62027439",
+    "imdb": "tt1836202",
+    "tmdb": 138701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-26",
+  "runtime_minutes": 96
+}

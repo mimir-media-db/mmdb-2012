@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_getaway_2012",
+  "title": "Weekend Getaway",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17109476",
+    "imdb": "tt15148910"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

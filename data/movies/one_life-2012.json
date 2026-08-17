@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_life_2012",
+  "title": "One Life",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1253229",
+    "imdb": "tt1762300",
+    "tmdb": 75720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 85
+}

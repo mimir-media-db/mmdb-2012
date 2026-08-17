@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conquest_1453_2012",
+  "title": "Conquest 1453",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q171731",
+    "imdb": "tt1783232",
+    "tmdb": 89584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-16",
+  "runtime_minutes": 160
+}

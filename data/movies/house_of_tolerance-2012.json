@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_tolerance_2012",
+  "title": "House of Tolerance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1139698",
+    "imdb": "tt1660379",
+    "tmdb": 84427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-19",
+  "runtime_minutes": 122
+}

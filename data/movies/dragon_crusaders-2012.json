@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_crusaders_2012",
+  "title": "Dragon Crusaders",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2106141",
+    "imdb": "tt1999141",
+    "tmdb": 75507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-19",
+  "runtime_minutes": 90
+}

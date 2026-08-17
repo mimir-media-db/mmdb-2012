@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gimme_the_loot_2012",
+  "title": "Gimme the Loot",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3106670",
+    "imdb": "tt2139919",
+    "tmdb": 97607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-10",
+  "runtime_minutes": 79
+}

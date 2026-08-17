@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khodar_pore_ma_2012",
+  "title": "Khodar Pore Ma",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15409447",
+    "imdb": "tt5489428",
+    "tmdb": 912931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

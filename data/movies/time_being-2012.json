@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_being_2012",
+  "title": "The Time Being",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16615266",
+    "imdb": "tt1916749",
+    "tmdb": 121822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_day_2012",
+  "title": "Ghost Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040682",
+    "imdb": "tt2638456",
+    "tmdb": 208693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-23"
+}

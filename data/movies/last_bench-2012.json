@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_bench_2012",
+  "title": "Last Bench",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170137",
+    "imdb": "tt4054186",
+    "tmdb": 475166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

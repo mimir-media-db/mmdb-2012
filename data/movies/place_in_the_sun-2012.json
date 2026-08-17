@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_place_in_the_sun_2012",
+  "title": "A Place in the Sun",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289179",
+    "imdb": "tt2230434",
+    "tmdb": 118513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

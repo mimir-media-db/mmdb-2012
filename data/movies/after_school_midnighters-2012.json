@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_school_midnighters_2012",
+  "title": "After School Midnighters",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q904644",
+    "imdb": "tt2332523",
+    "tmdb": 118931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-23",
+  "runtime_minutes": 95
+}

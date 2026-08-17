@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_rainbows_2012",
+  "title": "Chasing Rainbows",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28466422",
+    "imdb": "tt1872167",
+    "tmdb": 140670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-02",
+  "runtime_minutes": 104
+}

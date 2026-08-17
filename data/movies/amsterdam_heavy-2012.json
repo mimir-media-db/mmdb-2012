@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amsterdam_heavy_2012",
+  "title": "Amsterdam Heavy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2754534",
+    "imdb": "tt1740468",
+    "tmdb": 74561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 90
+}

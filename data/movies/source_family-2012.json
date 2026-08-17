@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_source_family_2012",
+  "title": "The Source Family",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17108161",
+    "imdb": "tt2245223",
+    "tmdb": 98064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghostmaker_2012",
+  "title": "The Ghostmaker",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4951604",
+    "imdb": "tt1462757",
+    "tmdb": 122372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-29",
+  "runtime_minutes": 91
+}

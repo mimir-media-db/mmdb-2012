@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dont_want_to_sleep_alone_2012",
+  "title": "I Don't Want to Sleep Alone",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50682622",
+    "imdb": "tt2767992",
+    "tmdb": 143242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-05",
+  "runtime_minutes": 83
+}

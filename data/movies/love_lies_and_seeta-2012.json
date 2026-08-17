@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_lies_and_seeta_2012",
+  "title": "Love, Lies and Seeta",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17067838",
+    "imdb": "tt1862047",
+    "tmdb": 253542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

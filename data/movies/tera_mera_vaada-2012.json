@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tera_mera_vaada_2012",
+  "title": "Tera Mera Vaada",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7701478",
+    "imdb": "tt4868948",
+    "tmdb": 688195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-29"
+}

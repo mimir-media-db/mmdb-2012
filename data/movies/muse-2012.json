@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muse_2012",
+  "title": "A Muse",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492307",
+    "imdb": "tt2390253",
+    "tmdb": 118451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-25"
+}

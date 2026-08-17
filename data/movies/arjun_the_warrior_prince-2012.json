@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arjun_the_warrior_prince_2012",
+  "title": "Arjun: The Warrior Prince",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2861474",
+    "imdb": "tt2404027",
+    "tmdb": 117369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-25",
+  "runtime_minutes": 96
+}

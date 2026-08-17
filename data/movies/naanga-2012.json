@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naanga_2012",
+  "title": "Naanga",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252030",
+    "imdb": "tt33317076",
+    "tmdb": 117663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-09"
+}

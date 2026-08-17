@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_american_joe_mccarthy_2012",
+  "title": "The Real American - Joe McCarthy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718771",
+    "imdb": "tt1783393",
+    "tmdb": 288148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 98
+}

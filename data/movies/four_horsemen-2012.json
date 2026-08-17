@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_horsemen_2012",
+  "title": "Four Horsemen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14931577",
+    "imdb": "tt1671513",
+    "tmdb": 92506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-14",
+  "runtime_minutes": 97
+}

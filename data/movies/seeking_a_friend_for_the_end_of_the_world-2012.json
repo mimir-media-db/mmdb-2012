@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seeking_a_friend_for_the_end_of_the_world_2012",
+  "title": "Seeking a Friend for the End of the World",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q759448",
+    "imdb": "tt1307068",
+    "tmdb": 88005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-22",
+  "runtime_minutes": 101
+}

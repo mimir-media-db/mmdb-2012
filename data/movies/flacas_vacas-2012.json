@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flacas_vacas_2012",
+  "title": "Flacas Vacas",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16493200",
+    "imdb": "tt2274446",
+    "tmdb": 161686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

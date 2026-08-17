@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tinguely_2012",
+  "title": "Tinguely",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19883104",
+    "imdb": "tt2148582",
+    "tmdb": 326466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bamberger_reiter_ein_frankenkrimi_2012",
+  "title": "Bamberger Reiter. Ein Frankenkrimi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28052362",
+    "imdb": "tt2223888",
+    "tmdb": 140079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

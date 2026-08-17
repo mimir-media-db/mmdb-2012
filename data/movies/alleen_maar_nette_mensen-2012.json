@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alleen_maar_nette_mensen_2012",
+  "title": "Alleen maar nette mensen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2599638",
+    "imdb": "tt2226283",
+    "tmdb": 138284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-10",
+  "runtime_minutes": 86
+}

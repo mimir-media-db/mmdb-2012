@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filmistaan_2012",
+  "title": "Filmistaan",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5449141",
+    "imdb": "tt2417560",
+    "tmdb": 161064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-07",
+  "runtime_minutes": 117
+}

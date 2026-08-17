@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_els_nens_salvatges_2012",
+  "title": "Els Nens Salvatges",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3051699",
+    "imdb": "tt1986825",
+    "tmdb": 110198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-25",
+  "runtime_minutes": 100
+}

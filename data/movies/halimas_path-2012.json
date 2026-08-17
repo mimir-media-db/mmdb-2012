@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halimas_path_2012",
+  "title": "Halima's Path",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14388012",
+    "imdb": "tt2244877",
+    "tmdb": 187864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-26",
+  "runtime_minutes": 97
+}

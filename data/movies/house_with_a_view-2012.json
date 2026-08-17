@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_with_a_view_2012",
+  "title": "A House with a View",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18815715",
+    "imdb": "tt6072460",
+    "tmdb": 226327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25"
+}

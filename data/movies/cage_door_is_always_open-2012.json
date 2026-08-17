@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cage_door_is_always_open_2012",
+  "title": "The Cage Door Is Always Open",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110831228",
+    "imdb": "tt2223154",
+    "tmdb": 130740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-25"
+}

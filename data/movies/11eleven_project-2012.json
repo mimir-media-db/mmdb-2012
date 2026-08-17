@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_11eleven_project_2012",
+  "title": "11Eleven Project",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4547746",
+    "imdb": "tt2434398",
+    "tmdb": 271141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-21"
+}

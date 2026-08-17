@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spike_island_2012",
+  "title": "Spike Island",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16677724",
+    "imdb": "tt1827579",
+    "tmdb": 141679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 105
+}

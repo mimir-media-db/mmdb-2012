@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chitrangada_the_crowning_wish_2012",
+  "title": "Chitrangada: The Crowning Wish",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5102338",
+    "imdb": "tt2480566",
+    "tmdb": 204628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-25"
+}

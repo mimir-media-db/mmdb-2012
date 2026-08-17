@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_common_heroes_2012",
+  "title": "Common Heroes",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15904382",
+    "imdb": "tt7782400",
+    "tmdb": 611351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

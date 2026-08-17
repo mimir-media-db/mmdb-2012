@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_with_the_dead_2012",
+  "title": "Christmas with the Dead",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16385282",
+    "imdb": "tt1954334",
+    "tmdb": 245107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

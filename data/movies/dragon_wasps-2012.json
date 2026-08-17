@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_wasps_2012",
+  "title": "Dragon Wasps",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53791394",
+    "imdb": "tt2170371",
+    "tmdb": 136568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

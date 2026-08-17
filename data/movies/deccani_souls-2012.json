@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_deccani_souls_2012",
+  "title": "Deccani Souls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5248868",
+    "imdb": "tt2156256"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-27"
+}

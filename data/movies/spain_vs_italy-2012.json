@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_spain_vs_italy_2012",
+  "title": "Spain vs. Italy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574009",
+    "imdb": "tt10795720"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-01"
+}

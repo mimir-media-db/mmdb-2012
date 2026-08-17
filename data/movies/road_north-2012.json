@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_road_north_2012",
+  "title": "Road North",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6351318",
+    "imdb": "tt1864557",
+    "tmdb": 128203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-24",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intouchables_2012",
+  "title": "The Intouchables",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q595",
+    "imdb": "tt1675434",
+    "tmdb": 77338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-05",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fragments_of_kubelka_2012",
+  "title": "Fragments of Kubelka",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55119994",
+    "imdb": "tt3087878",
+    "tmdb": 137009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-29"
+}

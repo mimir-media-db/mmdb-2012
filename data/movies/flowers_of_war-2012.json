@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flowers_of_war_2012",
+  "title": "The Flowers of War",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q699224",
+    "imdb": "tt1410063",
+    "tmdb": 76758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-24",
+  "runtime_minutes": 146
+}

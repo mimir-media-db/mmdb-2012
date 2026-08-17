@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_weeds_and_revolutions_2012",
+  "title": "Gods, Weeds and Revolutions",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134457173",
+    "imdb": "tt2183880",
+    "tmdb": 691581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 20
+}

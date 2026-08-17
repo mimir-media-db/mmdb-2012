@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shark_is_still_working_2012",
+  "title": "The Shark Is Still Working",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7763686",
+    "imdb": "tt0469185",
+    "tmdb": 106262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-14",
+  "runtime_minutes": 103
+}

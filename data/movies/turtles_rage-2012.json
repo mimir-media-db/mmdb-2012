@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turtles_rage_2012",
+  "title": "The Turtle's Rage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68510217",
+    "imdb": "tt2148558",
+    "tmdb": 368731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 70
+}

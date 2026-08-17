@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_economics_of_happiness_2012",
+  "title": "The Economics of Happiness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12117142",
+    "imdb": "tt1687905",
+    "tmdb": 202947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-01",
+  "runtime_minutes": 67
+}

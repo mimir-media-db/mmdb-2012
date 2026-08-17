@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_challo_driver_2012",
+  "title": "Challo Driver",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068995",
+    "imdb": "tt2251552",
+    "tmdb": 138751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-20",
+  "runtime_minutes": 95
+}

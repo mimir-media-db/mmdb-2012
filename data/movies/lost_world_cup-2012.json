@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_world_cup_2012",
+  "title": "The Lost World Cup",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3792814",
+    "imdb": "tt2229221",
+    "tmdb": 226163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-01",
+  "runtime_minutes": 95
+}

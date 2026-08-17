@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexviolencefamilyvalues_2012",
+  "title": "Sex.Violence.FamilyValues",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7458339",
+    "imdb": "tt2366141",
+    "tmdb": 213392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-05",
+  "runtime_minutes": 46
+}

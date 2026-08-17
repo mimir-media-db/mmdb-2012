@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_passport_2012",
+  "title": "Passport",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20926357",
+    "imdb": "tt14230488"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

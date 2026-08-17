@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_call_girl_2012",
+  "title": "Call Girl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4989688",
+    "imdb": "tt1977739",
+    "tmdb": 127872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-07",
+  "runtime_minutes": 140
+}

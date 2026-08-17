@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lol_2012",
+  "title": "LOL",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q590444",
+    "imdb": "tt1592873",
+    "tmdb": 80271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01",
+  "runtime_minutes": 97
+}

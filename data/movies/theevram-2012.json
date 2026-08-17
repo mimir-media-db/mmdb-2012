@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theevram_2012",
+  "title": "Theevram",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7777740",
+    "imdb": "tt2568760",
+    "tmdb": 165755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-16"
+}

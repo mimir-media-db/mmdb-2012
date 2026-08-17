@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_2012",
+  "title": "Water",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280850",
+    "imdb": "tt2390250",
+    "tmdb": 478113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}
