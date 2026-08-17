@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treasure_buddies_2012",
+  "title": "Treasure Buddies",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3231762",
+    "imdb": "tt1791658",
+    "tmdb": 78047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 89
+}

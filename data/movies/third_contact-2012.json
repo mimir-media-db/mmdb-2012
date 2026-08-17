@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_third_contact_2012",
+  "title": "Third Contact",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7784809",
+    "imdb": "tt2059318",
+    "tmdb": 218586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

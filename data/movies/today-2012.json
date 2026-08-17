@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_today_2012",
+  "title": "Today",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q771112",
+    "imdb": "tt2178935",
+    "tmdb": 110381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 86
+}

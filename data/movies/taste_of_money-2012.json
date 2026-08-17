@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_money_2012",
+  "title": "The Taste of Money",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q487487",
+    "imdb": "tt2106670",
+    "tmdb": 103750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 115
+}

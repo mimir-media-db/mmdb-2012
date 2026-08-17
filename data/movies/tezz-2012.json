@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tezz_2012",
+  "title": "Tezz",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3595075",
+    "imdb": "tt1706317",
+    "tmdb": 85992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 121
+}

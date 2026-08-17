@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tim_and_erics_billion_dollar_movie_2012",
+  "title": "Tim and Eric's Billion Dollar Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7804539",
+    "imdb": "tt1855401",
+    "tmdb": 79940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

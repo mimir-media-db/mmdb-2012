@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thiruthani_2012",
+  "title": "Thiruthani",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7785449",
+    "imdb": "tt2393902",
+    "tmdb": 79794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

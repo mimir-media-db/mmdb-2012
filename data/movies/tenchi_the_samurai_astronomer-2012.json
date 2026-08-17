@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenchi_the_samurai_astronomer_2012",
+  "title": "Tenchi: The Samurai Astronomer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5251366",
+    "imdb": "tt1834303",
+    "tmdb": 163870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 141
+}

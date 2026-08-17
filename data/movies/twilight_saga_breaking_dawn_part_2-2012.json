@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_saga_breaking_dawn_part_2_2012",
+  "title": "The Twilight Saga: Breaking Dawn – Part 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60487",
+    "imdb": "tt1673434",
+    "tmdb": 50620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thats_what_she_said_2012",
+  "title": "That's What She Said",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7711057",
+    "imdb": "tt1764636",
+    "tmdb": 84345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

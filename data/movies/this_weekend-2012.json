@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_weekend_2012",
+  "title": "This Weekend",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7786382",
+    "imdb": "tt4089580",
+    "tmdb": 262587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_guard_a_mountain_2012",
+  "title": "To Guard a Mountain",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12011435",
+    "imdb": "tt2231536",
+    "tmdb": 254486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

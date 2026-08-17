@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_2_2012",
+  "title": "The Trip 2",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5826056",
+    "imdb": "tt2298338",
+    "tmdb": 212877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

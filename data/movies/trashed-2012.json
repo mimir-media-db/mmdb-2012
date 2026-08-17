@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trashed_2012",
+  "title": "Trashed",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3997744",
+    "imdb": "tt2401099",
+    "tmdb": 108476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 98
+}

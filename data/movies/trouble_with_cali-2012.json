@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_cali_2012",
+  "title": "The Trouble with Cali",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7770354",
+    "imdb": "tt0961755",
+    "tmdb": 567236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
