@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_321_frankie_go_boom_2012",
+  "title": "3,2,1... Frankie Go Boom",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4634042",
+    "imdb": "tt1772271",
+    "tmdb": 94104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
