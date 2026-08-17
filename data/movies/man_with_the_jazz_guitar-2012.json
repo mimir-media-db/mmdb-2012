@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_with_the_jazz_guitar_2012",
+  "title": "The Man with the Jazz Guitar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54020247",
+    "imdb": "tt2094152",
+    "tmdb": 108509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

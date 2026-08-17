@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marina_abramovic_the_artist_is_present_2012",
+  "title": "Marina Abramovic: The Artist Is Present",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114041563",
+    "imdb": "tt2073029",
+    "tmdb": 84309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

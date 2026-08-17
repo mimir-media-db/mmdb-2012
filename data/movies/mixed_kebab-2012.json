@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mixed_kebab_2012",
+  "title": "Mixed Kebab",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q619623",
+    "imdb": "tt1301308",
+    "tmdb": 132561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-29",
+  "runtime_minutes": 95
+}

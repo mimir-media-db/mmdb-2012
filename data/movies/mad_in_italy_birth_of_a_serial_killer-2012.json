@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_in_italy_birth_of_a_serial_killer_2012",
+  "title": "Mad in Italy - Birth of a Serial Killer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29034224",
+    "imdb": "tt1821527",
+    "tmdb": 288917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

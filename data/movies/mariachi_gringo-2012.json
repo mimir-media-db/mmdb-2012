@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mariachi_gringo_2012",
+  "title": "Mariachi Gringo",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10918782",
+    "imdb": "tt1239374",
+    "tmdb": 133241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-02",
+  "runtime_minutes": 107
+}

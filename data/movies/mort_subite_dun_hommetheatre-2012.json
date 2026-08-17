@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mort_subite_dun_hommetheatre_2012",
+  "title": "Mort subite d'un homme-théâtre",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59691099",
+    "imdb": "tt2797132",
+    "tmdb": 618454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_of_belle_isle_2012",
+  "title": "The Magic of Belle Isle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4353015",
+    "imdb": "tt1839654",
+    "tmdb": 101731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-06",
+  "runtime_minutes": 109
+}

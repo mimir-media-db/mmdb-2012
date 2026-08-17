@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mantera_the_transforming_robot_2012",
+  "title": "Mantera – The Transforming Robot",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20455968",
+    "imdb": "tt2193151",
+    "tmdb": 125675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 117
+}

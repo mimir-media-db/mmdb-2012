@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_and_mrs_gambler_2012",
+  "title": "Mr. and Mrs. Gambler",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522836",
+    "imdb": "tt2308797",
+    "tmdb": 89749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

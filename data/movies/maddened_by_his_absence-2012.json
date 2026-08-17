@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maddened_by_his_absence_2012",
+  "title": "Maddened by His Absence",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156659",
+    "imdb": "tt1847616",
+    "tmdb": 129431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-21",
+  "runtime_minutes": 98
+}

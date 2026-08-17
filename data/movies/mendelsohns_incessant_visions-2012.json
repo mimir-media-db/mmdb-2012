@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mendelsohns_incessant_visions_2012",
+  "title": "Mendelsohn's Incessant Visions",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170195",
+    "imdb": "tt2007403",
+    "tmdb": 303995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mesnak_2012",
+  "title": "Mesnak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16664150",
+    "imdb": "tt1906425",
+    "tmdb": 108721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

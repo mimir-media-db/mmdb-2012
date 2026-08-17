@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_nina_mi_vida_2012",
+  "title": "Mi Nina Mi Vida",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15911530",
+    "imdb": "tt2417568",
+    "tmdb": 203996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

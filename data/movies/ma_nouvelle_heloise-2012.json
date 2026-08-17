@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_nouvelle_heloise_2012",
+  "title": "Ma nouvelle Héloïse",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83372612",
+    "imdb": "tt2542524",
+    "tmdb": 828959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

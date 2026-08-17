@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mozarts_sister_2012",
+  "title": "Mozart's Sister",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3335678",
+    "imdb": "tt1653911",
+    "tmdb": 62116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-31",
+  "runtime_minutes": 120
+}

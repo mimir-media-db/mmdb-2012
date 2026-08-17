@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_janez_jansa_2012",
+  "title": "My Name Is Janez Janša",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946117",
+    "imdb": "tt2208828",
+    "tmdb": 194886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-17",
+  "runtime_minutes": 68
+}

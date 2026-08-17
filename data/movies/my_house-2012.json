@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_house_2012",
+  "title": "My House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48761495",
+    "imdb": "tt2285597",
+    "tmdb": 273448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-26",
+  "runtime_minutes": 93
+}

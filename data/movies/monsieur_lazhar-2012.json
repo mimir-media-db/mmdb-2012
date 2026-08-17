@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_lazhar_2012",
+  "title": "Monsieur Lazhar",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1679872",
+    "imdb": "tt2011971",
+    "tmdb": 78480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-12",
+  "runtime_minutes": 94
+}

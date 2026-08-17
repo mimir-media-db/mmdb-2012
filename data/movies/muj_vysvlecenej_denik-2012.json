@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muj_vysvlecenej_denik_2012",
+  "title": "Muj vysvlecenej denik",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896284",
+    "imdb": "tt2618228",
+    "tmdb": 161095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

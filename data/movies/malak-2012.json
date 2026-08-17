@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malak_2012",
+  "title": "Malak",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97189682",
+    "imdb": "tt2582170",
+    "tmdb": 713912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

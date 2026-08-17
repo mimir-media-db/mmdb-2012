@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muirhouse_2012",
+  "title": "Muirhouse",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600721",
+    "imdb": "tt2146834",
+    "tmdb": 204607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 75
+}

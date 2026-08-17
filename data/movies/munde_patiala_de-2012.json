@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munde_patiala_de_2012",
+  "title": "Munde Patiala De",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720595",
+    "imdb": "tt5002868",
+    "tmdb": 824058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-12-30"
+}

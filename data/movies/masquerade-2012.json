@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masquerade_2012",
+  "title": "Masquerade",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491957",
+    "imdb": "tt2290840",
+    "tmdb": 133200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 131
+}

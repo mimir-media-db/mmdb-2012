@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mourning_2012",
+  "title": "Mourning",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414236",
+    "imdb": "tt1855282",
+    "tmdb": 105017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mongolian_bling_2012",
+  "title": "Mongolian Bling",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001371",
+    "imdb": "tt1634808",
+    "tmdb": 136599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-13",
+  "runtime_minutes": 90
+}

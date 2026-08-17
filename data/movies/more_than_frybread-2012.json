@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_more_than_frybread_2012",
+  "title": "More Than Frybread",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28403737",
+    "imdb": "tt2073616",
+    "tmdb": 221072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}

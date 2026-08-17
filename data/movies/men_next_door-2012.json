@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_next_door_2012",
+  "title": "The Men Next Door",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125548971",
+    "imdb": "tt2404645",
+    "tmdb": 146778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 84
+}

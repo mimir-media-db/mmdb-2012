@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moneyball_2012",
+  "title": "Moneyball",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q221820",
+    "imdb": "tt1210166",
+    "tmdb": 60308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02",
+  "runtime_minutes": 133
+}

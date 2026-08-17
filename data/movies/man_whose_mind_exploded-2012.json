@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_whose_mind_exploded_2012",
+  "title": "The Man Whose Mind Exploded",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18163355",
+    "imdb": "tt2402602",
+    "tmdb": 224894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

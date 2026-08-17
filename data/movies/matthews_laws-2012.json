@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matthews_laws_2012",
+  "title": "Matthew's Laws",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2208868",
+    "imdb": "tt2456522",
+    "tmdb": 138955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-27",
+  "runtime_minutes": 72
+}

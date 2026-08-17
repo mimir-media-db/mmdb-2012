@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motorway_2012",
+  "title": "Motorway",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4503852",
+    "imdb": "tt1740002",
+    "tmdb": 117506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-21",
+  "runtime_minutes": 90
+}

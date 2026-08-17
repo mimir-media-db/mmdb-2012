@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_in_black_3_2012",
+  "title": "Men in Black 3",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q327713",
+    "imdb": "tt1409024",
+    "tmdb": 41154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-23",
+  "runtime_minutes": 106
+}

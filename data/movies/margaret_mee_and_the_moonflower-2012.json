@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_margaret_mee_and_the_moonflower_2012",
+  "title": "Margaret Mee and the Moonflower",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052331",
+    "imdb": "tt2776978",
+    "tmdb": 243663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

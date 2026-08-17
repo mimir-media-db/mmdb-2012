@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_messner_2012",
+  "title": "Messner",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1777589",
+    "imdb": "tt2223388",
+    "tmdb": 187504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-27",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modern_family_2012",
+  "title": "Modern family",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939271",
+    "imdb": "tt12038260",
+    "tmdb": 686911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-08"
+}

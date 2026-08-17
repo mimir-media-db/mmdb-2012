@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mechty_iz_plastilina_2012",
+  "title": "Mechty iz plastilina",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082461",
+    "imdb": "tt3629710",
+    "tmdb": 500180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

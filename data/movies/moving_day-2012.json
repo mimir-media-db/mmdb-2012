@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moving_day_2012",
+  "title": "Moving Day",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17026802",
+    "imdb": "tt1864526",
+    "tmdb": 119740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

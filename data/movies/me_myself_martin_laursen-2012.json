@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_myself_martin_laursen_2012",
+  "title": "Me, myself & Martin Laursen",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756853",
+    "imdb": "tt2542460",
+    "tmdb": 1490217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 40
+}

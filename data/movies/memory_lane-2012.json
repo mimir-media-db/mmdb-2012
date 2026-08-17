@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memory_lane_2012",
+  "title": "Memory Lane",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19864804",
+    "imdb": "tt1980185",
+    "tmdb": 78339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

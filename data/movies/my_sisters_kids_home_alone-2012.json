@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sisters_kids_home_alone_2012",
+  "title": "My Sister's Kids Home Alone",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12327279",
+    "imdb": "tt1933618",
+    "tmdb": 103844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-02",
+  "runtime_minutes": 79
+}

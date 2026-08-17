@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_cake_2012",
+  "title": "Mama Cake",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12496440",
+    "imdb": "tt2455388",
+    "tmdb": 499766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-13",
+  "runtime_minutes": 137
+}

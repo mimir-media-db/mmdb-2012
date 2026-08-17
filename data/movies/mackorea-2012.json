@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mackorea_2012",
+  "title": "MacKorea",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739500",
+    "tmdb": 334313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-18"
+}

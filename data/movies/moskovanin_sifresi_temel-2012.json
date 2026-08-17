@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moskovanin_sifresi_temel_2012",
+  "title": "Moskova'nin Sifresi: Temel",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450849",
+    "imdb": "tt2463922",
+    "tmdb": 202018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 95
+}

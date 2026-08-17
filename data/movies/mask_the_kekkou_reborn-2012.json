@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mask_the_kekkou_reborn_2012",
+  "title": "Mask the Kekkou: Reborn",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123900990",
+    "imdb": "tt2172910",
+    "tmdb": 344777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 63
+}
