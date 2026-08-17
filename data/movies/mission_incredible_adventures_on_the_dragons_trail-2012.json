@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_incredible_adventures_on_the_dragons_trail_2012",
+  "title": "Mission Incredible: Adventures on the Dragon's Trail",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1093751",
+    "imdb": "tt2193271",
+    "tmdb": 197511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

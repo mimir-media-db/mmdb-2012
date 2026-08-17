@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_shook_the_hand_of_vicente_fernandez_2012",
+  "title": "The Man Who Shook the Hand of Vicente Fernandez",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3627697",
+    "imdb": "tt1977953",
+    "tmdb": 147764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 99
+}

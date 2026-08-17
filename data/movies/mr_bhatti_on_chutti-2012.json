@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_bhatti_on_chutti_2012",
+  "title": "Mr. Bhatti on Chutti",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928428",
+    "imdb": "tt1127220",
+    "tmdb": 118832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

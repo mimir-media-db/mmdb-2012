@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minecraft_the_story_of_mojang_2012",
+  "title": "Minecraft: The Story of Mojang",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6864138",
+    "imdb": "tt2087878",
+    "tmdb": 151870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 104
+}

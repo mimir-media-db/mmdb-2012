@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marley_2012",
+  "title": "Marley",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1189617",
+    "imdb": "tt1183919",
+    "tmdb": 90125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 106
+}

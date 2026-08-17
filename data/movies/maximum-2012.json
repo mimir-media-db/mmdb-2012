@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maximum_2012",
+  "title": "Maximum",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6795834",
+    "imdb": "tt2339549",
+    "tmdb": 187128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

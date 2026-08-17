@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_makhzen_and_me_2012",
+  "title": "My Makhzen and Me",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945999",
+    "imdb": "tt2172548",
+    "tmdb": 197879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_a_hansom_cab_2012",
+  "title": "The Mystery of a Hansom Cab",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5396877",
+    "imdb": "tt2174072",
+    "tmdb": 183437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

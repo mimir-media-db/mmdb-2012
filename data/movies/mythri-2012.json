@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mythri_2012",
+  "title": "Mythri",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6949255",
+    "imdb": "tt3407320",
+    "tmdb": 833870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

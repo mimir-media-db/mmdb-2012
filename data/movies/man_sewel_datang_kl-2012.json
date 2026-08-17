@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_sewel_datang_kl_2012",
+  "title": "Man sewel datang kl",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12496489",
+    "imdb": "tt2292786",
+    "tmdb": 120908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 103
+}

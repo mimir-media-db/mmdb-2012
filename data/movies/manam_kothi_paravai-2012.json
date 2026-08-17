@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manam_kothi_paravai_2012",
+  "title": "Manam Kothi Paravai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6746848",
+    "imdb": "tt5439126",
+    "tmdb": 114900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

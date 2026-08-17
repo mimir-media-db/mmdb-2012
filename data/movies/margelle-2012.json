@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_margelle_2012",
+  "title": "Margelle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3290584",
+    "imdb": "tt2542936",
+    "tmdb": 458566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 29
+}

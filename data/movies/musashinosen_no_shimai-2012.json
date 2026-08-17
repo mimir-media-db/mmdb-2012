@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_musashinosen_no_shimai_2012",
+  "title": "Musashino-sen no Shimai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4403395",
+    "imdb": "tt1726698",
+    "tmdb": 528537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

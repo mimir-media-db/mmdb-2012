@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_the_devil_2012",
+  "title": "My Brother the Devil",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q769753",
+    "imdb": "tt2076897",
+    "tmdb": 84316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

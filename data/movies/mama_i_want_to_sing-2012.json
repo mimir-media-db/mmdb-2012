@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_i_want_to_sing_2012",
+  "title": "Mama, I Want to Sing!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6745257",
+    "imdb": "tt0880569",
+    "tmdb": 57697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

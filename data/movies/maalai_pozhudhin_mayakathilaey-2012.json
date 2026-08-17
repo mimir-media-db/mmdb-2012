@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maalai_pozhudhin_mayakathilaey_2012",
+  "title": "Maalai Pozhudhin Mayakathilaey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6721050",
+    "imdb": "tt5615670",
+    "tmdb": 128912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

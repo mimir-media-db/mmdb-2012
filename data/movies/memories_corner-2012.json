@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_corner_2012",
+  "title": "Memories Corner",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3305522",
+    "imdb": "tt1582225",
+    "tmdb": 172271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

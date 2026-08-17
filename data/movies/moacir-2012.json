@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moacir_2012",
+  "title": "Moacir",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6019861",
+    "imdb": "tt1884360",
+    "tmdb": 914682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 75
+}

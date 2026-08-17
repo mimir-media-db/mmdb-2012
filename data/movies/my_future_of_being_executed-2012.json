@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_future_of_being_executed_2012",
+  "title": "My future of being executed",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11277924",
+    "tmdb": 824756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

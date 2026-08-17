@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mes_heros_2012",
+  "title": "Mes héros",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3306756",
+    "imdb": "tt2104062",
+    "tmdb": 147686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

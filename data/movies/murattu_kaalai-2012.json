@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_murattu_kaalai_2012",
+  "title": "Murattu Kaalai",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6937468",
+    "imdb": "tt12048360",
+    "tmdb": 262569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
