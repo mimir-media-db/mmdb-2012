@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_te_enamores_de_mi_2012",
+  "title": "No te enamores de mí",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103652",
+    "imdb": "tt2342233",
+    "tmdb": 271056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 104
+}

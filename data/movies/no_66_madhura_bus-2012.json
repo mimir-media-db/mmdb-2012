@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_66_madhura_bus_2012",
+  "title": "No. 66 Madhura Bus",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7043740",
+    "imdb": "tt2595734",
+    "tmdb": 135722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-29"
+}

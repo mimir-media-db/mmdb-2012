@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nemesis_2012",
+  "title": "Nemesis",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1977102",
+    "imdb": "tt0800353",
+    "tmdb": 2732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neeku_naaku_dash_dash_2012",
+  "title": "Neeku Naaku Dash Dash",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18391651",
+    "imdb": "tt2327439",
+    "tmdb": 459051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

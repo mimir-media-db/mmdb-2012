@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_not_a_feather_but_a_dot_2012",
+  "title": "Not a Feather, but a Dot",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17080257",
+    "imdb": "tt2125568"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

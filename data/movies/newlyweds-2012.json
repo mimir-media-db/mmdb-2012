@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_newlyweds_2012",
+  "title": "Newlyweds",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7018387",
+    "imdb": "tt1880418",
+    "tmdb": 72766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-13",
+  "runtime_minutes": 95
+}

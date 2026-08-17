@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_else_but_you_2012",
+  "title": "Nobody Else but You",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400372",
+    "imdb": "tt1736636",
+    "tmdb": 53776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-02",
+  "runtime_minutes": 106
+}

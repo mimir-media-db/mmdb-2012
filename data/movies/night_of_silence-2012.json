@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_silence_2012",
+  "title": "Night of Silence",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840574",
+    "imdb": "tt2186873",
+    "tmdb": 183093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

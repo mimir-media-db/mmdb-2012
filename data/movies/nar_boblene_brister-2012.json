@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nar_boblene_brister_2012",
+  "title": "Når boblene brister",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65234496",
+    "imdb": "tt2180589",
+    "tmdb": 94183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-01",
+  "runtime_minutes": 90
+}

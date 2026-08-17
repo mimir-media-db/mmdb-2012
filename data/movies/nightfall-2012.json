@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightfall_2012",
+  "title": "Nightfall",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902766",
+    "imdb": "tt2171993",
+    "tmdb": 96664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-15",
+  "runtime_minutes": 108
+}

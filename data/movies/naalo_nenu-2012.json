@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_naalo_nenu_2012",
+  "title": "Naalo Nenu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138890655"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_living_dead_resurrection_2012",
+  "title": "Night of the Living Dead: Resurrection",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23707687",
+    "imdb": "tt2006801",
+    "tmdb": 190829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-30",
+  "runtime_minutes": 86
+}

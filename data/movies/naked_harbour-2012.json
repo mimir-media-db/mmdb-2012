@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_harbour_2012",
+  "title": "Naked Harbour",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1336344",
+    "imdb": "tt1787767",
+    "tmdb": 114172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-02-03",
+  "runtime_minutes": 122
+}

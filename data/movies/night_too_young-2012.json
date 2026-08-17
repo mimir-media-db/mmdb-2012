@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_too_young_2012",
+  "title": "A Night Too Young",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23712805",
+    "imdb": "tt2199553",
+    "tmdb": 309990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 65
+}
