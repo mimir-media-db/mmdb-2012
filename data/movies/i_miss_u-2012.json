@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_miss_u_2012",
+  "title": "I Miss U",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6585206",
+    "imdb": "tt2398136",
+    "tmdb": 146195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

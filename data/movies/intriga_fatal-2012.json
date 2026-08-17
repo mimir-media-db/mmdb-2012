@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intriga_fatal_2012",
+  "title": "Intriga Fatal",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10303242",
+    "imdb": "tt2017534",
+    "tmdb": 535964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 90
+}

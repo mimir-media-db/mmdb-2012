@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_i_were_you_2012",
+  "title": "If I Were You",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10912915",
+    "imdb": "tt2457228",
+    "tmdb": 146109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

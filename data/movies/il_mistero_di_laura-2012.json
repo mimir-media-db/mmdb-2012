@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_mistero_di_laura_2012",
+  "title": "Il mistero di Laura",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3794800",
+    "imdb": "tt2398612",
+    "tmdb": 945164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

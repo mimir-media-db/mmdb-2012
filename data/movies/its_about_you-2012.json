@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_its_about_you_2012",
+  "title": "It's About You",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125181",
+    "imdb": "tt1840343",
+    "tmdb": 83731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}
