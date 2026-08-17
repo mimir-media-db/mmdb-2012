@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_he_sakha_2012",
+  "title": "He Sakha",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15725426",
+    "imdb": "tt2186799"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

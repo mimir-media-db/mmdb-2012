@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hasal_khair_2012",
+  "title": "Hasal Khair",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12208332",
+    "imdb": "tt20229558"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-30"
+}

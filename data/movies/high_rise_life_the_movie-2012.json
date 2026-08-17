@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_rise_life_the_movie_2012",
+  "title": "High Rise Life - The Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10551011",
+    "imdb": "tt2243361",
+    "tmdb": 93222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-16",
+  "runtime_minutes": 84
+}

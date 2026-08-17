@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_a_lion_2012",
+  "title": "Heart of a Lion",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16302993",
+    "imdb": "tt2948472",
+    "tmdb": 222772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

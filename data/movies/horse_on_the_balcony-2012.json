@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horse_on_the_balcony_2012",
+  "title": "A Horse on the Balcony",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27898048",
+    "imdb": "tt3073172",
+    "tmdb": 261806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-23",
+  "runtime_minutes": 90
+}

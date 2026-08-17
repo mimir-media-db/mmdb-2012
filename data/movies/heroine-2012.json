@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heroine_2012",
+  "title": "Heroine",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q283264",
+    "imdb": "tt1949548",
+    "tmdb": 134215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_again_2012",
+  "title": "Home Again",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5888188",
+    "imdb": "tt2121286",
+    "tmdb": 128079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-12",
+  "runtime_minutes": 110
+}

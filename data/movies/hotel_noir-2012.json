@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_noir_2012",
+  "title": "Hotel Noir",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16642398",
+    "imdb": "tt2403883",
+    "tmdb": 135047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 97
+}

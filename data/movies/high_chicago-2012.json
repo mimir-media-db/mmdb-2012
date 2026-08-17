@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_chicago_2012",
+  "title": "High Chicago",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19818510",
+    "imdb": "tt1712178",
+    "tmdb": 335165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

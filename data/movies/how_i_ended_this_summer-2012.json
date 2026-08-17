@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_ended_this_summer_2012",
+  "title": "How I Ended This Summer",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1533887",
+    "imdb": "tt1588875",
+    "tmdb": 38325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-23",
+  "runtime_minutes": 124
+}

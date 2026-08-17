@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hava_nagila_the_movie_2012",
+  "title": "Hava Nagila: The Movie",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18482078",
+    "imdb": "tt2244856",
+    "tmdb": 160706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-19",
+  "runtime_minutes": 75
+}

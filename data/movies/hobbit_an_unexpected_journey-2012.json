@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hobbit_an_unexpected_journey_2012",
+  "title": "The Hobbit: An Unexpected Journey",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80379",
+    "imdb": "tt0903624",
+    "tmdb": 49051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-28",
+  "runtime_minutes": 169
+}

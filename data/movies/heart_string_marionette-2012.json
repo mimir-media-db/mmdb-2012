@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_string_marionette_2012",
+  "title": "Heart String Marionette",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037443",
+    "imdb": "tt1527821",
+    "tmdb": 125134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-06-15",
+  "runtime_minutes": 122
+}

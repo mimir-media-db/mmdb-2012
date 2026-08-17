@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_moon_2012",
+  "title": "Hidden Moon",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244934",
+    "imdb": "tt1863268",
+    "tmdb": 143311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-23",
+  "runtime_minutes": 121
+}

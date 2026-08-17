@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hemorrhage_2012",
+  "title": "Hemorrhage",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113614029",
+    "imdb": "tt1992150",
+    "tmdb": 140941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 79
+}

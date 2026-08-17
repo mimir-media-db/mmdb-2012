@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hitlers_island_madness_2012",
+  "title": "Hitler's Island Madness",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643439",
+    "imdb": "tt2517772",
+    "tmdb": 702108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 50
+}

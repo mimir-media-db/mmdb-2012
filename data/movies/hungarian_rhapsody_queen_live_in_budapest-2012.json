@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hungarian_rhapsody_queen_live_in_budapest_2012",
+  "title": "Hungarian Rhapsody: Queen Live in Budapest",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q558808",
+    "imdb": "tt0093427",
+    "tmdb": 142773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-20",
+  "runtime_minutes": 90
+}

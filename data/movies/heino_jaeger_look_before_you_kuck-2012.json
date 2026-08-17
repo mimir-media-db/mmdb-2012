@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heino_jaeger_look_before_you_kuck_2012",
+  "title": "Heino Jaeger – look before you kuck",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1596312",
+    "imdb": "tt2375097",
+    "tmdb": 269507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-01",
+  "runtime_minutes": 124
+}

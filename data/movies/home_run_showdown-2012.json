@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_run_showdown_2012",
+  "title": "Home Run Showdown",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001607",
+    "imdb": "tt1680311",
+    "tmdb": 128450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

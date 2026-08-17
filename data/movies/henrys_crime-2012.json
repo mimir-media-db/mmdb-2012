@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_henrys_crime_2012",
+  "title": "Henry's Crime",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127414",
+    "imdb": "tt1220888",
+    "tmdb": 53172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-31",
+  "runtime_minutes": 108
+}

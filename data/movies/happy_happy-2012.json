@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_happy_2012",
+  "title": "Happy, Happy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3089073",
+    "imdb": "tt1664892",
+    "tmdb": 46147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-01",
+  "runtime_minutes": 88
+}

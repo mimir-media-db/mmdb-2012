@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_of_whaley_house_2012",
+  "title": "The Haunting of Whaley House",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113529065",
+    "imdb": "tt2396701",
+    "tmdb": 120478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-31"
+}

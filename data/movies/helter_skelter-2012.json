@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helter_skelter_2012",
+  "title": "Helter Skelter",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44270509",
+    "imdb": "tt2147319",
+    "tmdb": 104524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-07-14",
+  "runtime_minutes": 127
+}
