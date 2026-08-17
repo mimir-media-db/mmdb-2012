@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fallin_in_love_2012",
+  "title": "Fallin' in Love",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12482771",
+    "imdb": "tt2455408"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-20",
+  "runtime_minutes": 96
+}

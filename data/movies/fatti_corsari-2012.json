@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatti_corsari_2012",
+  "title": "Fatti corsari",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48807895",
+    "imdb": "tt2567678"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 79
+}

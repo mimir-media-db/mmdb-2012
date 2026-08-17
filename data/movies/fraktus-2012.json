@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fraktus_2012",
+  "title": "Fraktus",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1440613",
+    "imdb": "tt1971571",
+    "tmdb": 140554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-08",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foster_boy_2012",
+  "title": "The Foster Boy",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197808",
+    "imdb": "tt2057931",
+    "tmdb": 81556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-25",
+  "runtime_minutes": 107
+}

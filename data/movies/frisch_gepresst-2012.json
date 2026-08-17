@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frisch_gepresst_2012",
+  "title": "Frisch gepresst",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1464976",
+    "imdb": "tt2171897",
+    "tmdb": 129582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-23",
+  "runtime_minutes": 95
+}

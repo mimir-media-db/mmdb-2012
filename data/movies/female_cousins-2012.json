@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_female_cousins_2012",
+  "title": "Female Cousins",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12199247",
+    "imdb": "tt6096590",
+    "tmdb": 103807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-26",
+  "runtime_minutes": 90
+}

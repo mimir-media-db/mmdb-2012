@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farther_than_the_eyes_can_see_2012",
+  "title": "Farther Than the Eyes Can See",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50379274",
+    "imdb": "tt1753807",
+    "tmdb": 296673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 30
+}

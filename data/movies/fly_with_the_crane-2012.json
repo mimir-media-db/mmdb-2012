@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_with_the_crane_2012",
+  "title": "Fly with the Crane",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27140354",
+    "imdb": "tt2300438",
+    "tmdb": 127907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-09-05",
+  "runtime_minutes": 99
+}

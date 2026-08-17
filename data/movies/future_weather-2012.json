@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_weather_2012",
+  "title": "Future Weather",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67171088",
+    "imdb": "tt1701215",
+    "tmdb": 138202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-04-29",
+  "runtime_minutes": 100
+}

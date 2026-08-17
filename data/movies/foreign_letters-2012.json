@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foreign_letters_2012",
+  "title": "Foreign Letters",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17004468",
+    "imdb": "tt1492841",
+    "tmdb": 176069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

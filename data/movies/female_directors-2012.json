@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_female_directors_2012",
+  "title": "Female Directors",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61032646",
+    "imdb": "tt5065724",
+    "tmdb": 360221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 43
+}

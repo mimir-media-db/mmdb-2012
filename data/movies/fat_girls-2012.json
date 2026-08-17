@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_girls_2012",
+  "title": "Fat girls",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1209919",
+    "imdb": "tt2023454",
+    "tmdb": 138714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-15",
+  "runtime_minutes": 76
+}

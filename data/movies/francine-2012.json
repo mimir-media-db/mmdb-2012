@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_francine_2012",
+  "title": "Francine",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964598",
+    "imdb": "tt1735433",
+    "tmdb": 97684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-03-11",
+  "runtime_minutes": 74
+}

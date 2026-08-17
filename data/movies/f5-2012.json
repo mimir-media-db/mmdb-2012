@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_f5_2012",
+  "title": "F5",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16635452",
+    "imdb": "tt2265106",
+    "tmdb": 509339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

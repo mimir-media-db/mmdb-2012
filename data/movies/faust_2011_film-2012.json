@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faust_2011_film_2012",
+  "title": "Faust (2011 film)",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q541354",
+    "imdb": "tt1437357",
+    "tmdb": 77560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-12",
+  "runtime_minutes": 134
+}

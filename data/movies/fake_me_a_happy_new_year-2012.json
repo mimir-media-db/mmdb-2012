@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fake_me_a_happy_new_year_2012",
+  "title": "Fake Me A Happy New Year",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48807295",
+    "imdb": "tt3488928",
+    "tmdb": 438917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_facebook_romance_2012",
+  "title": "A Facebook Romance",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703047",
+    "imdb": "tt2385604",
+    "tmdb": 1211610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

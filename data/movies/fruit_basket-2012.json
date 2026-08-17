@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fruit_basket_2012",
+  "title": "Fruit Basket",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113001165",
+    "imdb": "tt4643086",
+    "tmdb": 145814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-31"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_circle_2012",
+  "title": "Full Circle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15910542",
+    "imdb": "tt2401013",
+    "tmdb": 233429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-05-08",
+  "runtime_minutes": 105
+}

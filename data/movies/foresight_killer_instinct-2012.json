@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foresight_killer_instinct_2012",
+  "title": "Foresight Killer Instinct",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599935",
+    "imdb": "tt2254790",
+    "tmdb": 232995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

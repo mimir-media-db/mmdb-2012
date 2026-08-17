@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flashback_memories_3d_2012",
+  "title": "Flashback Memories 3D",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18124850",
+    "imdb": "tt2412542",
+    "tmdb": 140521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

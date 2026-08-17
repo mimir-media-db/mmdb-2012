@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_sale_or_rent_2012",
+  "title": "For Sale or Rent",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18470435",
+    "imdb": "tt2956394",
+    "tmdb": 213131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

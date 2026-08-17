@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feng_shui_2012",
+  "title": "Feng Shui",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15905137",
+    "imdb": "tt2513344",
+    "tmdb": 265439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-10-22",
+  "runtime_minutes": 120
+}

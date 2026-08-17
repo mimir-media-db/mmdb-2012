@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fruit_hunters_2012",
+  "title": "The Fruit Hunters",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735389",
+    "imdb": "tt2182169",
+    "tmdb": 128766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-11-16"
+}

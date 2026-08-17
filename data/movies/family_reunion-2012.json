@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_family_reunion_2012",
+  "title": "Family Reunion",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61035157"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_with_fire_2012",
+  "title": "Fire with Fire",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1057433",
+    "imdb": "tt1925431",
+    "tmdb": 139567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-08-31",
+  "runtime_minutes": 97
+}
