@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angus_buchans_ordinary_people_2012",
+  "title": "Angus Buchan's Ordinary People",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4764070",
+    "imdb": "tt2255735",
+    "tmdb": 110878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 115
+}

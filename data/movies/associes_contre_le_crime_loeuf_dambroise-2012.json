@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_associes_contre_le_crime_loeuf_dambroise_2012",
+  "title": "Associés contre le crime: L'oeuf d'Ambroise",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2868256",
+    "imdb": "tt2175565",
+    "tmdb": 125395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 104
+}

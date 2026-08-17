@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aduthathu_2012",
+  "title": "Aduthathu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12973360",
+    "imdb": "tt8208268",
+    "tmdb": 170663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

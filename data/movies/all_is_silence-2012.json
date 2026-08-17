@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_is_silence_2012",
+  "title": "All Is Silence",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9088017",
+    "imdb": "tt2006894",
+    "tmdb": 115766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_au_cas_ou_je_naurais_pas_la_palme_dor_2012",
+  "title": "Au cas où je n'aurais pas la palme d'or",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870321",
+    "imdb": "tt1744826",
+    "tmdb": 165758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

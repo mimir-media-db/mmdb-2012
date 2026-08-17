@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apostle_peter_and_the_last_supper_2012",
+  "title": "Apostle Peter and the Last Supper",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4780597",
+    "imdb": "tt2065877",
+    "tmdb": 127770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

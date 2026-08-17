@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aluna_2012",
+  "title": "Aluna",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4737517",
+    "imdb": "tt2358887",
+    "tmdb": 297457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 91
+}

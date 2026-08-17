@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_arrange_to_settle_2012",
+  "title": "Arrange to Settle",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4795845",
+    "imdb": "tt2908172"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

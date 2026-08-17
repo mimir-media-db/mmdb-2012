@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ai_ore_2012",
+  "title": "Ai Ore!",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4751821",
+    "imdb": "tt2123136",
+    "tmdb": 174414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

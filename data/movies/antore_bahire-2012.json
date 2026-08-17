@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antore_bahire_2012",
+  "title": "Antore Bahire",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4777300",
+    "imdb": "tt8420988",
+    "tmdb": 1007182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

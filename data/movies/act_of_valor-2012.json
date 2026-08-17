@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_act_of_valor_2012",
+  "title": "Act of Valor",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132245",
+    "imdb": "tt1591479",
+    "tmdb": 75674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_allultima_spiaggia_2012",
+  "title": "All'ultima spiaggia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3611893",
+    "imdb": "tt2461908",
+    "tmdb": 166262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 94
+}

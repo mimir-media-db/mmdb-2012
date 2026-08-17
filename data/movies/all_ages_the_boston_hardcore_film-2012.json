@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_ages_the_boston_hardcore_film_2012",
+  "title": "All Ages: The Boston Hardcore Film",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4728539",
+    "imdb": "tt2361143",
+    "tmdb": 177570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

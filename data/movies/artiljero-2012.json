@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_artiljero_2012",
+  "title": "Artiljero",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12748509",
+    "imdb": "tt2082185",
+    "tmdb": 339253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

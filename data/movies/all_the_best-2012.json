@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_best_2012",
+  "title": "All the Best",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4730105",
+    "imdb": "tt2454836",
+    "tmdb": 226292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

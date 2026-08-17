@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aqui_y_alla_2012",
+  "title": "Aquí y Allá",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2859289",
+    "imdb": "tt1874416",
+    "tmdb": 121211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 110
+}

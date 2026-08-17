@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_vinod_2012",
+  "title": "Agent Vinod",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2826737",
+    "imdb": "tt1395025",
+    "tmdb": 85050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 157
+}

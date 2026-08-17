@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ace_attorney_2012",
+  "title": "Ace Attorney",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3780162",
+    "imdb": "tt1891974",
+    "tmdb": 91694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 135
+}
