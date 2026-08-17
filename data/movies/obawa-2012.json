@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obawa_2012",
+  "title": "Obława",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8578644",
+    "imdb": "tt2209266",
+    "tmdb": 166045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 96
+}

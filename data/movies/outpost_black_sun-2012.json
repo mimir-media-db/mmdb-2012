@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outpost_black_sun_2012",
+  "title": "Outpost: Black Sun",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3358646",
+    "imdb": "tt1418712",
+    "tmdb": 100183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 100
+}

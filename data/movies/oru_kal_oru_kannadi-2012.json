@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_kal_oru_kannadi_2012",
+  "title": "Oru Kal Oru Kannadi",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473343",
+    "imdb": "tt2359201",
+    "tmdb": 77089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

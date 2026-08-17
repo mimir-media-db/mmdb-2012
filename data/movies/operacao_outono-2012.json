@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operacao_outono_2012",
+  "title": "Operação Outono",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1367663",
+    "imdb": "tt1884380",
+    "tmdb": 121876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 92
+}

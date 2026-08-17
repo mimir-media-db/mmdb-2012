@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_occupy_unmasked_2012",
+  "title": "Occupy Unmasked",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7075892",
+    "imdb": "tt2234315",
+    "tmdb": 134413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

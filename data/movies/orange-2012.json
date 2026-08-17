@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orange_2012",
+  "title": "Orange",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7099500",
+    "imdb": "tt2428298",
+    "tmdb": 214444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

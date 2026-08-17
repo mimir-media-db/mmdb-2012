@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_e_2012",
+  "title": "Operation E",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3354057",
+    "imdb": "tt1845846",
+    "tmdb": 144568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 118
+}

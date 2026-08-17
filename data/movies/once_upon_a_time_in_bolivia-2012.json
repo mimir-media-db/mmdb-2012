@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_bolivia_2012",
+  "title": "Once Upon a Time in Bolivia",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7091864",
+    "imdb": "tt1945209"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

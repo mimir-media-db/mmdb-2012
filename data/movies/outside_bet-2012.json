@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outside_bet_2012",
+  "title": "Outside Bet",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7112943",
+    "imdb": "tt1772422",
+    "tmdb": 103903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

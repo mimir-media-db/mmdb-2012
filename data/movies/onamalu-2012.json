@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onamalu_2012",
+  "title": "Onamalu",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7091685",
+    "imdb": "tt3978972",
+    "tmdb": 308233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

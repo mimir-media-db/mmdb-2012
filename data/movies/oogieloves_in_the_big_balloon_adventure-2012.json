@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oogieloves_in_the_big_balloon_adventure_2012",
+  "title": "The Oogieloves in The Big Balloon Adventure",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3988563",
+    "imdb": "tt1520498",
+    "tmdb": 112937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 88
+}

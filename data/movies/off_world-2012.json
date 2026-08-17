@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_off_world_2012",
+  "title": "Off World",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3349503",
+    "imdb": "tt1543597",
+    "tmdb": 109746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01"
+}

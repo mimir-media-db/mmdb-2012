@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_for_the_money_2012",
+  "title": "One for the Money",
+  "year": 2012,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q602501",
+    "imdb": "tt1598828",
+    "tmdb": 54054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2012-01-01",
+  "runtime_minutes": 93
+}
