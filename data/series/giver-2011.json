@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_giver_2011",
+  "title": "Giver",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25205704",
+    "imdb": "tt2642134",
+    "tmdb": 46729
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

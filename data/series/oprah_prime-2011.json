@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_oprah_prime_2011",
+  "title": "Oprah Prime",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7098678",
+    "imdb": "tt2119183",
+    "tmdb": 44365
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 85,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

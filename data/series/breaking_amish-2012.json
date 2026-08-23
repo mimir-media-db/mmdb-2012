@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_amish_2012",
+  "title": "Breaking Amish",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16853893",
+    "imdb": "tt2386354",
+    "tmdb": 45754
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 39,
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

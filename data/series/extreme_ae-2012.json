@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_extreme_ae_2012",
+  "title": "Extreme A&E",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5422307"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

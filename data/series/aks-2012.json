@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_aks_2012",
+  "title": "Aks",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4701726",
+    "imdb": "tt15462026"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 23,
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

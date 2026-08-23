@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_enchanted_garden_2012",
+  "title": "Enchanted Garden",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5375367",
+    "imdb": "tt2420040",
+    "tmdb": 58190
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 113,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

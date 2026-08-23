@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_zakladka_2011",
+  "title": "Základka",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10861795",
+    "imdb": "tt3685880",
+    "tmdb": 94778
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

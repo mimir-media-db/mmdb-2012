@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_valgame_dios_2012",
+  "title": "Válgame Dios!",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7944179",
+    "imdb": "tt2553936",
+    "tmdb": 45115
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 144,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

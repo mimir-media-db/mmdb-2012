@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_lorenzos_time_2012",
+  "title": "Lorenzo's Time",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12967350",
+    "imdb": "tt2238990",
+    "tmdb": 45082
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 70,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

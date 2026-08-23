@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_tweets_for_my_sweets_2012",
+  "title": "Tweets For My Sweets",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7857534",
+    "imdb": "tt4106256",
+    "tmdb": 52204
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

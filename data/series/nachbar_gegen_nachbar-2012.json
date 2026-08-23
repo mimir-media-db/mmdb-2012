@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_nachbar_gegen_nachbar_2012",
+  "title": "Nachbar gegen Nachbar",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1962188",
+    "imdb": "tt2319584"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

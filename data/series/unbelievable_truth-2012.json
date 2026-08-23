@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_unbelievable_truth_2012",
+  "title": "The Unbelievable Truth",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7771290"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

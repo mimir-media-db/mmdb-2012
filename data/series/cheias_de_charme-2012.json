@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cheias_de_charme_2012",
+  "title": "Cheias de Charme",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2962089",
+    "imdb": "tt2372755",
+    "tmdb": 45865
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 143,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_treasures_of_ancient_rome_2012",
+  "title": "Treasures of Ancient Rome",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7836779",
+    "imdb": "tt2600514",
+    "tmdb": 46647
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

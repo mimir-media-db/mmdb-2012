@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_oi_basiliades_2012",
+  "title": "Oi Basiliades",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7081186",
+    "imdb": "tt2171273",
+    "tmdb": 51150
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 99,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

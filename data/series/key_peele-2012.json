@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_key_peele_2012",
+  "title": "Key & Peele",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6398006",
+    "imdb": "tt1981558",
+    "tmdb": 43082
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 53,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

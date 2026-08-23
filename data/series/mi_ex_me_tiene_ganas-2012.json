@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_ex_me_tiene_ganas_2012",
+  "title": "Mi ex me tiene ganas",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3077207",
+    "imdb": "tt2369728",
+    "tmdb": 107134
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 159,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

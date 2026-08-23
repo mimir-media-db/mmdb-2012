@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_el_laberinto_2012",
+  "title": "El laberinto",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2817302",
+    "imdb": "tt2336795",
+    "tmdb": 126160
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 41,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

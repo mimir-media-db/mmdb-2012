@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_morning_club_2012",
+  "title": "Good Morning Club",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5582780",
+    "tmdb": 44906
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

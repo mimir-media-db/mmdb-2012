@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_im_alleingang_die_stunde_der_krahen_2012",
+  "title": "Im Alleingang - Die Stunde der Krähen",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15819971",
+    "imdb": "tt2215145"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

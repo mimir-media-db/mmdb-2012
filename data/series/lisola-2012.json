@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lisola_2012",
+  "title": "L'isola",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2817212",
+    "imdb": "tt2979866",
+    "tmdb": 41182
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

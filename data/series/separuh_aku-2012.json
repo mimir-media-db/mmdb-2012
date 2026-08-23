@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_separuh_aku_2012",
+  "title": "Separuh Aku",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12513724",
+    "tmdb": 50224
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 59,
+  "countries": [
+    "ID"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_leave_it_to_bryan_2012",
+  "title": "Leave It to Bryan",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6510561",
+    "imdb": "tt2176615",
+    "tmdb": 44182
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 117,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

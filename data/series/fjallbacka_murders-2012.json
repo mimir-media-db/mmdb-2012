@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_fjallbacka_murders_2012",
+  "title": "The Fjällbacka Murders",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q10496006"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "police procedural"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

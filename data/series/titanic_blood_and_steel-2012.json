@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "s_titanic_blood_and_steel_2012",
+  "title": "Titanic: Blood and Steel",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2629089",
+    "imdb": "tt1695366",
+    "tmdb": 40161
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "DE",
+    "ES",
+    "FR",
+    "GB",
+    "IE",
+    "IT"
+  ]
+}

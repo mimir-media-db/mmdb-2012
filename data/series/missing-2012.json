@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_missing_2012",
+  "title": "Missing",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2527534",
+    "imdb": "tt1828246",
+    "tmdb": 39553
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "US"
+  ]
+}

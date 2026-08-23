@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sucker_free_2012",
+  "title": "Sucker Free",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7633084",
+    "imdb": "tt0318878"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

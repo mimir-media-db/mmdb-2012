@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_pillow_talk_2012",
+  "title": "Pillow Talk",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11331609",
+    "tmdb": 121175
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

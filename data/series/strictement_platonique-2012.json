@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_strictement_platonique_2012",
+  "title": "Strictement platonique",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3500394",
+    "imdb": "tt2779886"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

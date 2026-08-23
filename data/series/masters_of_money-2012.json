@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_masters_of_money_2012",
+  "title": "Masters of Money",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6785463",
+    "imdb": "tt2387452",
+    "tmdb": 116917
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

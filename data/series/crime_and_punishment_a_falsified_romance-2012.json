@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_and_punishment_a_falsified_romance_2012",
+  "title": "Crime and Punishment: A Falsified Romance",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q109929445",
+    "imdb": "tt2360997",
+    "tmdb": 65569
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dar_louzir_2012",
+  "title": "Dar Louzir",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3015949",
+    "imdb": "tt10463022",
+    "tmdb": 220445
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 27,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TN"
+  ]
+}

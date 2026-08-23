@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_punar_vivah_2012",
+  "title": "Punar Vivah",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3530349",
+    "imdb": "tt2942416",
+    "tmdb": 45113
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 325,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

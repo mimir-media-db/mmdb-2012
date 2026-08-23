@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_time_2012",
+  "title": "Golden Time",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5356245",
+    "imdb": "tt2474948",
+    "tmdb": 44399
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 23,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

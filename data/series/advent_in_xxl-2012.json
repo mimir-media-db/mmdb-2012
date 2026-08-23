@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_advent_in_xxl_2012",
+  "title": "Advent in XXL",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2634746",
+    "imdb": "tt2555544"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

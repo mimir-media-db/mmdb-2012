@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_last_weekend_2012",
+  "title": "The Last Weekend",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q16995921",
+    "imdb": "tt2355249",
+    "tmdb": 58276
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

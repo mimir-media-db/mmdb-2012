@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_paradise_2012",
+  "title": "The Paradise",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7756057",
+    "imdb": "tt2391224",
+    "tmdb": 59674
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

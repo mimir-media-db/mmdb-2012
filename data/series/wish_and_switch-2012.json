@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_wish_and_switch_2012",
+  "title": "Wish and Switch",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q8027565",
+    "tmdb": 43849
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "comedy",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

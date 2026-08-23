@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_irish_pictorial_weekly_2012",
+  "title": "Irish Pictorial Weekly",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17103385",
+    "imdb": "tt2765908",
+    "tmdb": 30685
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

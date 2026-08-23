@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_audiofiles_2012",
+  "title": "Audio-Files",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4819794"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

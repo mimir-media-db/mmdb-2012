@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_worst_mom_2012",
+  "title": "World's Worst Mom",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q8035260",
+    "imdb": "tt2243097",
+    "tmdb": 44507
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

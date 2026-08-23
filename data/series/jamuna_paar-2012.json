@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_jamuna_paar_2012",
+  "title": "Jamuna Paar",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6148314",
+    "imdb": "tt12369506"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 34,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

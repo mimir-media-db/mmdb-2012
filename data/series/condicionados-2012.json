@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_condicionados_2012",
+  "title": "Condicionados",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5782538",
+    "imdb": "tt2173168",
+    "tmdb": 195921
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

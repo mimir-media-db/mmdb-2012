@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gadget_man_2012",
+  "title": "Gadget Man",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15150920",
+    "imdb": "tt2533174",
+    "tmdb": 55600
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 25,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

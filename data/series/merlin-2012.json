@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_merlin_2012",
+  "title": "Merlin",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3306549",
+    "imdb": "tt2024052",
+    "tmdb": 82478
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "FR",
+    "IT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimate_braai_master_2012",
+  "title": "The Ultimate Braai Master",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111181376",
+    "imdb": "tt3264864",
+    "tmdb": 245434
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_glass_house_2012",
+  "title": "The Glass House",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7736710",
+    "imdb": "tt2387249",
+    "tmdb": 43160
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

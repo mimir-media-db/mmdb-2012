@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_seinaru_kaibutsutachi_2012",
+  "title": "Seinaru Kaibutsutachi",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q135208835",
+    "imdb": "tt2122087",
+    "tmdb": 60436
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

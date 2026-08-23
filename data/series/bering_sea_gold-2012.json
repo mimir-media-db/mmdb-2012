@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bering_sea_gold_2012",
+  "title": "Bering Sea Gold",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3544384",
+    "imdb": "tt2182427",
+    "tmdb": 58704
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 39,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_biritera_2012",
+  "title": "Biritera",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4916365",
+    "tmdb": 44904
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 73,
+  "countries": [
+    "PH"
+  ]
+}

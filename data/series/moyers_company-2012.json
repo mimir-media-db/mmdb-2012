@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_moyers_company_2012",
+  "title": "Moyers & Company",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6927655",
+    "imdb": "tt2169265",
+    "tmdb": 46443
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 322,
+  "genres": [
+    "News",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

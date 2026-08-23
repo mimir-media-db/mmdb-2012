@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mockingbird_lane_2012",
+  "title": "Mockingbird Lane",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q181492",
+    "imdb": "tt2130271",
+    "tmdb": 98557
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 1,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

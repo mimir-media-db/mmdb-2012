@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_to_the_beautiful_you_2012",
+  "title": "To the Beautiful You",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q491683",
+    "imdb": "tt2191746",
+    "tmdb": 47007
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

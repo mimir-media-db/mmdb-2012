@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_newsroom_2012",
+  "title": "The Newsroom",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q276180",
+    "imdb": "tt1870479",
+    "tmdb": 15621
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 25,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

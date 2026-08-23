@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_reguy_gry_2012",
+  "title": "Reguły Gry",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q665424",
+    "imdb": "tt2255201"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

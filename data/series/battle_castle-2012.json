@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_battle_castle_2012",
+  "title": "Battle Castle",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4869995",
+    "imdb": "tt2211417",
+    "tmdb": 46750
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

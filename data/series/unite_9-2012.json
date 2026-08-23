@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_unite_9_2012",
+  "title": "Unité 9",
+  "start_year": 2012,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3550780",
+    "imdb": "tt2388350",
+    "tmdb": 61306
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 169,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_exes_2012",
+  "title": "Hollywood Exes",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16156976",
+    "imdb": "tt2219920",
+    "tmdb": 58425
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 32,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_family_fortunes_2012",
+  "title": "Family Fortunes",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5433126"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 25,
+  "countries": [
+    "IE"
+  ]
+}

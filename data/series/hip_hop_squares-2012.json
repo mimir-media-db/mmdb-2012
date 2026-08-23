@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hip_hop_squares_2012",
+  "title": "Hip Hop Squares",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5767936",
+    "imdb": "tt2394427",
+    "tmdb": 44790
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 41,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

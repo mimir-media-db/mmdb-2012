@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dtla_2012",
+  "title": "DTLA",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5206240",
+    "imdb": "tt2482774",
+    "tmdb": 45651
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

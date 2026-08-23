@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_polyamory_married_dating_2012",
+  "title": "Polyamory: Married & Dating",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7226133",
+    "imdb": "tt2227610",
+    "tmdb": 59087
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 15,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_leffet_caribou_2012",
+  "title": "L'effet caribou",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6455910"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "countries": [
+    "CH"
+  ]
+}

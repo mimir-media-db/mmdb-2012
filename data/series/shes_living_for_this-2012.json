@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_shes_living_for_this_2012",
+  "title": "She's Living for This",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7491827",
+    "imdb": "tt2272627",
+    "tmdb": 45006
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

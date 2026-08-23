@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_saving_hope_2012",
+  "title": "Saving Hope",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2699900",
+    "imdb": "tt1954804",
+    "tmdb": 43097
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 85,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

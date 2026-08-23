@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_gavin_newsom_show_2012",
+  "title": "The Gavin Newsom Show",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7735971"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

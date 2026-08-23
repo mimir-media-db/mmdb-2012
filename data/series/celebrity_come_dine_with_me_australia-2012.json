@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_come_dine_with_me_australia_2012",
+  "title": "Celebrity Come Dine With Me Australia",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q24037424"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

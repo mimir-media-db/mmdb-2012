@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_encounters_2012",
+  "title": "Haunted Encounters",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5682638",
+    "imdb": "tt2537330",
+    "tmdb": 56921
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

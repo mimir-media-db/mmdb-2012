@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_baggage_battles_2012",
+  "title": "Baggage battles",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15031103",
+    "imdb": "tt2128828",
+    "tmdb": 55365
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 57,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

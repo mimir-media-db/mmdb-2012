@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kathy_2012",
+  "title": "Kathy",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6377169",
+    "imdb": "tt2176575",
+    "tmdb": 45408
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

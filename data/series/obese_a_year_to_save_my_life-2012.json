@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_obese_a_year_to_save_my_life_2012",
+  "title": "Obese: A Year to Save My Life",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7074842"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

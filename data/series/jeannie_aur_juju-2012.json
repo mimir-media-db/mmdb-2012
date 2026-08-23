@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jeannie_aur_juju_2012",
+  "title": "Jeannie Aur Juju",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6172318",
+    "imdb": "tt2504274"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 417,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

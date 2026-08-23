@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dokter_tinus_2012",
+  "title": "Dokter Tinus",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2603876",
+    "imdb": "tt2365936",
+    "tmdb": 52028
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

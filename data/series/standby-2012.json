@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_standby_2012",
+  "title": "Standby",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q487371",
+    "imdb": "tt5890956",
+    "tmdb": 44553
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 120,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

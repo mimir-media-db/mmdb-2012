@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mothers_son_2012",
+  "title": "A Mother’s Son",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q20311456",
+    "imdb": "tt2404029",
+    "tmdb": 61574
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

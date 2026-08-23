@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_eve_dusen_yldrm_2012",
+  "title": "Eve Düşen Yıldırım",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6743346",
+    "imdb": "tt2372907",
+    "tmdb": 48732
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 22,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_common_law_2012",
+  "title": "Common Law",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q592800",
+    "imdb": "tt1771072",
+    "tmdb": 37702
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_what_is_love_2012",
+  "title": "What Is Love",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15897651",
+    "imdb": "tt3241218",
+    "tmdb": 57168
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

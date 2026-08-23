@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_keith_lemons_lemonaid_2012",
+  "title": "Keith Lemon's LemonAid",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6384644",
+    "imdb": "tt2145734"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

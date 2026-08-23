@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_here_comes_mr_oh_2012",
+  "title": "Here Comes Mr. Oh",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q27100",
+    "imdb": "tt5618336",
+    "tmdb": 55777
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 129,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ohlala_couple_2012",
+  "title": "Ohlala Couple",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q491994",
+    "imdb": "tt3310748",
+    "tmdb": 46541
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

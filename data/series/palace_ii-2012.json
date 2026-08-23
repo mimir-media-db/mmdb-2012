@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_palace_ii_2012",
+  "title": "Palace II",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7126182",
+    "imdb": "tt2475058",
+    "tmdb": 215026
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 35,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_shaun_micallefs_mad_as_hell_2012",
+  "title": "Shaun Micallef's Mad as Hell",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7490919",
+    "imdb": "tt2155043",
+    "tmdb": 44982
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 72,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

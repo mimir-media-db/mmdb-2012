@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_nuer_mek_2_2012",
+  "title": "Nuer Mek 2",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6667524"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

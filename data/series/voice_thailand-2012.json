@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_thailand_2012",
+  "title": "The Voice Thailand",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6900339",
+    "imdb": "tt6166216",
+    "tmdb": 50540
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "total_episodes": 45,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

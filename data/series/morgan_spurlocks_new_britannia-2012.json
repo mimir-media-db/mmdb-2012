@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_morgan_spurlocks_new_britannia_2012",
+  "title": "Morgan Spurlock's New Britannia",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6911842",
+    "imdb": "tt3041354"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

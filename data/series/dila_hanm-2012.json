@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dila_hanm_2012",
+  "title": "Dila Hanım",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6064721",
+    "imdb": "tt2544156",
+    "tmdb": 49887
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 62,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

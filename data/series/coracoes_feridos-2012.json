@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_coracoes_feridos_2012",
+  "title": "Corações Feridos",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2997023",
+    "imdb": "tt2382271",
+    "tmdb": 46245
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 103,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_los_heroes_del_norte_2012",
+  "title": "Los héroes del norte",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5980946",
+    "imdb": "tt1750695",
+    "tmdb": 54583
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 52,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

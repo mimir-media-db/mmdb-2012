@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_arrow_2012",
+  "title": "Arrow",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q552314",
+    "imdb": "tt2193021",
+    "tmdb": 1412
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 170,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

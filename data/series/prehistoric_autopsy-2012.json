@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_prehistoric_autopsy_2012",
+  "title": "Prehistoric Autopsy",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q29378781",
+    "imdb": "tt2507240",
+    "tmdb": 55547
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

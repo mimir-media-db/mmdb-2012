@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_emily_owens_2012",
+  "title": "Emily Owens",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q197897",
+    "imdb": "tt2290339",
+    "tmdb": 45298
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

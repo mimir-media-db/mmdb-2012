@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_food_factory_2012",
+  "title": "Food Factory",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16965659",
+    "imdb": "tt2558662",
+    "tmdb": 76234
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 66,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

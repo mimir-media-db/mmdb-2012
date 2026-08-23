@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_veda_2012",
+  "title": "Veda",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q21527280",
+    "imdb": "tt6369494",
+    "tmdb": 52648
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jkt48_school_2012",
+  "title": "JKT48 School",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12124071"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "countries": [
+    "ID"
+  ]
+}

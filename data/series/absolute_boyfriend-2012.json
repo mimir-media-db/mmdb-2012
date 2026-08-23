@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_absolute_boyfriend_2012",
+  "title": "Absolute Boyfriend",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4669768",
+    "imdb": "tt1943326",
+    "tmdb": 40477
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_battleground_2012",
+  "title": "Battleground",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4873142",
+    "imdb": "tt2187319",
+    "tmdb": 57283
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

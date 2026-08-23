@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_darwinners_2012",
+  "title": "The Darwinners",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16676824",
+    "imdb": "tt2369880",
+    "tmdb": 78750
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 180,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

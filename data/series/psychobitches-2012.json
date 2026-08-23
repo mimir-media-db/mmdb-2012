@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_psychobitches_2012",
+  "title": "Psychobitches",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q19650486",
+    "imdb": "tt2173798"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

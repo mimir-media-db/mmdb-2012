@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_mornings_2012",
+  "title": "Mornings",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6912947"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

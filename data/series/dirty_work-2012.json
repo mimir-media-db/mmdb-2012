@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dirty_work_2012",
+  "title": "Dirty Work",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5281125",
+    "imdb": "tt2331613",
+    "tmdb": 43597
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Short"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

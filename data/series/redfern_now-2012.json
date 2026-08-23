@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_redfern_now_2012",
+  "title": "Redfern Now",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7305830",
+    "imdb": "tt2274800",
+    "tmdb": 46402
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

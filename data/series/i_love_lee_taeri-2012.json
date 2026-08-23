@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_lee_taeri_2012",
+  "title": "I Love Lee Tae-ri",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q497780",
+    "tmdb": 203426
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "fiction television program",
+    "romantic comedy television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_andrew_marrs_history_of_the_world_2012",
+  "title": "Andrew Marr's History of the World",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4757880",
+    "imdb": "tt2441214",
+    "tmdb": 59544
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

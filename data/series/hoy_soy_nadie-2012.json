@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_hoy_soy_nadie_2012",
+  "title": "Hoy soy nadie",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5903684",
+    "imdb": "tt2198886"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": []
+}

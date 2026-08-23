@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_3rd_hospital_2012",
+  "title": "The 3rd Hospital",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492030",
+    "imdb": "tt2182614",
+    "tmdb": 46552
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}
