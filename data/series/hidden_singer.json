@@ -9,6 +9,12 @@
     "imdb": "tt6953932",
     "tmdb": 72993
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 4
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Game-Show",
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

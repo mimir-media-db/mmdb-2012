@@ -8,5 +8,9 @@
     "wikidata": "Q5099110",
     "imdb": "tt2078567"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false
 }

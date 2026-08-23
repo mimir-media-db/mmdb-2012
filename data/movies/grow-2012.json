@@ -9,6 +9,10 @@
     "imdb": "tt29274707",
     "tmdb": 892248
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-01-01",
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false
 }

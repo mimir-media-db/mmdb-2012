@@ -9,6 +9,10 @@
     "imdb": "tt3961690",
     "tmdb": 716447
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-08-02"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-08-02",
+  "genres": [
+    "War"
+  ],
+  "is_adult": false
 }

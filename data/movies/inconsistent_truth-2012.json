@@ -9,6 +9,12 @@
     "imdb": "tt1806777",
     "tmdb": 87828
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-01-27"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-01-27",
+  "genres": [
+    "Adventure",
+    "Documentary",
+    "News"
+  ],
+  "is_adult": false
 }

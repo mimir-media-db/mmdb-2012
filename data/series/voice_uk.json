@@ -9,7 +9,13 @@
     "imdb": "tt1971245",
     "tmdb": 39614
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 77
+  "total_episodes": 77,
+  "genres": [
+    "Documentary",
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false
 }

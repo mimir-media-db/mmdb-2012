@@ -9,7 +9,13 @@
     "imdb": "tt1653911",
     "tmdb": 62116
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-05-31",
-  "runtime_minutes": 120
+  "runtime_minutes": 120,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false
 }

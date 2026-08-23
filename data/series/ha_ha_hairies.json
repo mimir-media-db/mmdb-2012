@@ -8,6 +8,10 @@
     "wikidata": "Q2031857",
     "imdb": "tt2084357"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 52
+  "last_updated": "2026-08-23",
+  "total_episodes": 52,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false
 }

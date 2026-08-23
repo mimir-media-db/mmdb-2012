@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q21646962"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-03-30"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-03-30",
+  "genres": [
+    "Noir"
+  ],
+  "is_adult": false
 }

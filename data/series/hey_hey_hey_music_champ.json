@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q1139547"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 745
+  "last_updated": "2026-08-23",
+  "total_episodes": 745,
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false
 }

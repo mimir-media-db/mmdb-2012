@@ -9,7 +9,13 @@
     "imdb": "tt2388399",
     "tmdb": 43240
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 3
+  "total_episodes": 3,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "War"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,11 @@
     "imdb": "tt2188753",
     "tmdb": 121562
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-07-26",
-  "runtime_minutes": 84
+  "runtime_minutes": 84,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false
 }

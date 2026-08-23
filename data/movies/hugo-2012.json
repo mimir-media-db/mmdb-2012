@@ -9,7 +9,13 @@
     "imdb": "tt0970179",
     "tmdb": 44826
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-02-09",
-  "runtime_minutes": 126
+  "runtime_minutes": 126,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false
 }

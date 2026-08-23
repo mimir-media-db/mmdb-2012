@@ -8,7 +8,13 @@
     "wikidata": "Q55717342",
     "imdb": "tt2904862"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-01-01",
-  "runtime_minutes": 6
+  "runtime_minutes": 6,
+  "genres": [
+    "Animation",
+    "Family",
+    "History"
+  ],
+  "is_adult": false
 }

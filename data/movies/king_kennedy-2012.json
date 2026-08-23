@@ -8,6 +8,12 @@
     "wikidata": "Q6411787",
     "imdb": "tt1587686"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-01-01",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false
 }

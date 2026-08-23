@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q7645218"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 30
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false
 }

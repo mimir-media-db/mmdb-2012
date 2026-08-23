@@ -8,6 +8,10 @@
     "wikidata": "Q4261412",
     "tmdb": 120473
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 10
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false
 }

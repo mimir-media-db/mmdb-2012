@@ -9,6 +9,11 @@
     "imdb": "tt2125653",
     "tmdb": 84284
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-01-21"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-01-21",
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false
 }

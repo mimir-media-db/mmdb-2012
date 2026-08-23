@@ -9,6 +9,12 @@
     "imdb": "tt11502658",
     "tmdb": 173237
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-08-10"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-08-10",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false
 }

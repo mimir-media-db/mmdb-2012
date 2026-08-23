@@ -8,6 +8,10 @@
     "wikidata": "Q10853549",
     "imdb": "tt6547060"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 4
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

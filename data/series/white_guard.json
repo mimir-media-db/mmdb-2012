@@ -9,7 +9,12 @@
     "imdb": "tt2301120",
     "tmdb": 44527
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 8
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

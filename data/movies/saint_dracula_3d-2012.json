@@ -9,6 +9,12 @@
     "imdb": "tt2184267",
     "tmdb": 149233
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-11-23"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-11-23",
+  "genres": [
+    "Horror",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false
 }

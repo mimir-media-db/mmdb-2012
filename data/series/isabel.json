@@ -9,7 +9,12 @@
     "imdb": "tt2011533",
     "tmdb": 42276
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 39
+  "total_episodes": 39,
+  "genres": [
+    "Biography",
+    "History"
+  ],
+  "is_adult": false
 }

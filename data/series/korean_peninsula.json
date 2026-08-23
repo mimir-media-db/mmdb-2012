@@ -8,6 +8,10 @@
     "wikidata": "Q492559",
     "tmdb": 44405
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 18
+  "last_updated": "2026-08-23",
+  "total_episodes": 18,
+  "genres": [
+    "political drama"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,11 @@
     "imdb": "tt2214751",
     "tmdb": 114587
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-07-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-07-01",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

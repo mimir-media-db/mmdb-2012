@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q18715526"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 17
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "Documentary",
+    "pseudoscience"
+  ],
+  "is_adult": false
 }
