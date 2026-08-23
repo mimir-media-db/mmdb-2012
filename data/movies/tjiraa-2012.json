@@ -8,7 +8,12 @@
     "wikidata": "Q58950315",
     "imdb": "tt6944016"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-06-05",
-  "runtime_minutes": 12
+  "runtime_minutes": 12,
+  "genres": [
+    "Drama",
+    "Short"
+  ],
+  "is_adult": false
 }

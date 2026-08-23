@@ -9,6 +9,12 @@
     "imdb": "tt1979172",
     "tmdb": 110392
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-09-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-09-08",
+  "genres": [
+    "Animation",
+    "Biography",
+    "Comedy"
+  ],
+  "is_adult": false
 }

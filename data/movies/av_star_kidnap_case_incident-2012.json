@@ -8,7 +8,12 @@
     "wikidata": "Q93431355",
     "tmdb": 466725
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-11-22",
-  "runtime_minutes": 68
+  "runtime_minutes": 68,
+  "genres": [
+    "Musical",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }

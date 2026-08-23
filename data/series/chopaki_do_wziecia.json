@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q11690507"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 11,
-  "total_episodes": 132
+  "total_episodes": 132,
+  "genres": [
+    "docu-soap"
+  ],
+  "is_adult": false
 }

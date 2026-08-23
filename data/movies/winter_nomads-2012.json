@@ -9,7 +9,12 @@
     "imdb": "tt2215113",
     "tmdb": 99879
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-02-10",
-  "runtime_minutes": 89
+  "runtime_minutes": 89,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

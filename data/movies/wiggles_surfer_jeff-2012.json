@@ -9,6 +9,11 @@
     "imdb": "tt2245778",
     "tmdb": 134749
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-06-21"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-06-21",
+  "genres": [
+    "Family",
+    "Music"
+  ],
+  "is_adult": false
 }

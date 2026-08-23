@@ -8,6 +8,11 @@
     "wikidata": "Q874105",
     "tmdb": 45575
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 1
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Japanese television drama",
+    "drama television series"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,11 @@
     "imdb": "tt2581940",
     "tmdb": 87944
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 85
+  "total_episodes": 85,
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false
 }

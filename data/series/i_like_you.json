@@ -8,6 +8,10 @@
     "wikidata": "Q6838412",
     "tmdb": 252825
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 117
+  "last_updated": "2026-08-23",
+  "total_episodes": 117,
+  "genres": [
+    "romance television series"
+  ],
+  "is_adult": false
 }

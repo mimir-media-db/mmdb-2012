@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q10319888"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 43
+  "total_episodes": 43,
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false
 }

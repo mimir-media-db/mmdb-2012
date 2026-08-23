@@ -7,6 +7,13 @@
   "external_ids": {
     "wikidata": "Q65208537"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 231
+  "last_updated": "2026-08-23",
+  "total_episodes": 231,
+  "genres": [
+    "Drama",
+    "Spy",
+    "teen film",
+    "television serial"
+  ],
+  "is_adult": false
 }

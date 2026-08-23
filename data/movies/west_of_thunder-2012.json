@@ -9,6 +9,12 @@
     "imdb": "tt2378585",
     "tmdb": 276985
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-01-01",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Western"
+  ],
+  "is_adult": false
 }

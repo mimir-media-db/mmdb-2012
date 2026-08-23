@@ -8,6 +8,10 @@
     "wikidata": "Q2602635",
     "imdb": "tt2243101"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 7
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

@@ -7,6 +7,14 @@
   "external_ids": {
     "wikidata": "Q132153342"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 34
+  "last_updated": "2026-08-23",
+  "total_episodes": 34,
+  "genres": [
+    "fiction",
+    "action television series",
+    "drama television series",
+    "adventure television series",
+    "fantasy television series"
+  ],
+  "is_adult": false
 }

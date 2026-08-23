@@ -8,7 +8,12 @@
     "wikidata": "Q1210690",
     "imdb": "tt2372247"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-01-01",
-  "runtime_minutes": 62
+  "runtime_minutes": 62,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

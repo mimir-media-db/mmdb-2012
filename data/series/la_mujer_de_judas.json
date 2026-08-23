@@ -9,6 +9,11 @@
     "imdb": "tt2227827",
     "tmdb": 41909
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 165
+  "last_updated": "2026-08-23",
+  "total_episodes": 165,
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false
 }

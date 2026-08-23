@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q104554660"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 4,
-  "total_episodes": 29
+  "total_episodes": 29,
+  "genres": [
+    "Documentary",
+    "interview"
+  ],
+  "is_adult": false
 }

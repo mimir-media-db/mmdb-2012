@@ -8,6 +8,12 @@
     "wikidata": "Q60650045",
     "imdb": "tt2176138"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-02-04"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-02-04",
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false
 }

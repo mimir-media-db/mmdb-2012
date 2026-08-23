@@ -9,7 +9,13 @@
     "imdb": "tt2253939",
     "tmdb": 135281
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-05-25",
-  "runtime_minutes": 115
+  "runtime_minutes": 115,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,12 @@
     "imdb": "tt13853586",
     "tmdb": 356196
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-03-02"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-03-02",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false
 }

@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q20311191"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 343
+  "total_episodes": 343,
+  "genres": [
+    "Tamil television soap opera"
+  ],
+  "is_adult": false
 }

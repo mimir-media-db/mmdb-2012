@@ -8,6 +8,12 @@
     "wikidata": "Q15723924",
     "imdb": "tt2271427"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-02-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-02-17",
+  "genres": [
+    "Action",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false
 }

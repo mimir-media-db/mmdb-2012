@@ -9,7 +9,13 @@
     "imdb": "tt2850814",
     "tmdb": 251633
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-01-01",
-  "runtime_minutes": 14
+  "runtime_minutes": 14,
+  "genres": [
+    "Animation",
+    "Biography",
+    "Short"
+  ],
+  "is_adult": false
 }

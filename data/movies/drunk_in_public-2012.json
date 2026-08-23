@@ -9,6 +9,12 @@
     "imdb": "tt1419769",
     "tmdb": 95373
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-06-27"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-06-27",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false
 }

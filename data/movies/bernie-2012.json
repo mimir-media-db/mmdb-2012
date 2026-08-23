@@ -9,7 +9,13 @@
     "imdb": "tt1704573",
     "tmdb": 92591
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2012-12-13",
-  "runtime_minutes": 104
+  "runtime_minutes": 104,
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,12 @@
     "imdb": "tt3236578",
     "tmdb": 158656
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2012-04-19"
+  "last_updated": "2026-08-23",
+  "release_date": "2012-04-19",
+  "genres": [
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "is_adult": false
 }

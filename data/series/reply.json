@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q16174026"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 57
+  "total_episodes": 57,
+  "genres": [
+    "coming-of-age television program"
+  ],
+  "is_adult": false
 }

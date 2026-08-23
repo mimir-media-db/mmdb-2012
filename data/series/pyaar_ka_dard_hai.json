@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q7262819"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 663
+  "last_updated": "2026-08-23",
+  "total_episodes": 663,
+  "genres": [
+    "Indian soap opera"
+  ],
+  "is_adult": false
 }
