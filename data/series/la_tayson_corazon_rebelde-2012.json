@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_tayson_corazon_rebelde_2012",
+  "title": "La Tayson, corazón rebelde",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5965294",
+    "imdb": "tt5205196"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 138,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dancin_days_2012",
+  "title": "Dancin' Days",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5215438",
+    "imdb": "tt2043558"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 341,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

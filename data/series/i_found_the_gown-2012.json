@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_i_found_the_gown_2012",
+  "title": "I Found The Gown",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16996283"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 22,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

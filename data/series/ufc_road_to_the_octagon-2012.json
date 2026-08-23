@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_ufc_road_to_the_octagon_2012",
+  "title": "UFC: Road to the Octagon",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61709782",
+    "imdb": "tt3876830"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": []
+}

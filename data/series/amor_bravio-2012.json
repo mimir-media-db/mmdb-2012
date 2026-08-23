@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_bravio_2012",
+  "title": "Amor Bravío",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q281695",
+    "imdb": "tt2266983",
+    "tmdb": 42029
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 166,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

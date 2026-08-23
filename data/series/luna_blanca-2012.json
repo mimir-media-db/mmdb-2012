@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_luna_blanca_2012",
+  "title": "Luna Blanca",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12967433",
+    "imdb": "tt6867382",
+    "tmdb": 222647
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 115,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

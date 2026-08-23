@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_paula_und_die_wilden_tiere_2012",
+  "title": "Paula und die wilden Tiere",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20439895",
+    "imdb": "tt2366224",
+    "tmdb": 80912
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 54,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

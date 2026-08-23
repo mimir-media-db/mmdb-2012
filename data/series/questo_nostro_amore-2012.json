@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_questo_nostro_amore_2012",
+  "title": "Questo nostro amore",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3927783",
+    "imdb": "tt2550156",
+    "tmdb": 88849
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 36,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

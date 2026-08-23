@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_citizen_khan_2012",
+  "title": "Citizen Khan",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5122563",
+    "imdb": "tt2334302",
+    "tmdb": 58552
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 34,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

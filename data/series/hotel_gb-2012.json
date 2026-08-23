@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_gb_2012",
+  "title": "Hotel GB",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5911507"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "countries": [
+    "GB"
+  ]
+}

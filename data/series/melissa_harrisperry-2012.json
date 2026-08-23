@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_melissa_harrisperry_2012",
+  "title": "Melissa Harris-Perry",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6812722"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "current affairs"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

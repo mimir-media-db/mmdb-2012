@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_uuden_musiikin_kilpailu_2012",
+  "title": "Uuden Musiikin Kilpailu",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4261412",
+    "tmdb": 120473
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

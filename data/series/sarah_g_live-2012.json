@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah_g_live_2012",
+  "title": "Sarah G. Live",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7422321",
+    "imdb": "tt2270721",
+    "tmdb": 44782
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 51,
+  "genres": [
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

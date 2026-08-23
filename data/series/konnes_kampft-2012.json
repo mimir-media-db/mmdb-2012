@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_konnes_kampft_2012",
+  "title": "Könnes kämpft",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116972250",
+    "imdb": "tt2513210"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "total_episodes": 54,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

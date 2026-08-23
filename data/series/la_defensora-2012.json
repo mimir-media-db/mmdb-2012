@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_defensora_2012",
+  "title": "La defensora",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5966461",
+    "imdb": "tt2153058"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

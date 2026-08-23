@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_vancouver_2012",
+  "title": "The Real Housewives of Vancouver",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7759598",
+    "imdb": "tt2330453",
+    "tmdb": 59556
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 25,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

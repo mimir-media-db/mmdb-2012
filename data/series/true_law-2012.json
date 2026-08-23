@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_true_law_2012",
+  "title": "True Law",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7847444",
+    "imdb": "tt2245989",
+    "tmdb": 48160
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "total_episodes": 93,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

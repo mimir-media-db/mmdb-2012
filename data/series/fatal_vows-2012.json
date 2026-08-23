@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fatal_vows_2012",
+  "title": "Fatal Vows",
+  "start_year": 2012,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q15036105",
+    "imdb": "tt2505330",
+    "tmdb": 59679
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

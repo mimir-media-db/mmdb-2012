@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hongey_judaa_na_hum_2012",
+  "title": "Hongey Judaa Na Hum",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17042343",
+    "imdb": "tt2592792",
+    "tmdb": 68204
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 107,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_avenida_brasil_2012",
+  "title": "Avenida Brasil",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q790457",
+    "imdb": "tt2303077",
+    "tmdb": 45815
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 179,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

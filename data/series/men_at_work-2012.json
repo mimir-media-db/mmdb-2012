@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_men_at_work_2012",
+  "title": "Men at Work",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3305666",
+    "imdb": "tt1942919",
+    "tmdb": 42548
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_nagoya_iki_saishu_ressha_2012",
+  "title": "Nagoya Iki Saishū Ressha",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11415248"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

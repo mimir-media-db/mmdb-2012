@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_pare_pare_2012",
+  "title": "Pare & Pare",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7136612",
+    "tmdb": 44076
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "countries": [
+    "PH"
+  ]
+}

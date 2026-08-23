@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_putih_abuabu_2012",
+  "title": "Putih Abu-Abu",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q65208537"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 231,
+  "genres": [
+    "Drama",
+    "Spy",
+    "teen film",
+    "television serial"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

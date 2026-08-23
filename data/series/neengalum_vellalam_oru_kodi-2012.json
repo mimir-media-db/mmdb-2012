@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_neengalum_vellalam_oru_kodi_2012",
+  "title": "Neengalum Vellalam Oru Kodi",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3473072",
+    "imdb": "tt5000212"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

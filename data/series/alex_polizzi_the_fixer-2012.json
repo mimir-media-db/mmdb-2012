@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_alex_polizzi_the_fixer_2012",
+  "title": "Alex Polizzi: The Fixer",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16992219",
+    "imdb": "tt4401810",
+    "tmdb": 46822
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

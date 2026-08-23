@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_care_kori_na_2012",
+  "title": "Care Kori Na",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q18844741"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 203,
+  "countries": [
+    "IN"
+  ]
+}

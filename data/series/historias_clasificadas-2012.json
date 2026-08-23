@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_historias_clasificadas_2012",
+  "title": "Historias Clasificadas",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5900542"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

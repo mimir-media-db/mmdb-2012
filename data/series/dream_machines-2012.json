@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_machines_2012",
+  "title": "Dream Machines",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5306402",
+    "imdb": "tt2354747",
+    "tmdb": 60398
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

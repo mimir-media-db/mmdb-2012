@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_finding_stuff_out_2011",
+  "title": "Finding Stuff Out",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24037493",
+    "imdb": "tt2208501",
+    "tmdb": 47139
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 42,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FR"
+  ]
+}

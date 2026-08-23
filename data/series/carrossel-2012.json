@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_carrossel_2012",
+  "title": "Carrossel",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2940339",
+    "imdb": "tt2215338",
+    "tmdb": 46150
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 310,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_suvreen_guggal_topper_of_the_year_2012",
+  "title": "Suvreen Guggal – Topper of The Year",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7650530",
+    "imdb": "tt2360755",
+    "tmdb": 58987
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 120,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_greatest_event_in_television_history_2012",
+  "title": "The Greatest Event in Television History",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16993313",
+    "imdb": "tt2496468",
+    "tmdb": 120516
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

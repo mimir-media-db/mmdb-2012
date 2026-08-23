@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ukryta_prawda_2012",
+  "title": "Ukryta prawda",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9364644",
+    "imdb": "tt2538744"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 26,
+  "total_episodes": 1671,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

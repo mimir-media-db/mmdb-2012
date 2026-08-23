@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_deffchonki_2012",
+  "title": "Deffchonki",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4159555",
+    "imdb": "tt2354729",
+    "tmdb": 76826
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 119,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

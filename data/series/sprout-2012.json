@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sprout_2012",
+  "title": "Sprout",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3967288",
+    "imdb": "tt2427556",
+    "tmdb": 65065
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

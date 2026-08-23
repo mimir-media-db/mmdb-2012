@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_quererte_asi_2012",
+  "title": "Quererte Así",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3077159",
+    "imdb": "tt2846846",
+    "tmdb": 42335
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 80,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

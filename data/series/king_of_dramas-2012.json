@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_dramas_2012",
+  "title": "The King of Dramas",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q491771",
+    "imdb": "tt3543410",
+    "tmdb": 48469
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_miss_2012",
+  "title": "Hit & Miss",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q771307",
+    "imdb": "tt2232345",
+    "tmdb": 43603
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

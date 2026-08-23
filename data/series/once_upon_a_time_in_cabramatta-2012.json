@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_once_upon_a_time_in_cabramatta_2012",
+  "title": "Once Upon a Time in Cabramatta",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7091867"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

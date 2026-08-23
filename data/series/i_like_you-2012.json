@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_i_like_you_2012",
+  "title": "I Like You",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6838412",
+    "tmdb": 252825
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 117,
+  "genres": [
+    "romance television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

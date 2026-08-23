@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_laim_2011",
+  "title": "Laim",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105113972"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

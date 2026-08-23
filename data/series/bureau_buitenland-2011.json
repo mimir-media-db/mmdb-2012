@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bureau_buitenland_2011",
+  "title": "Bureau Buitenland",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22041619"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2248,
+  "countries": []
+}

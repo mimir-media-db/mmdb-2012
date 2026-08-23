@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_malibu_country_2012",
+  "title": "Malibu Country",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q210665",
+    "imdb": "tt2215291",
+    "tmdb": 40454
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

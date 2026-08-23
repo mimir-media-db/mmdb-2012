@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_touch_2012",
+  "title": "Touch",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q946806",
+    "imdb": "tt1821681",
+    "tmdb": 39510
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

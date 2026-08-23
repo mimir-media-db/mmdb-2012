@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_solita_camino_2012",
+  "title": "Solita camino",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6131603"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

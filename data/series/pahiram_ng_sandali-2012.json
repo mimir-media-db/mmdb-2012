@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pahiram_ng_sandali_2012",
+  "title": "Pahiram ng Sandali",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7124557",
+    "imdb": "tt3038468",
+    "tmdb": 58301
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 80,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

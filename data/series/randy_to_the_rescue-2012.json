@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_randy_to_the_rescue_2012",
+  "title": "Randy to the Rescue",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q21160924",
+    "imdb": "tt2242525",
+    "tmdb": 123269
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

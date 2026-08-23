@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_capacitados_2012",
+  "title": "Capacitados",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6403129"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 25,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

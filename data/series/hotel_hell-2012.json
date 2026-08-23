@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_hell_2012",
+  "title": "Hotel Hell",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1252173",
+    "imdb": "tt2242025",
+    "tmdb": 44472
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

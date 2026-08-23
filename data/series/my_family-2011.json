@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_family_2011",
+  "title": "My Family",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6945353"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "countries": [
+    "MY"
+  ]
+}

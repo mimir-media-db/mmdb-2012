@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_no_limit_2012",
+  "title": "No Limit",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3342420",
+    "imdb": "tt2493230",
+    "tmdb": 61373
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 22,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

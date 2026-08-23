@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_impossible_houses_alaska_2011",
+  "title": "Impossible houses: Alaska",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q100146279",
+    "imdb": "tt2428042",
+    "tmdb": 55550
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

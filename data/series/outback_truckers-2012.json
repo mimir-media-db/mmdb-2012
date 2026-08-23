@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_outback_truckers_2012",
+  "title": "Outback Truckers",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7111868",
+    "imdb": "tt4345548",
+    "tmdb": 59124
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 9,
+  "total_episodes": 109,
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

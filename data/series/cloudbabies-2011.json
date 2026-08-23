@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cloudbabies_2011",
+  "title": "Cloudbabies",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11690048",
+    "imdb": "tt8016268",
+    "tmdb": 55371
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 52,
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_aklassen_2011",
+  "title": "A-klassen",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q12300011",
+    "imdb": "tt2328935",
+    "tmdb": 72859
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

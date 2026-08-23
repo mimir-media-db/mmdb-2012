@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_can_love_become_money_2012",
+  "title": "Can Love Become Money?",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6798786",
+    "imdb": "tt3375742",
+    "tmdb": 46529
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

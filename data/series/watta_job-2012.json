@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_watta_job_2012",
+  "title": "Watta Job",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7974922",
+    "imdb": "tt3336856",
+    "tmdb": 58458
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Adventure"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

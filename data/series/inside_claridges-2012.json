@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_claridges_2012",
+  "title": "Inside Claridge's",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15109312",
+    "imdb": "tt3462282",
+    "tmdb": 55614
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

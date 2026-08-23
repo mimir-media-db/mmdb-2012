@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_untold_history_of_the_united_states_2012",
+  "title": "The Untold History of the United States",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3558962",
+    "imdb": "tt1494191",
+    "tmdb": 46353
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

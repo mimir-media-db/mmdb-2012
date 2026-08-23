@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_gcb_2012",
+  "title": "GCB",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q930470",
+    "imdb": "tt1727387",
+    "tmdb": 39302
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

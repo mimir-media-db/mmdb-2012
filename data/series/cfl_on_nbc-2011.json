@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cfl_on_nbc_2011",
+  "title": "CFL on NBC",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5010694"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

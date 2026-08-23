@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_old_dogs_new_tricks_2011",
+  "title": "Old Dogs & New Tricks",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20926354",
+    "imdb": "tt1967679",
+    "tmdb": 29445
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

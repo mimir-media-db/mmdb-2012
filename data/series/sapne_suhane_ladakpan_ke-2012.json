@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sapne_suhane_ladakpan_ke_2012",
+  "title": "Sapne Suhane Ladakpan Ke",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7420996",
+    "imdb": "tt3294496",
+    "tmdb": 57372
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 707,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

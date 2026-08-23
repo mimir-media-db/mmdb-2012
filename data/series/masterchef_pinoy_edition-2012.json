@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_pinoy_edition_2012",
+  "title": "MasterChef Pinoy Edition",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17078403",
+    "imdb": "tt2506750",
+    "tmdb": 40466
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 62,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

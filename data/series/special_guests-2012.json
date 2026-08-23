@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_special_guests_2012",
+  "title": "The Special Guests",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56358921",
+    "imdb": "tt21943306"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

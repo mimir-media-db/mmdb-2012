@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_hazasodna_a_gazda_2012",
+  "title": "Házasodna a gazda",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1057237",
+    "imdb": "tt10447038",
+    "tmdb": 111903
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

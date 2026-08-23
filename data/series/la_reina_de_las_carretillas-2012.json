@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_la_reina_de_las_carretillas_2012",
+  "title": "La reina de las carretillas",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5967983"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "miniseries"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

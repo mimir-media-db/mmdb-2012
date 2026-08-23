@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_madison_high_2011",
+  "title": "Madison High",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3077169",
+    "imdb": "tt1838593"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Family",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

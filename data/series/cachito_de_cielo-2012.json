@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_cachito_de_cielo_2012",
+  "title": "Cachito de Cielo",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1247595",
+    "imdb": "tt2169408",
+    "tmdb": 54613
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 110,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_walang_hanggan_2012",
+  "title": "Walang Hanggan",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7878699",
+    "imdb": "tt2177347",
+    "tmdb": 41706
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 203,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

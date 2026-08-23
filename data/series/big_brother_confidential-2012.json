@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_confidential_2012",
+  "title": "Big Brother Confidential",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4905349"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

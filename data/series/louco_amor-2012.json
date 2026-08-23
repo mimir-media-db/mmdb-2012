@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_louco_amor_2012",
+  "title": "Louco Amor",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6685883"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 271,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

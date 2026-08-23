@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_childless_comfort_2012",
+  "title": "Childless Comfort",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q56808",
+    "imdb": "tt6357272",
+    "tmdb": 50237
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

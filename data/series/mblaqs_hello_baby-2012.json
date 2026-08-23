@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_mblaqs_hello_baby_2012",
+  "title": "MBLAQ's Hello Baby",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6714725"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

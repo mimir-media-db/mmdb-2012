@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bs1_special_2012",
+  "title": "BS1 Special",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22123282",
+    "tmdb": 155205
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "JP"
+  ]
+}

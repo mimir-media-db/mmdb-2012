@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_sjit_happens_2011",
+  "title": "Sjit Happens",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16324441",
+    "imdb": "tt2382978",
+    "tmdb": 51000
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

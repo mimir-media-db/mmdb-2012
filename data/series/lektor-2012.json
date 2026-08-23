@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_lektor_2012",
+  "title": "Lektor",
+  "start_year": 2012,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4257689",
+    "imdb": "tt1687471",
+    "tmdb": 100610
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

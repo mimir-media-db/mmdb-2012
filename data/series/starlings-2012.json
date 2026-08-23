@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_starlings_2012",
+  "title": "Starlings",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7602098",
+    "imdb": "tt2156187",
+    "tmdb": 43192
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

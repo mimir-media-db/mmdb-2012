@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_teen_gen_2012",
+  "title": "Teen Gen",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7694297",
+    "imdb": "tt3038496",
+    "tmdb": 46951
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 28,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

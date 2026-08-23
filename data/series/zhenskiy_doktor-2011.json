@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_zhenskiy_doktor_2011",
+  "title": "Zhenskiy doktor",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56356832",
+    "imdb": "tt3077312",
+    "tmdb": 120748
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "UA"
+  ]
+}

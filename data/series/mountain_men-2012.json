@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mountain_men_2012",
+  "title": "Mountain Men",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6925118",
+    "imdb": "tt2202488",
+    "tmdb": 60381
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 55,
+  "genres": [
+    "Reality-TV",
+    "Western"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

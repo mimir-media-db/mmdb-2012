@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_yesterdays_bride_2012",
+  "title": "Yesterday's Bride",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8052942",
+    "imdb": "tt2912190",
+    "tmdb": 222429
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 85,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

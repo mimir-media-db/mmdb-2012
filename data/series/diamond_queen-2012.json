@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_diamond_queen_2012",
+  "title": "The Diamond Queen",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7730084",
+    "imdb": "tt2205653",
+    "tmdb": 44957
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

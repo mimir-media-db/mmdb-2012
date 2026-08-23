@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_maldita_2012",
+  "title": "Maldita",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q375757",
+    "imdb": "tt2403253",
+    "tmdb": 106101
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 42,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

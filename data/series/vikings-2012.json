@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vikings_2012",
+  "title": "Vikings",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7929505",
+    "imdb": "tt2455488",
+    "tmdb": 61856
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

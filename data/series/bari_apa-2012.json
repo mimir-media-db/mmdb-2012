@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_bari_apa_2012",
+  "title": "Bari Apa",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16838063",
+    "imdb": "tt10441736"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

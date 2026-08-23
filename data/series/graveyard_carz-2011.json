@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_graveyard_carz_2011",
+  "title": "Graveyard Carz",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16994408",
+    "imdb": "tt2078994",
+    "tmdb": 46791
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 14,
+  "total_episodes": 175,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

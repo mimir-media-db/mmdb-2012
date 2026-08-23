@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_gt_2012",
+  "title": "G&T",
+  "start_year": 2012,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18730643",
+    "imdb": "tt3620802",
+    "tmdb": 241520
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 27,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

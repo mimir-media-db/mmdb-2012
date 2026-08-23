@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_2012",
+  "title": "X Factor",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q8042709",
+    "imdb": "tt2566354"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 66,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AL"
+  ]
+}

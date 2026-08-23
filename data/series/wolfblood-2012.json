@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_wolfblood_2012",
+  "title": "Wolfblood",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q8029963",
+    "imdb": "tt2321596",
+    "tmdb": 58956
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 61,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

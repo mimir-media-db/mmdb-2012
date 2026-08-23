@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_siii_2012",
+  "title": "SIII",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11572164"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Jidaigeki"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

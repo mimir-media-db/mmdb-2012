@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dahil_sa_pagibig_2012",
+  "title": "Dahil Sa Pag-ibig",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5208804",
+    "imdb": "tt2291053",
+    "tmdb": 41585
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 78,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

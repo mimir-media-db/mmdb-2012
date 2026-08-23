@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_blackout_2012",
+  "title": "Blackout",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3661023",
+    "imdb": "tt2326983",
+    "tmdb": 44140
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

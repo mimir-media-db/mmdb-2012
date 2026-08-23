@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_breakaway_2012",
+  "title": "Breakaway",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4959381"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 40,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

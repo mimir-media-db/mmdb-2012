@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mere_et_fille_2012",
+  "title": "Mère et Fille",
+  "start_year": 2012,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3332076",
+    "imdb": "tt2956164",
+    "tmdb": 67376
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 104,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

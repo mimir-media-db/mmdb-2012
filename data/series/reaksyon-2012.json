@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reaksyon_2012",
+  "title": "Reaksyon",
+  "start_year": 2012,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17086643"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PH"
+  ]
+}

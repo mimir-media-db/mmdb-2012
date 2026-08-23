@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_excess_baggage_2012",
+  "title": "Excess Baggage",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5419528"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 33,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

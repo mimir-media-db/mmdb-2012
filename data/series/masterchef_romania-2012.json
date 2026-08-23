@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_romania_2012",
+  "title": "MasterChef România",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6784965"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RO"
+  ]
+}

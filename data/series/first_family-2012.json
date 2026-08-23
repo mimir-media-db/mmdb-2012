@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_first_family_2012",
+  "title": "The First Family",
+  "start_year": 2012,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7734125",
+    "imdb": "tt2330327",
+    "tmdb": 59542
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 36,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

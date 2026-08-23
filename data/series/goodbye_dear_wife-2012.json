@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_goodbye_dear_wife_2012",
+  "title": "Goodbye Dear Wife",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q493045",
+    "imdb": "tt2508520",
+    "tmdb": 44656
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

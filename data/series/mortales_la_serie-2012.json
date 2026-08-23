@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mortales_la_serie_2012",
+  "title": "Mortales la serie",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20926344"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "DO"
+  ]
+}

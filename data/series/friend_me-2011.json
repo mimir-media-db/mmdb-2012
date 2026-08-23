@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_friend_me_2011",
+  "title": "Friend Me",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1525054",
+    "imdb": "tt2300909",
+    "tmdb": 43222
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

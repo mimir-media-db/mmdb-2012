@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_united_stats_of_america_2012",
+  "title": "United Stats of America",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7893565",
+    "imdb": "tt2167569",
+    "tmdb": 42798
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

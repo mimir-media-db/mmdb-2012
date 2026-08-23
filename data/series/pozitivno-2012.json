@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pozitivno_2012",
+  "title": "Pozitivno",
+  "start_year": 2012,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138585844"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "HR"
+  ]
+}

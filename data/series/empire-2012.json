@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_empire_2012",
+  "title": "Empire",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5374009",
+    "imdb": "tt1996620",
+    "tmdb": 61010
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

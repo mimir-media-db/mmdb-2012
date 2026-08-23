@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_vertige_2012",
+  "title": "Vertige",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q60852980",
+    "imdb": "tt2287307",
+    "tmdb": 87258
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

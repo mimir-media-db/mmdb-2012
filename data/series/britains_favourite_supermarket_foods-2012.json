@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_britains_favourite_supermarket_foods_2012",
+  "title": "Britain's Favourite Supermarket Foods",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16966902"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "countries": [
+    "GB"
+  ]
+}

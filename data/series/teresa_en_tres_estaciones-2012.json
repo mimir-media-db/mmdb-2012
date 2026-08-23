@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_teresa_en_tres_estaciones_2012",
+  "title": "Teresa en tres estaciones",
+  "start_year": 2012,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6142639"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": []
+}

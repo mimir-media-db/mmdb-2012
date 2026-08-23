@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_woodley_2012",
+  "title": "Woodley",
+  "start_year": 2012,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6168223",
+    "imdb": "tt1820357",
+    "tmdb": 39099
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}
