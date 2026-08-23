@@ -12,5 +12,8 @@
   "genres": [
     "magazine format program"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
 }

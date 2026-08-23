@@ -16,5 +16,9 @@
     "Action",
     "Animation"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "IS",
+    "US"
+  ]
 }

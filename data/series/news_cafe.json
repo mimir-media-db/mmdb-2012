@@ -7,6 +7,9 @@
   "external_ids": {
     "wikidata": "Q18353123"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 114
+  "last_updated": "2026-08-23",
+  "total_episodes": 114,
+  "countries": [
+    "PH"
+  ]
 }

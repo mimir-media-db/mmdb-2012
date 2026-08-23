@@ -14,5 +14,9 @@
     "Mystery",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "RU",
+    "UA"
+  ]
 }

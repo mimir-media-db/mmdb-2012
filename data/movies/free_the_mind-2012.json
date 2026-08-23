@@ -16,5 +16,11 @@
     "Adventure",
     "Documentary"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "DK",
+    "FI",
+    "SE"
+  ]
 }

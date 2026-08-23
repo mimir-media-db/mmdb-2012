@@ -17,5 +17,14 @@
     "Mystery",
     "Sci-Fi"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN",
+    "DE",
+    "ES",
+    "GB",
+    "HK",
+    "SG",
+    "US"
+  ]
 }

@@ -14,5 +14,8 @@
     "fiction television program",
     "romantic comedy television program"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
 }

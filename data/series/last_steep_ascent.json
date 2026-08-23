@@ -14,5 +14,8 @@
     "drama television series",
     "historical drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
 }

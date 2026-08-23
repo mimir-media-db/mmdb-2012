@@ -16,5 +16,10 @@
     "Music",
     "War"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "DE",
+    "RO"
+  ]
 }
