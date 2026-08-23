@@ -13,5 +13,8 @@
   "genres": [
     "coming-of-age television program"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
 }

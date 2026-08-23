@@ -17,5 +17,12 @@
     "Drama",
     "History"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "HR",
+    "ME",
+    "MK",
+    "RS",
+    "SI"
+  ]
 }

@@ -17,5 +17,13 @@
     "Biography",
     "Documentary"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "CH",
+    "CL",
+    "CN",
+    "DE",
+    "RU"
+  ]
 }

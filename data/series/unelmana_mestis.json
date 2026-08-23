@@ -14,5 +14,8 @@
     "reality television",
     "sports documentary"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
 }
